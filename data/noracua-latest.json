@@ -1,5 +1,5 @@
 {
-  "fecha": "2026-06-01T16:01:49.123Z",
+  "fecha": "2026-06-01T18:01:27.953Z",
   "version": "2.6",
   "datos": {
     "na-v20-proyectos": [
@@ -6042,6 +6042,144 @@
         "conceptoCliente": "",
         "formaPago": "Según contrato",
         "id": "cl1780068226069"
+      }
+    ],
+    "na-v20-trabajadores": [
+      "Jordi Santos",
+      "Yennyfer Lemus",
+      "Daniel Romero",
+      "Ignacio López"
+    ],
+    "na-v20-responsables": [
+      {
+        "nombre": "Concepción Gutierrez",
+        "sexo": "F"
+      },
+      {
+        "nombre": "Daniel Romero",
+        "sexo": "M"
+      },
+      {
+        "nombre": "Josep Seijo",
+        "sexo": "M"
+      },
+      {
+        "nombre": "Raquel Martínez",
+        "sexo": "F"
+      },
+      {
+        "nombre": "Eduardo González",
+        "sexo": "M"
+      },
+      {
+        "nombre": "Carmen de Antonio",
+        "sexo": "F"
+      },
+      {
+        "nombre": "José Ramón Rivero",
+        "sexo": "M"
+      },
+      {
+        "nombre": "Rubén Vigaray",
+        "sexo": "M"
+      },
+      {
+        "nombre": "Guiomar Tuero",
+        "sexo": "F"
+      }
+    ],
+    "na-v20-estaciones": [
+      "BP ALELLA",
+      "BP AV DAROCA",
+      "BP BADALONA",
+      "BP BADANOR",
+      "BP BELLATERRA",
+      "BP BILBAO AEROPUERTO",
+      "BP BLANCO I",
+      "BP BLANCO II",
+      "BP CA S'ESTRELLA",
+      "BP CAN SOLÁ",
+      "BP CARDEDEU",
+      "BP CARREÑO",
+      "BP CASTRO URDIALES",
+      "BP CENTRAL LECHERA",
+      "BP CHEYPER",
+      "BP COLL FAVÁ",
+      "BP COSLADA - AV CONSTITUCIÓN",
+      "BP CUBELLES",
+      "BP CUYENCES",
+      "BP DANI",
+      "BP EL CORB",
+      "BP EL CUADREJÓN I",
+      "BP EL ESPARTAL",
+      "BP EL PRAT",
+      "BP GANZO",
+      "BP GETAFE M406",
+      "BP GUADARRAMA",
+      "BP GUALBA",
+      "BP HOSTAL DE LA SELVA",
+      "BP HUMANES EL MOLINO",
+      "BP ILLESCAS",
+      "BP INURSA MD",
+      "BP JORDÁN",
+      "BP LA CREUETA",
+      "BP LEÓN TROBAJO MD",
+      "BP LEÓN TROBAJO MI",
+      "BP MAQUEDA",
+      "BP MARÍA",
+      "BP MECO",
+      "BP MONTSENY",
+      "BP MONTSERRAT CIBRIÁN",
+      "BP OLABERRÍA",
+      "BP PLANAMAR",
+      "BP POLLENSA",
+      "BP RIBAS LA COMETA",
+      "BP ROMICA",
+      "BP SA POBLA",
+      "BP SABADELL",
+      "BP SALAMANCA",
+      "BP SAN FERNANDO - LA PRESA",
+      "BP SAN PEDRO MI",
+      "BP SANT BOI",
+      "BP SANT PERE I SANT PAU",
+      "BP SANTA EULALIA",
+      "BP SANTA PERPETUA",
+      "BP SEGÓBRIGA",
+      "BP SOMOSAGUAS",
+      "BP TORREJÓN AV FRONTERAS",
+      "BP TORREJÓN LOECHES",
+      "BP TRÁPAGA",
+      "BP VALDONAIRE",
+      "BP VILLACASTÍN NORTE",
+      "BP VILLAMANTA",
+      "BP VÍA FAVENCIA",
+      "BP VÍA NORTE",
+      "CF DENIA",
+      "CF SAGUNTO",
+      "OFICINA"
+    ],
+    "na-v20-series": [
+      {
+        "id": "s_dr",
+        "codigo": "DR",
+        "nombre": "DR — BP España",
+        "contFact": 26,
+        "contSupl": 1,
+        "contAbono": 0,
+        "iva": 21,
+        "diasVto": 60,
+        "ultimaFechaFact": "2026-05-30"
+      },
+      {
+        "id": "s_il",
+        "codigo": "IL",
+        "nombre": "IL — NorAcua",
+        "contFact": 22,
+        "contSupl": 4,
+        "contAbono": 0,
+        "iva": 21,
+        "diasVto": 30,
+        "ultimaFechaFact": "2026-05-18"
       }
     ]
   }
