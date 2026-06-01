@@ -1,5 +1,5 @@
 {
-  "fecha": "2026-06-01T20:53:02.961Z",
+  "fecha": "2026-06-01T20:53:33.872Z",
   "version": "2.7",
   "datos": {
     "na-v20-proyectos": [
@@ -352,7 +352,8 @@
         "responsableBP": "Rubén Vigaray",
         "estacion": "CF SAGUNTO",
         "clienteId": "cl1779132918444",
-        "id": "p1779293561532"
+        "id": "p1779293561532",
+        "activo": false
       },
       {
         "nombre": "VERTIDOS",
