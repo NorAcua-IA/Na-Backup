@@ -1,5 +1,5 @@
 {
-  "fecha": "2026-06-01T20:45:30.573Z",
+  "fecha": "2026-06-01T20:53:02.961Z",
   "version": "2.7",
   "datos": {
     "na-v20-proyectos": [
@@ -478,7 +478,8 @@
         "responsableBP": "Concepción Gutierrez",
         "estacion": "BP TORREJÓN AV FRONTERAS",
         "clienteId": "cl01",
-        "id": "p1779391171195"
+        "id": "p1779391171195",
+        "activo": false
       },
       {
         "nombre": "CONTROL PERIÓDICO AMBIENTAL",
