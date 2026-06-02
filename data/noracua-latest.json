@@ -1,5 +1,5 @@
 {
-  "fecha": "2026-06-02T06:45:00.143Z",
+  "fecha": "2026-06-02T08:44:59.921Z",
   "version": "2.7",
   "datos": {
     "na-v20-proyectos": [],
@@ -1327,7 +1327,10 @@
         "sexo": "M"
       }
     ],
-    "na-v20-estaciones": [],
+    "na-v20-estaciones": [
+      "BP BADA",
+      "BP BADANOR"
+    ],
     "na-v20-series": [
       {
         "id": "s01",
