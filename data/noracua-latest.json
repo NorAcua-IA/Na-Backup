@@ -1,5 +1,5 @@
 {
-  "fecha": "2026-06-02T14:03:43.481Z",
+  "fecha": "2026-06-02T14:35:06.974Z",
   "version": "2.7",
   "datos": {
     "na-v20-proyectos": [
@@ -6977,7 +6977,7 @@
             "hsse_rec_20260522_33",
             "hsse_rec_20260525_34"
           ],
-          "facturado": false,
+          "facturado": true,
           "creadoEn": "2026-06-02T13:55:19.430Z"
         },
         {
