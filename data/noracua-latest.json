@@ -1,5 +1,5 @@
 {
-  "fecha": "2026-06-02T20:12:53.423Z",
+  "fecha": "2026-06-02T21:28:24.602Z",
   "version": "2.7",
   "datos": {
     "na-v20-proyectos": [
@@ -1839,7 +1839,7 @@
       {
         "id": "fDR02426_1780414603613",
         "tipo": "Factura",
-        "serieId": "s01",
+        "serieId": "s_dr",
         "numero": "DR024/26",
         "clienteId": "cl01",
         "fecha": "2026-05-11",
@@ -7340,13 +7340,13 @@
     },
     "na-v20-historico": [
       {
-        "id": "inf1780411787249",
+        "id": "inf1780432778078",
         "nom": "INF-Global(250801-260531)",
         "tipo": "periodo",
         "proyNombre": "Todos los proyectos",
         "periodo": "01/08/25 → 31/05/26",
-        "estado": "borrador",
-        "creadoEn": "2026-06-02T14:49:47.249Z",
+        "estado": "enviado",
+        "creadoEn": "2026-06-02T20:39:38.078Z",
         "importeTotal": 32023.8,
         "proyectoId": null,
         "regIds": [
