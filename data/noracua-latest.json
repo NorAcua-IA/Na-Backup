@@ -1,5 +1,5 @@
 {
-  "fecha": "2026-06-03T07:19:01.940Z",
+  "fecha": "2026-06-03T08:32:19.205Z",
   "version": "2.7",
   "datos": {
     "na-v20-proyectos": [
@@ -2911,7 +2911,7 @@
             "iva": 21
           }
         ],
-        "estado": "Enviada",
+        "estado": "Cobrada",
         "poRef": "3001322306",
         "creadoEn": "2026-05-19T20:27:54.764Z"
       },
@@ -6169,6 +6169,7 @@
       "BP BILBAO AEROPUERTO",
       "BP BLANCO I",
       "BP BLANCO II",
+      "BP BUFALVENT",
       "BP CA S'ESTRELLA",
       "BP CAN SOLÁ",
       "BP CARDEDEU",
@@ -7254,8 +7255,7 @@
       "tecnicosExternos": [],
       "poAnual": "",
       "clienteIdBP": "",
-      "hist": [],
-      "infCounter": 1
+      "hist": []
     },
     "na-v20-historico": [
       {
