@@ -1,5 +1,5 @@
 {
-  "fecha": "2026-06-03T11:38:02.626Z",
+  "fecha": "2026-06-03T13:32:45.537Z",
   "version": "2.7",
   "datos": {
     "na-v20-proyectos": [
@@ -611,61 +611,6 @@
             "conceptoId": "7.3",
             "cantidad": 1,
             "observaciones": "Comunicación modificaciones instalación mecánica"
-          }
-        ]
-      },
-      {
-        "proyectoId": "p1779438468314",
-        "conceptoId": "7.6",
-        "trabajador": "Yennyfer Lemus",
-        "fecha": "2026-05-21",
-        "observaciones": "Grupo: 1 actividades",
-        "cantidad": 1,
-        "capFiltro": "7",
-        "id": "r1779438583370",
-        "estado": "aprobado",
-        "precioManual": null,
-        "createdAt": "2026-05-22T08:29:43.370Z",
-        "creadoPor": "Yennyfer Lemus",
-        "esGrupo": true,
-        "lineasGrupo": [
-          {
-            "conceptoId": "7.6",
-            "cantidad": 1,
-            "observaciones": "Contestación Requerimiento para Cambio de Titularidad",
-            "certifAprobada": true,
-            "certifEnviada": true,
-            "cantCertif": 1
-          }
-        ],
-        "estadoCertif": "finalizado"
-      },
-      {
-        "proyectoId": "p1779883791414",
-        "conceptoId": "7.3",
-        "trabajador": "Yennyfer Lemus",
-        "fecha": "2026-05-29",
-        "observaciones": "Grupo: 2 actividades",
-        "cantidad": 1,
-        "searchPr": "pobla",
-        "capFiltro": "7",
-        "id": "r1780045061130",
-        "estado": "aprobado",
-        "precioManual": null,
-        "createdAt": "2026-05-29T08:57:41.130Z",
-        "creadoPor": "Yennyfer Lemus",
-        "esGrupo": true,
-        "lineasGrupo": [
-          {
-            "conceptoId": "7.3",
-            "cantidad": 1,
-            "observaciones": "Modicación de NIMA para dar de alta nuevo residuo"
-          },
-          {
-            "conceptoId": "7.7",
-            "cantidad": 1,
-            "observaciones": "Pago de tasas Industria (30,06 €)",
-            "descuento": 30.06
           }
         ]
       },
@@ -1699,7 +1644,7 @@
         "searchPr": "eva",
         "capFiltro": "6",
         "id": "r1780477285528",
-        "estado": "pendiente",
+        "estado": "aprobado",
         "precioManual": null,
         "createdAt": "2026-06-03T09:01:25.529Z",
         "creadoPor": "Jordi Santos",
@@ -1735,6 +1680,61 @@
             "conceptoId": "8.7",
             "cantidad": 1,
             "observaciones": "Localización de documentación para justificar deficiencia periódica IP04"
+          }
+        ]
+      },
+      {
+        "proyectoId": "p1779438468314",
+        "conceptoId": "7.6",
+        "trabajador": "Yennyfer Lemus",
+        "fecha": "2026-05-21",
+        "observaciones": "Grupo: 1 actividades",
+        "cantidad": 1,
+        "capFiltro": "7",
+        "id": "r1779438583370",
+        "estado": "aprobado",
+        "precioManual": null,
+        "createdAt": "2026-05-22T08:29:43.370Z",
+        "creadoPor": "Yennyfer Lemus",
+        "esGrupo": true,
+        "lineasGrupo": [
+          {
+            "conceptoId": "7.6",
+            "cantidad": 1,
+            "observaciones": "Contestación Requerimiento para Cambio de Titularidad",
+            "certifAprobada": true,
+            "certifEnviada": true,
+            "cantCertif": 1
+          }
+        ],
+        "estadoCertif": "finalizado"
+      },
+      {
+        "proyectoId": "p1779883791414",
+        "conceptoId": "7.3",
+        "trabajador": "Yennyfer Lemus",
+        "fecha": "2026-05-29",
+        "observaciones": "Grupo: 2 actividades",
+        "cantidad": 1,
+        "searchPr": "pobla",
+        "capFiltro": "7",
+        "id": "r1780045061130",
+        "estado": "aprobado",
+        "precioManual": null,
+        "createdAt": "2026-05-29T08:57:41.130Z",
+        "creadoPor": "Yennyfer Lemus",
+        "esGrupo": true,
+        "lineasGrupo": [
+          {
+            "conceptoId": "7.3",
+            "cantidad": 1,
+            "observaciones": "Modicación de NIMA para dar de alta nuevo residuo"
+          },
+          {
+            "conceptoId": "7.7",
+            "cantidad": 1,
+            "observaciones": "Pago de tasas Industria (30,06 €)",
+            "descuento": 30.06
           }
         ]
       },
@@ -6349,7 +6349,7 @@
         "empresa": "ISTOBAL",
         "comentarios": "DEMOLICION Y EXCAVACION PAVIMENTO. (NUEVA RECICLADORA)",
         "id": "hs_1780478476905",
-        "estado": "pendiente",
+        "estado": "anulado",
         "creadoPor": "Carlos García",
         "fechaCreacion": "2026-06-03T09:21:16.905Z"
       },
@@ -6370,7 +6370,7 @@
         "empresa": "PETROSUPORT",
         "comentarios": "PRUEBA DE ESTANQUIEDAD TANQUE 1 DIESEL",
         "id": "hs_1780478400625",
-        "estado": "pendiente",
+        "estado": "aprobado",
         "creadoPor": "Carlos García",
         "fechaCreacion": "2026-06-03T09:20:00.625Z"
       },
@@ -6391,7 +6391,7 @@
         "empresa": "PETROSUPORT",
         "comentarios": "PRUEBA DE ESTANQUIEDAD DOBLE CAMARA TANQUE 3 Sp98 y TANQUE 2 Sp95",
         "id": "hs_1780478332167",
-        "estado": "pendiente",
+        "estado": "aprobado",
         "creadoPor": "Carlos García",
         "fechaCreacion": "2026-06-03T09:18:52.167Z"
       },
@@ -7390,12 +7390,93 @@
         "Obra menor",
         "Obra mayor"
       ],
-      "preciosPorZona": {},
-      "tecnicosExternos": [],
-      "poAnual": "",
-      "clienteIdBP": "",
-      "hist": [],
-      "infCounter": 1
+      "preciosPorZona": {
+        "CENTRO": 25,
+        "NORTE": 25,
+        "CATALUÑA": 25,
+        "BALEARES": 25,
+        "OTROS": 25
+      },
+      "tecnicosExternos": [
+        "Carlos Gacía",
+        "Daniel Romero",
+        "Jordi Santos",
+        "Jesús Rodríguez",
+        "Javier Guerrico",
+        "Ana Vélez",
+        "Mauricio Quintero"
+      ],
+      "poAnual": "‭3001322306‬",
+      "clienteIdBP": "cl01",
+      "hist": [
+        {
+          "id": "hinf_1780488386455",
+          "nom": "INF-HSSE-2026-002",
+          "desde": "2026-05-01",
+          "hasta": "2026-05-31",
+          "po": "‭3001322306‬",
+          "periodo": "01/05/26→31/05/26",
+          "numSups": 17,
+          "totalHoras": 125,
+          "totalImporte": 3125,
+          "supIds": [
+            "hsse_rec_20260504_18",
+            "hsse_rec_20260505_19",
+            "hsse_rec_20260505_20",
+            "hsse_rec_20260505_21",
+            "hsse_rec_20260506_22",
+            "hsse_rec_20260507_23",
+            "hsse_rec_20260508_24",
+            "hsse_rec_20260511_25",
+            "hsse_rec_20260513_26",
+            "hsse_rec_20260514_27",
+            "hsse_rec_20260515_28",
+            "hsse_rec_20260518_29",
+            "hsse_rec_20260519_30",
+            "hsse_rec_20260519_31",
+            "hsse_rec_20260520_32",
+            "hsse_rec_20260522_33",
+            "hsse_rec_20260525_34"
+          ],
+          "facturado": true,
+          "creadoEn": "2026-06-03T12:06:26.455Z",
+          "_htmlStripped": true
+        },
+        {
+          "id": "hinf_1780488372384",
+          "nom": "INF-HSSE-2026-001",
+          "desde": "2026-04-01",
+          "hasta": "2026-04-30",
+          "po": "‭3001322306‬",
+          "periodo": "01/04/26→30/04/26",
+          "numSups": 18,
+          "totalHoras": 156,
+          "totalImporte": 3900,
+          "supIds": [
+            "hsse_rec_20260401_0",
+            "hsse_rec_20260402_1",
+            "hsse_rec_20260407_2",
+            "hsse_rec_20260408_3",
+            "hsse_rec_20260409_4",
+            "hsse_rec_20260410_5",
+            "hsse_rec_20260413_6",
+            "hsse_rec_20260414_7",
+            "hsse_rec_20260415_8",
+            "hsse_rec_20260416_9",
+            "hsse_rec_20260417_10",
+            "hsse_rec_20260421_11",
+            "hsse_rec_20260421_12",
+            "hsse_rec_20260421_13",
+            "hsse_rec_20260424_14",
+            "hsse_rec_20260427_15",
+            "hsse_rec_20260429_16",
+            "hsse_rec_20260430_17"
+          ],
+          "facturado": true,
+          "creadoEn": "2026-06-03T12:06:12.384Z",
+          "_htmlStripped": true
+        }
+      ]
     },
     "na-v20-historico": [
       {
