@@ -1,5 +1,5 @@
 {
-  "fecha": "2026-06-03T09:05:16.744Z",
+  "fecha": "2026-06-03T11:32:49.642Z",
   "version": "2.7",
   "datos": {
     "na-v20-proyectos": [
@@ -562,6 +562,33 @@
         "estacion": "BP RIBAS LA COMETA",
         "clienteId": "cl1780068226069",
         "id": "p1780035450676"
+      },
+      {
+        "nombre": "PLANO EVACUACIÓN TIENDA",
+        "po": "",
+        "zona": "CATALUÑA",
+        "responsableBP": "Josep Seijo",
+        "estacion": "BP PLANAMAR",
+        "clienteId": "cl01",
+        "id": "p1780477263512"
+      },
+      {
+        "nombre": "DOCUMENTACIÓN PARA DEFECTO PERIÓDICA IP04",
+        "po": "",
+        "zona": "CATALUÑA",
+        "responsableBP": "Carmen de Antonio",
+        "estacion": "BP BUFALVENT",
+        "clienteId": "cl01",
+        "id": "p1780478230969"
+      },
+      {
+        "nombre": "RESPUESTA REQUERIMIENTO IP04 GENERALITAT CATALUÑA",
+        "po": "",
+        "zona": "CATALUÑA",
+        "responsableBP": "Eduardo González",
+        "estacion": "BP ALELLA",
+        "clienteId": "cl01",
+        "id": "p1780481389099"
       }
     ],
     "na-v20-registros": [
@@ -584,6 +611,61 @@
             "conceptoId": "7.3",
             "cantidad": 1,
             "observaciones": "Comunicación modificaciones instalación mecánica"
+          }
+        ]
+      },
+      {
+        "proyectoId": "p1779438468314",
+        "conceptoId": "7.6",
+        "trabajador": "Yennyfer Lemus",
+        "fecha": "2026-05-21",
+        "observaciones": "Grupo: 1 actividades",
+        "cantidad": 1,
+        "capFiltro": "7",
+        "id": "r1779438583370",
+        "estado": "aprobado",
+        "precioManual": null,
+        "createdAt": "2026-05-22T08:29:43.370Z",
+        "creadoPor": "Yennyfer Lemus",
+        "esGrupo": true,
+        "lineasGrupo": [
+          {
+            "conceptoId": "7.6",
+            "cantidad": 1,
+            "observaciones": "Contestación Requerimiento para Cambio de Titularidad",
+            "certifAprobada": true,
+            "certifEnviada": true,
+            "cantCertif": 1
+          }
+        ],
+        "estadoCertif": "finalizado"
+      },
+      {
+        "proyectoId": "p1779883791414",
+        "conceptoId": "7.3",
+        "trabajador": "Yennyfer Lemus",
+        "fecha": "2026-05-29",
+        "observaciones": "Grupo: 2 actividades",
+        "cantidad": 1,
+        "searchPr": "pobla",
+        "capFiltro": "7",
+        "id": "r1780045061130",
+        "estado": "aprobado",
+        "precioManual": null,
+        "createdAt": "2026-05-29T08:57:41.130Z",
+        "creadoPor": "Yennyfer Lemus",
+        "esGrupo": true,
+        "lineasGrupo": [
+          {
+            "conceptoId": "7.3",
+            "cantidad": 1,
+            "observaciones": "Modicación de NIMA para dar de alta nuevo residuo"
+          },
+          {
+            "conceptoId": "7.7",
+            "cantidad": 1,
+            "observaciones": "Pago de tasas Industria (30,06 €)",
+            "descuento": 30.06
           }
         ]
       },
@@ -1608,57 +1690,51 @@
         "searchPr": ""
       },
       {
-        "proyectoId": "p1779438468314",
-        "conceptoId": "7.6",
-        "trabajador": "Yennyfer Lemus",
-        "fecha": "2026-05-21",
-        "observaciones": "Grupo: 1 actividades",
-        "cantidad": 1,
-        "capFiltro": "7",
-        "id": "r1779438583370",
-        "estado": "aprobado",
-        "precioManual": null,
-        "createdAt": "2026-05-22T08:29:43.370Z",
-        "creadoPor": "Yennyfer Lemus",
-        "esGrupo": true,
-        "lineasGrupo": [
-          {
-            "conceptoId": "7.6",
-            "cantidad": 1,
-            "observaciones": "Contestación Requerimiento para Cambio de Titularidad",
-            "certifAprobada": true,
-            "certifEnviada": true,
-            "cantCertif": 1
-          }
-        ],
-        "estadoCertif": "finalizado"
-      },
-      {
-        "proyectoId": "p1779883791414",
-        "conceptoId": "7.3",
-        "trabajador": "Yennyfer Lemus",
-        "fecha": "2026-05-29",
+        "proyectoId": "p1780477263512",
+        "conceptoId": "2.7",
+        "trabajador": "Jordi Santos",
+        "fecha": "2026-06-03",
         "observaciones": "Grupo: 2 actividades",
         "cantidad": 1,
-        "searchPr": "pobla",
-        "capFiltro": "7",
-        "id": "r1780045061130",
-        "estado": "aprobado",
+        "searchPr": "eva",
+        "capFiltro": "6",
+        "id": "r1780477285528",
+        "estado": "pendiente",
         "precioManual": null,
-        "createdAt": "2026-05-29T08:57:41.130Z",
-        "creadoPor": "Yennyfer Lemus",
+        "createdAt": "2026-06-03T09:01:25.529Z",
+        "creadoPor": "Jordi Santos",
         "esGrupo": true,
         "lineasGrupo": [
           {
-            "conceptoId": "7.3",
+            "conceptoId": "2.7",
             "cantidad": 1,
-            "observaciones": "Modicación de NIMA para dar de alta nuevo residuo"
+            "observaciones": ""
           },
           {
-            "conceptoId": "7.7",
+            "conceptoId": "6.1",
             "cantidad": 1,
-            "observaciones": "Pago de tasas Industria (30,06 €)",
-            "descuento": 30.06
+            "observaciones": ""
+          }
+        ]
+      },
+      {
+        "proyectoId": "p1780478230969",
+        "conceptoId": "8.7",
+        "trabajador": "Jordi Santos",
+        "fecha": "2026-05-29",
+        "observaciones": "Grupo: 1 actividades",
+        "cantidad": 1,
+        "id": "r1780478609465",
+        "estado": "pendiente",
+        "precioManual": null,
+        "createdAt": "2026-06-03T09:23:29.465Z",
+        "creadoPor": "Jordi Santos",
+        "esGrupo": true,
+        "lineasGrupo": [
+          {
+            "conceptoId": "8.7",
+            "cantidad": 1,
+            "observaciones": "Localización de documentación para justificar deficiencia periódica IP04"
           }
         ]
       },
@@ -6261,6 +6337,69 @@
         "tipoActividad": "Obra mayor",
         "pctAuditoria": "100",
         "obraConSupervision": "Sí",
+        "fecha": "2026-06-02",
+        "horas": "6",
+        "horasOrig": "6",
+        "horasAdmin": "6",
+        "supervisor": "Carlos García",
+        "encargo": "Concepción Gutierrez",
+        "zona": "CATALUÑA",
+        "incidencias": "No",
+        "motivoSupervision": "EXCAVACIONES",
+        "empresa": "ISTOBAL",
+        "comentarios": "DEMOLICION Y EXCAVACION PAVIMENTO. (NUEVA RECICLADORA)",
+        "id": "hs_1780478476905",
+        "estado": "pendiente",
+        "creadoPor": "Carlos García",
+        "fechaCreacion": "2026-06-03T09:21:16.905Z"
+      },
+      {
+        "site": "BP BADANOR",
+        "tipoActividad": "Obra menor mantenimiento",
+        "pctAuditoria": "100",
+        "obraConSupervision": "Sí",
+        "fecha": "2026-06-02",
+        "horas": "5",
+        "horasOrig": "5",
+        "horasAdmin": "5",
+        "supervisor": "Carlos García",
+        "encargo": "Concepción Gutierrez",
+        "zona": "CATALUÑA",
+        "incidencias": "No",
+        "motivoSupervision": "ENTRADA EN ESPACIO CONFINADO",
+        "empresa": "PETROSUPORT",
+        "comentarios": "PRUEBA DE ESTANQUIEDAD TANQUE 1 DIESEL",
+        "id": "hs_1780478400625",
+        "estado": "pendiente",
+        "creadoPor": "Carlos García",
+        "fechaCreacion": "2026-06-03T09:20:00.625Z"
+      },
+      {
+        "site": "BP BADANOR",
+        "tipoActividad": "Obra menor mantenimiento",
+        "pctAuditoria": "98",
+        "obraConSupervision": "Sí",
+        "fecha": "2026-06-01",
+        "horas": "10",
+        "horasOrig": "10",
+        "horasAdmin": "10",
+        "supervisor": "Carlos García",
+        "encargo": "Concepción Gutierrez",
+        "zona": "CATALUÑA",
+        "incidencias": "No",
+        "motivoSupervision": "ENTRADA EN ESPACIO CONFINADO",
+        "empresa": "PETROSUPORT",
+        "comentarios": "PRUEBA DE ESTANQUIEDAD DOBLE CAMARA TANQUE 3 Sp98 y TANQUE 2 Sp95",
+        "id": "hs_1780478332167",
+        "estado": "pendiente",
+        "creadoPor": "Carlos García",
+        "fechaCreacion": "2026-06-03T09:18:52.167Z"
+      },
+      {
+        "site": "BP BADANOR",
+        "tipoActividad": "Obra mayor",
+        "pctAuditoria": "100",
+        "obraConSupervision": "Sí",
         "fecha": "2026-05-28",
         "horas": "8",
         "horasOrig": "8",
@@ -7255,8 +7394,8 @@
       "tecnicosExternos": [],
       "poAnual": "",
       "clienteIdBP": "",
-      "infCounter": 1,
-      "hist": []
+      "hist": [],
+      "infCounter": 1
     },
     "na-v20-historico": [
       {
