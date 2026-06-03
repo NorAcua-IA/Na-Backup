@@ -1,5 +1,5 @@
 {
-  "fecha": "2026-06-03T17:32:44.880Z",
+  "fecha": "2026-06-03T20:46:58.493Z",
   "version": "2.7",
   "datos": {
     "na-v20-proyectos": [
@@ -7394,8 +7394,8 @@
       "tecnicosExternos": [],
       "poAnual": "",
       "clienteIdBP": "",
-      "hist": [],
-      "infCounter": 1
+      "infCounter": 1,
+      "hist": []
     },
     "na-v20-historico": [
       {
