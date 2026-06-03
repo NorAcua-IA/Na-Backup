@@ -1,5 +1,5 @@
 {
-  "fecha": "2026-06-03T08:49:23.378Z",
+  "fecha": "2026-06-03T09:05:16.744Z",
   "version": "2.7",
   "datos": {
     "na-v20-proyectos": [
@@ -6130,6 +6130,34 @@
       {
         "nombre": "Daniel Romero",
         "sexo": "M"
+      },
+      {
+        "nombre": "Josep Seijo",
+        "sexo": "M"
+      },
+      {
+        "nombre": "Raquel Martínez",
+        "sexo": "F"
+      },
+      {
+        "nombre": "Eduardo González",
+        "sexo": "M"
+      },
+      {
+        "nombre": "Carmen de Antonio",
+        "sexo": "F"
+      },
+      {
+        "nombre": "José Ramón Rivero",
+        "sexo": "M"
+      },
+      {
+        "nombre": "Rubén Vigaray",
+        "sexo": "M"
+      },
+      {
+        "nombre": "Guiomar Tuero",
+        "sexo": "F"
       }
     ],
     "na-v20-estaciones": [
@@ -7230,7 +7258,45 @@
       "infCounter": 1,
       "hist": []
     },
-    "na-v20-historico": [],
+    "na-v20-historico": [
+      {
+        "id": "inf1780432778078",
+        "nom": "INF-Global(250801-260531)",
+        "tipo": "periodo",
+        "proyNombre": "Todos los proyectos",
+        "periodo": "01/08/25 → 31/05/26",
+        "estado": "enviado",
+        "creadoEn": "2026-06-02T20:39:38.078Z",
+        "importeTotal": 32023.8,
+        "proyectoId": null,
+        "regIds": [
+          "r1779184072093",
+          "r1779185491112",
+          "r1779185537188",
+          "r1779382900916",
+          "r1779385727831",
+          "r1779386014804",
+          "r1779386188218",
+          "r1779386510550",
+          "r1779386904618",
+          "r1779387335704",
+          "r1779387564130",
+          "r1779387769358",
+          "r1779388094641",
+          "r1779388216692",
+          "r1779388851027",
+          "r1779389240174",
+          "r1779391358989",
+          "r1779392240842",
+          "r1779393473054",
+          "r1779438583370",
+          "r1779812807169",
+          "r1779904582618",
+          "r1779971954794"
+        ],
+        "_htmlStripped": true
+      }
+    ],
     "na-v21-conceptos-activos": [
       {
         "id": "1.1",
