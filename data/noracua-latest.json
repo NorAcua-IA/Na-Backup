@@ -1,5 +1,5 @@
 {
-  "fecha": "2026-06-03T11:32:54.452Z",
+  "fecha": "2026-06-03T11:38:02.626Z",
   "version": "2.7",
   "datos": {
     "na-v20-proyectos": [
@@ -582,7 +582,7 @@
         "id": "p1780478230969"
       },
       {
-        "nombre": "RESPUESTA REQUERIMIENTO IP04 GENERALITAT CATALUÑA",
+        "nombre": "REQUERIMIENTO IP04",
         "po": "",
         "zona": "CATALUÑA",
         "responsableBP": "Eduardo González",
