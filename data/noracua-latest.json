@@ -1,5 +1,5 @@
 {
-  "fecha": "2026-06-03T13:32:45.537Z",
+  "fecha": "2026-06-03T14:02:01.926Z",
   "version": "2.7",
   "datos": {
     "na-v20-proyectos": [
@@ -7390,93 +7390,12 @@
         "Obra menor",
         "Obra mayor"
       ],
-      "preciosPorZona": {
-        "CENTRO": 25,
-        "NORTE": 25,
-        "CATALUÑA": 25,
-        "BALEARES": 25,
-        "OTROS": 25
-      },
-      "tecnicosExternos": [
-        "Carlos Gacía",
-        "Daniel Romero",
-        "Jordi Santos",
-        "Jesús Rodríguez",
-        "Javier Guerrico",
-        "Ana Vélez",
-        "Mauricio Quintero"
-      ],
-      "poAnual": "‭3001322306‬",
-      "clienteIdBP": "cl01",
-      "hist": [
-        {
-          "id": "hinf_1780488386455",
-          "nom": "INF-HSSE-2026-002",
-          "desde": "2026-05-01",
-          "hasta": "2026-05-31",
-          "po": "‭3001322306‬",
-          "periodo": "01/05/26→31/05/26",
-          "numSups": 17,
-          "totalHoras": 125,
-          "totalImporte": 3125,
-          "supIds": [
-            "hsse_rec_20260504_18",
-            "hsse_rec_20260505_19",
-            "hsse_rec_20260505_20",
-            "hsse_rec_20260505_21",
-            "hsse_rec_20260506_22",
-            "hsse_rec_20260507_23",
-            "hsse_rec_20260508_24",
-            "hsse_rec_20260511_25",
-            "hsse_rec_20260513_26",
-            "hsse_rec_20260514_27",
-            "hsse_rec_20260515_28",
-            "hsse_rec_20260518_29",
-            "hsse_rec_20260519_30",
-            "hsse_rec_20260519_31",
-            "hsse_rec_20260520_32",
-            "hsse_rec_20260522_33",
-            "hsse_rec_20260525_34"
-          ],
-          "facturado": true,
-          "creadoEn": "2026-06-03T12:06:26.455Z",
-          "_htmlStripped": true
-        },
-        {
-          "id": "hinf_1780488372384",
-          "nom": "INF-HSSE-2026-001",
-          "desde": "2026-04-01",
-          "hasta": "2026-04-30",
-          "po": "‭3001322306‬",
-          "periodo": "01/04/26→30/04/26",
-          "numSups": 18,
-          "totalHoras": 156,
-          "totalImporte": 3900,
-          "supIds": [
-            "hsse_rec_20260401_0",
-            "hsse_rec_20260402_1",
-            "hsse_rec_20260407_2",
-            "hsse_rec_20260408_3",
-            "hsse_rec_20260409_4",
-            "hsse_rec_20260410_5",
-            "hsse_rec_20260413_6",
-            "hsse_rec_20260414_7",
-            "hsse_rec_20260415_8",
-            "hsse_rec_20260416_9",
-            "hsse_rec_20260417_10",
-            "hsse_rec_20260421_11",
-            "hsse_rec_20260421_12",
-            "hsse_rec_20260421_13",
-            "hsse_rec_20260424_14",
-            "hsse_rec_20260427_15",
-            "hsse_rec_20260429_16",
-            "hsse_rec_20260430_17"
-          ],
-          "facturado": true,
-          "creadoEn": "2026-06-03T12:06:12.384Z",
-          "_htmlStripped": true
-        }
-      ]
+      "preciosPorZona": {},
+      "tecnicosExternos": [],
+      "poAnual": "",
+      "clienteIdBP": "",
+      "hist": [],
+      "infCounter": 1
     },
     "na-v20-historico": [
       {
