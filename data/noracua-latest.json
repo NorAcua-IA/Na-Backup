@@ -1,5 +1,5 @@
 {
-  "fecha": "2026-06-04T08:04:31.781Z",
+  "fecha": "2026-06-04T08:12:32.311Z",
   "version": "2.7",
   "datos": {
     "na-v20-proyectos": [
@@ -556,7 +556,7 @@
       },
       {
         "nombre": "CONTROL PERIÓDICO AMBIENTAL",
-        "po": "",
+        "po": "Ref: BP-CPA-290526-v1",
         "zona": "CATALUÑA",
         "responsableBP": "",
         "estacion": "BP RIBAS LA COMETA",
@@ -655,6 +655,17 @@
         "id": "p1780559966682",
         "creadoEn": "2026-06-04T07:59:26.682Z",
         "creadoPor": "Yennyfer Lemus"
+      },
+      {
+        "nombre": "RESPUESTA REQUERIMIENTO IP04",
+        "po": "",
+        "zona": "CATALUÑA",
+        "responsableBP": "Eduardo González",
+        "estacion": "BP PLANAMAR",
+        "clienteId": "cl01",
+        "id": "p1780560322612",
+        "creadoEn": "2026-06-04T08:05:22.612Z",
+        "creadoPor": "Yennyfer Lemus"
       }
     ],
     "na-v20-registros": [
@@ -744,7 +755,7 @@
         "cantidad": 1,
         "capFiltro": "7",
         "id": "r1780559346457",
-        "estado": "pendiente",
+        "estado": "aprobado",
         "precioManual": null,
         "createdAt": "2026-06-04T07:49:06.457Z",
         "creadoPor": "Yennyfer Lemus",
@@ -753,7 +764,8 @@
           {
             "conceptoId": "7.6",
             "cantidad": 1,
-            "observaciones": "Responder Req Generalitat Cataluña"
+            "observaciones": "Responder Req Generalitat Cataluña",
+            "descuento": 15
           }
         ]
       },
@@ -766,7 +778,7 @@
         "cantidad": 1,
         "capFiltro": "7",
         "id": "r1780559503567",
-        "estado": "pendiente",
+        "estado": "aprobado",
         "precioManual": null,
         "createdAt": "2026-06-04T07:51:43.567Z",
         "creadoPor": "Yennyfer Lemus",
@@ -775,7 +787,8 @@
           {
             "conceptoId": "7.6",
             "cantidad": 1,
-            "observaciones": "Respuesta Req. Generalitat Cataluña-Bellaterra MD-"
+            "observaciones": "Respuesta Req. Generalitat Cataluña-Bellaterra MD-",
+            "descuento": 15
           }
         ]
       },
@@ -797,7 +810,8 @@
           {
             "conceptoId": "7.6",
             "cantidad": 1,
-            "observaciones": "Responder Req Generalitat Cataluña-Bellaterra MI"
+            "observaciones": "Responder Req Generalitat Cataluña-Bellaterra MI",
+            "descuento": 15
           }
         ]
       },
@@ -810,7 +824,7 @@
         "cantidad": 1,
         "capFiltro": "7",
         "id": "r1780559696946",
-        "estado": "pendiente",
+        "estado": "aprobado",
         "precioManual": null,
         "createdAt": "2026-06-04T07:54:56.946Z",
         "creadoPor": "Yennyfer Lemus",
@@ -819,7 +833,8 @@
           {
             "conceptoId": "7.6",
             "cantidad": 1,
-            "observaciones": "Responder Req Generalitat Cataluña"
+            "observaciones": "Responder Req Generalitat Cataluña",
+            "descuento": 15
           }
         ]
       },
@@ -832,7 +847,7 @@
         "cantidad": 1,
         "capFiltro": "7",
         "id": "r1780559810182",
-        "estado": "pendiente",
+        "estado": "aprobado",
         "precioManual": null,
         "createdAt": "2026-06-04T07:56:50.183Z",
         "creadoPor": "Yennyfer Lemus",
@@ -841,7 +856,8 @@
           {
             "conceptoId": "7.6",
             "cantidad": 1,
-            "observaciones": "Responder Req Generalitat Cataluña"
+            "observaciones": "Responder Req Generalitat Cataluña",
+            "descuento": 15
           }
         ]
       },
@@ -854,7 +870,7 @@
         "cantidad": 1,
         "capFiltro": "7",
         "id": "r1780559897767",
-        "estado": "pendiente",
+        "estado": "aprobado",
         "precioManual": null,
         "createdAt": "2026-06-04T07:58:17.767Z",
         "creadoPor": "Yennyfer Lemus",
@@ -863,7 +879,8 @@
           {
             "conceptoId": "7.6",
             "cantidad": 1,
-            "observaciones": "Responder Req Generalitat Cataluña"
+            "observaciones": "Responder Req Generalitat Cataluña",
+            "descuento": 15
           }
         ]
       },
@@ -876,7 +893,7 @@
         "cantidad": 1,
         "capFiltro": "7",
         "id": "r1780559996680",
-        "estado": "pendiente",
+        "estado": "aprobado",
         "precioManual": null,
         "createdAt": "2026-06-04T07:59:56.680Z",
         "creadoPor": "Yennyfer Lemus",
@@ -885,7 +902,8 @@
           {
             "conceptoId": "7.6",
             "cantidad": 1,
-            "observaciones": "Responder Req Generalitat Cataluña"
+            "observaciones": "Responder Req Generalitat Cataluña",
+            "descuento": 15
           }
         ]
       },
@@ -2129,6 +2147,28 @@
           }
         ],
         "estadoCertif": "finalizado"
+      },
+      {
+        "proyectoId": "p1780560322612",
+        "conceptoId": "7.6",
+        "trabajador": "Yennyfer Lemus",
+        "fecha": "2026-06-02",
+        "observaciones": "Grupo: 1 actividades",
+        "cantidad": 1,
+        "capFiltro": "7",
+        "id": "r1780560348620",
+        "estado": "pendiente",
+        "precioManual": null,
+        "createdAt": "2026-06-04T08:05:48.620Z",
+        "creadoPor": "Yennyfer Lemus",
+        "esGrupo": true,
+        "lineasGrupo": [
+          {
+            "conceptoId": "7.6",
+            "cantidad": 1,
+            "observaciones": "Responder Req Generalitat Cataluña"
+          }
+        ]
       }
     ],
     "na-v21-facturas": [
@@ -4510,7 +4550,7 @@
         "firmanteCliente": "",
         "firmanteNorAcua": "D. Daniel Romero",
         "formaPago": "Fecha factura",
-        "estado": "Enviada",
+        "estado": "Aceptada",
         "nota": "",
         "lineas": [
           {
@@ -4566,7 +4606,8 @@
         ],
         "proyectoId": "p1780035450676",
         "propuestaPor": null,
-        "creadoEn": "2026-05-29T17:29:33.625Z"
+        "creadoEn": "2026-05-29T17:29:33.625Z",
+        "po": "Ref: BP-CPA-290526-v1"
       },
       {
         "id": "o1780069434356",
@@ -6562,7 +6603,7 @@
         "fecha": "2026-06-03",
         "horas": "8",
         "horasOrig": "8",
-        "horasAdmin": "8",
+        "horasAdmin": 9,
         "supervisor": "Carlos García",
         "encargo": "Concepción Gutierrez",
         "zona": "CATALUÑA",
@@ -6571,7 +6612,7 @@
         "empresa": "PETROSUPORT",
         "comentarios": "LIMPIEZA DE ARQUETAS",
         "id": "hs_1780549509186",
-        "estado": "pendiente",
+        "estado": "aprobado",
         "creadoPor": "Carlos García",
         "fechaCreacion": "2026-06-04T05:05:09.186Z"
       },
