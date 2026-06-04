@@ -1,5 +1,5 @@
 {
-  "fecha": "2026-06-04T10:32:35.278Z",
+  "fecha": "2026-06-04T10:35:01.232Z",
   "version": "2.7",
   "datos": {
     "na-v20-proyectos": [
@@ -1508,7 +1508,7 @@
         ]
       },
       {
-        "proyectoId": "p1780568401519",
+        "proyectoId": "p1779131920309",
         "conceptoId": "7.2",
         "trabajador": "Yennyfer Lemus",
         "fecha": "2026-06-04",
@@ -1525,9 +1525,10 @@
           {
             "conceptoId": "7.2",
             "cantidad": 1,
-            "observaciones": "Solicitud de Licencia AYTO"
+            "observaciones": "Solicitud de Licencia ayto "
           }
-        ]
+        ],
+        "searchPr": "castro"
       },
       {
         "proyectoId": "p1779132044557",
