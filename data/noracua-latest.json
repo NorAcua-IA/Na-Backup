@@ -1,5 +1,5 @@
 {
-  "fecha": "2026-06-03T21:38:40.174Z",
+  "fecha": "2026-06-04T08:04:27.246Z",
   "version": "2.7",
   "datos": {
     "na-v20-proyectos": [
@@ -589,6 +589,72 @@
         "estacion": "BP ALELLA",
         "clienteId": "cl01",
         "id": "p1780481389099"
+      },
+      {
+        "nombre": "REQUERIMIENTO IP04",
+        "po": "",
+        "zona": "CATALUÑA",
+        "responsableBP": "Eduardo González",
+        "estacion": "BP BELLATERRA",
+        "clienteId": "cl01",
+        "id": "p1780559445776",
+        "creadoEn": "2026-06-04T07:50:45.776Z",
+        "creadoPor": "Yennyfer Lemus"
+      },
+      {
+        "nombre": "REQUERIMIENTO IP04",
+        "po": "",
+        "zona": "CATALUÑA",
+        "responsableBP": "Eduardo González",
+        "estacion": "BP BELLATERRA",
+        "clienteId": "cl01",
+        "id": "p1780559545145",
+        "creadoEn": "2026-06-04T07:52:25.145Z",
+        "creadoPor": "Yennyfer Lemus"
+      },
+      {
+        "nombre": "REQUERIMIENTO IP04",
+        "po": "",
+        "zona": "CATALUÑA",
+        "responsableBP": "Eduardo González",
+        "estacion": "BP BEGUES",
+        "clienteId": "cl01",
+        "id": "p1780559676255",
+        "creadoEn": "2026-06-04T07:54:36.255Z",
+        "creadoPor": "Yennyfer Lemus"
+      },
+      {
+        "nombre": "REQUERIMIENTO IP04",
+        "po": "",
+        "zona": "CATALUÑA",
+        "responsableBP": "Eduardo González",
+        "estacion": "BP DANI",
+        "clienteId": "cl01",
+        "id": "p1780559790557",
+        "creadoEn": "2026-06-04T07:56:30.557Z",
+        "creadoPor": "Yennyfer Lemus"
+      },
+      {
+        "nombre": "REQUERIMIENTO IP04",
+        "po": "",
+        "zona": "CATALUÑA",
+        "responsableBP": "Eduardo González",
+        "estacion": "BP BADANOR",
+        "clienteId": "cl01",
+        "id": "p1780559876751",
+        "creadoEn": "2026-06-04T07:57:56.751Z",
+        "creadoPor": "Yennyfer Lemus"
+      },
+      {
+        "nombre": "REQUERIMIENTO IP04",
+        "po": "",
+        "zona": "CATALUÑA",
+        "responsableBP": "Eduardo González",
+        "estacion": "BP MONTIGALA",
+        "clienteId": "cl01",
+        "id": "p1780559966682",
+        "creadoEn": "2026-06-04T07:59:26.682Z",
+        "creadoPor": "Yennyfer Lemus"
       }
     ],
     "na-v20-registros": [
@@ -611,6 +677,215 @@
             "conceptoId": "7.3",
             "cantidad": 1,
             "observaciones": "Comunicación modificaciones instalación mecánica"
+          }
+        ]
+      },
+      {
+        "proyectoId": "p1779438468314",
+        "conceptoId": "7.6",
+        "trabajador": "Yennyfer Lemus",
+        "fecha": "2026-05-21",
+        "observaciones": "Grupo: 1 actividades",
+        "cantidad": 1,
+        "capFiltro": "7",
+        "id": "r1779438583370",
+        "estado": "aprobado",
+        "precioManual": null,
+        "createdAt": "2026-05-22T08:29:43.370Z",
+        "creadoPor": "Yennyfer Lemus",
+        "esGrupo": true,
+        "lineasGrupo": [
+          {
+            "conceptoId": "7.6",
+            "cantidad": 1,
+            "observaciones": "Contestación Requerimiento para Cambio de Titularidad",
+            "certifAprobada": true,
+            "certifEnviada": true,
+            "cantCertif": 1
+          }
+        ],
+        "estadoCertif": "finalizado"
+      },
+      {
+        "proyectoId": "p1779883791414",
+        "conceptoId": "7.3",
+        "trabajador": "Yennyfer Lemus",
+        "fecha": "2026-05-29",
+        "observaciones": "Grupo: 2 actividades",
+        "cantidad": 1,
+        "searchPr": "pobla",
+        "capFiltro": "7",
+        "id": "r1780045061130",
+        "estado": "aprobado",
+        "precioManual": null,
+        "createdAt": "2026-05-29T08:57:41.130Z",
+        "creadoPor": "Yennyfer Lemus",
+        "esGrupo": true,
+        "lineasGrupo": [
+          {
+            "conceptoId": "7.3",
+            "cantidad": 1,
+            "observaciones": "Modicación de NIMA para dar de alta nuevo residuo"
+          },
+          {
+            "conceptoId": "7.7",
+            "cantidad": 1,
+            "observaciones": "Pago de tasas Industria (30,06 €)",
+            "descuento": 30.06
+          }
+        ]
+      },
+      {
+        "proyectoId": "p1780481389099",
+        "conceptoId": "7.6",
+        "trabajador": "Yennyfer Lemus",
+        "fecha": "2026-06-01",
+        "observaciones": "Grupo: 1 actividades",
+        "cantidad": 1,
+        "capFiltro": "7",
+        "id": "r1780559346457",
+        "estado": "pendiente",
+        "precioManual": null,
+        "createdAt": "2026-06-04T07:49:06.457Z",
+        "creadoPor": "Yennyfer Lemus",
+        "esGrupo": true,
+        "lineasGrupo": [
+          {
+            "conceptoId": "7.6",
+            "cantidad": 1,
+            "observaciones": "Responder Req Generalitat Cataluña"
+          }
+        ]
+      },
+      {
+        "proyectoId": "p1780559445776",
+        "conceptoId": "7.6",
+        "trabajador": "Yennyfer Lemus",
+        "fecha": "2026-06-01",
+        "observaciones": "Grupo: 1 actividades",
+        "cantidad": 1,
+        "capFiltro": "7",
+        "id": "r1780559503567",
+        "estado": "pendiente",
+        "precioManual": null,
+        "createdAt": "2026-06-04T07:51:43.567Z",
+        "creadoPor": "Yennyfer Lemus",
+        "esGrupo": true,
+        "lineasGrupo": [
+          {
+            "conceptoId": "7.6",
+            "cantidad": 1,
+            "observaciones": "Respuesta Req. Generalitat Cataluña-Bellaterra MD-"
+          }
+        ]
+      },
+      {
+        "proyectoId": "p1780559545145",
+        "conceptoId": "7.6",
+        "trabajador": "Yennyfer Lemus",
+        "fecha": "2026-06-01",
+        "observaciones": "Grupo: 1 actividades",
+        "cantidad": 1,
+        "capFiltro": "7",
+        "id": "r1780559594722",
+        "estado": "pendiente",
+        "precioManual": null,
+        "createdAt": "2026-06-04T07:53:14.722Z",
+        "creadoPor": "Yennyfer Lemus",
+        "esGrupo": true,
+        "lineasGrupo": [
+          {
+            "conceptoId": "7.6",
+            "cantidad": 1,
+            "observaciones": "Responder Req Generalitat Cataluña-Bellaterra MI"
+          }
+        ]
+      },
+      {
+        "proyectoId": "p1780559676255",
+        "conceptoId": "7.6",
+        "trabajador": "Yennyfer Lemus",
+        "fecha": "2026-06-02",
+        "observaciones": "Grupo: 1 actividades",
+        "cantidad": 1,
+        "capFiltro": "7",
+        "id": "r1780559696946",
+        "estado": "pendiente",
+        "precioManual": null,
+        "createdAt": "2026-06-04T07:54:56.946Z",
+        "creadoPor": "Yennyfer Lemus",
+        "esGrupo": true,
+        "lineasGrupo": [
+          {
+            "conceptoId": "7.6",
+            "cantidad": 1,
+            "observaciones": "Responder Req Generalitat Cataluña"
+          }
+        ]
+      },
+      {
+        "proyectoId": "p1780559790557",
+        "conceptoId": "7.6",
+        "trabajador": "Yennyfer Lemus",
+        "fecha": "2026-06-02",
+        "observaciones": "Grupo: 1 actividades",
+        "cantidad": 1,
+        "capFiltro": "7",
+        "id": "r1780559810182",
+        "estado": "pendiente",
+        "precioManual": null,
+        "createdAt": "2026-06-04T07:56:50.183Z",
+        "creadoPor": "Yennyfer Lemus",
+        "esGrupo": true,
+        "lineasGrupo": [
+          {
+            "conceptoId": "7.6",
+            "cantidad": 1,
+            "observaciones": "Responder Req Generalitat Cataluña"
+          }
+        ]
+      },
+      {
+        "proyectoId": "p1780559876751",
+        "conceptoId": "7.6",
+        "trabajador": "Yennyfer Lemus",
+        "fecha": "2026-06-02",
+        "observaciones": "Grupo: 1 actividades",
+        "cantidad": 1,
+        "capFiltro": "7",
+        "id": "r1780559897767",
+        "estado": "pendiente",
+        "precioManual": null,
+        "createdAt": "2026-06-04T07:58:17.767Z",
+        "creadoPor": "Yennyfer Lemus",
+        "esGrupo": true,
+        "lineasGrupo": [
+          {
+            "conceptoId": "7.6",
+            "cantidad": 1,
+            "observaciones": "Responder Req Generalitat Cataluña"
+          }
+        ]
+      },
+      {
+        "proyectoId": "p1780559966682",
+        "conceptoId": "7.6",
+        "trabajador": "Yennyfer Lemus",
+        "fecha": "2026-06-02",
+        "observaciones": "Grupo: 1 actividades",
+        "cantidad": 1,
+        "capFiltro": "7",
+        "id": "r1780559996680",
+        "estado": "pendiente",
+        "precioManual": null,
+        "createdAt": "2026-06-04T07:59:56.680Z",
+        "creadoPor": "Yennyfer Lemus",
+        "esGrupo": true,
+        "lineasGrupo": [
+          {
+            "conceptoId": "7.6",
+            "cantidad": 1,
+            "observaciones": "Responder Req Generalitat Cataluña"
           }
         ]
       },
@@ -1680,61 +1955,6 @@
             "conceptoId": "8.7",
             "cantidad": 1,
             "observaciones": "Localización de documentación para justificar deficiencia periódica IP04"
-          }
-        ]
-      },
-      {
-        "proyectoId": "p1779438468314",
-        "conceptoId": "7.6",
-        "trabajador": "Yennyfer Lemus",
-        "fecha": "2026-05-21",
-        "observaciones": "Grupo: 1 actividades",
-        "cantidad": 1,
-        "capFiltro": "7",
-        "id": "r1779438583370",
-        "estado": "aprobado",
-        "precioManual": null,
-        "createdAt": "2026-05-22T08:29:43.370Z",
-        "creadoPor": "Yennyfer Lemus",
-        "esGrupo": true,
-        "lineasGrupo": [
-          {
-            "conceptoId": "7.6",
-            "cantidad": 1,
-            "observaciones": "Contestación Requerimiento para Cambio de Titularidad",
-            "certifAprobada": true,
-            "certifEnviada": true,
-            "cantCertif": 1
-          }
-        ],
-        "estadoCertif": "finalizado"
-      },
-      {
-        "proyectoId": "p1779883791414",
-        "conceptoId": "7.3",
-        "trabajador": "Yennyfer Lemus",
-        "fecha": "2026-05-29",
-        "observaciones": "Grupo: 2 actividades",
-        "cantidad": 1,
-        "searchPr": "pobla",
-        "capFiltro": "7",
-        "id": "r1780045061130",
-        "estado": "aprobado",
-        "precioManual": null,
-        "createdAt": "2026-05-29T08:57:41.130Z",
-        "creadoPor": "Yennyfer Lemus",
-        "esGrupo": true,
-        "lineasGrupo": [
-          {
-            "conceptoId": "7.3",
-            "cantidad": 1,
-            "observaciones": "Modicación de NIMA para dar de alta nuevo residuo"
-          },
-          {
-            "conceptoId": "7.7",
-            "cantidad": 1,
-            "observaciones": "Pago de tasas Industria (30,06 €)",
-            "descuento": 30.06
           }
         ]
       },
@@ -6241,6 +6461,7 @@
       "BP AV DAROCA",
       "BP BADALONA",
       "BP BADANOR",
+      "BP BEGUES",
       "BP BELLATERRA",
       "BP BILBAO AEROPUERTO",
       "BP BLANCO I",
@@ -6277,6 +6498,7 @@
       "BP MAQUEDA",
       "BP MARÍA",
       "BP MECO",
+      "BP MONTIGALA",
       "BP MONTSENY",
       "BP MONTSERRAT CIBRIÁN",
       "BP OLABERRÍA",
@@ -6332,6 +6554,27 @@
       }
     ],
     "na-v25-hsse-sups": [
+      {
+        "site": "BP BADALONA",
+        "tipoActividad": "Obra menor mantenimiento",
+        "pctAuditoria": "100",
+        "obraConSupervision": "Sí",
+        "fecha": "2026-06-03",
+        "horas": "8",
+        "horasOrig": "8",
+        "horasAdmin": "8",
+        "supervisor": "Carlos García",
+        "encargo": "Concepción Gutierrez",
+        "zona": "CATALUÑA",
+        "incidencias": "No",
+        "motivoSupervision": "ENTRADA EN ESPACIO CONFINADO",
+        "empresa": "PETROSUPORT",
+        "comentarios": "LIMPIEZA DE ARQUETAS",
+        "id": "hs_1780549509186",
+        "estado": "pendiente",
+        "creadoPor": "Carlos García",
+        "fechaCreacion": "2026-06-04T05:05:09.186Z"
+      },
       {
         "site": "BP BADANOR",
         "tipoActividad": "Obra mayor",
