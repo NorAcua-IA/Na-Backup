@@ -1,5 +1,5 @@
 {
-  "fecha": "2026-06-04T09:27:28.305Z",
+  "fecha": "2026-06-04T09:49:36.792Z",
   "version": "2.7",
   "datos": {
     "na-v20-proyectos": [
@@ -842,6 +842,28 @@
         "id": "p1780562501868",
         "creadoEn": "2026-06-04T08:41:41.868Z",
         "creadoPor": "Yennyfer Lemus"
+      },
+      {
+        "nombre": "BAJA ESTACIÓN DE SERVICIO",
+        "po": "",
+        "zona": "NORTE",
+        "responsableBP": "Concepción Gutierrez",
+        "estacion": "BRIVIESCA I",
+        "clienteId": "cl01",
+        "id": "p1780566187701",
+        "creadoEn": "2026-06-04T09:43:07.701Z",
+        "creadoPor": "Jordi Santos"
+      },
+      {
+        "nombre": "ACTUALIZACIÓN REIC",
+        "po": "",
+        "zona": "NORTE",
+        "responsableBP": "Carmen de Antonio",
+        "estacion": "BRIVIESCA II",
+        "clienteId": "cl01",
+        "id": "p1780566256406",
+        "creadoEn": "2026-06-04T09:44:16.406Z",
+        "creadoPor": "Jordi Santos"
       }
     ],
     "na-v20-registros": [
@@ -1964,6 +1986,53 @@
         ]
       },
       {
+        "proyectoId": "p1780566256406",
+        "conceptoId": "7.3",
+        "trabajador": "Jordi Santos",
+        "fecha": "2026-06-04",
+        "observaciones": "Grupo: 1 actividades",
+        "cantidad": 1,
+        "id": "r1780566324086",
+        "estado": "pendiente",
+        "precioManual": null,
+        "createdAt": "2026-06-04T09:45:24.086Z",
+        "creadoPor": "Jordi Santos",
+        "esGrupo": true,
+        "lineasGrupo": [
+          {
+            "conceptoId": "7.3",
+            "cantidad": 1,
+            "observaciones": "Actualización del REIC con SDF y baja margen puesto fuera servicio"
+          }
+        ]
+      },
+      {
+        "proyectoId": "p1780566187701",
+        "conceptoId": "1.2",
+        "trabajador": "Jordi Santos",
+        "fecha": "2026-06-04",
+        "observaciones": "Grupo: 2 actividades",
+        "cantidad": 1,
+        "id": "r1780566468598",
+        "estado": "pendiente",
+        "precioManual": null,
+        "createdAt": "2026-06-04T09:47:48.598Z",
+        "creadoPor": "Jordi Santos",
+        "esGrupo": true,
+        "lineasGrupo": [
+          {
+            "conceptoId": "1.2",
+            "cantidad": 1,
+            "observaciones": "Proyecto para baja de estación de servicio en Industria"
+          },
+          {
+            "conceptoId": "7.5",
+            "cantidad": 1,
+            "observaciones": "Comunicación de la baja en Industria"
+          }
+        ]
+      },
+      {
         "proyectoId": "p1779438468314",
         "conceptoId": "7.6",
         "trabajador": "Yennyfer Lemus",
@@ -2059,7 +2128,7 @@
           {
             "conceptoId": "7.6",
             "cantidad": 1,
-            "observaciones": "Respuesta Req. Generalitat Cataluña-Bellaterra MI",
+            "observaciones": "Respuesta Req. Generalitat Cataluña-Bellaterra MD",
             "descuento": 15
           }
         ]
@@ -2073,7 +2142,7 @@
         "cantidad": 1,
         "capFiltro": "7",
         "id": "r1780559594722",
-        "estado": "pendiente",
+        "estado": "aprobado",
         "precioManual": null,
         "createdAt": "2026-06-04T07:53:14.722Z",
         "creadoPor": "Yennyfer Lemus",
@@ -7144,6 +7213,8 @@
       "BP VILLAMANTA",
       "BP VÍA FAVENCIA",
       "BP VÍA NORTE",
+      "BRIVIESCA I",
+      "BRIVIESCA II",
       "CF DENIA",
       "CF SAGUNTO",
       "OFICINA"
