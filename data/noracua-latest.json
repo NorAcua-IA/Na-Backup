@@ -1,5 +1,5 @@
 {
-  "fecha": "2026-06-04T09:15:02.901Z",
+  "fecha": "2026-06-04T09:20:21.405Z",
   "version": "2.7",
   "datos": {
     "na-v20-proyectos": [
@@ -771,7 +771,7 @@
         "po": "",
         "zona": "CATALUÑA",
         "responsableBP": "Eduardo González",
-        "estacion": "BP LA BOBILA",
+        "estacion": "BP LA BÓBILA",
         "clienteId": "cl01",
         "id": "p1780562135495",
         "creadoEn": "2026-06-04T08:35:35.495Z",
@@ -2082,7 +2082,8 @@
           {
             "conceptoId": "7.6",
             "cantidad": 1,
-            "observaciones": "Responder Req Generalitat Cataluña-Bellaterra MI"
+            "observaciones": "Responder Req Generalitat Cataluña-Bellaterra MI",
+            "descuento": 15
           }
         ]
       },
@@ -2187,7 +2188,7 @@
         "cantidad": 1,
         "capFiltro": "7",
         "id": "r1780560348620",
-        "estado": "pendiente",
+        "estado": "aprobado",
         "precioManual": null,
         "createdAt": "2026-06-04T08:05:48.620Z",
         "creadoPor": "Yennyfer Lemus",
@@ -2196,7 +2197,8 @@
           {
             "conceptoId": "7.6",
             "cantidad": 1,
-            "observaciones": "Responder Req Generalitat Cataluña"
+            "observaciones": "Responder Req Generalitat Cataluña",
+            "descuento": 15
           }
         ]
       },
@@ -2209,7 +2211,7 @@
         "cantidad": 1,
         "capFiltro": "7",
         "id": "r1780561125848",
-        "estado": "pendiente",
+        "estado": "aprobado",
         "precioManual": null,
         "createdAt": "2026-06-04T08:18:45.848Z",
         "creadoPor": "Yennyfer Lemus",
@@ -2218,7 +2220,8 @@
           {
             "conceptoId": "7.6",
             "cantidad": 1,
-            "observaciones": "Responder Req Generalitat Cataluña"
+            "observaciones": "Responder Req Generalitat Cataluña",
+            "descuento": 15
           }
         ]
       },
@@ -2231,7 +2234,7 @@
         "cantidad": 1,
         "capFiltro": "7",
         "id": "r1780561248465",
-        "estado": "pendiente",
+        "estado": "aprobado",
         "precioManual": null,
         "createdAt": "2026-06-04T08:20:48.465Z",
         "creadoPor": "Yennyfer Lemus",
@@ -2240,7 +2243,8 @@
           {
             "conceptoId": "7.6",
             "cantidad": 1,
-            "observaciones": "Responder Req Generalitat Cataluña"
+            "observaciones": "Responder Req Generalitat Cataluña",
+            "descuento": 15
           }
         ]
       },
@@ -2253,7 +2257,7 @@
         "cantidad": 1,
         "capFiltro": "7",
         "id": "r1780561427904",
-        "estado": "pendiente",
+        "estado": "aprobado",
         "precioManual": null,
         "createdAt": "2026-06-04T08:23:47.904Z",
         "creadoPor": "Yennyfer Lemus",
@@ -2262,7 +2266,8 @@
           {
             "conceptoId": "7.6",
             "cantidad": 1,
-            "observaciones": "Responder Req Generalitat Cataluña-Vilanova (Av. Eduardo Toldrá)"
+            "observaciones": "Responder Req Generalitat Cataluña-Vilanova (Av. Eduardo Toldrá)",
+            "descuento": 15
           }
         ]
       },
@@ -2275,7 +2280,7 @@
         "cantidad": 1,
         "capFiltro": "7",
         "id": "r1780561571922",
-        "estado": "pendiente",
+        "estado": "aprobado",
         "precioManual": null,
         "createdAt": "2026-06-04T08:26:11.922Z",
         "creadoPor": "Yennyfer Lemus",
@@ -2284,7 +2289,8 @@
           {
             "conceptoId": "7.6",
             "cantidad": 1,
-            "observaciones": "Responder Req Generalitat Cataluña"
+            "observaciones": "Responder Req Generalitat Cataluña",
+            "descuento": 15
           }
         ]
       },
@@ -2297,7 +2303,7 @@
         "cantidad": 1,
         "capFiltro": "7",
         "id": "r1780561689704",
-        "estado": "pendiente",
+        "estado": "aprobado",
         "precioManual": null,
         "createdAt": "2026-06-04T08:28:09.704Z",
         "creadoPor": "Yennyfer Lemus",
@@ -2306,7 +2312,8 @@
           {
             "conceptoId": "7.6",
             "cantidad": 1,
-            "observaciones": "Responder Req Generalitat Cataluña"
+            "observaciones": "Responder Req Generalitat Cataluña",
+            "descuento": 15
           }
         ]
       },
@@ -2319,7 +2326,7 @@
         "cantidad": 1,
         "capFiltro": "7",
         "id": "r1780561762499",
-        "estado": "pendiente",
+        "estado": "aprobado",
         "precioManual": null,
         "createdAt": "2026-06-04T08:29:22.499Z",
         "creadoPor": "Yennyfer Lemus",
@@ -2328,7 +2335,8 @@
           {
             "conceptoId": "7.6",
             "cantidad": 1,
-            "observaciones": "Responder Req Generalitat Cataluña"
+            "observaciones": "Responder Req Generalitat Cataluña",
+            "descuento": 15
           }
         ]
       },
@@ -2341,7 +2349,7 @@
         "cantidad": 1,
         "capFiltro": "7",
         "id": "r1780561868235",
-        "estado": "pendiente",
+        "estado": "aprobado",
         "precioManual": null,
         "createdAt": "2026-06-04T08:31:08.235Z",
         "creadoPor": "Yennyfer Lemus",
@@ -2350,7 +2358,8 @@
           {
             "conceptoId": "7.6",
             "cantidad": 1,
-            "observaciones": "Responder Req Generalitat Cataluña"
+            "observaciones": "Responder Req Generalitat Cataluña",
+            "descuento": 15
           }
         ]
       },
@@ -2363,7 +2372,7 @@
         "cantidad": 1,
         "capFiltro": "7",
         "id": "r1780561979932",
-        "estado": "pendiente",
+        "estado": "aprobado",
         "precioManual": null,
         "createdAt": "2026-06-04T08:32:59.932Z",
         "creadoPor": "Yennyfer Lemus",
@@ -2372,7 +2381,8 @@
           {
             "conceptoId": "7.6",
             "cantidad": 1,
-            "observaciones": "Responder Req Generalitat Cataluña"
+            "observaciones": "Responder Req Generalitat Cataluña",
+            "descuento": 15
           }
         ]
       },
@@ -2385,7 +2395,7 @@
         "cantidad": 1,
         "capFiltro": "7",
         "id": "r1780562052568",
-        "estado": "pendiente",
+        "estado": "aprobado",
         "precioManual": null,
         "createdAt": "2026-06-04T08:34:12.568Z",
         "creadoPor": "Yennyfer Lemus",
@@ -2394,7 +2404,8 @@
           {
             "conceptoId": "7.6",
             "cantidad": 1,
-            "observaciones": "Responder Req Generalitat Cataluña"
+            "observaciones": "Responder Req Generalitat Cataluña",
+            "descuento": 15
           }
         ]
       },
@@ -2416,7 +2427,8 @@
           {
             "conceptoId": "7.6",
             "cantidad": 1,
-            "observaciones": "Responder Req Generalitat Cataluña"
+            "observaciones": "Responder Req Generalitat Cataluña",
+            "descuento": 15
           }
         ]
       },
@@ -2438,7 +2450,8 @@
           {
             "conceptoId": "7.6",
             "cantidad": 1,
-            "observaciones": "Responder Req Generalitat Cataluña"
+            "observaciones": "Responder Req Generalitat Cataluña",
+            "descuento": 15
           }
         ]
       },
@@ -2460,7 +2473,8 @@
           {
             "conceptoId": "7.6",
             "cantidad": 1,
-            "observaciones": "Responder Req Generalitat Cataluña"
+            "observaciones": "Responder Req Generalitat Cataluña",
+            "descuento": 15
           }
         ]
       },
@@ -2482,7 +2496,8 @@
           {
             "conceptoId": "7.6",
             "cantidad": 1,
-            "observaciones": "Responder Req Generalitat Cataluña"
+            "observaciones": "Responder Req Generalitat Cataluña",
+            "descuento": 15
           }
         ]
       },
@@ -2504,7 +2519,8 @@
           {
             "conceptoId": "7.6",
             "cantidad": 1,
-            "observaciones": "Responder Req Generalitat Cataluña"
+            "observaciones": "Responder Req Generalitat Cataluña",
+            "descuento": 15
           }
         ]
       },
@@ -2526,7 +2542,8 @@
           {
             "conceptoId": "7.6",
             "cantidad": 1,
-            "observaciones": "Responder Req Generalitat Cataluña"
+            "observaciones": "Responder Req Generalitat Cataluña",
+            "descuento": 15
           }
         ]
       },
@@ -2548,7 +2565,8 @@
           {
             "conceptoId": "7.6",
             "cantidad": 1,
-            "observaciones": "Responder Req Generalitat Cataluña"
+            "observaciones": "Responder Req Generalitat Cataluña",
+            "descuento": 15
           }
         ]
       },
@@ -7087,7 +7105,7 @@
       "BP ILLESCAS",
       "BP INURSA MD",
       "BP JORDÁN",
-      "BP LA BOBILA",
+      "BP LA BÓBILA",
       "BP LA CREUETA",
       "BP LEÓN TROBAJO MD",
       "BP LEÓN TROBAJO MI",
