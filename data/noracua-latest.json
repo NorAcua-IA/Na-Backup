@@ -1,5 +1,5 @@
 {
-  "fecha": "2026-06-04T09:14:33.258Z",
+  "fecha": "2026-06-04T09:14:42.571Z",
   "version": "2.7",
   "datos": {
     "na-v20-proyectos": [
@@ -657,7 +657,7 @@
         "creadoPor": "Yennyfer Lemus"
       },
       {
-        "nombre": "RESPUESTA REQUERIMIENTO IP04",
+        "nombre": "REQUERIMIENTO IP04",
         "po": "",
         "zona": "CATALUÑA",
         "responsableBP": "Eduardo González",
