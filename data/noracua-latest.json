@@ -1,5 +1,5 @@
 {
-  "fecha": "2026-06-05T11:30:30.136Z",
+  "fecha": "2026-06-05T12:48:49.688Z",
   "version": "2.7",
   "datos": {
     "na-v20-proyectos": [
@@ -908,6 +908,17 @@
         "id": "p1780568401519",
         "creadoEn": "2026-06-04T10:20:01.519Z",
         "creadoPor": "Yennyfer Lemus"
+      },
+      {
+        "nombre": "TOPOGRAFÍA PARA CATASTRO",
+        "po": "",
+        "zona": "CATALUÑA",
+        "responsableBP": "Gabriel Mondejar",
+        "estacion": "BP RIBAS LA COMETA",
+        "clienteId": "cl01",
+        "id": "p1780661994855",
+        "creadoEn": "2026-06-05T12:19:54.855Z",
+        "creadoPor": "Jordi Santos"
       }
     ],
     "na-v20-registros": [
@@ -2131,6 +2142,28 @@
             "conceptoId": "2.3",
             "cantidad": 1,
             "observaciones": "Informe de estructuristas con solución técnica "
+          }
+        ]
+      },
+      {
+        "proyectoId": "p1780661994855",
+        "conceptoId": "5.1c",
+        "trabajador": "Jordi Santos",
+        "fecha": "2026-06-05",
+        "observaciones": "Grupo: 1 actividades",
+        "cantidad": 1,
+        "searchPr": "ribas la",
+        "id": "r1780662089301",
+        "estado": "pendiente",
+        "precioManual": null,
+        "createdAt": "2026-06-05T12:21:29.301Z",
+        "creadoPor": "Jordi Santos",
+        "esGrupo": true,
+        "lineasGrupo": [
+          {
+            "conceptoId": "5.1c",
+            "cantidad": 1,
+            "observaciones": "Topografía para catastro"
           }
         ]
       },
@@ -5303,6 +5336,35 @@
       }
     ],
     "na-v21-ofertas": [
+      {
+        "id": "o1780659356493",
+        "numero": "026-26",
+        "asunto": "BP LEVANTAMIENTO TOPOGRÁFICO",
+        "version": 1,
+        "referencia": "BP-LT-050626-v1",
+        "fecha": "2026-06-05",
+        "emplazamiento": "BP RIBAS LA COMETA",
+        "zona": "CATALUÑA",
+        "clienteId": "cl01",
+        "firmanteCliente": "D. Gabriel Mondejar",
+        "firmanteNorAcua": "D. Daniel Romero",
+        "formaPago": "Según contrato",
+        "estado": "Enviada",
+        "nota": "",
+        "lineas": [
+          {
+            "id": "lo1780659354503",
+            "conceptoId": "5.1b",
+            "cantidad": 1,
+            "precioUnit": 1000,
+            "descuento": 0,
+            "total": 1000
+          }
+        ],
+        "proyectoId": "p1780659023921",
+        "propuestaPor": null,
+        "creadoEn": "2026-06-05T11:35:56.493Z"
+      },
       {
         "id": "o1780075773625",
         "numero": "029-26",
