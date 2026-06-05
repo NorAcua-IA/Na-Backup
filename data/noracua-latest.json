@@ -1,5 +1,5 @@
 {
-  "fecha": "2026-06-05T08:56:51.757Z",
+  "fecha": "2026-06-05T09:43:57.142Z",
   "version": "2.7",
   "datos": {
     "na-v20-proyectos": [
@@ -3101,7 +3101,7 @@
             "iva": 21
           }
         ],
-        "estado": "Enviada",
+        "estado": "Cobrada",
         "poRef": "Oferta: 027/25",
         "creadoEn": "2026-05-21T18:58:58.000Z"
       },
@@ -7278,6 +7278,48 @@
       }
     ],
     "na-v25-hsse-sups": [
+      {
+        "site": "BP MONTIGALA",
+        "tipoActividad": "Obra menor mantenimiento",
+        "pctAuditoria": "100",
+        "obraConSupervision": "Sí",
+        "fecha": "2026-06-04",
+        "horas": "5",
+        "horasOrig": "5",
+        "horasAdmin": "5",
+        "supervisor": "Carlos García",
+        "encargo": "Concepción Gutierrez",
+        "zona": "CATALUÑA",
+        "incidencias": "No",
+        "motivoSupervision": "ENTRADA EN ESPACIO CONFINADO",
+        "empresa": "RAFIBRA ",
+        "comentarios": "PRUEBA DE ESTANQUIEDAD A TUBERIAS DE VENTEOS",
+        "id": "hs_1780652125905",
+        "estado": "pendiente",
+        "creadoPor": "Carlos García",
+        "fechaCreacion": "2026-06-05T09:35:25.905Z"
+      },
+      {
+        "site": "BP EL PRAT",
+        "tipoActividad": "Obra menor mantenimiento",
+        "pctAuditoria": "100",
+        "obraConSupervision": "Sí",
+        "fecha": "2026-06-04",
+        "horas": "5",
+        "horasOrig": "5",
+        "horasAdmin": "5",
+        "supervisor": "Carlos García",
+        "encargo": "Concepción Gutierrez",
+        "zona": "CATALUÑA",
+        "incidencias": "No",
+        "motivoSupervision": "ENTRADA EN ESPACIO CONFINADO",
+        "empresa": "RAFIBRA",
+        "comentarios": "PRUEBA DE ESTANQUIEDAD A VENTEOS",
+        "id": "hs_1780652060059",
+        "estado": "pendiente",
+        "creadoPor": "Carlos García",
+        "fechaCreacion": "2026-06-05T09:34:20.059Z"
+      },
       {
         "site": "BP BADALONA",
         "tipoActividad": "Obra menor mantenimiento",
