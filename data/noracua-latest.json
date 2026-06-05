@@ -1,5 +1,5 @@
 {
-  "fecha": "2026-06-05T11:29:11.502Z",
+  "fecha": "2026-06-05T11:30:30.136Z",
   "version": "2.7",
   "datos": {
     "na-v20-proyectos": [
@@ -886,6 +886,17 @@
         "id": "p1780657008965",
         "creadoEn": "2026-06-05T10:56:48.965Z",
         "creadoPor": "Jordi Santos"
+      },
+      {
+        "nombre": "TOPOGÁFICO",
+        "po": "",
+        "zona": "CATALUÑA",
+        "responsableBP": "Gabriel Mondejar",
+        "estacion": "BP RIBAS LA COMETA",
+        "clienteId": "cl01",
+        "id": "p1780659023921",
+        "creadoEn": "2026-06-05T11:30:23.921Z",
+        "creadoPor": "Daniel"
       },
       {
         "nombre": "LICENCIA OBRA-RECOGIDA AGUAS HC",
@@ -7250,6 +7261,10 @@
       {
         "nombre": "Guiomar Tuero",
         "sexo": "F"
+      },
+      {
+        "nombre": "Gabriel Mondejar",
+        "sexo": "M"
       }
     ],
     "na-v20-estaciones": [
