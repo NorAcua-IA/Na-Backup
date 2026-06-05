@@ -1,5 +1,5 @@
 {
-  "fecha": "2026-06-05T11:09:00.137Z",
+  "fecha": "2026-06-05T11:10:31.972Z",
   "version": "2.7",
   "datos": {
     "na-v20-proyectos": [
@@ -866,17 +866,6 @@
         "creadoPor": "Jordi Santos"
       },
       {
-        "nombre": "LICENCIA OBRA-RECOGIDA AGUAS HC",
-        "po": "",
-        "zona": "NORTE",
-        "responsableBP": "Concepción Gutierrez",
-        "estacion": "BP CASTRO URDIALES",
-        "clienteId": "cl01",
-        "id": "p1780568401519",
-        "creadoEn": "2026-06-04T10:20:01.519Z",
-        "creadoPor": "Yennyfer Lemus"
-      },
-      {
         "nombre": "VERTIDOS",
         "po": "",
         "zona": "BALEARES",
@@ -897,6 +886,17 @@
         "id": "p1780657008965",
         "creadoEn": "2026-06-05T10:56:48.965Z",
         "creadoPor": "Jordi Santos"
+      },
+      {
+        "nombre": "LICENCIA OBRA-RECOGIDA AGUAS HC",
+        "po": "",
+        "zona": "NORTE",
+        "responsableBP": "Concepción Gutierrez",
+        "estacion": "BP CASTRO URDIALES",
+        "clienteId": "cl01",
+        "id": "p1780568401519",
+        "creadoEn": "2026-06-04T10:20:01.519Z",
+        "creadoPor": "Yennyfer Lemus"
       }
     ],
     "na-v20-registros": [
