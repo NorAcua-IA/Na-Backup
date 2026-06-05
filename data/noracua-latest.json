@@ -1,5 +1,5 @@
 {
-  "fecha": "2026-06-05T09:43:57.142Z",
+  "fecha": "2026-06-05T10:56:43.241Z",
   "version": "2.7",
   "datos": {
     "na-v20-proyectos": [
@@ -875,6 +875,17 @@
         "id": "p1780568401519",
         "creadoEn": "2026-06-04T10:20:01.519Z",
         "creadoPor": "Yennyfer Lemus"
+      },
+      {
+        "nombre": "INFORME ESTADO RED RECOGIDA AGUAS",
+        "po": "",
+        "zona": "BALEARES",
+        "responsableBP": "Guiomar Tuero",
+        "estacion": "BP SANTA EULALIA",
+        "clienteId": "cl01",
+        "id": "p1780656834711",
+        "creadoEn": "2026-06-05T10:53:54.711Z",
+        "creadoPor": "Jordi Santos"
       }
     ],
     "na-v20-registros": [
@@ -899,636 +910,6 @@
             "observaciones": "Comunicación modificaciones instalación mecánica"
           }
         ]
-      },
-      {
-        "proyectoId": "p1779438468314",
-        "conceptoId": "7.6",
-        "trabajador": "Yennyfer Lemus",
-        "fecha": "2026-05-21",
-        "observaciones": "Grupo: 1 actividades",
-        "cantidad": 1,
-        "capFiltro": "7",
-        "id": "r1779438583370",
-        "estado": "aprobado",
-        "precioManual": null,
-        "createdAt": "2026-05-22T08:29:43.370Z",
-        "creadoPor": "Yennyfer Lemus",
-        "esGrupo": true,
-        "lineasGrupo": [
-          {
-            "conceptoId": "7.6",
-            "cantidad": 1,
-            "observaciones": "Contestación Requerimiento para Cambio de Titularidad",
-            "certifAprobada": true,
-            "certifEnviada": true,
-            "cantCertif": 1
-          }
-        ],
-        "estadoCertif": "finalizado"
-      },
-      {
-        "proyectoId": "p1779883791414",
-        "conceptoId": "7.3",
-        "trabajador": "Yennyfer Lemus",
-        "fecha": "2026-05-29",
-        "observaciones": "Grupo: 2 actividades",
-        "cantidad": 1,
-        "searchPr": "pobla",
-        "capFiltro": "7",
-        "id": "r1780045061130",
-        "estado": "aprobado",
-        "precioManual": null,
-        "createdAt": "2026-05-29T08:57:41.130Z",
-        "creadoPor": "Yennyfer Lemus",
-        "esGrupo": true,
-        "lineasGrupo": [
-          {
-            "conceptoId": "7.3",
-            "cantidad": 1,
-            "observaciones": "Modicación de NIMA para dar de alta nuevo residuo"
-          },
-          {
-            "conceptoId": "7.7",
-            "cantidad": 1,
-            "observaciones": "Pago de tasas Industria (30,06 €)",
-            "descuento": 30.06
-          }
-        ]
-      },
-      {
-        "proyectoId": "p1780481389099",
-        "conceptoId": "7.6",
-        "trabajador": "Yennyfer Lemus",
-        "fecha": "2026-06-01",
-        "observaciones": "Grupo: 1 actividades",
-        "cantidad": 1,
-        "capFiltro": "7",
-        "id": "r1780559346457",
-        "estado": "aprobado",
-        "precioManual": null,
-        "createdAt": "2026-06-04T07:49:06.457Z",
-        "creadoPor": "Yennyfer Lemus",
-        "esGrupo": true,
-        "lineasGrupo": [
-          {
-            "conceptoId": "7.6",
-            "cantidad": 1,
-            "observaciones": "Responder Req Generalitat Cataluña",
-            "descuento": 15
-          }
-        ]
-      },
-      {
-        "proyectoId": "p1780559445776",
-        "conceptoId": "7.6",
-        "trabajador": "Yennyfer Lemus",
-        "fecha": "2026-06-01",
-        "observaciones": "Grupo: 1 actividades",
-        "cantidad": 1,
-        "capFiltro": "7",
-        "id": "r1780559503567",
-        "estado": "aprobado",
-        "precioManual": null,
-        "createdAt": "2026-06-04T07:51:43.567Z",
-        "creadoPor": "Yennyfer Lemus",
-        "esGrupo": true,
-        "lineasGrupo": [
-          {
-            "conceptoId": "7.6",
-            "cantidad": 1,
-            "observaciones": "Respuesta Req. Generalitat Cataluña-Bellaterra MD",
-            "descuento": 15
-          }
-        ]
-      },
-      {
-        "proyectoId": "p1780559545145",
-        "conceptoId": "7.6",
-        "trabajador": "Yennyfer Lemus",
-        "fecha": "2026-06-01",
-        "observaciones": "Grupo: 1 actividades",
-        "cantidad": 1,
-        "capFiltro": "7",
-        "id": "r1780559594722",
-        "estado": "aprobado",
-        "precioManual": null,
-        "createdAt": "2026-06-04T07:53:14.722Z",
-        "creadoPor": "Yennyfer Lemus",
-        "esGrupo": true,
-        "lineasGrupo": [
-          {
-            "conceptoId": "7.6",
-            "cantidad": 1,
-            "observaciones": "Responder Req Generalitat Cataluña-Bellaterra MI",
-            "descuento": 15
-          }
-        ]
-      },
-      {
-        "proyectoId": "p1780559676255",
-        "conceptoId": "7.6",
-        "trabajador": "Yennyfer Lemus",
-        "fecha": "2026-06-02",
-        "observaciones": "Grupo: 1 actividades",
-        "cantidad": 1,
-        "capFiltro": "7",
-        "id": "r1780559696946",
-        "estado": "aprobado",
-        "precioManual": null,
-        "createdAt": "2026-06-04T07:54:56.946Z",
-        "creadoPor": "Yennyfer Lemus",
-        "esGrupo": true,
-        "lineasGrupo": [
-          {
-            "conceptoId": "7.6",
-            "cantidad": 1,
-            "observaciones": "Responder Req Generalitat Cataluña",
-            "descuento": 15
-          }
-        ]
-      },
-      {
-        "proyectoId": "p1780559790557",
-        "conceptoId": "7.6",
-        "trabajador": "Yennyfer Lemus",
-        "fecha": "2026-06-02",
-        "observaciones": "Grupo: 1 actividades",
-        "cantidad": 1,
-        "capFiltro": "7",
-        "id": "r1780559810182",
-        "estado": "aprobado",
-        "precioManual": null,
-        "createdAt": "2026-06-04T07:56:50.183Z",
-        "creadoPor": "Yennyfer Lemus",
-        "esGrupo": true,
-        "lineasGrupo": [
-          {
-            "conceptoId": "7.6",
-            "cantidad": 1,
-            "observaciones": "Responder Req Generalitat Cataluña",
-            "descuento": 15
-          }
-        ]
-      },
-      {
-        "proyectoId": "p1780559876751",
-        "conceptoId": "7.6",
-        "trabajador": "Yennyfer Lemus",
-        "fecha": "2026-06-02",
-        "observaciones": "Grupo: 1 actividades",
-        "cantidad": 1,
-        "capFiltro": "7",
-        "id": "r1780559897767",
-        "estado": "aprobado",
-        "precioManual": null,
-        "createdAt": "2026-06-04T07:58:17.767Z",
-        "creadoPor": "Yennyfer Lemus",
-        "esGrupo": true,
-        "lineasGrupo": [
-          {
-            "conceptoId": "7.6",
-            "cantidad": 1,
-            "observaciones": "Responder Req Generalitat Cataluña",
-            "descuento": 15
-          }
-        ]
-      },
-      {
-        "proyectoId": "p1780559966682",
-        "conceptoId": "7.6",
-        "trabajador": "Yennyfer Lemus",
-        "fecha": "2026-06-02",
-        "observaciones": "Grupo: 1 actividades",
-        "cantidad": 1,
-        "capFiltro": "7",
-        "id": "r1780559996680",
-        "estado": "aprobado",
-        "precioManual": null,
-        "createdAt": "2026-06-04T07:59:56.680Z",
-        "creadoPor": "Yennyfer Lemus",
-        "esGrupo": true,
-        "lineasGrupo": [
-          {
-            "conceptoId": "7.6",
-            "cantidad": 1,
-            "observaciones": "Responder Req Generalitat Cataluña",
-            "descuento": 15
-          }
-        ]
-      },
-      {
-        "proyectoId": "p1780560322612",
-        "conceptoId": "7.6",
-        "trabajador": "Yennyfer Lemus",
-        "fecha": "2026-06-02",
-        "observaciones": "Grupo: 1 actividades",
-        "cantidad": 1,
-        "capFiltro": "7",
-        "id": "r1780560348620",
-        "estado": "aprobado",
-        "precioManual": null,
-        "createdAt": "2026-06-04T08:05:48.620Z",
-        "creadoPor": "Yennyfer Lemus",
-        "esGrupo": true,
-        "lineasGrupo": [
-          {
-            "conceptoId": "7.6",
-            "cantidad": 1,
-            "observaciones": "Responder Req Generalitat Cataluña",
-            "descuento": 15
-          }
-        ]
-      },
-      {
-        "proyectoId": "p1780561095633",
-        "conceptoId": "7.6",
-        "trabajador": "Yennyfer Lemus",
-        "fecha": "2026-06-02",
-        "observaciones": "Grupo: 1 actividades",
-        "cantidad": 1,
-        "capFiltro": "7",
-        "id": "r1780561125848",
-        "estado": "aprobado",
-        "precioManual": null,
-        "createdAt": "2026-06-04T08:18:45.848Z",
-        "creadoPor": "Yennyfer Lemus",
-        "esGrupo": true,
-        "lineasGrupo": [
-          {
-            "conceptoId": "7.6",
-            "cantidad": 1,
-            "observaciones": "Responder Req Generalitat Cataluña",
-            "descuento": 15
-          }
-        ]
-      },
-      {
-        "proyectoId": "p1780561223683",
-        "conceptoId": "7.6",
-        "trabajador": "Yennyfer Lemus",
-        "fecha": "2026-06-02",
-        "observaciones": "Grupo: 1 actividades",
-        "cantidad": 1,
-        "capFiltro": "7",
-        "id": "r1780561248465",
-        "estado": "aprobado",
-        "precioManual": null,
-        "createdAt": "2026-06-04T08:20:48.465Z",
-        "creadoPor": "Yennyfer Lemus",
-        "esGrupo": true,
-        "lineasGrupo": [
-          {
-            "conceptoId": "7.6",
-            "cantidad": 1,
-            "observaciones": "Responder Req Generalitat Cataluña",
-            "descuento": 15
-          }
-        ]
-      },
-      {
-        "proyectoId": "p1780561377612",
-        "conceptoId": "7.6",
-        "trabajador": "Yennyfer Lemus",
-        "fecha": "2026-06-02",
-        "observaciones": "Grupo: 1 actividades",
-        "cantidad": 1,
-        "capFiltro": "7",
-        "id": "r1780561427904",
-        "estado": "aprobado",
-        "precioManual": null,
-        "createdAt": "2026-06-04T08:23:47.904Z",
-        "creadoPor": "Yennyfer Lemus",
-        "esGrupo": true,
-        "lineasGrupo": [
-          {
-            "conceptoId": "7.6",
-            "cantidad": 1,
-            "observaciones": "Responder Req Generalitat Cataluña-Vilanova (Av. Eduardo Toldrá)",
-            "descuento": 15
-          }
-        ]
-      },
-      {
-        "proyectoId": "p1780561539221",
-        "conceptoId": "7.6",
-        "trabajador": "Yennyfer Lemus",
-        "fecha": "2026-06-02",
-        "observaciones": "Grupo: 1 actividades",
-        "cantidad": 1,
-        "capFiltro": "7",
-        "id": "r1780561571922",
-        "estado": "aprobado",
-        "precioManual": null,
-        "createdAt": "2026-06-04T08:26:11.922Z",
-        "creadoPor": "Yennyfer Lemus",
-        "esGrupo": true,
-        "lineasGrupo": [
-          {
-            "conceptoId": "7.6",
-            "cantidad": 1,
-            "observaciones": "Responder Req Generalitat Cataluña",
-            "descuento": 15
-          }
-        ]
-      },
-      {
-        "proyectoId": "p1780561667466",
-        "conceptoId": "7.6",
-        "trabajador": "Yennyfer Lemus",
-        "fecha": "2026-06-02",
-        "observaciones": "Grupo: 1 actividades",
-        "cantidad": 1,
-        "capFiltro": "7",
-        "id": "r1780561689704",
-        "estado": "aprobado",
-        "precioManual": null,
-        "createdAt": "2026-06-04T08:28:09.704Z",
-        "creadoPor": "Yennyfer Lemus",
-        "esGrupo": true,
-        "lineasGrupo": [
-          {
-            "conceptoId": "7.6",
-            "cantidad": 1,
-            "observaciones": "Responder Req Generalitat Cataluña",
-            "descuento": 15
-          }
-        ]
-      },
-      {
-        "proyectoId": "p1780561741660",
-        "conceptoId": "7.6",
-        "trabajador": "Yennyfer Lemus",
-        "fecha": "2026-06-02",
-        "observaciones": "Grupo: 1 actividades",
-        "cantidad": 1,
-        "capFiltro": "7",
-        "id": "r1780561762499",
-        "estado": "aprobado",
-        "precioManual": null,
-        "createdAt": "2026-06-04T08:29:22.499Z",
-        "creadoPor": "Yennyfer Lemus",
-        "esGrupo": true,
-        "lineasGrupo": [
-          {
-            "conceptoId": "7.6",
-            "cantidad": 1,
-            "observaciones": "Responder Req Generalitat Cataluña",
-            "descuento": 15
-          }
-        ]
-      },
-      {
-        "proyectoId": "p1780561843356",
-        "conceptoId": "7.6",
-        "trabajador": "Yennyfer Lemus",
-        "fecha": "2026-06-02",
-        "observaciones": "Grupo: 1 actividades",
-        "cantidad": 1,
-        "capFiltro": "7",
-        "id": "r1780561868235",
-        "estado": "aprobado",
-        "precioManual": null,
-        "createdAt": "2026-06-04T08:31:08.235Z",
-        "creadoPor": "Yennyfer Lemus",
-        "esGrupo": true,
-        "lineasGrupo": [
-          {
-            "conceptoId": "7.6",
-            "cantidad": 1,
-            "observaciones": "Responder Req Generalitat Cataluña",
-            "descuento": 15
-          }
-        ]
-      },
-      {
-        "proyectoId": "p1780561959486",
-        "conceptoId": "7.6",
-        "trabajador": "Yennyfer Lemus",
-        "fecha": "2026-06-02",
-        "observaciones": "Grupo: 1 actividades",
-        "cantidad": 1,
-        "capFiltro": "7",
-        "id": "r1780561979932",
-        "estado": "aprobado",
-        "precioManual": null,
-        "createdAt": "2026-06-04T08:32:59.932Z",
-        "creadoPor": "Yennyfer Lemus",
-        "esGrupo": true,
-        "lineasGrupo": [
-          {
-            "conceptoId": "7.6",
-            "cantidad": 1,
-            "observaciones": "Responder Req Generalitat Cataluña",
-            "descuento": 15
-          }
-        ]
-      },
-      {
-        "proyectoId": "p1780562031554",
-        "conceptoId": "7.6",
-        "trabajador": "Yennyfer Lemus",
-        "fecha": "2026-06-02",
-        "observaciones": "Grupo: 1 actividades",
-        "cantidad": 1,
-        "capFiltro": "7",
-        "id": "r1780562052568",
-        "estado": "aprobado",
-        "precioManual": null,
-        "createdAt": "2026-06-04T08:34:12.568Z",
-        "creadoPor": "Yennyfer Lemus",
-        "esGrupo": true,
-        "lineasGrupo": [
-          {
-            "conceptoId": "7.6",
-            "cantidad": 1,
-            "observaciones": "Responder Req Generalitat Cataluña",
-            "descuento": 15
-          }
-        ]
-      },
-      {
-        "proyectoId": "p1780562135495",
-        "conceptoId": "7.6",
-        "trabajador": "Yennyfer Lemus",
-        "fecha": "2026-06-02",
-        "observaciones": "Grupo: 1 actividades",
-        "cantidad": 1,
-        "capFiltro": "7",
-        "id": "r1780562156684",
-        "estado": "aprobado",
-        "precioManual": null,
-        "createdAt": "2026-06-04T08:35:56.684Z",
-        "creadoPor": "Yennyfer Lemus",
-        "esGrupo": true,
-        "lineasGrupo": [
-          {
-            "conceptoId": "7.6",
-            "cantidad": 1,
-            "observaciones": "Responder Req Generalitat Cataluña",
-            "descuento": 15
-          }
-        ]
-      },
-      {
-        "proyectoId": "p1780562208357",
-        "conceptoId": "7.6",
-        "trabajador": "Yennyfer Lemus",
-        "fecha": "2026-06-02",
-        "observaciones": "Grupo: 1 actividades",
-        "cantidad": 1,
-        "capFiltro": "7",
-        "id": "r1780562228924",
-        "estado": "aprobado",
-        "precioManual": null,
-        "createdAt": "2026-06-04T08:37:08.924Z",
-        "creadoPor": "Yennyfer Lemus",
-        "esGrupo": true,
-        "lineasGrupo": [
-          {
-            "conceptoId": "7.6",
-            "cantidad": 1,
-            "observaciones": "Responder Req Generalitat Cataluña",
-            "descuento": 15
-          }
-        ]
-      },
-      {
-        "proyectoId": "p1780562270182",
-        "conceptoId": "7.6",
-        "trabajador": "Yennyfer Lemus",
-        "fecha": "2026-06-02",
-        "observaciones": "Grupo: 1 actividades",
-        "cantidad": 1,
-        "capFiltro": "7",
-        "id": "r1780562285315",
-        "estado": "aprobado",
-        "precioManual": null,
-        "createdAt": "2026-06-04T08:38:05.315Z",
-        "creadoPor": "Yennyfer Lemus",
-        "esGrupo": true,
-        "lineasGrupo": [
-          {
-            "conceptoId": "7.6",
-            "cantidad": 1,
-            "observaciones": "Responder Req Generalitat Cataluña",
-            "descuento": 15
-          }
-        ]
-      },
-      {
-        "proyectoId": "p1780562332327",
-        "conceptoId": "7.6",
-        "trabajador": "Yennyfer Lemus",
-        "fecha": "2026-06-02",
-        "observaciones": "Grupo: 1 actividades",
-        "cantidad": 1,
-        "capFiltro": "7",
-        "id": "r1780562348657",
-        "estado": "aprobado",
-        "precioManual": null,
-        "createdAt": "2026-06-04T08:39:08.657Z",
-        "creadoPor": "Yennyfer Lemus",
-        "esGrupo": true,
-        "lineasGrupo": [
-          {
-            "conceptoId": "7.6",
-            "cantidad": 1,
-            "observaciones": "Responder Req Generalitat Cataluña",
-            "descuento": 15
-          }
-        ]
-      },
-      {
-        "proyectoId": "p1780562384979",
-        "conceptoId": "7.6",
-        "trabajador": "Yennyfer Lemus",
-        "fecha": "2026-06-02",
-        "observaciones": "Grupo: 1 actividades",
-        "cantidad": 1,
-        "capFiltro": "7",
-        "id": "r1780562402832",
-        "estado": "aprobado",
-        "precioManual": null,
-        "createdAt": "2026-06-04T08:40:02.832Z",
-        "creadoPor": "Yennyfer Lemus",
-        "esGrupo": true,
-        "lineasGrupo": [
-          {
-            "conceptoId": "7.6",
-            "cantidad": 1,
-            "observaciones": "Responder Req Generalitat Cataluña",
-            "descuento": 15
-          }
-        ]
-      },
-      {
-        "proyectoId": "p1780562447137",
-        "conceptoId": "7.6",
-        "trabajador": "Yennyfer Lemus",
-        "fecha": "2026-06-02",
-        "observaciones": "Grupo: 1 actividades",
-        "cantidad": 1,
-        "capFiltro": "7",
-        "id": "r1780562466575",
-        "estado": "aprobado",
-        "precioManual": null,
-        "createdAt": "2026-06-04T08:41:06.575Z",
-        "creadoPor": "Yennyfer Lemus",
-        "esGrupo": true,
-        "lineasGrupo": [
-          {
-            "conceptoId": "7.6",
-            "cantidad": 1,
-            "observaciones": "Responder Req Generalitat Cataluña",
-            "descuento": 15
-          }
-        ]
-      },
-      {
-        "proyectoId": "p1780562501868",
-        "conceptoId": "7.6",
-        "trabajador": "Yennyfer Lemus",
-        "fecha": "2026-06-02",
-        "observaciones": "Grupo: 1 actividades",
-        "cantidad": 1,
-        "capFiltro": "7",
-        "id": "r1780562516578",
-        "estado": "aprobado",
-        "precioManual": null,
-        "createdAt": "2026-06-04T08:41:56.578Z",
-        "creadoPor": "Yennyfer Lemus",
-        "esGrupo": true,
-        "lineasGrupo": [
-          {
-            "conceptoId": "7.6",
-            "cantidad": 1,
-            "observaciones": "Responder Req Generalitat Cataluña",
-            "descuento": 15
-          }
-        ]
-      },
-      {
-        "proyectoId": "p1779131920309",
-        "conceptoId": "7.2",
-        "trabajador": "Yennyfer Lemus",
-        "fecha": "2026-06-04",
-        "observaciones": "Grupo: 1 actividades",
-        "cantidad": 1,
-        "capFiltro": "7",
-        "id": "r1780568478197",
-        "estado": "pendiente",
-        "precioManual": null,
-        "createdAt": "2026-06-04T10:21:18.197Z",
-        "creadoPor": "Yennyfer Lemus",
-        "esGrupo": true,
-        "lineasGrupo": [
-          {
-            "conceptoId": "7.2",
-            "cantidad": 1,
-            "observaciones": "Solicitud de Licencia ayto "
-          }
-        ],
-        "searchPr": "castro"
       },
       {
         "proyectoId": "p1779132044557",
@@ -2672,6 +2053,667 @@
             "observaciones": "Comunicación de la baja en Industria"
           }
         ]
+      },
+      {
+        "proyectoId": "p1780656834711",
+        "conceptoId": "6.4",
+        "trabajador": "Jordi Santos",
+        "fecha": "2026-06-03",
+        "observaciones": "Grupo: 3 actividades",
+        "cantidad": 1,
+        "id": "r1780656931595",
+        "estado": "pendiente",
+        "precioManual": null,
+        "createdAt": "2026-06-05T10:55:31.595Z",
+        "creadoPor": "Jordi Santos",
+        "esGrupo": true,
+        "lineasGrupo": [
+          {
+            "conceptoId": "6.4",
+            "cantidad": 1,
+            "observaciones": "Toma de datos de la red de recogida de aguas aprovechando limpieza "
+          },
+          {
+            "conceptoId": "2.3",
+            "cantidad": 1,
+            "observaciones": "Envío de informe con conclusiones"
+          },
+          {
+            "conceptoId": "8.7",
+            "cantidad": 1,
+            "observaciones": "Revisión de mediciones proyecto IM para incorporar acutación en recogida de aguas"
+          }
+        ]
+      },
+      {
+        "proyectoId": "p1779438468314",
+        "conceptoId": "7.6",
+        "trabajador": "Yennyfer Lemus",
+        "fecha": "2026-05-21",
+        "observaciones": "Grupo: 1 actividades",
+        "cantidad": 1,
+        "capFiltro": "7",
+        "id": "r1779438583370",
+        "estado": "aprobado",
+        "precioManual": null,
+        "createdAt": "2026-05-22T08:29:43.370Z",
+        "creadoPor": "Yennyfer Lemus",
+        "esGrupo": true,
+        "lineasGrupo": [
+          {
+            "conceptoId": "7.6",
+            "cantidad": 1,
+            "observaciones": "Contestación Requerimiento para Cambio de Titularidad",
+            "certifAprobada": true,
+            "certifEnviada": true,
+            "cantCertif": 1
+          }
+        ],
+        "estadoCertif": "finalizado"
+      },
+      {
+        "proyectoId": "p1779883791414",
+        "conceptoId": "7.3",
+        "trabajador": "Yennyfer Lemus",
+        "fecha": "2026-05-29",
+        "observaciones": "Grupo: 2 actividades",
+        "cantidad": 1,
+        "searchPr": "pobla",
+        "capFiltro": "7",
+        "id": "r1780045061130",
+        "estado": "aprobado",
+        "precioManual": null,
+        "createdAt": "2026-05-29T08:57:41.130Z",
+        "creadoPor": "Yennyfer Lemus",
+        "esGrupo": true,
+        "lineasGrupo": [
+          {
+            "conceptoId": "7.3",
+            "cantidad": 1,
+            "observaciones": "Modicación de NIMA para dar de alta nuevo residuo"
+          },
+          {
+            "conceptoId": "7.7",
+            "cantidad": 1,
+            "observaciones": "Pago de tasas Industria (30,06 €)",
+            "descuento": 30.06
+          }
+        ]
+      },
+      {
+        "proyectoId": "p1780481389099",
+        "conceptoId": "7.6",
+        "trabajador": "Yennyfer Lemus",
+        "fecha": "2026-06-01",
+        "observaciones": "Grupo: 1 actividades",
+        "cantidad": 1,
+        "capFiltro": "7",
+        "id": "r1780559346457",
+        "estado": "aprobado",
+        "precioManual": null,
+        "createdAt": "2026-06-04T07:49:06.457Z",
+        "creadoPor": "Yennyfer Lemus",
+        "esGrupo": true,
+        "lineasGrupo": [
+          {
+            "conceptoId": "7.6",
+            "cantidad": 1,
+            "observaciones": "Responder Req Generalitat Cataluña",
+            "descuento": 15
+          }
+        ]
+      },
+      {
+        "proyectoId": "p1780559445776",
+        "conceptoId": "7.6",
+        "trabajador": "Yennyfer Lemus",
+        "fecha": "2026-06-01",
+        "observaciones": "Grupo: 1 actividades",
+        "cantidad": 1,
+        "capFiltro": "7",
+        "id": "r1780559503567",
+        "estado": "aprobado",
+        "precioManual": null,
+        "createdAt": "2026-06-04T07:51:43.567Z",
+        "creadoPor": "Yennyfer Lemus",
+        "esGrupo": true,
+        "lineasGrupo": [
+          {
+            "conceptoId": "7.6",
+            "cantidad": 1,
+            "observaciones": "Respuesta Req. Generalitat Cataluña-Bellaterra MD",
+            "descuento": 15
+          }
+        ]
+      },
+      {
+        "proyectoId": "p1780559545145",
+        "conceptoId": "7.6",
+        "trabajador": "Yennyfer Lemus",
+        "fecha": "2026-06-01",
+        "observaciones": "Grupo: 1 actividades",
+        "cantidad": 1,
+        "capFiltro": "7",
+        "id": "r1780559594722",
+        "estado": "aprobado",
+        "precioManual": null,
+        "createdAt": "2026-06-04T07:53:14.722Z",
+        "creadoPor": "Yennyfer Lemus",
+        "esGrupo": true,
+        "lineasGrupo": [
+          {
+            "conceptoId": "7.6",
+            "cantidad": 1,
+            "observaciones": "Responder Req Generalitat Cataluña-Bellaterra MI",
+            "descuento": 15
+          }
+        ]
+      },
+      {
+        "proyectoId": "p1780559676255",
+        "conceptoId": "7.6",
+        "trabajador": "Yennyfer Lemus",
+        "fecha": "2026-06-02",
+        "observaciones": "Grupo: 1 actividades",
+        "cantidad": 1,
+        "capFiltro": "7",
+        "id": "r1780559696946",
+        "estado": "aprobado",
+        "precioManual": null,
+        "createdAt": "2026-06-04T07:54:56.946Z",
+        "creadoPor": "Yennyfer Lemus",
+        "esGrupo": true,
+        "lineasGrupo": [
+          {
+            "conceptoId": "7.6",
+            "cantidad": 1,
+            "observaciones": "Responder Req Generalitat Cataluña",
+            "descuento": 15
+          }
+        ]
+      },
+      {
+        "proyectoId": "p1780559790557",
+        "conceptoId": "7.6",
+        "trabajador": "Yennyfer Lemus",
+        "fecha": "2026-06-02",
+        "observaciones": "Grupo: 1 actividades",
+        "cantidad": 1,
+        "capFiltro": "7",
+        "id": "r1780559810182",
+        "estado": "aprobado",
+        "precioManual": null,
+        "createdAt": "2026-06-04T07:56:50.183Z",
+        "creadoPor": "Yennyfer Lemus",
+        "esGrupo": true,
+        "lineasGrupo": [
+          {
+            "conceptoId": "7.6",
+            "cantidad": 1,
+            "observaciones": "Responder Req Generalitat Cataluña",
+            "descuento": 15
+          }
+        ]
+      },
+      {
+        "proyectoId": "p1780559876751",
+        "conceptoId": "7.6",
+        "trabajador": "Yennyfer Lemus",
+        "fecha": "2026-06-02",
+        "observaciones": "Grupo: 1 actividades",
+        "cantidad": 1,
+        "capFiltro": "7",
+        "id": "r1780559897767",
+        "estado": "aprobado",
+        "precioManual": null,
+        "createdAt": "2026-06-04T07:58:17.767Z",
+        "creadoPor": "Yennyfer Lemus",
+        "esGrupo": true,
+        "lineasGrupo": [
+          {
+            "conceptoId": "7.6",
+            "cantidad": 1,
+            "observaciones": "Responder Req Generalitat Cataluña",
+            "descuento": 15
+          }
+        ]
+      },
+      {
+        "proyectoId": "p1780559966682",
+        "conceptoId": "7.6",
+        "trabajador": "Yennyfer Lemus",
+        "fecha": "2026-06-02",
+        "observaciones": "Grupo: 1 actividades",
+        "cantidad": 1,
+        "capFiltro": "7",
+        "id": "r1780559996680",
+        "estado": "aprobado",
+        "precioManual": null,
+        "createdAt": "2026-06-04T07:59:56.680Z",
+        "creadoPor": "Yennyfer Lemus",
+        "esGrupo": true,
+        "lineasGrupo": [
+          {
+            "conceptoId": "7.6",
+            "cantidad": 1,
+            "observaciones": "Responder Req Generalitat Cataluña",
+            "descuento": 15
+          }
+        ]
+      },
+      {
+        "proyectoId": "p1780560322612",
+        "conceptoId": "7.6",
+        "trabajador": "Yennyfer Lemus",
+        "fecha": "2026-06-02",
+        "observaciones": "Grupo: 1 actividades",
+        "cantidad": 1,
+        "capFiltro": "7",
+        "id": "r1780560348620",
+        "estado": "aprobado",
+        "precioManual": null,
+        "createdAt": "2026-06-04T08:05:48.620Z",
+        "creadoPor": "Yennyfer Lemus",
+        "esGrupo": true,
+        "lineasGrupo": [
+          {
+            "conceptoId": "7.6",
+            "cantidad": 1,
+            "observaciones": "Responder Req Generalitat Cataluña",
+            "descuento": 15
+          }
+        ]
+      },
+      {
+        "proyectoId": "p1780561095633",
+        "conceptoId": "7.6",
+        "trabajador": "Yennyfer Lemus",
+        "fecha": "2026-06-02",
+        "observaciones": "Grupo: 1 actividades",
+        "cantidad": 1,
+        "capFiltro": "7",
+        "id": "r1780561125848",
+        "estado": "aprobado",
+        "precioManual": null,
+        "createdAt": "2026-06-04T08:18:45.848Z",
+        "creadoPor": "Yennyfer Lemus",
+        "esGrupo": true,
+        "lineasGrupo": [
+          {
+            "conceptoId": "7.6",
+            "cantidad": 1,
+            "observaciones": "Responder Req Generalitat Cataluña",
+            "descuento": 15
+          }
+        ]
+      },
+      {
+        "proyectoId": "p1780561223683",
+        "conceptoId": "7.6",
+        "trabajador": "Yennyfer Lemus",
+        "fecha": "2026-06-02",
+        "observaciones": "Grupo: 1 actividades",
+        "cantidad": 1,
+        "capFiltro": "7",
+        "id": "r1780561248465",
+        "estado": "aprobado",
+        "precioManual": null,
+        "createdAt": "2026-06-04T08:20:48.465Z",
+        "creadoPor": "Yennyfer Lemus",
+        "esGrupo": true,
+        "lineasGrupo": [
+          {
+            "conceptoId": "7.6",
+            "cantidad": 1,
+            "observaciones": "Responder Req Generalitat Cataluña",
+            "descuento": 15
+          }
+        ]
+      },
+      {
+        "proyectoId": "p1780561377612",
+        "conceptoId": "7.6",
+        "trabajador": "Yennyfer Lemus",
+        "fecha": "2026-06-02",
+        "observaciones": "Grupo: 1 actividades",
+        "cantidad": 1,
+        "capFiltro": "7",
+        "id": "r1780561427904",
+        "estado": "aprobado",
+        "precioManual": null,
+        "createdAt": "2026-06-04T08:23:47.904Z",
+        "creadoPor": "Yennyfer Lemus",
+        "esGrupo": true,
+        "lineasGrupo": [
+          {
+            "conceptoId": "7.6",
+            "cantidad": 1,
+            "observaciones": "Responder Req Generalitat Cataluña-Vilanova (Av. Eduardo Toldrá)",
+            "descuento": 15
+          }
+        ]
+      },
+      {
+        "proyectoId": "p1780561539221",
+        "conceptoId": "7.6",
+        "trabajador": "Yennyfer Lemus",
+        "fecha": "2026-06-02",
+        "observaciones": "Grupo: 1 actividades",
+        "cantidad": 1,
+        "capFiltro": "7",
+        "id": "r1780561571922",
+        "estado": "aprobado",
+        "precioManual": null,
+        "createdAt": "2026-06-04T08:26:11.922Z",
+        "creadoPor": "Yennyfer Lemus",
+        "esGrupo": true,
+        "lineasGrupo": [
+          {
+            "conceptoId": "7.6",
+            "cantidad": 1,
+            "observaciones": "Responder Req Generalitat Cataluña",
+            "descuento": 15
+          }
+        ]
+      },
+      {
+        "proyectoId": "p1780561667466",
+        "conceptoId": "7.6",
+        "trabajador": "Yennyfer Lemus",
+        "fecha": "2026-06-02",
+        "observaciones": "Grupo: 1 actividades",
+        "cantidad": 1,
+        "capFiltro": "7",
+        "id": "r1780561689704",
+        "estado": "aprobado",
+        "precioManual": null,
+        "createdAt": "2026-06-04T08:28:09.704Z",
+        "creadoPor": "Yennyfer Lemus",
+        "esGrupo": true,
+        "lineasGrupo": [
+          {
+            "conceptoId": "7.6",
+            "cantidad": 1,
+            "observaciones": "Responder Req Generalitat Cataluña",
+            "descuento": 15
+          }
+        ]
+      },
+      {
+        "proyectoId": "p1780561741660",
+        "conceptoId": "7.6",
+        "trabajador": "Yennyfer Lemus",
+        "fecha": "2026-06-02",
+        "observaciones": "Grupo: 1 actividades",
+        "cantidad": 1,
+        "capFiltro": "7",
+        "id": "r1780561762499",
+        "estado": "aprobado",
+        "precioManual": null,
+        "createdAt": "2026-06-04T08:29:22.499Z",
+        "creadoPor": "Yennyfer Lemus",
+        "esGrupo": true,
+        "lineasGrupo": [
+          {
+            "conceptoId": "7.6",
+            "cantidad": 1,
+            "observaciones": "Responder Req Generalitat Cataluña",
+            "descuento": 15
+          }
+        ]
+      },
+      {
+        "proyectoId": "p1780561843356",
+        "conceptoId": "7.6",
+        "trabajador": "Yennyfer Lemus",
+        "fecha": "2026-06-02",
+        "observaciones": "Grupo: 1 actividades",
+        "cantidad": 1,
+        "capFiltro": "7",
+        "id": "r1780561868235",
+        "estado": "aprobado",
+        "precioManual": null,
+        "createdAt": "2026-06-04T08:31:08.235Z",
+        "creadoPor": "Yennyfer Lemus",
+        "esGrupo": true,
+        "lineasGrupo": [
+          {
+            "conceptoId": "7.6",
+            "cantidad": 1,
+            "observaciones": "Responder Req Generalitat Cataluña",
+            "descuento": 15
+          }
+        ]
+      },
+      {
+        "proyectoId": "p1780561959486",
+        "conceptoId": "7.6",
+        "trabajador": "Yennyfer Lemus",
+        "fecha": "2026-06-02",
+        "observaciones": "Grupo: 1 actividades",
+        "cantidad": 1,
+        "capFiltro": "7",
+        "id": "r1780561979932",
+        "estado": "aprobado",
+        "precioManual": null,
+        "createdAt": "2026-06-04T08:32:59.932Z",
+        "creadoPor": "Yennyfer Lemus",
+        "esGrupo": true,
+        "lineasGrupo": [
+          {
+            "conceptoId": "7.6",
+            "cantidad": 1,
+            "observaciones": "Responder Req Generalitat Cataluña",
+            "descuento": 15
+          }
+        ]
+      },
+      {
+        "proyectoId": "p1780562031554",
+        "conceptoId": "7.6",
+        "trabajador": "Yennyfer Lemus",
+        "fecha": "2026-06-02",
+        "observaciones": "Grupo: 1 actividades",
+        "cantidad": 1,
+        "capFiltro": "7",
+        "id": "r1780562052568",
+        "estado": "aprobado",
+        "precioManual": null,
+        "createdAt": "2026-06-04T08:34:12.568Z",
+        "creadoPor": "Yennyfer Lemus",
+        "esGrupo": true,
+        "lineasGrupo": [
+          {
+            "conceptoId": "7.6",
+            "cantidad": 1,
+            "observaciones": "Responder Req Generalitat Cataluña",
+            "descuento": 15
+          }
+        ]
+      },
+      {
+        "proyectoId": "p1780562135495",
+        "conceptoId": "7.6",
+        "trabajador": "Yennyfer Lemus",
+        "fecha": "2026-06-02",
+        "observaciones": "Grupo: 1 actividades",
+        "cantidad": 1,
+        "capFiltro": "7",
+        "id": "r1780562156684",
+        "estado": "aprobado",
+        "precioManual": null,
+        "createdAt": "2026-06-04T08:35:56.684Z",
+        "creadoPor": "Yennyfer Lemus",
+        "esGrupo": true,
+        "lineasGrupo": [
+          {
+            "conceptoId": "7.6",
+            "cantidad": 1,
+            "observaciones": "Responder Req Generalitat Cataluña",
+            "descuento": 15
+          }
+        ]
+      },
+      {
+        "proyectoId": "p1780562208357",
+        "conceptoId": "7.6",
+        "trabajador": "Yennyfer Lemus",
+        "fecha": "2026-06-02",
+        "observaciones": "Grupo: 1 actividades",
+        "cantidad": 1,
+        "capFiltro": "7",
+        "id": "r1780562228924",
+        "estado": "aprobado",
+        "precioManual": null,
+        "createdAt": "2026-06-04T08:37:08.924Z",
+        "creadoPor": "Yennyfer Lemus",
+        "esGrupo": true,
+        "lineasGrupo": [
+          {
+            "conceptoId": "7.6",
+            "cantidad": 1,
+            "observaciones": "Responder Req Generalitat Cataluña",
+            "descuento": 15
+          }
+        ]
+      },
+      {
+        "proyectoId": "p1780562270182",
+        "conceptoId": "7.6",
+        "trabajador": "Yennyfer Lemus",
+        "fecha": "2026-06-02",
+        "observaciones": "Grupo: 1 actividades",
+        "cantidad": 1,
+        "capFiltro": "7",
+        "id": "r1780562285315",
+        "estado": "aprobado",
+        "precioManual": null,
+        "createdAt": "2026-06-04T08:38:05.315Z",
+        "creadoPor": "Yennyfer Lemus",
+        "esGrupo": true,
+        "lineasGrupo": [
+          {
+            "conceptoId": "7.6",
+            "cantidad": 1,
+            "observaciones": "Responder Req Generalitat Cataluña",
+            "descuento": 15
+          }
+        ]
+      },
+      {
+        "proyectoId": "p1780562332327",
+        "conceptoId": "7.6",
+        "trabajador": "Yennyfer Lemus",
+        "fecha": "2026-06-02",
+        "observaciones": "Grupo: 1 actividades",
+        "cantidad": 1,
+        "capFiltro": "7",
+        "id": "r1780562348657",
+        "estado": "aprobado",
+        "precioManual": null,
+        "createdAt": "2026-06-04T08:39:08.657Z",
+        "creadoPor": "Yennyfer Lemus",
+        "esGrupo": true,
+        "lineasGrupo": [
+          {
+            "conceptoId": "7.6",
+            "cantidad": 1,
+            "observaciones": "Responder Req Generalitat Cataluña",
+            "descuento": 15
+          }
+        ]
+      },
+      {
+        "proyectoId": "p1780562384979",
+        "conceptoId": "7.6",
+        "trabajador": "Yennyfer Lemus",
+        "fecha": "2026-06-02",
+        "observaciones": "Grupo: 1 actividades",
+        "cantidad": 1,
+        "capFiltro": "7",
+        "id": "r1780562402832",
+        "estado": "aprobado",
+        "precioManual": null,
+        "createdAt": "2026-06-04T08:40:02.832Z",
+        "creadoPor": "Yennyfer Lemus",
+        "esGrupo": true,
+        "lineasGrupo": [
+          {
+            "conceptoId": "7.6",
+            "cantidad": 1,
+            "observaciones": "Responder Req Generalitat Cataluña",
+            "descuento": 15
+          }
+        ]
+      },
+      {
+        "proyectoId": "p1780562447137",
+        "conceptoId": "7.6",
+        "trabajador": "Yennyfer Lemus",
+        "fecha": "2026-06-02",
+        "observaciones": "Grupo: 1 actividades",
+        "cantidad": 1,
+        "capFiltro": "7",
+        "id": "r1780562466575",
+        "estado": "aprobado",
+        "precioManual": null,
+        "createdAt": "2026-06-04T08:41:06.575Z",
+        "creadoPor": "Yennyfer Lemus",
+        "esGrupo": true,
+        "lineasGrupo": [
+          {
+            "conceptoId": "7.6",
+            "cantidad": 1,
+            "observaciones": "Responder Req Generalitat Cataluña",
+            "descuento": 15
+          }
+        ]
+      },
+      {
+        "proyectoId": "p1780562501868",
+        "conceptoId": "7.6",
+        "trabajador": "Yennyfer Lemus",
+        "fecha": "2026-06-02",
+        "observaciones": "Grupo: 1 actividades",
+        "cantidad": 1,
+        "capFiltro": "7",
+        "id": "r1780562516578",
+        "estado": "aprobado",
+        "precioManual": null,
+        "createdAt": "2026-06-04T08:41:56.578Z",
+        "creadoPor": "Yennyfer Lemus",
+        "esGrupo": true,
+        "lineasGrupo": [
+          {
+            "conceptoId": "7.6",
+            "cantidad": 1,
+            "observaciones": "Responder Req Generalitat Cataluña",
+            "descuento": 15
+          }
+        ]
+      },
+      {
+        "proyectoId": "p1779131920309",
+        "conceptoId": "7.2",
+        "trabajador": "Yennyfer Lemus",
+        "fecha": "2026-06-04",
+        "observaciones": "Grupo: 1 actividades",
+        "cantidad": 1,
+        "capFiltro": "7",
+        "id": "r1780568478197",
+        "estado": "pendiente",
+        "precioManual": null,
+        "createdAt": "2026-06-04T10:21:18.197Z",
+        "creadoPor": "Yennyfer Lemus",
+        "esGrupo": true,
+        "lineasGrupo": [
+          {
+            "conceptoId": "7.2",
+            "cantidad": 1,
+            "observaciones": "Solicitud de Licencia ayto "
+          }
+        ],
+        "searchPr": "castro"
       },
       {
         "proyectoId": "p1779812747902",
