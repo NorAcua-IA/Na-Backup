@@ -1,5 +1,5 @@
 {
-  "fecha": "2026-06-05T11:10:56.315Z",
+  "fecha": "2026-06-05T11:29:11.502Z",
   "version": "2.7",
   "datos": {
     "na-v20-proyectos": [
@@ -2026,7 +2026,7 @@
         "observaciones": "Grupo: 1 actividades",
         "cantidad": 1,
         "id": "r1780566324086",
-        "estado": "pendiente",
+        "estado": "aprobado",
         "precioManual": null,
         "createdAt": "2026-06-04T09:45:24.086Z",
         "creadoPor": "Jordi Santos",
@@ -2073,7 +2073,7 @@
         "observaciones": "Grupo: 3 actividades",
         "cantidad": 1,
         "id": "r1780656931595",
-        "estado": "pendiente",
+        "estado": "ofertada",
         "precioManual": null,
         "createdAt": "2026-06-05T10:55:31.595Z",
         "creadoPor": "Jordi Santos",
@@ -2094,7 +2094,8 @@
             "cantidad": 1,
             "observaciones": "Revisión de mediciones proyecto IM para incorporar acutación en recogida de aguas"
           }
-        ]
+        ],
+        "ofertaCodigo": "021-26"
       },
       {
         "proyectoId": "p1780657008965",
@@ -7363,9 +7364,9 @@
         "pctAuditoria": "100",
         "obraConSupervision": "Sí",
         "fecha": "2026-06-04",
-        "horas": "5",
+        "horas": "6",
         "horasOrig": "5",
-        "horasAdmin": "5",
+        "horasAdmin": 6,
         "supervisor": "Carlos García",
         "encargo": "Concepción Gutierrez",
         "zona": "CATALUÑA",
@@ -7374,7 +7375,7 @@
         "empresa": "RAFIBRA ",
         "comentarios": "PRUEBA DE ESTANQUIEDAD A TUBERIAS DE VENTEOS",
         "id": "hs_1780652125905",
-        "estado": "pendiente",
+        "estado": "aprobado",
         "creadoPor": "Carlos García",
         "fechaCreacion": "2026-06-05T09:35:25.905Z"
       },
@@ -7395,7 +7396,7 @@
         "empresa": "RAFIBRA",
         "comentarios": "PRUEBA DE ESTANQUIEDAD A VENTEOS",
         "id": "hs_1780652060059",
-        "estado": "pendiente",
+        "estado": "aprobado",
         "creadoPor": "Carlos García",
         "fechaCreacion": "2026-06-05T09:34:20.059Z"
       },
