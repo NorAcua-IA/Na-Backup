@@ -1,5 +1,5 @@
 {
-  "fecha": "2026-06-05T11:10:31.972Z",
+  "fecha": "2026-06-05T11:10:56.315Z",
   "version": "2.7",
   "datos": {
     "na-v20-proyectos": [
@@ -844,7 +844,7 @@
         "creadoPor": "Yennyfer Lemus"
       },
       {
-        "nombre": "BAJA ESTACIÓN DE SERVICIO",
+        "nombre": "BAJA ES",
         "po": "",
         "zona": "NORTE",
         "responsableBP": "Concepción Gutierrez",
