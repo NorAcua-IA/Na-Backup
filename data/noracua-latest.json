@@ -1,5 +1,5 @@
 {
-  "fecha": "2026-06-05T10:56:43.241Z",
+  "fecha": "2026-06-05T10:58:03.980Z",
   "version": "2.7",
   "datos": {
     "na-v20-proyectos": [
@@ -885,6 +885,17 @@
         "clienteId": "cl01",
         "id": "p1780656834711",
         "creadoEn": "2026-06-05T10:53:54.711Z",
+        "creadoPor": "Jordi Santos"
+      },
+      {
+        "nombre": "CONTENCIÓN MURO LAVADOS",
+        "po": "",
+        "zona": "BALEARES",
+        "responsableBP": "Guiomar Tuero",
+        "estacion": "BP SANTA EULALIA",
+        "clienteId": "cl01",
+        "id": "p1780657008965",
+        "creadoEn": "2026-06-05T10:56:48.965Z",
         "creadoPor": "Jordi Santos"
       }
     ],
@@ -2082,6 +2093,32 @@
             "conceptoId": "8.7",
             "cantidad": 1,
             "observaciones": "Revisión de mediciones proyecto IM para incorporar acutación en recogida de aguas"
+          }
+        ]
+      },
+      {
+        "proyectoId": "p1780657008965",
+        "conceptoId": "6.1",
+        "trabajador": "Jordi Santos",
+        "fecha": "2026-06-03",
+        "observaciones": "Grupo: 2 actividades",
+        "cantidad": 1,
+        "id": "r1780657073721",
+        "estado": "pendiente",
+        "precioManual": null,
+        "createdAt": "2026-06-05T10:57:53.721Z",
+        "creadoPor": "Jordi Santos",
+        "esGrupo": true,
+        "lineasGrupo": [
+          {
+            "conceptoId": "6.1",
+            "cantidad": 1,
+            "observaciones": "Se realiza toma de datos aprovechando la revisión del saneamiento"
+          },
+          {
+            "conceptoId": "2.3",
+            "cantidad": 1,
+            "observaciones": "Informe de estructuristas con solución técnica "
           }
         ]
       },
