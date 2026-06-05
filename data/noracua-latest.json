@@ -1,5 +1,5 @@
 {
-  "fecha": "2026-06-05T11:08:00.679Z",
+  "fecha": "2026-06-05T11:09:00.137Z",
   "version": "2.7",
   "datos": {
     "na-v20-proyectos": [
@@ -877,7 +877,7 @@
         "creadoPor": "Yennyfer Lemus"
       },
       {
-        "nombre": "INFORME ESTADO RED RECOGIDA AGUAS",
+        "nombre": "VERTIDOS",
         "po": "",
         "zona": "BALEARES",
         "responsableBP": "Guiomar Tuero",
