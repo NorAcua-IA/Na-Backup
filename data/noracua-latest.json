@@ -1,5 +1,5 @@
 {
-  "fecha": "2026-06-05T16:48:46.190Z",
+  "fecha": "2026-06-05T18:48:46.076Z",
   "version": "2.7",
   "datos": {
     "na-v20-proyectos": [
@@ -1880,14 +1880,6 @@
             "observaciones": "Designación CSS",
             "precioManual": null,
             "_capFiltro": "4"
-          },
-          {
-            "id": "lg_1779441133835",
-            "conceptoId": "7.2",
-            "cantidad": 1,
-            "observaciones": "Licencia de obra en Ayuntamiento (no incluye autorización vertidos)",
-            "precioManual": null,
-            "_capFiltro": "7"
           }
         ]
       },
@@ -2792,7 +2784,7 @@
           {
             "conceptoId": "7.2",
             "cantidad": 1,
-            "observaciones": "Solicitud de Licencia ayto "
+            "observaciones": "Licencia de obra en Ayuntamiento (no incluye autorización vertidos)"
           }
         ],
         "searchPr": "castro"
