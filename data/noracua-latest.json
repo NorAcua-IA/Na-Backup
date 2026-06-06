@@ -1,5 +1,5 @@
 {
-  "fecha": "2026-06-05T18:48:46.076Z",
+  "fecha": "2026-06-06T11:33:42.814Z",
   "version": "2.7",
   "datos": {
     "na-v20-proyectos": [
@@ -922,28 +922,6 @@
       }
     ],
     "na-v20-registros": [
-      {
-        "proyectoId": "p1779138810443",
-        "conceptoId": "7.3",
-        "trabajador": "Yennyfer Lemus",
-        "fecha": "2026-05-19",
-        "observaciones": "Grupo: 1 actividades",
-        "cantidad": 1,
-        "capFiltro": "7",
-        "id": "r1779227844334",
-        "estado": "aprobado",
-        "precioManual": null,
-        "createdAt": "2026-05-19T21:57:24.334Z",
-        "creadoPor": "Jordi Santos",
-        "esGrupo": true,
-        "lineasGrupo": [
-          {
-            "conceptoId": "7.3",
-            "cantidad": 1,
-            "observaciones": "Comunicación modificaciones instalación mecánica"
-          }
-        ]
-      },
       {
         "proyectoId": "p1779132044557",
         "conceptoId": "1.2",
@@ -1975,12 +1953,18 @@
           {
             "conceptoId": "2.7",
             "cantidad": 1,
-            "observaciones": ""
+            "observaciones": "",
+            "certifEnviada": true,
+            "certifEnviadaAt": "2026-06-05T22:49:11.678Z",
+            "cantCertif": 1
           },
           {
             "conceptoId": "6.1",
             "cantidad": 1,
-            "observaciones": ""
+            "observaciones": "",
+            "certifEnviada": true,
+            "certifEnviadaAt": "2026-06-05T22:49:11.678Z",
+            "cantCertif": 1
           }
         ]
       },
@@ -1988,20 +1972,21 @@
         "proyectoId": "p1780478230969",
         "conceptoId": "8.7",
         "trabajador": "Jordi Santos",
-        "fecha": "2026-05-29",
+        "fecha": "2026-06-01",
         "observaciones": "Grupo: 1 actividades",
         "cantidad": 1,
         "id": "r1780478609465",
-        "estado": "pendiente",
+        "estado": "aprobado",
         "precioManual": null,
         "createdAt": "2026-06-03T09:23:29.465Z",
         "creadoPor": "Jordi Santos",
         "esGrupo": true,
         "lineasGrupo": [
           {
-            "conceptoId": "8.7",
+            "conceptoId": "7.6",
             "cantidad": 1,
-            "observaciones": "Localización de documentación para justificar deficiencia periódica IP04"
+            "observaciones": "Localización de documentación para justificar deficiencia periódica IP04",
+            "_capFiltro": "7"
           }
         ]
       },
@@ -2087,7 +2072,7 @@
         "observaciones": "Grupo: 3 actividades",
         "cantidad": 1,
         "id": "r1780656931595",
-        "estado": "ofertada",
+        "estado": "pendiente",
         "precioManual": null,
         "createdAt": "2026-06-05T10:55:31.595Z",
         "creadoPor": "Jordi Santos",
@@ -2096,20 +2081,31 @@
           {
             "conceptoId": "6.4",
             "cantidad": 1,
-            "observaciones": "Toma de datos de la red de recogida de aguas aprovechando limpieza "
+            "observaciones": "Toma de datos de la red de recogida de aguas aprovechando limpieza ",
+            "certifOferta": false,
+            "_ofertaCheck": false,
+            "certifOfertaAt": null
           },
           {
             "conceptoId": "2.3",
             "cantidad": 1,
-            "observaciones": "Envío de informe con conclusiones"
+            "observaciones": "Envío de informe con conclusiones",
+            "certifOferta": false,
+            "_ofertaCheck": false,
+            "certifOfertaAt": null
           },
           {
             "conceptoId": "8.7",
             "cantidad": 1,
-            "observaciones": "Revisión de mediciones proyecto IM para incorporar acutación en recogida de aguas"
+            "observaciones": "Revisión de mediciones proyecto IM para incorporar acutación en recogida de aguas",
+            "certifOferta": false,
+            "_ofertaCheck": false,
+            "certifOfertaAt": null
           }
         ],
-        "ofertaCodigo": "021-26"
+        "ofertaCodigo": "",
+        "ofertaCodigos": [],
+        "certifOfertaAt": null
       },
       {
         "proyectoId": "p1780657008965",
@@ -2153,9 +2149,38 @@
         "esGrupo": true,
         "lineasGrupo": [
           {
-            "conceptoId": "5.1c",
+            "conceptoId": "5.1b",
             "cantidad": 1,
             "observaciones": "Topografía para catastro"
+          }
+        ],
+        "ofertaCodigos": [
+          "026-26"
+        ],
+        "ofertaCodigo": "026-26"
+      },
+      {
+        "proyectoId": "p1779138810443",
+        "conceptoId": "7.3",
+        "trabajador": "Yennyfer Lemus",
+        "fecha": "2026-05-19",
+        "observaciones": "Grupo: 1 actividades",
+        "cantidad": 1,
+        "capFiltro": "7",
+        "id": "r1779227844334",
+        "estado": "aprobado",
+        "precioManual": null,
+        "createdAt": "2026-05-19T21:57:24.334Z",
+        "creadoPor": "Jordi Santos",
+        "esGrupo": true,
+        "lineasGrupo": [
+          {
+            "conceptoId": "7.3",
+            "cantidad": 1,
+            "observaciones": "Comunicación modificaciones instalación mecánica",
+            "certifEnviada": false,
+            "certifEnviadaAt": "2026-06-06T10:54:59.801Z",
+            "cantCertif": 1
           }
         ]
       },
@@ -2189,7 +2214,7 @@
         "proyectoId": "p1779883791414",
         "conceptoId": "7.3",
         "trabajador": "Yennyfer Lemus",
-        "fecha": "2026-05-29",
+        "fecha": "2026-06-01",
         "observaciones": "Grupo: 2 actividades",
         "cantidad": 1,
         "searchPr": "pobla",
@@ -2204,13 +2229,21 @@
           {
             "conceptoId": "7.3",
             "cantidad": 1,
-            "observaciones": "Modicación de NIMA para dar de alta nuevo residuo"
+            "observaciones": "Modicación de NIMA para dar de alta nuevo residuo",
+            "certifEnviada": true,
+            "certifEnviadaAt": "2026-06-05T22:47:24.607Z",
+            "cantCertif": 1,
+            "certifAprobada": true
           },
           {
             "conceptoId": "7.7",
             "cantidad": 1,
             "observaciones": "Pago de tasas Industria (30,06 €)",
-            "descuento": 30.06
+            "descuento": 30.06,
+            "certifEnviada": true,
+            "certifEnviadaAt": "2026-06-05T22:47:24.607Z",
+            "cantCertif": 1,
+            "certifAprobada": true
           }
         ]
       },
@@ -2233,9 +2266,13 @@
             "conceptoId": "7.6",
             "cantidad": 1,
             "observaciones": "Responder Req Generalitat Cataluña",
-            "descuento": 15
+            "descuento": 15,
+            "certifAprobada": true,
+            "certifEnviada": true,
+            "cantCertif": 1
           }
-        ]
+        ],
+        "estadoCertif": "finalizado"
       },
       {
         "proyectoId": "p1780559445776",
@@ -2256,9 +2293,13 @@
             "conceptoId": "7.6",
             "cantidad": 1,
             "observaciones": "Respuesta Req. Generalitat Cataluña-Bellaterra MD",
-            "descuento": 15
+            "descuento": 15,
+            "certifAprobada": true,
+            "certifEnviada": true,
+            "cantCertif": 1
           }
-        ]
+        ],
+        "estadoCertif": "finalizado"
       },
       {
         "proyectoId": "p1780559545145",
@@ -2279,9 +2320,13 @@
             "conceptoId": "7.6",
             "cantidad": 1,
             "observaciones": "Responder Req Generalitat Cataluña-Bellaterra MI",
-            "descuento": 15
+            "descuento": 15,
+            "certifAprobada": true,
+            "certifEnviada": true,
+            "cantCertif": 1
           }
-        ]
+        ],
+        "estadoCertif": "finalizado"
       },
       {
         "proyectoId": "p1780559676255",
@@ -2302,9 +2347,13 @@
             "conceptoId": "7.6",
             "cantidad": 1,
             "observaciones": "Responder Req Generalitat Cataluña",
-            "descuento": 15
+            "descuento": 15,
+            "certifAprobada": true,
+            "certifEnviada": true,
+            "cantCertif": 1
           }
-        ]
+        ],
+        "estadoCertif": "finalizado"
       },
       {
         "proyectoId": "p1780559790557",
@@ -2325,9 +2374,13 @@
             "conceptoId": "7.6",
             "cantidad": 1,
             "observaciones": "Responder Req Generalitat Cataluña",
-            "descuento": 15
+            "descuento": 15,
+            "certifAprobada": true,
+            "certifEnviada": true,
+            "cantCertif": 1
           }
-        ]
+        ],
+        "estadoCertif": "finalizado"
       },
       {
         "proyectoId": "p1780559876751",
@@ -2348,9 +2401,13 @@
             "conceptoId": "7.6",
             "cantidad": 1,
             "observaciones": "Responder Req Generalitat Cataluña",
-            "descuento": 15
+            "descuento": 15,
+            "certifAprobada": true,
+            "certifEnviada": true,
+            "cantCertif": 1
           }
-        ]
+        ],
+        "estadoCertif": "finalizado"
       },
       {
         "proyectoId": "p1780559966682",
@@ -2371,9 +2428,13 @@
             "conceptoId": "7.6",
             "cantidad": 1,
             "observaciones": "Responder Req Generalitat Cataluña",
-            "descuento": 15
+            "descuento": 15,
+            "certifAprobada": true,
+            "certifEnviada": true,
+            "cantCertif": 1
           }
-        ]
+        ],
+        "estadoCertif": "finalizado"
       },
       {
         "proyectoId": "p1780560322612",
@@ -2394,9 +2455,13 @@
             "conceptoId": "7.6",
             "cantidad": 1,
             "observaciones": "Responder Req Generalitat Cataluña",
-            "descuento": 15
+            "descuento": 15,
+            "certifAprobada": true,
+            "certifEnviada": true,
+            "cantCertif": 1
           }
-        ]
+        ],
+        "estadoCertif": "finalizado"
       },
       {
         "proyectoId": "p1780561095633",
@@ -2417,9 +2482,13 @@
             "conceptoId": "7.6",
             "cantidad": 1,
             "observaciones": "Responder Req Generalitat Cataluña",
-            "descuento": 15
+            "descuento": 15,
+            "certifAprobada": true,
+            "certifEnviada": true,
+            "cantCertif": 1
           }
-        ]
+        ],
+        "estadoCertif": "finalizado"
       },
       {
         "proyectoId": "p1780561223683",
@@ -2440,9 +2509,13 @@
             "conceptoId": "7.6",
             "cantidad": 1,
             "observaciones": "Responder Req Generalitat Cataluña",
-            "descuento": 15
+            "descuento": 15,
+            "certifAprobada": true,
+            "certifEnviada": true,
+            "cantCertif": 1
           }
-        ]
+        ],
+        "estadoCertif": "finalizado"
       },
       {
         "proyectoId": "p1780561377612",
@@ -2463,9 +2536,13 @@
             "conceptoId": "7.6",
             "cantidad": 1,
             "observaciones": "Responder Req Generalitat Cataluña-Vilanova (Av. Eduardo Toldrá)",
-            "descuento": 15
+            "descuento": 15,
+            "certifAprobada": true,
+            "certifEnviada": true,
+            "cantCertif": 1
           }
-        ]
+        ],
+        "estadoCertif": "finalizado"
       },
       {
         "proyectoId": "p1780561539221",
@@ -2486,9 +2563,13 @@
             "conceptoId": "7.6",
             "cantidad": 1,
             "observaciones": "Responder Req Generalitat Cataluña",
-            "descuento": 15
+            "descuento": 15,
+            "certifAprobada": true,
+            "certifEnviada": true,
+            "cantCertif": 1
           }
-        ]
+        ],
+        "estadoCertif": "finalizado"
       },
       {
         "proyectoId": "p1780561667466",
@@ -2509,9 +2590,13 @@
             "conceptoId": "7.6",
             "cantidad": 1,
             "observaciones": "Responder Req Generalitat Cataluña",
-            "descuento": 15
+            "descuento": 15,
+            "certifAprobada": true,
+            "certifEnviada": true,
+            "cantCertif": 1
           }
-        ]
+        ],
+        "estadoCertif": "finalizado"
       },
       {
         "proyectoId": "p1780561741660",
@@ -2532,9 +2617,13 @@
             "conceptoId": "7.6",
             "cantidad": 1,
             "observaciones": "Responder Req Generalitat Cataluña",
-            "descuento": 15
+            "descuento": 15,
+            "certifAprobada": true,
+            "certifEnviada": true,
+            "cantCertif": 1
           }
-        ]
+        ],
+        "estadoCertif": "finalizado"
       },
       {
         "proyectoId": "p1780561843356",
@@ -2555,9 +2644,13 @@
             "conceptoId": "7.6",
             "cantidad": 1,
             "observaciones": "Responder Req Generalitat Cataluña",
-            "descuento": 15
+            "descuento": 15,
+            "certifAprobada": true,
+            "certifEnviada": true,
+            "cantCertif": 1
           }
-        ]
+        ],
+        "estadoCertif": "finalizado"
       },
       {
         "proyectoId": "p1780561959486",
@@ -2578,9 +2671,13 @@
             "conceptoId": "7.6",
             "cantidad": 1,
             "observaciones": "Responder Req Generalitat Cataluña",
-            "descuento": 15
+            "descuento": 15,
+            "certifAprobada": true,
+            "certifEnviada": true,
+            "cantCertif": 1
           }
-        ]
+        ],
+        "estadoCertif": "finalizado"
       },
       {
         "proyectoId": "p1780562031554",
@@ -2601,9 +2698,13 @@
             "conceptoId": "7.6",
             "cantidad": 1,
             "observaciones": "Responder Req Generalitat Cataluña",
-            "descuento": 15
+            "descuento": 15,
+            "certifAprobada": true,
+            "certifEnviada": true,
+            "cantCertif": 1
           }
-        ]
+        ],
+        "estadoCertif": "finalizado"
       },
       {
         "proyectoId": "p1780562135495",
@@ -2624,9 +2725,13 @@
             "conceptoId": "7.6",
             "cantidad": 1,
             "observaciones": "Responder Req Generalitat Cataluña",
-            "descuento": 15
+            "descuento": 15,
+            "certifAprobada": true,
+            "certifEnviada": true,
+            "cantCertif": 1
           }
-        ]
+        ],
+        "estadoCertif": "finalizado"
       },
       {
         "proyectoId": "p1780562208357",
@@ -2647,9 +2752,13 @@
             "conceptoId": "7.6",
             "cantidad": 1,
             "observaciones": "Responder Req Generalitat Cataluña",
-            "descuento": 15
+            "descuento": 15,
+            "certifAprobada": true,
+            "certifEnviada": true,
+            "cantCertif": 1
           }
-        ]
+        ],
+        "estadoCertif": "finalizado"
       },
       {
         "proyectoId": "p1780562270182",
@@ -2670,9 +2779,13 @@
             "conceptoId": "7.6",
             "cantidad": 1,
             "observaciones": "Responder Req Generalitat Cataluña",
-            "descuento": 15
+            "descuento": 15,
+            "certifAprobada": true,
+            "certifEnviada": true,
+            "cantCertif": 1
           }
-        ]
+        ],
+        "estadoCertif": "finalizado"
       },
       {
         "proyectoId": "p1780562332327",
@@ -2693,9 +2806,13 @@
             "conceptoId": "7.6",
             "cantidad": 1,
             "observaciones": "Responder Req Generalitat Cataluña",
-            "descuento": 15
+            "descuento": 15,
+            "certifAprobada": true,
+            "certifEnviada": true,
+            "cantCertif": 1
           }
-        ]
+        ],
+        "estadoCertif": "finalizado"
       },
       {
         "proyectoId": "p1780562384979",
@@ -2716,9 +2833,13 @@
             "conceptoId": "7.6",
             "cantidad": 1,
             "observaciones": "Responder Req Generalitat Cataluña",
-            "descuento": 15
+            "descuento": 15,
+            "certifAprobada": true,
+            "certifEnviada": true,
+            "cantCertif": 1
           }
-        ]
+        ],
+        "estadoCertif": "finalizado"
       },
       {
         "proyectoId": "p1780562447137",
@@ -2739,9 +2860,13 @@
             "conceptoId": "7.6",
             "cantidad": 1,
             "observaciones": "Responder Req Generalitat Cataluña",
-            "descuento": 15
+            "descuento": 15,
+            "certifAprobada": true,
+            "certifEnviada": true,
+            "cantCertif": 1
           }
-        ]
+        ],
+        "estadoCertif": "finalizado"
       },
       {
         "proyectoId": "p1780562501868",
@@ -2762,9 +2887,13 @@
             "conceptoId": "7.6",
             "cantidad": 1,
             "observaciones": "Responder Req Generalitat Cataluña",
-            "descuento": 15
+            "descuento": 15,
+            "certifAprobada": true,
+            "certifEnviada": true,
+            "cantCertif": 1
           }
-        ]
+        ],
+        "estadoCertif": "finalizado"
       },
       {
         "proyectoId": "p1779131920309",
@@ -7275,9 +7404,9 @@
       "Yennyfer Lemus",
       "Daniel Romero",
       "Ignacio López",
-      "Daniel",
       "Técnico NorAcua",
-      "Carlos García"
+      "Carlos García",
+      "Daniel"
     ],
     "na-v20-responsables": [
       {
