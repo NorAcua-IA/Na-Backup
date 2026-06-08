@@ -1,5 +1,5 @@
 {
-  "fecha": "2026-06-08T20:44:40.693Z",
+  "fecha": "2026-06-08T20:45:00.193Z",
   "version": "2.7",
   "datos": {
     "na-v20-proyectos": [
@@ -384,7 +384,7 @@
       },
       {
         "nombre": "CO IN ES",
-        "po": "",
+        "po": "3001322306",
         "zona": "NORTE",
         "responsableBP": "Josep Seijo",
         "estacion": "BP BILBAO AEROPUERTO",
