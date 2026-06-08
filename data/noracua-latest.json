@@ -1,5 +1,5 @@
 {
-  "fecha": "2026-06-08T20:47:28.864Z",
+  "fecha": "2026-06-08T21:22:18.444Z",
   "version": "2.7",
   "datos": {
     "na-v20-proyectos": [
@@ -2267,12 +2267,16 @@
             "conceptoId": "7.6",
             "cantidad": 1,
             "observaciones": "Contestación Requerimiento para Cambio de Titularidad",
-            "certifAprobada": true,
-            "certifEnviada": true,
-            "cantCertif": 1
+            "certifAprobada": false,
+            "certifEnviada": false,
+            "cantCertif": 1,
+            "certifOferta": false,
+            "_certifCheck": false,
+            "_ofertaCheck": false
           }
         ],
-        "estadoCertif": "finalizado"
+        "estadoCertif": null,
+        "certifOfertaAt": null
       },
       {
         "proyectoId": "p1779883791414",
@@ -8881,14 +8885,14 @@
     ],
     "na-v20-historico": [
       {
-        "id": "inf1780495505745",
+        "id": "inf1780952888219",
         "nom": "INF-Global(250801-260531)",
         "tipo": "periodo",
         "proyNombre": "Todos los proyectos",
         "periodo": "01/08/25 → 31/05/26",
         "estado": "borrador",
-        "creadoEn": "2026-06-03T14:05:05.745Z",
-        "importeTotal": 32023.8,
+        "creadoEn": "2026-06-08T21:08:08.219Z",
+        "importeTotal": 31783.8,
         "proyectoId": null,
         "regIds": [
           "r1779184072093",
@@ -8910,7 +8914,6 @@
           "r1779391358989",
           "r1779392240842",
           "r1779393473054",
-          "r1779438583370",
           "r1779812807169",
           "r1779904582618",
           "r1779971954794"
