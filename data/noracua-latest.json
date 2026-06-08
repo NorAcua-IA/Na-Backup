@@ -1,5 +1,5 @@
 {
-  "fecha": "2026-06-08T20:45:34.225Z",
+  "fecha": "2026-06-08T20:45:48.271Z",
   "version": "2.7",
   "datos": {
     "na-v20-proyectos": [
@@ -366,7 +366,7 @@
       },
       {
         "nombre": "SANEAMIENTO RESTAURANTE",
-        "po": "",
+        "po": "3001322306",
         "zona": "CATALUÑA",
         "responsableBP": "Josep Seijo",
         "estacion": "BP BADALONA",
