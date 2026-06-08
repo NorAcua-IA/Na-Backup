@@ -1,5 +1,5 @@
 {
-  "fecha": "2026-06-06T11:33:48.213Z",
+  "fecha": "2026-06-08T20:38:05.462Z",
   "version": "2.7",
   "datos": {
     "na-v20-proyectos": [
@@ -918,6 +918,17 @@
         "clienteId": "cl01",
         "id": "p1780661994855",
         "creadoEn": "2026-06-05T12:19:54.855Z",
+        "creadoPor": "Jordi Santos"
+      },
+      {
+        "nombre": "REQUERIMIENTO URBANISMO TRAS RECICLADORA",
+        "po": "",
+        "zona": "CATALUÑA",
+        "responsableBP": "Josep Seijo",
+        "estacion": "BP SANTA PERPETUA",
+        "clienteId": "cl01",
+        "id": "p1780913844490",
+        "creadoEn": "2026-06-08T10:17:24.490Z",
         "creadoPor": "Jordi Santos"
       }
     ],
@@ -2160,10 +2171,63 @@
         "ofertaCodigo": "026-26"
       },
       {
+        "proyectoId": "p1780913844490",
+        "conceptoId": "7.6",
+        "trabajador": "Jordi Santos",
+        "fecha": "2026-06-08",
+        "observaciones": "Grupo: 1 actividades",
+        "cantidad": 1,
+        "id": "r1780913879321",
+        "estado": "pendiente",
+        "precioManual": null,
+        "createdAt": "2026-06-08T10:17:59.321Z",
+        "creadoPor": "Jordi Santos",
+        "esGrupo": true,
+        "lineasGrupo": [
+          {
+            "conceptoId": "7.6",
+            "cantidad": 3,
+            "observaciones": "Contestación parcial del requerimiento y solicitud / obtención expediente cesión espacios / contestación requerimiento"
+          },
+          {
+            "id": "lg_1780913888050",
+            "conceptoId": "7.7",
+            "cantidad": 1,
+            "observaciones": "Consulta previa a Carreteras de BCN por si es tramo afectado",
+            "precioManual": null,
+            "_capFiltro": "7"
+          },
+          {
+            "id": "lg_1780913917435",
+            "conceptoId": "7.6",
+            "cantidad": 3,
+            "observaciones": "Soliictud licencia de obras en Carreteras y solicitud con posterior cierre en el ACA",
+            "precioManual": null,
+            "_capFiltro": "7"
+          },
+          {
+            "id": "lg_1780913963904",
+            "conceptoId": "5.1a",
+            "cantidad": 1,
+            "observaciones": "Topográfico de estación para requerimiento urbanístico",
+            "precioManual": null,
+            "_capFiltro": "5"
+          },
+          {
+            "id": "lg_1780914044947",
+            "conceptoId": "1.18",
+            "cantidad": 1,
+            "observaciones": "Anexo al proyecto para contestación requerimiento",
+            "precioManual": null,
+            "_capFiltro": "1"
+          }
+        ]
+      },
+      {
         "proyectoId": "p1779138810443",
         "conceptoId": "7.3",
         "trabajador": "Yennyfer Lemus",
-        "fecha": "2026-05-19",
+        "fecha": "2026-06-01",
         "observaciones": "Grupo: 1 actividades",
         "cantidad": 1,
         "capFiltro": "7",
@@ -3089,6 +3153,34 @@
           }
         ],
         "estadoCertif": "finalizado"
+      },
+      {
+        "proyectoId": "p1779132004672",
+        "conceptoId": "1.8",
+        "trabajador": "Daniel",
+        "fecha": "2026-06-07",
+        "observaciones": "Grupo: 2 actividades",
+        "cantidad": 1,
+        "capFiltro": "6",
+        "id": "r1780837308981",
+        "estado": "rechazado",
+        "precioManual": null,
+        "createdAt": "2026-06-07T13:01:48.981Z",
+        "creadoPor": "Daniel",
+        "esGrupo": true,
+        "lineasGrupo": [
+          {
+            "conceptoId": "1.8",
+            "cantidad": 1,
+            "observaciones": "",
+            "descuento": 20
+          },
+          {
+            "conceptoId": "6.1",
+            "cantidad": 1,
+            "observaciones": ""
+          }
+        ]
       }
     ],
     "na-v21-facturas": [
@@ -7556,6 +7648,27 @@
       }
     ],
     "na-v25-hsse-sups": [
+      {
+        "site": "OFICINA",
+        "tipoActividad": "Itinerante",
+        "pctAuditoria": "",
+        "obraConSupervision": "No",
+        "fecha": "2026-06-05",
+        "horas": "5",
+        "horasOrig": "5",
+        "horasAdmin": "5",
+        "supervisor": "Carlos García",
+        "encargo": "Concepción Gutierrez",
+        "zona": "CATALUÑA",
+        "incidencias": "No",
+        "motivoSupervision": "",
+        "empresa": "",
+        "comentarios": "CONTROL DE DOCUMENTACION A CONTRATISTAS ",
+        "id": "hs_1780908673710",
+        "estado": "pendiente",
+        "creadoPor": "Carlos García",
+        "fechaCreacion": "2026-06-08T08:51:13.710Z"
+      },
       {
         "site": "BP MONTIGALA",
         "tipoActividad": "Obra menor mantenimiento",
