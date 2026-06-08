@@ -1,5 +1,5 @@
 {
-  "fecha": "2026-06-08T20:38:11.108Z",
+  "fecha": "2026-06-08T20:44:40.693Z",
   "version": "2.7",
   "datos": {
     "na-v20-proyectos": [
@@ -402,7 +402,7 @@
       },
       {
         "nombre": "VERTIDOS",
-        "po": "",
+        "po": "3001321904",
         "zona": "CATALUÑA",
         "responsableBP": "Josep Seijo",
         "estacion": "BP SANT BOI",
@@ -7656,7 +7656,7 @@
         "fecha": "2026-06-05",
         "horas": "5",
         "horasOrig": "5",
-        "horasAdmin": "5",
+        "horasAdmin": 8,
         "supervisor": "Carlos García",
         "encargo": "Concepción Gutierrez",
         "zona": "CATALUÑA",
@@ -7665,7 +7665,7 @@
         "empresa": "",
         "comentarios": "CONTROL DE DOCUMENTACION A CONTRATISTAS ",
         "id": "hs_1780908673710",
-        "estado": "pendiente",
+        "estado": "aprobado",
         "creadoPor": "Carlos García",
         "fechaCreacion": "2026-06-08T08:51:13.710Z"
       },
