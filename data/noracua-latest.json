@@ -1,5 +1,5 @@
 {
-  "fecha": "2026-06-09T21:09:12.150Z",
+  "fecha": "2026-06-09T21:34:19.725Z",
   "version": "2.7",
   "datos": {
     "na-v20-proyectos": [
@@ -6551,6 +6551,46 @@
       }
     ],
     "na-v21-ofertas": [
+      {
+        "id": "o1781040685810",
+        "numero": "030-26",
+        "clienteId": "cl01",
+        "proyectoId": "p1780656834711",
+        "zona": "BALEARES",
+        "po": "",
+        "asunto": "BP INFORME VERTIDOS ES",
+        "nombre": "Oferta VERTIDOS",
+        "estado": "Enviada",
+        "version": 1,
+        "lineas": [
+          {
+            "id": "lo1781040617527lz1v1oxzti",
+            "conceptoId": "6.4",
+            "cantidad": 1,
+            "precioUnit": 405,
+            "descuento": 0,
+            "total": 405,
+            "comentario": "Toma de datos de la red de recogida de aguas aprovechando limpieza "
+          },
+          {
+            "id": "lo1781040617527ejcv0u9r94s",
+            "conceptoId": "2.3",
+            "cantidad": 1,
+            "precioUnit": 1050,
+            "descuento": 0,
+            "total": 1050,
+            "comentario": "Envío de informe con conclusiones"
+          }
+        ],
+        "firmante": "",
+        "firmanteCliente": "Dña. Guiomar Tuero",
+        "firmanteNorAcua": "D. Daniel Romero",
+        "formaPago": "Según contrato",
+        "fecha": "2026-06-09",
+        "creadoEn": "2026-06-09T21:31:25.811Z",
+        "emplazamiento": "BP SANTA EULALIA",
+        "referencia": "BP-IVE-090626-v1"
+      },
       {
         "id": "o1780659356493",
         "numero": "026-26",
