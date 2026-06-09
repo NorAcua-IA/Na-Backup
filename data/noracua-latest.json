@@ -1,5 +1,5 @@
 {
-  "fecha": "2026-06-09T16:57:08.320Z",
+  "fecha": "2026-06-09T17:09:14.148Z",
   "version": "2.7",
   "datos": {
     "na-v20-proyectos": [
@@ -5500,7 +5500,7 @@
         "serie": "IL",
         "serieNombre": "IL — NorAcua",
         "fecha": "2026-02-19",
-        "estado": "Enviada",
+        "estado": "Cobrada",
         "cliente": "PLÁCIDO MOLINA SERRANO",
         "nif": "24278107C",
         "po": "",
