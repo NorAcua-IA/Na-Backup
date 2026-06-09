@@ -1,5 +1,5 @@
 {
-  "fecha": "2026-06-09T14:33:10.040Z",
+  "fecha": "2026-06-09T15:09:16.702Z",
   "version": "2.7",
   "datos": {
     "na-v20-proyectos": [
@@ -2299,12 +2299,16 @@
             "conceptoId": "7.6",
             "cantidad": 1,
             "observaciones": "Contestación Requerimiento para Cambio de Titularidad",
-            "certifAprobada": true,
-            "certifEnviada": true,
-            "cantCertif": 1
+            "certifAprobada": false,
+            "certifEnviada": false,
+            "cantCertif": 1,
+            "certifOferta": false,
+            "_certifCheck": false,
+            "_ofertaCheck": false
           }
         ],
-        "estadoCertif": "finalizado"
+        "estadoCertif": null,
+        "certifOfertaAt": null
       },
       {
         "proyectoId": "p1779883791414",
@@ -3185,34 +3189,6 @@
           }
         ],
         "estadoCertif": "finalizado"
-      },
-      {
-        "proyectoId": "p1779132004672",
-        "conceptoId": "1.8",
-        "trabajador": "Daniel",
-        "fecha": "2026-06-07",
-        "observaciones": "Grupo: 2 actividades",
-        "cantidad": 1,
-        "capFiltro": "6",
-        "id": "r1780837308981",
-        "estado": "rechazado",
-        "precioManual": null,
-        "createdAt": "2026-06-07T13:01:48.981Z",
-        "creadoPor": "Daniel",
-        "esGrupo": true,
-        "lineasGrupo": [
-          {
-            "conceptoId": "1.8",
-            "cantidad": 1,
-            "observaciones": "",
-            "descuento": 20
-          },
-          {
-            "conceptoId": "6.1",
-            "cantidad": 1,
-            "observaciones": ""
-          }
-        ]
       }
     ],
     "na-v21-facturas": [
@@ -8935,6 +8911,78 @@
       }
     ],
     "na-v20-historico": [
+      {
+        "id": "inf1781016956079",
+        "nom": "INF-Global(250801-260531)",
+        "tipo": "periodo",
+        "proyNombre": "Todos los proyectos",
+        "periodo": "01/08/25 → 31/05/26",
+        "estado": "borrador",
+        "creadoEn": "2026-06-09T14:55:56.079Z",
+        "importeTotal": 31783.8,
+        "proyectoId": null,
+        "regIds": [
+          "r1779184072093",
+          "r1779185491112",
+          "r1779185537188",
+          "r1779382900916",
+          "r1779385727831",
+          "r1779386014804",
+          "r1779386188218",
+          "r1779386510550",
+          "r1779386904618",
+          "r1779387335704",
+          "r1779387564130",
+          "r1779387769358",
+          "r1779388094641",
+          "r1779388216692",
+          "r1779388851027",
+          "r1779389240174",
+          "r1779391358989",
+          "r1779392240842",
+          "r1779393473054",
+          "r1779812807169",
+          "r1779904582618",
+          "r1779971954794"
+        ],
+        "_htmlStripped": true
+      },
+      {
+        "id": "inf1781015648666",
+        "nom": "INF-Global(250801-260531)",
+        "tipo": "periodo",
+        "proyNombre": "Todos los proyectos",
+        "periodo": "01/08/25 → 31/05/26",
+        "estado": "borrador",
+        "creadoEn": "2026-06-09T14:34:08.666Z",
+        "importeTotal": 31783.8,
+        "proyectoId": null,
+        "regIds": [
+          "r1779184072093",
+          "r1779185491112",
+          "r1779185537188",
+          "r1779382900916",
+          "r1779385727831",
+          "r1779386014804",
+          "r1779386188218",
+          "r1779386510550",
+          "r1779386904618",
+          "r1779387335704",
+          "r1779387564130",
+          "r1779387769358",
+          "r1779388094641",
+          "r1779388216692",
+          "r1779388851027",
+          "r1779389240174",
+          "r1779391358989",
+          "r1779392240842",
+          "r1779393473054",
+          "r1779812807169",
+          "r1779904582618",
+          "r1779971954794"
+        ],
+        "_htmlStripped": true
+      },
       {
         "id": "inf1780952888219",
         "nom": "INF-Global(250801-260531)",
