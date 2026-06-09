@@ -1,5 +1,5 @@
 {
-  "fecha": "2026-06-09T21:34:28.995Z",
+  "fecha": "2026-06-09T23:09:12.925Z",
   "version": "2.7",
   "datos": {
     "na-v20-proyectos": [
@@ -2768,7 +2768,8 @@
             "observaciones": "",
             "certifEnviada": true,
             "certifEnviadaAt": "2026-06-05T22:49:11.678Z",
-            "cantCertif": 1
+            "cantCertif": 1,
+            "certifAprobada": true
           },
           {
             "conceptoId": "6.1",
@@ -2776,7 +2777,8 @@
             "observaciones": "",
             "certifEnviada": true,
             "certifEnviadaAt": "2026-06-05T22:49:11.678Z",
-            "cantCertif": 1
+            "cantCertif": 1,
+            "certifAprobada": true
           }
         ]
       },
@@ -2915,8 +2917,10 @@
             "certifOfertaAt": null
           }
         ],
-        "ofertaCodigo": "",
-        "ofertaCodigos": [],
+        "ofertaCodigo": "030-26",
+        "ofertaCodigos": [
+          "030-26"
+        ],
         "certifOfertaAt": null
       },
       {
