@@ -1,5 +1,5 @@
 {
-  "fecha": "2026-06-09T15:22:52.902Z",
+  "fecha": "2026-06-09T16:14:00.782Z",
   "version": "2.7",
   "datos": {
     "na-v20-proyectos": [
@@ -962,7 +962,7 @@
         "proyectoId": "p1779438468314",
         "conceptoId": "7.6",
         "trabajador": "Yennyfer Lemus",
-        "fecha": "2026-05-21",
+        "fecha": "2026-06-01",
         "observaciones": "Grupo: 1 actividades",
         "cantidad": 1,
         "capFiltro": "7",
@@ -1884,7 +1884,9 @@
             "certifEnviadaAt": "2026-05-21T09:31:47.107Z"
           }
         ],
-        "estadoCertif": "finalizado"
+        "estadoCertif": "finalizado",
+        "facturado": true,
+        "facturaRef": "DR028/26"
       },
       {
         "proyectoId": "p1779185410739",
@@ -1922,7 +1924,9 @@
             "cantCertif": 1
           }
         ],
-        "estadoCertif": "finalizado"
+        "estadoCertif": "finalizado",
+        "facturado": true,
+        "facturaRef": "DR028/26"
       },
       {
         "proyectoId": "p1779185513218",
@@ -1949,7 +1953,9 @@
             "certifEnviadaAt": "2026-05-20T08:44:33.845Z"
           }
         ],
-        "estadoCertif": "finalizado"
+        "estadoCertif": "finalizado",
+        "facturado": true,
+        "facturaRef": "DR028/26"
       },
       {
         "proyectoId": "p1779382081008",
@@ -1992,7 +1998,9 @@
             "cantCertif": 1
           }
         ],
-        "estadoCertif": "finalizado"
+        "estadoCertif": "finalizado",
+        "facturado": true,
+        "facturaRef": "DR028/26"
       },
       {
         "proyectoId": "p1779384794378",
@@ -2042,7 +2050,9 @@
             "cantCertif": 1
           }
         ],
-        "estadoCertif": "finalizado"
+        "estadoCertif": "finalizado",
+        "facturado": true,
+        "facturaRef": "DR028/26"
       },
       {
         "proyectoId": "p1779385963232",
@@ -2068,7 +2078,9 @@
             "cantCertif": 1
           }
         ],
-        "estadoCertif": "finalizado"
+        "estadoCertif": "finalizado",
+        "facturado": true,
+        "facturaRef": "DR028/26"
       },
       {
         "proyectoId": "p1779386145802",
@@ -2102,7 +2114,9 @@
             "cantCertif": 1
           }
         ],
-        "estadoCertif": "finalizado"
+        "estadoCertif": "finalizado",
+        "facturado": true,
+        "facturaRef": "DR028/26"
       },
       {
         "proyectoId": "p1779386413694",
@@ -2136,7 +2150,9 @@
             "cantCertif": 1
           }
         ],
-        "estadoCertif": "finalizado"
+        "estadoCertif": "finalizado",
+        "facturado": true,
+        "facturaRef": "DR028/26"
       },
       {
         "proyectoId": "p1779386700752",
@@ -2165,7 +2181,9 @@
             "cantCertif": 1
           }
         ],
-        "estadoCertif": "finalizado"
+        "estadoCertif": "finalizado",
+        "facturado": true,
+        "facturaRef": "DR028/26"
       },
       {
         "proyectoId": "p1779387108379",
@@ -2191,7 +2209,9 @@
             "cantCertif": 1
           }
         ],
-        "estadoCertif": "finalizado"
+        "estadoCertif": "finalizado",
+        "facturado": true,
+        "facturaRef": "DR028/26"
       },
       {
         "proyectoId": "p1779387531504",
@@ -2225,7 +2245,9 @@
             "cantCertif": 1
           }
         ],
-        "estadoCertif": "finalizado"
+        "estadoCertif": "finalizado",
+        "facturado": true,
+        "facturaRef": "DR028/26"
       },
       {
         "proyectoId": "p1779387686938",
@@ -2268,7 +2290,9 @@
             "cantCertif": 1
           }
         ],
-        "estadoCertif": "finalizado"
+        "estadoCertif": "finalizado",
+        "facturado": true,
+        "facturaRef": "DR028/26"
       },
       {
         "proyectoId": "p1779387982062",
@@ -2311,7 +2335,9 @@
             "cantCertif": 1
           }
         ],
-        "estadoCertif": "finalizado"
+        "estadoCertif": "finalizado",
+        "facturado": true,
+        "facturaRef": "DR028/26"
       },
       {
         "proyectoId": "p1779388148839",
@@ -2354,7 +2380,9 @@
             "cantCertif": 1
           }
         ],
-        "estadoCertif": "finalizado"
+        "estadoCertif": "finalizado",
+        "facturado": true,
+        "facturaRef": "DR028/26"
       },
       {
         "proyectoId": "p1779388576112",
@@ -2409,7 +2437,9 @@
             "descuento": 40
           }
         ],
-        "estadoCertif": "finalizado"
+        "estadoCertif": "finalizado",
+        "facturado": true,
+        "facturaRef": "DR028/26"
       },
       {
         "proyectoId": "p1779389151179",
@@ -2451,7 +2481,9 @@
             "cantCertif": 1
           }
         ],
-        "estadoCertif": "finalizado"
+        "estadoCertif": "finalizado",
+        "facturado": true,
+        "facturaRef": "DR028/26"
       },
       {
         "proyectoId": "p1779391171195",
@@ -2501,7 +2533,9 @@
             "cantCertif": 1
           }
         ],
-        "estadoCertif": "finalizado"
+        "estadoCertif": "finalizado",
+        "facturado": true,
+        "facturaRef": "DR028/26"
       },
       {
         "proyectoId": "p1779391786134",
@@ -2570,7 +2604,9 @@
             "cantCertif": 1
           }
         ],
-        "estadoCertif": "finalizado"
+        "estadoCertif": "finalizado",
+        "facturado": true,
+        "facturaRef": "DR028/26"
       },
       {
         "proyectoId": "p1779393360321",
@@ -2596,7 +2632,9 @@
             "cantCertif": 1
           }
         ],
-        "estadoCertif": "finalizado"
+        "estadoCertif": "finalizado",
+        "facturado": true,
+        "facturaRef": "DR028/26"
       },
       {
         "proyectoId": "p1779131920309",
@@ -3059,7 +3097,9 @@
             "cantCertif": 1
           }
         ],
-        "estadoCertif": "finalizado"
+        "estadoCertif": "finalizado",
+        "facturado": true,
+        "facturaRef": "DR028/26"
       },
       {
         "proyectoId": "p1779900916942",
@@ -3146,7 +3186,9 @@
             "cantCertif": 3
           }
         ],
-        "estadoCertif": "finalizado"
+        "estadoCertif": "finalizado",
+        "facturado": true,
+        "facturaRef": "DR028/26"
       },
       {
         "proyectoId": "p1779971594817",
@@ -3188,10 +3230,717 @@
             "cantCertif": 1
           }
         ],
-        "estadoCertif": "finalizado"
+        "estadoCertif": "finalizado",
+        "facturado": true,
+        "facturaRef": "DR028/26"
       }
     ],
     "na-v21-facturas": [
+      {
+        "id": "f1781021367823",
+        "tipo": "Factura",
+        "serieId": "s01",
+        "numero": "DR028/26",
+        "clienteId": "cl01",
+        "fecha": "2026-06-07",
+        "fechaVto": "2026-08-06",
+        "diasVto": 60,
+        "iban": "ES45 3025 0003 9914 3335 4334",
+        "metodoPago": "Transferencia bancaria",
+        "observaciones": "Ref. informe: INF-Global(250801-260531) — 01/08/25 → 31/05/26",
+        "refAbono": "",
+        "lineas": [
+          {
+            "id": "l1781021336667okqzqm0phbg",
+            "concepto": "CO OUT ES — PO: 3001342427 — ES: BP LEÓN TROBAJO MI",
+            "uds": 1,
+            "precio": 0,
+            "descuento": 0,
+            "iva": 21,
+            "esCabecera": true
+          },
+          {
+            "id": "l1781021336668c6gjbt5m25a",
+            "concepto": "Solicitud documentación a la administración — BP LEÓN TROBAJO MI (19/05/26)",
+            "uds": 1,
+            "precio": 240,
+            "descuento": 0,
+            "iva": 21
+          },
+          {
+            "id": "l1781021336668j0hubl4p8or",
+            "concepto": "CO OUT ES — PO: 3001342428 — ES: BP LEÓN TROBAJO MD",
+            "uds": 1,
+            "precio": 0,
+            "descuento": 0,
+            "iva": 21,
+            "esCabecera": true
+          },
+          {
+            "id": "l1781021336668kr1dhmj1gd",
+            "concepto": "Solicitud documentación a la administración — BP LEÓN TROBAJO MD (19/05/26)",
+            "uds": 1,
+            "precio": 240,
+            "descuento": 0,
+            "iva": 21
+          },
+          {
+            "id": "l1781021336668urvshb51k5q",
+            "concepto": "Otros (Toma de Datos) — BP LEÓN TROBAJO MD (19/05/26)",
+            "uds": 1,
+            "precio": 75.8,
+            "descuento": 0,
+            "iva": 21
+          },
+          {
+            "id": "l1781021336668hbpx7f4zuk",
+            "concepto": "CO OUT ES — PO: 3001342429 — ES: BP SALAMANCA",
+            "uds": 1,
+            "precio": 0,
+            "descuento": 0,
+            "iva": 21,
+            "esCabecera": true
+          },
+          {
+            "id": "l1781021336668mhr5n32gdbl",
+            "concepto": "Solicitud documentación a la administración — BP SALAMANCA (19/05/26)",
+            "uds": 1,
+            "precio": 240,
+            "descuento": 0,
+            "iva": 21
+          },
+          {
+            "id": "l178102133666825kgr0xsthd",
+            "concepto": "VERTIDOS — PO: 3001321904 — ES: BP DANI",
+            "uds": 1,
+            "precio": 0,
+            "descuento": 0,
+            "iva": 21,
+            "esCabecera": true
+          },
+          {
+            "id": "l1781021336668w79z8d9xxnm",
+            "concepto": "Solicitud documentación a la administración — BP DANI (06/08/25)",
+            "uds": 1,
+            "precio": 225,
+            "descuento": 0,
+            "iva": 21
+          },
+          {
+            "id": "l1781021336668v1918x9vgn",
+            "concepto": "Proyecto de Vertidos — BP DANI (06/08/25)",
+            "uds": 1,
+            "precio": 950,
+            "descuento": 35,
+            "iva": 21
+          },
+          {
+            "id": "l1781021336668ykjerufdrw",
+            "concepto": "Actuaciones comunicadas — BP DANI (06/08/25)",
+            "uds": 1,
+            "precio": 240,
+            "descuento": 0,
+            "iva": 21
+          },
+          {
+            "id": "l1781021336668x0bw1z3w8b",
+            "concepto": "SANEAMIENTO RESTAURANTE — PO: 3001322306 — ES: BP BADALONA",
+            "uds": 1,
+            "precio": 0,
+            "descuento": 0,
+            "iva": 21,
+            "esCabecera": true
+          },
+          {
+            "id": "l1781021336668i8lup3odlh",
+            "concepto": "Informe técnico — BP BADALONA (05/12/25)",
+            "uds": 1,
+            "precio": 1050,
+            "descuento": 0,
+            "iva": 21
+          },
+          {
+            "id": "l1781021336668gyooa1v3a9u",
+            "concepto": "Toma de datos Preliminar — BP BADALONA (05/12/25)",
+            "uds": 2,
+            "precio": 405,
+            "descuento": 0,
+            "iva": 21
+          },
+          {
+            "id": "l1781021336668f22np5n36dp",
+            "concepto": "Control de Obra (semana) — BP BADALONA (05/12/25)",
+            "uds": 1,
+            "precio": 650,
+            "descuento": 0,
+            "iva": 21
+          },
+          {
+            "id": "l1781021336668v326z1nrdz",
+            "concepto": "Supervisor Seguridad por día — BP BADALONA (05/12/25)",
+            "uds": 1,
+            "precio": 375,
+            "descuento": 0,
+            "iva": 21
+          },
+          {
+            "id": "l1781021336668hkg4nnjxz8b",
+            "concepto": "INFORME ATEX — PO: 3001321904 — ES: BP LA CREUETA",
+            "uds": 1,
+            "precio": 0,
+            "descuento": 0,
+            "iva": 21,
+            "esCabecera": true
+          },
+          {
+            "id": "l1781021336668ghpb9gpsak7",
+            "concepto": "Informe ATEX — BP LA CREUETA (15/09/25)",
+            "uds": 1,
+            "precio": 225,
+            "descuento": 0,
+            "iva": 21
+          },
+          {
+            "id": "l1781021336668qvy0j2kf1e",
+            "concepto": "CO IN ES — PO: 3001322306 — ES: BP BILBAO AEROPUERTO",
+            "uds": 1,
+            "precio": 0,
+            "descuento": 0,
+            "iva": 21,
+            "esCabecera": true
+          },
+          {
+            "id": "l1781021336668gr66c649yg7",
+            "concepto": "Toma de datos COIN — BP BILBAO AEROPUERTO (03/10/25)",
+            "uds": 1,
+            "precio": 425,
+            "descuento": 0,
+            "iva": 21
+          },
+          {
+            "id": "l17810213366681dmf301j0h2",
+            "concepto": "Informe técnico — BP BILBAO AEROPUERTO (03/10/25)",
+            "uds": 1,
+            "precio": 1100,
+            "descuento": 0,
+            "iva": 21
+          },
+          {
+            "id": "l178102133666801281sp0w685",
+            "concepto": "SÓTANO ES — PO: 3001322306 — ES: BP CA S'ESTRELLA",
+            "uds": 1,
+            "precio": 0,
+            "descuento": 0,
+            "iva": 21,
+            "esCabecera": true
+          },
+          {
+            "id": "l17810213366688gd41k8a5y",
+            "concepto": "Toma de datos de sótanos — BP CA S'ESTRELLA (15/10/25)",
+            "uds": 1,
+            "precio": 785,
+            "descuento": 0,
+            "iva": 21
+          },
+          {
+            "id": "l1781021336668kvxxz987o7",
+            "concepto": "Informe técnico — BP CA S'ESTRELLA (15/10/25)",
+            "uds": 1,
+            "precio": 1050,
+            "descuento": 0,
+            "iva": 21
+          },
+          {
+            "id": "l1781021336668acif3ia7084",
+            "concepto": "VERTIDOS — PO: 3001321904 — ES: BP SANT BOI",
+            "uds": 1,
+            "precio": 0,
+            "descuento": 0,
+            "iva": 21,
+            "esCabecera": true
+          },
+          {
+            "id": "l1781021336668z7u1nu6hf4f",
+            "concepto": "Informe técnico — BP SANT BOI (09/09/25)",
+            "uds": 1,
+            "precio": 1050,
+            "descuento": 0,
+            "iva": 21
+          },
+          {
+            "id": "l1781021336668dtighnptiek",
+            "concepto": "LEGALIZACIÓN SURTIDORES — PO: 3001321904 — ES: BP EL CORB",
+            "uds": 1,
+            "precio": 0,
+            "descuento": 0,
+            "iva": 21,
+            "esCabecera": true
+          },
+          {
+            "id": "l17810213366686fgml7bv2eq",
+            "concepto": "Inscripción y Cambio Titularidad Registro Industrial — BP EL CORB (25/11/25)",
+            "uds": 1,
+            "precio": 595,
+            "descuento": 0,
+            "iva": 21
+          },
+          {
+            "id": "l1781021336668m601udcnea",
+            "concepto": "SÓTANO ES — PO: 3001322306 — ES: BP INURSA MD",
+            "uds": 1,
+            "precio": 0,
+            "descuento": 0,
+            "iva": 21,
+            "esCabecera": true
+          },
+          {
+            "id": "l1781021336668zvlr9c5rbar",
+            "concepto": "Informe técnico — BP INURSA MD (12/12/25)",
+            "uds": 1,
+            "precio": 1050,
+            "descuento": 0,
+            "iva": 21
+          },
+          {
+            "id": "l1781021336668nb5uyvo7vxd",
+            "concepto": "Toma de datos de sótanos — BP INURSA MD (12/12/25)",
+            "uds": 1,
+            "precio": 785,
+            "descuento": 0,
+            "iva": 21
+          },
+          {
+            "id": "l1781021336668s6qyg0ug1rc",
+            "concepto": "VERTIDOS — PO: 3001321904 — ES: BP CAN SOLÁ",
+            "uds": 1,
+            "precio": 0,
+            "descuento": 0,
+            "iva": 21,
+            "esCabecera": true
+          },
+          {
+            "id": "l17810213366686fnaln86wc",
+            "concepto": "Proyecto de Vertidos — BP CAN SOLÁ (22/12/25)",
+            "uds": 1,
+            "precio": 950,
+            "descuento": 35,
+            "iva": 21
+          },
+          {
+            "id": "l1781021336668yu4rnrzh9ul",
+            "concepto": "Solicitud documentación a la administración — BP CAN SOLÁ (22/12/25)",
+            "uds": 1,
+            "precio": 225,
+            "descuento": 0,
+            "iva": 21
+          },
+          {
+            "id": "l1781021336668ybtxsijq2m",
+            "concepto": "Actuaciones comunicadas — BP CAN SOLÁ (22/12/25)",
+            "uds": 1,
+            "precio": 240,
+            "descuento": 0,
+            "iva": 21
+          },
+          {
+            "id": "l1781021336668a6jhjk17js",
+            "concepto": "VERTIDOS — PO: 3001321904 — ES: BP COLL FAVÁ",
+            "uds": 1,
+            "precio": 0,
+            "descuento": 0,
+            "iva": 21,
+            "esCabecera": true
+          },
+          {
+            "id": "l1781021336668r431onu0kf8",
+            "concepto": "Proyecto de Vertidos — BP COLL FAVÁ (22/12/25)",
+            "uds": 1,
+            "precio": 950,
+            "descuento": 35,
+            "iva": 21
+          },
+          {
+            "id": "l1781021336668q3iecz62bj8",
+            "concepto": "Solicitud documentación a la administración — BP COLL FAVÁ (22/12/25)",
+            "uds": 1,
+            "precio": 225,
+            "descuento": 0,
+            "iva": 21
+          },
+          {
+            "id": "l17810213366683a2wrzpxijd",
+            "concepto": "Actuaciones comunicadas — BP COLL FAVÁ (22/12/25)",
+            "uds": 1,
+            "precio": 240,
+            "descuento": 0,
+            "iva": 21
+          },
+          {
+            "id": "l17810213366687nvhtknt47v",
+            "concepto": "VERTIDOS — PO: 3001321904 — ES: BP SANTA PERPETUA",
+            "uds": 1,
+            "precio": 0,
+            "descuento": 0,
+            "iva": 21,
+            "esCabecera": true
+          },
+          {
+            "id": "l1781021336668h9m6ndfps0v",
+            "concepto": "Proyecto de Vertidos — BP SANTA PERPETUA (22/12/25)",
+            "uds": 1,
+            "precio": 950,
+            "descuento": 35,
+            "iva": 21
+          },
+          {
+            "id": "l17810213366685pfnao4o6m",
+            "concepto": "Solicitud documentación a la administración — BP SANTA PERPETUA (22/12/25)",
+            "uds": 1,
+            "precio": 225,
+            "descuento": 0,
+            "iva": 21
+          },
+          {
+            "id": "l17810213366687o60dypoo1q",
+            "concepto": "Actuaciones comunicadas — BP SANTA PERPETUA (22/12/25)",
+            "uds": 1,
+            "precio": 240,
+            "descuento": 0,
+            "iva": 21
+          },
+          {
+            "id": "l1781021336668ezpxjst99vs",
+            "concepto": "COMPRESOR — PO: 3001321904 — ES: BP VILLACASTÍN NORTE",
+            "uds": 1,
+            "precio": 0,
+            "descuento": 0,
+            "iva": 21,
+            "esCabecera": true
+          },
+          {
+            "id": "l1781021336668j64efqh0eal",
+            "concepto": "Inscripción y Cambio Titularidad Registro Industrial — BP VILLACASTÍN NORTE (20/03/26)",
+            "uds": 1,
+            "precio": 595,
+            "descuento": 0,
+            "iva": 21
+          },
+          {
+            "id": "l1781021336668hjxnfy6mzv",
+            "concepto": "Actuaciones comunicadas — BP VILLACASTÍN NORTE (20/03/26)",
+            "uds": 1,
+            "precio": 240,
+            "descuento": 0,
+            "iva": 21
+          },
+          {
+            "id": "l1781021336668zorr74vwngs",
+            "concepto": "Otros (Informes) — BP VILLACASTÍN NORTE (20/03/26)",
+            "uds": 1,
+            "precio": 425,
+            "descuento": 0,
+            "iva": 21
+          },
+          {
+            "id": "l1781021336668rdzvt6wz7si",
+            "concepto": "Proyecto para legalización — BP VILLACASTÍN NORTE (20/03/26)",
+            "uds": 1,
+            "precio": 1180,
+            "descuento": 40,
+            "iva": 21
+          },
+          {
+            "id": "l1781021336668hnwb1xnm04r",
+            "concepto": "PLAN DE AUTOPROTECCIÓN — PO: 3001343318 — ES: BP TRÁPAGA",
+            "uds": 1,
+            "precio": 0,
+            "descuento": 0,
+            "iva": 21,
+            "esCabecera": true
+          },
+          {
+            "id": "l1781021336668cr8xrrf43c",
+            "concepto": "Informe técnico — BP TRÁPAGA (30/01/26)",
+            "uds": 1,
+            "precio": 1100,
+            "descuento": 0,
+            "iva": 21
+          },
+          {
+            "id": "l1781021336668z15vb0kxiyp",
+            "concepto": "Informe ATEX — BP TRÁPAGA (30/01/26)",
+            "uds": 1,
+            "precio": 250,
+            "descuento": 0,
+            "iva": 21
+          },
+          {
+            "id": "l1781021336668w5gl95d73l",
+            "concepto": "Toma de datos exhaustiva — BP TRÁPAGA (30/01/26)",
+            "uds": 1,
+            "precio": 750,
+            "descuento": 0,
+            "iva": 21
+          },
+          {
+            "id": "l1781021336668ohht9ae685a",
+            "concepto": "SÓTANO ES — PO: 3001322306 — ES: BP TORREJÓN AV FRONTERAS",
+            "uds": 1,
+            "precio": 0,
+            "descuento": 0,
+            "iva": 21,
+            "esCabecera": true
+          },
+          {
+            "id": "l1781021336668tgmbj5mqspc",
+            "concepto": "Informe técnico — BP TORREJÓN AV FRONTERAS (13/03/26)",
+            "uds": 1,
+            "precio": 1000,
+            "descuento": 0,
+            "iva": 21
+          },
+          {
+            "id": "l17810213366681fiutx57yi5",
+            "concepto": "Toma de datos Preliminar — BP TORREJÓN AV FRONTERAS (13/03/26)",
+            "uds": 1,
+            "precio": 405,
+            "descuento": 0,
+            "iva": 21
+          },
+          {
+            "id": "l17810213366680t06txink9vl",
+            "concepto": "Actuaciones comunicadas — BP TORREJÓN AV FRONTERAS (13/03/26)",
+            "uds": 1,
+            "precio": 240,
+            "descuento": 0,
+            "iva": 21
+          },
+          {
+            "id": "l1781021336668n0f87l5nwmp",
+            "concepto": "Actuaciones comunicadas — BP TORREJÓN AV FRONTERAS (13/03/26)",
+            "uds": 1,
+            "precio": 240,
+            "descuento": 0,
+            "iva": 21
+          },
+          {
+            "id": "l17810213366680e14e5o7qc8d",
+            "concepto": "CONTROL PERIÓDICO AMBIENTAL — PO: 3001321904 — ES: BP GUALBA",
+            "uds": 1,
+            "precio": 0,
+            "descuento": 0,
+            "iva": 21,
+            "esCabecera": true
+          },
+          {
+            "id": "l1781021336668ie34khxiete",
+            "concepto": "Otros (Informes) — BP GUALBA (13/04/26)",
+            "uds": 1,
+            "precio": 1750,
+            "descuento": 0,
+            "iva": 21
+          },
+          {
+            "id": "l1781021336668mfygzmhq4qe",
+            "concepto": "Toma de datos Preliminar — BP GUALBA (13/04/26)",
+            "uds": 1,
+            "precio": 405,
+            "descuento": 0,
+            "iva": 21
+          },
+          {
+            "id": "l1781021336668fml2zeudtd",
+            "concepto": "Actuaciones comunicadas — BP GUALBA (13/04/26)",
+            "uds": 1,
+            "precio": 240,
+            "descuento": 0,
+            "iva": 21
+          },
+          {
+            "id": "l1781021336668dlnay0mx5tg",
+            "concepto": "Toma de datos Preliminar — BP GUALBA (13/04/26)",
+            "uds": 1,
+            "precio": 405,
+            "descuento": 0,
+            "iva": 21
+          },
+          {
+            "id": "l1781021336668zlqwigydjkn",
+            "concepto": "Otros (Informes) — BP GUALBA (13/04/26)",
+            "uds": 1,
+            "precio": 750,
+            "descuento": 0,
+            "iva": 21
+          },
+          {
+            "id": "l178102133666863010bb38g",
+            "concepto": "Actuaciones comunicadas — BP GUALBA (13/04/26)",
+            "uds": 1,
+            "precio": 240,
+            "descuento": 0,
+            "iva": 21
+          },
+          {
+            "id": "l1781021336668l0ff6ixa13m",
+            "concepto": "REGISTRO INDUSTRIAL — PO: 3001321904 — ES: BP ROMICA",
+            "uds": 1,
+            "precio": 0,
+            "descuento": 0,
+            "iva": 21,
+            "esCabecera": true
+          },
+          {
+            "id": "l1781021336668v6554srd17h",
+            "concepto": "Actuaciones comunicadas — BP ROMICA (21/05/26)",
+            "uds": 1,
+            "precio": 240,
+            "descuento": 0,
+            "iva": 21
+          },
+          {
+            "id": "l1781021336668om07rp95xsf",
+            "concepto": "SUMINISTROS — PO: 3001321904 — ES: BP SAN PEDRO MI",
+            "uds": 1,
+            "precio": 0,
+            "descuento": 0,
+            "iva": 21,
+            "esCabecera": true
+          },
+          {
+            "id": "l1781021336668ychi8bxky4o",
+            "concepto": "Informe técnico — BP SAN PEDRO MI (26/05/26)",
+            "uds": 1,
+            "precio": 1000,
+            "descuento": 0,
+            "iva": 21
+          },
+          {
+            "id": "l1781021336668cy19f98xs0d",
+            "concepto": "Toma de datos Preliminar — BP SAN PEDRO MI (26/05/26)",
+            "uds": 1,
+            "precio": 405,
+            "descuento": 0,
+            "iva": 21
+          },
+          {
+            "id": "l1781021336668a0lpbv4ntkr",
+            "concepto": "Solicitud de Servicios y Acometidas — BP SAN PEDRO MI (26/05/26)",
+            "uds": 1,
+            "precio": 815,
+            "descuento": 0,
+            "iva": 21
+          },
+          {
+            "id": "l178102133666807hr4wn0itt",
+            "concepto": "RECICLADORA LAVADOS — PO: 3001258221 — ES: BP MONTSENY",
+            "uds": 1,
+            "precio": 0,
+            "descuento": 0,
+            "iva": 21,
+            "esCabecera": true
+          },
+          {
+            "id": "l17810213366682i5xxf8o42",
+            "concepto": "Control de Obra (semana) — BP MONTSENY (13/02/26)",
+            "uds": 2,
+            "precio": 650,
+            "descuento": 50,
+            "iva": 21
+          },
+          {
+            "id": "l1781021336668ho0xl8lrz3",
+            "concepto": "Actuaciones comunicadas — BP MONTSENY (13/02/26)",
+            "uds": 1,
+            "precio": 240,
+            "descuento": 0,
+            "iva": 21
+          },
+          {
+            "id": "l1781021336668q6rstp1sf0c",
+            "concepto": "Actuaciones comunicadas — BP MONTSENY (13/02/26)",
+            "uds": 1,
+            "precio": 240,
+            "descuento": 0,
+            "iva": 21
+          },
+          {
+            "id": "l1781021336668fqtxmi40x4v",
+            "concepto": "Licencias de apertura o de actividad — BP MONTSENY (13/02/26)",
+            "uds": 1,
+            "precio": 595,
+            "descuento": 50,
+            "iva": 21
+          },
+          {
+            "id": "l17810213366681bqqdd2ctzq",
+            "concepto": "Separata al proyecto — BP MONTSENY (13/02/26)",
+            "uds": 1,
+            "precio": 700,
+            "descuento": 45,
+            "iva": 21
+          },
+          {
+            "id": "l1781021336668bb0bmlst0sk",
+            "concepto": "Informe técnico — BP MONTSENY (13/02/26)",
+            "uds": 1,
+            "precio": 1050,
+            "descuento": 65,
+            "iva": 21
+          },
+          {
+            "id": "l17810213366680w0uk4tkfb4g",
+            "concepto": "Actuaciones comunicadas — BP MONTSENY (13/02/26)",
+            "uds": 1,
+            "precio": 240,
+            "descuento": 0,
+            "iva": 21
+          },
+          {
+            "id": "l1781021336668rtpdt3cnpa",
+            "concepto": "Supervisor Seguridad por día — BP MONTSENY (13/02/26)",
+            "uds": 3,
+            "precio": 375,
+            "descuento": 0,
+            "iva": 21
+          },
+          {
+            "id": "l1781021336668slkr5otprzo",
+            "concepto": "CARRETERAS — PO: 3001321904 — ES: BP EL CUADREJÓN I",
+            "uds": 1,
+            "precio": 0,
+            "descuento": 0,
+            "iva": 21,
+            "esCabecera": true
+          },
+          {
+            "id": "l1781021336668ek16f14ooov",
+            "concepto": "Actuaciones comunicadas — BP EL CUADREJÓN I (23/01/26)",
+            "uds": 1,
+            "precio": 240,
+            "descuento": 0,
+            "iva": 21
+          },
+          {
+            "id": "l1781021336668qavvwygwo1",
+            "concepto": "Actuaciones comunicadas — BP EL CUADREJÓN I (23/01/26)",
+            "uds": 2,
+            "precio": 240,
+            "descuento": 0,
+            "iva": 21
+          },
+          {
+            "id": "l1781021336668ol5vax8ddkq",
+            "concepto": "Actuaciones comunicadas — BP EL CUADREJÓN I (23/01/26)",
+            "uds": 1,
+            "precio": 240,
+            "descuento": 0,
+            "iva": 21
+          }
+        ],
+        "estado": "Borrador",
+        "poRef": "",
+        "creadoEn": "2026-06-09T16:09:27.823Z"
+      },
       {
         "id": "fDR02426_1780414603613",
         "tipo": "Factura",
@@ -7638,10 +8387,10 @@
         "id": "s01",
         "codigo": "DR",
         "nombre": "BP España",
-        "contFact": 3,
+        "contFact": 28,
         "contSupl": 1,
         "contAbon": 0,
-        "ultimaFechaFact": null,
+        "ultimaFechaFact": "2026-06-07",
         "ultimaFechaSupl": null,
         "ultimaFechaAbon": null
       },
@@ -7649,8 +8398,8 @@
         "id": "s02",
         "codigo": "IL",
         "nombre": "Tendam y otros",
-        "contFact": 4,
-        "contSupl": 2,
+        "contFact": 22,
+        "contSupl": 4,
         "contAbon": 0,
         "ultimaFechaFact": null,
         "ultimaFechaSupl": null,
@@ -7666,7 +8415,7 @@
         "fecha": "2026-06-09",
         "horas": "12",
         "horasOrig": "12",
-        "horasAdmin": "12",
+        "horasAdmin": 14,
         "supervisor": "Carlos García",
         "encargo": "Concepción Gutierrez",
         "zona": "CATALUÑA",
@@ -7675,7 +8424,7 @@
         "empresa": "Petrosuport",
         "comentarios": "Reparación e impermeabilización de canaletas en cubierta edificio tienda",
         "id": "hs_1780997798848",
-        "estado": "pendiente",
+        "estado": "aprobado",
         "creadoPor": "Carlos García",
         "fechaCreacion": "2026-06-09T09:36:38.848Z"
       },
@@ -7687,7 +8436,7 @@
         "fecha": "2026-06-05",
         "horas": "5",
         "horasOrig": "5",
-        "horasAdmin": "5",
+        "horasAdmin": 8,
         "supervisor": "Carlos García",
         "encargo": "Concepción Gutierrez",
         "zona": "CATALUÑA",
@@ -7696,7 +8445,7 @@
         "empresa": "",
         "comentarios": "CONTROL DE DOCUMENTACION A CONTRATISTAS ",
         "id": "hs_1780908673710",
-        "estado": "pendiente",
+        "estado": "aprobado",
         "creadoPor": "Carlos García",
         "fechaCreacion": "2026-06-08T08:51:13.710Z"
       },
@@ -8912,13 +9661,13 @@
     ],
     "na-v20-historico": [
       {
-        "id": "inf1781016956079",
+        "id": "inf1781020264555",
         "nom": "INF-Global(250801-260531)",
         "tipo": "periodo",
         "proyNombre": "Todos los proyectos",
         "periodo": "01/08/25 → 31/05/26",
-        "estado": "borrador",
-        "creadoEn": "2026-06-09T14:55:56.079Z",
+        "estado": "facturado",
+        "creadoEn": "2026-06-09T15:51:04.555Z",
         "importeTotal": 31783.8,
         "proyectoId": null,
         "regIds": [
@@ -8945,115 +9694,7 @@
           "r1779904582618",
           "r1779971954794"
         ],
-        "_htmlStripped": true
-      },
-      {
-        "id": "inf1781015648666",
-        "nom": "INF-Global(250801-260531)",
-        "tipo": "periodo",
-        "proyNombre": "Todos los proyectos",
-        "periodo": "01/08/25 → 31/05/26",
-        "estado": "borrador",
-        "creadoEn": "2026-06-09T14:34:08.666Z",
-        "importeTotal": 31783.8,
-        "proyectoId": null,
-        "regIds": [
-          "r1779184072093",
-          "r1779185491112",
-          "r1779185537188",
-          "r1779382900916",
-          "r1779385727831",
-          "r1779386014804",
-          "r1779386188218",
-          "r1779386510550",
-          "r1779386904618",
-          "r1779387335704",
-          "r1779387564130",
-          "r1779387769358",
-          "r1779388094641",
-          "r1779388216692",
-          "r1779388851027",
-          "r1779389240174",
-          "r1779391358989",
-          "r1779392240842",
-          "r1779393473054",
-          "r1779812807169",
-          "r1779904582618",
-          "r1779971954794"
-        ],
-        "_htmlStripped": true
-      },
-      {
-        "id": "inf1780952888219",
-        "nom": "INF-Global(250801-260531)",
-        "tipo": "periodo",
-        "proyNombre": "Todos los proyectos",
-        "periodo": "01/08/25 → 31/05/26",
-        "estado": "borrador",
-        "creadoEn": "2026-06-08T21:08:08.219Z",
-        "importeTotal": 31783.8,
-        "proyectoId": null,
-        "regIds": [
-          "r1779184072093",
-          "r1779185491112",
-          "r1779185537188",
-          "r1779382900916",
-          "r1779385727831",
-          "r1779386014804",
-          "r1779386188218",
-          "r1779386510550",
-          "r1779386904618",
-          "r1779387335704",
-          "r1779387564130",
-          "r1779387769358",
-          "r1779388094641",
-          "r1779388216692",
-          "r1779388851027",
-          "r1779389240174",
-          "r1779391358989",
-          "r1779392240842",
-          "r1779393473054",
-          "r1779812807169",
-          "r1779904582618",
-          "r1779971954794"
-        ],
-        "_htmlStripped": true
-      },
-      {
-        "id": "inf1780432778078",
-        "nom": "INF-Global(250801-260531)",
-        "tipo": "periodo",
-        "proyNombre": "Todos los proyectos",
-        "periodo": "01/08/25 → 31/05/26",
-        "estado": "enviado",
-        "creadoEn": "2026-06-02T20:39:38.078Z",
-        "importeTotal": 32023.8,
-        "proyectoId": null,
-        "regIds": [
-          "r1779184072093",
-          "r1779185491112",
-          "r1779185537188",
-          "r1779382900916",
-          "r1779385727831",
-          "r1779386014804",
-          "r1779386188218",
-          "r1779386510550",
-          "r1779386904618",
-          "r1779387335704",
-          "r1779387564130",
-          "r1779387769358",
-          "r1779388094641",
-          "r1779388216692",
-          "r1779388851027",
-          "r1779389240174",
-          "r1779391358989",
-          "r1779392240842",
-          "r1779393473054",
-          "r1779438583370",
-          "r1779812807169",
-          "r1779904582618",
-          "r1779971954794"
-        ],
+        "facturaRef": "DR028/26",
         "_htmlStripped": true
       }
     ],
