@@ -1,5 +1,5 @@
 {
-  "fecha": "2026-06-09T07:22:13.544Z",
+  "fecha": "2026-06-09T14:26:36.214Z",
   "version": "2.7",
   "datos": {
     "na-v20-proyectos": [
@@ -7575,6 +7575,7 @@
       }
     ],
     "na-v20-estaciones": [
+      ".BP FRAGA II",
       "BP ALELLA",
       "BP AV DAROCA",
       "BP BADALONA",
@@ -7602,6 +7603,7 @@
       "BP EL CUADREJÓN I",
       "BP EL ESPARTAL",
       "BP EL PRAT",
+      "BP FRAGA II",
       "BP GANZO",
       "BP GETAFE M406",
       "BP GUADARRAMA",
@@ -7681,6 +7683,27 @@
     ],
     "na-v25-hsse-sups": [
       {
+        "site": "BP FRAGA II",
+        "tipoActividad": "Obra menor mantenimiento",
+        "pctAuditoria": "98",
+        "obraConSupervision": "Sí",
+        "fecha": "2026-06-09",
+        "horas": "12",
+        "horasOrig": "12",
+        "horasAdmin": "12",
+        "supervisor": "Carlos García",
+        "encargo": "Concepción Gutierrez",
+        "zona": "CATALUÑA",
+        "incidencias": "No",
+        "motivoSupervision": "Trabajos en altura",
+        "empresa": "Petrosuport",
+        "comentarios": "Reparación e impermeabilización de canaletas en cubierta edificio tienda",
+        "id": "hs_1780997798848",
+        "estado": "pendiente",
+        "creadoPor": "Carlos García",
+        "fechaCreacion": "2026-06-09T09:36:38.848Z"
+      },
+      {
         "site": "OFICINA",
         "tipoActividad": "Itinerante",
         "pctAuditoria": "",
@@ -7688,7 +7711,7 @@
         "fecha": "2026-06-05",
         "horas": "5",
         "horasOrig": "5",
-        "horasAdmin": 8,
+        "horasAdmin": "5",
         "supervisor": "Carlos García",
         "encargo": "Concepción Gutierrez",
         "zona": "CATALUÑA",
@@ -7697,7 +7720,7 @@
         "empresa": "",
         "comentarios": "CONTROL DE DOCUMENTACION A CONTRATISTAS ",
         "id": "hs_1780908673710",
-        "estado": "aprobado",
+        "estado": "pendiente",
         "creadoPor": "Carlos García",
         "fechaCreacion": "2026-06-08T08:51:13.710Z"
       },
