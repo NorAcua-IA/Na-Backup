@@ -1,5 +1,5 @@
 {
-  "fecha": "2026-06-09T20:20:32.770Z",
+  "fecha": "2026-06-09T20:59:41.470Z",
   "version": "2.7",
   "datos": {
     "na-v20-proyectos": [
@@ -3237,9 +3237,959 @@
     ],
     "na-v21-facturas": [
       {
+        "id": "f178103716540071306",
+        "numero": "DR028/26",
+        "tipo": "Factura",
+        "serie": "DR",
+        "serieNombre": "BP España",
+        "serieId": "s01",
+        "fecha": "2026-06-07",
+        "estado": "Enviada",
+        "cliente": "BP ENERGÍA ESPAÑA, S.A.U.",
+        "nif": "A28135846",
+        "clienteId": "cl01",
+        "po": "",
+        "poRef": "",
+        "observaciones": "Ref. informe: INF-Global(250801-260531) — 01/08/25 → 31/05/26",
+        "lineas": [
+          {
+            "id": "l1a",
+            "concepto": "CO OUT ES — PO: 3001342427 — ES: BP LEÓN TROBAJO MI",
+            "uds": 1,
+            "precio": 0,
+            "descuento": 0,
+            "iva": 0,
+            "esCabecera": true
+          },
+          {
+            "id": "l1b",
+            "concepto": "Solicitud documentación a la administración — BP LEÓN TROBAJO MI (19/05/26)",
+            "uds": 1,
+            "precio": 240,
+            "descuento": 0,
+            "iva": 21,
+            "esCabecera": false
+          },
+          {
+            "id": "l2a",
+            "concepto": "CO OUT ES — PO: 3001342428 — ES: BP LEÓN TROBAJO MD",
+            "uds": 1,
+            "precio": 0,
+            "descuento": 0,
+            "iva": 0,
+            "esCabecera": true
+          },
+          {
+            "id": "l2b",
+            "concepto": "Solicitud documentación a la administración — BP LEÓN TROBAJO MD (19/05/26)",
+            "uds": 1,
+            "precio": 240,
+            "descuento": 0,
+            "iva": 21,
+            "esCabecera": false
+          },
+          {
+            "id": "l2c",
+            "concepto": "Otros (Toma de Datos) — BP LEÓN TROBAJO MD (19/05/26)",
+            "uds": 1,
+            "precio": 75.8,
+            "descuento": 0,
+            "iva": 21,
+            "esCabecera": false
+          },
+          {
+            "id": "l3a",
+            "concepto": "CO OUT ES — PO: 3001342429 — ES: BP SALAMANCA",
+            "uds": 1,
+            "precio": 0,
+            "descuento": 0,
+            "iva": 0,
+            "esCabecera": true
+          },
+          {
+            "id": "l3b",
+            "concepto": "Solicitud documentación a la administración — BP SALAMANCA (19/05/26)",
+            "uds": 1,
+            "precio": 240,
+            "descuento": 0,
+            "iva": 21,
+            "esCabecera": false
+          },
+          {
+            "id": "l4a",
+            "concepto": "VERTIDOS — PO: 3001321904 — ES: BP DANI",
+            "uds": 1,
+            "precio": 0,
+            "descuento": 0,
+            "iva": 0,
+            "esCabecera": true
+          },
+          {
+            "id": "l4b",
+            "concepto": "Solicitud documentación a la administración — BP DANI (06/08/25)",
+            "uds": 1,
+            "precio": 225,
+            "descuento": 0,
+            "iva": 21,
+            "esCabecera": false
+          },
+          {
+            "id": "l4c",
+            "concepto": "Proyecto de Vertidos — BP DANI (06/08/25)",
+            "uds": 1,
+            "precio": 950,
+            "descuento": 35,
+            "iva": 21,
+            "esCabecera": false
+          },
+          {
+            "id": "l4d",
+            "concepto": "Actuaciones comunicadas — BP DANI (06/08/25)",
+            "uds": 1,
+            "precio": 240,
+            "descuento": 0,
+            "iva": 21,
+            "esCabecera": false
+          },
+          {
+            "id": "l5a",
+            "concepto": "SANEAMIENTO RESTAURANTE — PO: 3001322306 — ES: BP BADALONA",
+            "uds": 1,
+            "precio": 0,
+            "descuento": 0,
+            "iva": 0,
+            "esCabecera": true
+          },
+          {
+            "id": "l5b",
+            "concepto": "Informe técnico — BP BADALONA (05/12/25)",
+            "uds": 1,
+            "precio": 1050,
+            "descuento": 0,
+            "iva": 21,
+            "esCabecera": false
+          },
+          {
+            "id": "l5c",
+            "concepto": "Toma de datos Preliminar — BP BADALONA (05/12/25)",
+            "uds": 2,
+            "precio": 405,
+            "descuento": 0,
+            "iva": 21,
+            "esCabecera": false
+          },
+          {
+            "id": "l5d",
+            "concepto": "Control de Obra (semana) — BP BADALONA (05/12/25)",
+            "uds": 1,
+            "precio": 650,
+            "descuento": 0,
+            "iva": 21,
+            "esCabecera": false
+          },
+          {
+            "id": "l5e",
+            "concepto": "Supervisor Seguridad por día — BP BADALONA (05/12/25)",
+            "uds": 1,
+            "precio": 375,
+            "descuento": 0,
+            "iva": 21,
+            "esCabecera": false
+          },
+          {
+            "id": "l6a",
+            "concepto": "INFORME ATEX — PO: 3001321904 — ES: BP LA CREUETA",
+            "uds": 1,
+            "precio": 0,
+            "descuento": 0,
+            "iva": 0,
+            "esCabecera": true
+          },
+          {
+            "id": "l6b",
+            "concepto": "Informe ATEX — BP LA CREUETA (15/09/25)",
+            "uds": 1,
+            "precio": 225,
+            "descuento": 0,
+            "iva": 21,
+            "esCabecera": false
+          },
+          {
+            "id": "l7a",
+            "concepto": "CO IN ES — PO: 3001322306 — ES: BP BILBAO AEROPUERTO",
+            "uds": 1,
+            "precio": 0,
+            "descuento": 0,
+            "iva": 0,
+            "esCabecera": true
+          },
+          {
+            "id": "l7b",
+            "concepto": "Toma de datos COIN — BP BILBAO AEROPUERTO (03/10/25)",
+            "uds": 1,
+            "precio": 425,
+            "descuento": 0,
+            "iva": 21,
+            "esCabecera": false
+          },
+          {
+            "id": "l7c",
+            "concepto": "Informe técnico — BP BILBAO AEROPUERTO (03/10/25)",
+            "uds": 1,
+            "precio": 1100,
+            "descuento": 0,
+            "iva": 21,
+            "esCabecera": false
+          },
+          {
+            "id": "l8a",
+            "concepto": "SÓTANO ES — PO: 3001322306 — ES: BP CA S'ESTRELLA",
+            "uds": 1,
+            "precio": 0,
+            "descuento": 0,
+            "iva": 0,
+            "esCabecera": true
+          },
+          {
+            "id": "l8b",
+            "concepto": "Toma de datos de sótanos — BP CA S'ESTRELLA (15/10/25)",
+            "uds": 1,
+            "precio": 785,
+            "descuento": 0,
+            "iva": 21,
+            "esCabecera": false
+          },
+          {
+            "id": "l8c",
+            "concepto": "Informe técnico — BP CA S'ESTRELLA (15/10/25)",
+            "uds": 1,
+            "precio": 1050,
+            "descuento": 0,
+            "iva": 21,
+            "esCabecera": false
+          },
+          {
+            "id": "l9a",
+            "concepto": "VERTIDOS — PO: 3001321904 — ES: BP SANT BOI",
+            "uds": 1,
+            "precio": 0,
+            "descuento": 0,
+            "iva": 0,
+            "esCabecera": true
+          },
+          {
+            "id": "l9b",
+            "concepto": "Informe técnico — BP SANT BOI (09/09/25)",
+            "uds": 1,
+            "precio": 1050,
+            "descuento": 0,
+            "iva": 21,
+            "esCabecera": false
+          },
+          {
+            "id": "l10a",
+            "concepto": "LEGALIZACIÓN SURTIDORES — PO: 3001321904 — ES: BP EL CORB",
+            "uds": 1,
+            "precio": 0,
+            "descuento": 0,
+            "iva": 0,
+            "esCabecera": true
+          },
+          {
+            "id": "l10b",
+            "concepto": "Inscripción y Cambio Titularidad Registro Industrial — BP EL CORB (25/11/25)",
+            "uds": 1,
+            "precio": 595,
+            "descuento": 0,
+            "iva": 21,
+            "esCabecera": false
+          },
+          {
+            "id": "l11a",
+            "concepto": "SÓTANO ES — PO: 3001322306 — ES: BP INURSA MD",
+            "uds": 1,
+            "precio": 0,
+            "descuento": 0,
+            "iva": 0,
+            "esCabecera": true
+          },
+          {
+            "id": "l11b",
+            "concepto": "Informe técnico — BP INURSA MD (12/12/25)",
+            "uds": 1,
+            "precio": 1050,
+            "descuento": 0,
+            "iva": 21,
+            "esCabecera": false
+          },
+          {
+            "id": "l11c",
+            "concepto": "Toma de datos de sótanos — BP INURSA MD (12/12/25)",
+            "uds": 1,
+            "precio": 785,
+            "descuento": 0,
+            "iva": 21,
+            "esCabecera": false
+          },
+          {
+            "id": "l12a",
+            "concepto": "VERTIDOS — PO: 3001321904 — ES: BP CAN SOLÁ",
+            "uds": 1,
+            "precio": 0,
+            "descuento": 0,
+            "iva": 0,
+            "esCabecera": true
+          },
+          {
+            "id": "l12b",
+            "concepto": "Proyecto de Vertidos — BP CAN SOLÁ (22/12/25)",
+            "uds": 1,
+            "precio": 950,
+            "descuento": 35,
+            "iva": 21,
+            "esCabecera": false
+          },
+          {
+            "id": "l12c",
+            "concepto": "Solicitud documentación a la administración — BP CAN SOLÁ (22/12/25)",
+            "uds": 1,
+            "precio": 225,
+            "descuento": 0,
+            "iva": 21,
+            "esCabecera": false
+          },
+          {
+            "id": "l12d",
+            "concepto": "Actuaciones comunicadas — BP CAN SOLÁ (22/12/25)",
+            "uds": 1,
+            "precio": 240,
+            "descuento": 0,
+            "iva": 21,
+            "esCabecera": false
+          },
+          {
+            "id": "l13a",
+            "concepto": "VERTIDOS — PO: 3001321904 — ES: BP COLL FAVÁ",
+            "uds": 1,
+            "precio": 0,
+            "descuento": 0,
+            "iva": 0,
+            "esCabecera": true
+          },
+          {
+            "id": "l13b",
+            "concepto": "Proyecto de Vertidos — BP COLL FAVÁ (22/12/25)",
+            "uds": 1,
+            "precio": 950,
+            "descuento": 35,
+            "iva": 21,
+            "esCabecera": false
+          },
+          {
+            "id": "l13c",
+            "concepto": "Solicitud documentación a la administración — BP COLL FAVÁ (22/12/25)",
+            "uds": 1,
+            "precio": 225,
+            "descuento": 0,
+            "iva": 21,
+            "esCabecera": false
+          },
+          {
+            "id": "l13d",
+            "concepto": "Actuaciones comunicadas — BP COLL FAVÁ (22/12/25)",
+            "uds": 1,
+            "precio": 240,
+            "descuento": 0,
+            "iva": 21,
+            "esCabecera": false
+          },
+          {
+            "id": "l14a",
+            "concepto": "VERTIDOS — PO: 3001321904 — ES: BP SANTA PERPETUA",
+            "uds": 1,
+            "precio": 0,
+            "descuento": 0,
+            "iva": 0,
+            "esCabecera": true
+          },
+          {
+            "id": "l14b",
+            "concepto": "Proyecto de Vertidos — BP SANTA PERPETUA (22/12/25)",
+            "uds": 1,
+            "precio": 950,
+            "descuento": 35,
+            "iva": 21,
+            "esCabecera": false
+          },
+          {
+            "id": "l14c",
+            "concepto": "Solicitud documentación a la administración — BP SANTA PERPETUA (22/12/25)",
+            "uds": 1,
+            "precio": 225,
+            "descuento": 0,
+            "iva": 21,
+            "esCabecera": false
+          },
+          {
+            "id": "l14d",
+            "concepto": "Actuaciones comunicadas — BP SANTA PERPETUA (22/12/25)",
+            "uds": 1,
+            "precio": 240,
+            "descuento": 0,
+            "iva": 21,
+            "esCabecera": false
+          },
+          {
+            "id": "l15a",
+            "concepto": "COMPRESOR — PO: 3001321904 — ES: BP VILLACASTÍN NORTE",
+            "uds": 1,
+            "precio": 0,
+            "descuento": 0,
+            "iva": 0,
+            "esCabecera": true
+          },
+          {
+            "id": "l15b",
+            "concepto": "Inscripción y Cambio Titularidad Registro Industrial — BP VILLACASTÍN NORTE (20/03/26)",
+            "uds": 1,
+            "precio": 595,
+            "descuento": 0,
+            "iva": 21,
+            "esCabecera": false
+          },
+          {
+            "id": "l15c",
+            "concepto": "Actuaciones comunicadas — BP VILLACASTÍN NORTE (20/03/26)",
+            "uds": 1,
+            "precio": 240,
+            "descuento": 0,
+            "iva": 21,
+            "esCabecera": false
+          },
+          {
+            "id": "l15d",
+            "concepto": "Otros (Informes) — BP VILLACASTÍN NORTE (20/03/26)",
+            "uds": 1,
+            "precio": 425,
+            "descuento": 0,
+            "iva": 21,
+            "esCabecera": false
+          },
+          {
+            "id": "l15e",
+            "concepto": "Proyecto para legalización — BP VILLACASTÍN NORTE (20/03/26)",
+            "uds": 1,
+            "precio": 1180,
+            "descuento": 40,
+            "iva": 21,
+            "esCabecera": false
+          },
+          {
+            "id": "l16a",
+            "concepto": "PLAN DE AUTOPROTECCIÓN — PO: 3001343318 — ES: BP TRÁPAGA",
+            "uds": 1,
+            "precio": 0,
+            "descuento": 0,
+            "iva": 0,
+            "esCabecera": true
+          },
+          {
+            "id": "l16b",
+            "concepto": "Informe técnico — BP TRÁPAGA (30/01/26)",
+            "uds": 1,
+            "precio": 1100,
+            "descuento": 0,
+            "iva": 21,
+            "esCabecera": false
+          },
+          {
+            "id": "l16c",
+            "concepto": "Informe ATEX — BP TRÁPAGA (30/01/26)",
+            "uds": 1,
+            "precio": 250,
+            "descuento": 0,
+            "iva": 21,
+            "esCabecera": false
+          },
+          {
+            "id": "l16d",
+            "concepto": "Toma de datos exhaustiva — BP TRÁPAGA (30/01/26)",
+            "uds": 1,
+            "precio": 750,
+            "descuento": 0,
+            "iva": 21,
+            "esCabecera": false
+          },
+          {
+            "id": "l17a",
+            "concepto": "SÓTANO ES — PO: 3001322306 — ES: BP TORREJÓN AV FRONTERAS",
+            "uds": 1,
+            "precio": 0,
+            "descuento": 0,
+            "iva": 0,
+            "esCabecera": true
+          },
+          {
+            "id": "l17b",
+            "concepto": "Informe técnico — BP TORREJÓN AV FRONTERAS (13/03/26)",
+            "uds": 1,
+            "precio": 1000,
+            "descuento": 0,
+            "iva": 21,
+            "esCabecera": false
+          },
+          {
+            "id": "l17c",
+            "concepto": "Toma de datos Preliminar — BP TORREJÓN AV FRONTERAS (13/03/26)",
+            "uds": 1,
+            "precio": 405,
+            "descuento": 0,
+            "iva": 21,
+            "esCabecera": false
+          },
+          {
+            "id": "l17d",
+            "concepto": "Actuaciones comunicadas — BP TORREJÓN AV FRONTERAS (13/03/26)",
+            "uds": 1,
+            "precio": 240,
+            "descuento": 0,
+            "iva": 21,
+            "esCabecera": false
+          },
+          {
+            "id": "l17e",
+            "concepto": "Actuaciones comunicadas — BP TORREJÓN AV FRONTERAS (13/03/26)",
+            "uds": 1,
+            "precio": 240,
+            "descuento": 0,
+            "iva": 21,
+            "esCabecera": false
+          },
+          {
+            "id": "l18a",
+            "concepto": "CONTROL PERIÓDICO AMBIENTAL — PO: 3001321904 — ES: BP GUALBA",
+            "uds": 1,
+            "precio": 0,
+            "descuento": 0,
+            "iva": 0,
+            "esCabecera": true
+          },
+          {
+            "id": "l18b",
+            "concepto": "Otros (Informes) — BP GUALBA (13/04/26)",
+            "uds": 1,
+            "precio": 1750,
+            "descuento": 0,
+            "iva": 21,
+            "esCabecera": false
+          },
+          {
+            "id": "l18c",
+            "concepto": "Toma de datos Preliminar — BP GUALBA (13/04/26)",
+            "uds": 1,
+            "precio": 405,
+            "descuento": 0,
+            "iva": 21,
+            "esCabecera": false
+          },
+          {
+            "id": "l18d",
+            "concepto": "Actuaciones comunicadas — BP GUALBA (13/04/26)",
+            "uds": 1,
+            "precio": 240,
+            "descuento": 0,
+            "iva": 21,
+            "esCabecera": false
+          },
+          {
+            "id": "l18e",
+            "concepto": "Toma de datos Preliminar — BP GUALBA (13/04/26)",
+            "uds": 1,
+            "precio": 405,
+            "descuento": 0,
+            "iva": 21,
+            "esCabecera": false
+          },
+          {
+            "id": "l18f",
+            "concepto": "Otros (Informes) — BP GUALBA (13/04/26)",
+            "uds": 1,
+            "precio": 750,
+            "descuento": 0,
+            "iva": 21,
+            "esCabecera": false
+          },
+          {
+            "id": "l18g",
+            "concepto": "Actuaciones comunicadas — BP GUALBA (13/04/26)",
+            "uds": 1,
+            "precio": 240,
+            "descuento": 0,
+            "iva": 21,
+            "esCabecera": false
+          },
+          {
+            "id": "l19a",
+            "concepto": "REGISTRO INDUSTRIAL — PO: 3001321904 — ES: BP ROMICA",
+            "uds": 1,
+            "precio": 0,
+            "descuento": 0,
+            "iva": 0,
+            "esCabecera": true
+          },
+          {
+            "id": "l19b",
+            "concepto": "Actuaciones comunicadas — BP ROMICA (21/05/26)",
+            "uds": 1,
+            "precio": 240,
+            "descuento": 0,
+            "iva": 21,
+            "esCabecera": false
+          },
+          {
+            "id": "l20a",
+            "concepto": "SUMINISTROS — PO: 3001321904 — ES: BP SAN PEDRO MI",
+            "uds": 1,
+            "precio": 0,
+            "descuento": 0,
+            "iva": 0,
+            "esCabecera": true
+          },
+          {
+            "id": "l20b",
+            "concepto": "Informe técnico — BP SAN PEDRO MI (26/05/26)",
+            "uds": 1,
+            "precio": 1000,
+            "descuento": 0,
+            "iva": 21,
+            "esCabecera": false
+          },
+          {
+            "id": "l20c",
+            "concepto": "Toma de datos Preliminar — BP SAN PEDRO MI (26/05/26)",
+            "uds": 1,
+            "precio": 405,
+            "descuento": 0,
+            "iva": 21,
+            "esCabecera": false
+          },
+          {
+            "id": "l20d",
+            "concepto": "Solicitud de Servicios y Acometidas — BP SAN PEDRO MI (26/05/26)",
+            "uds": 1,
+            "precio": 815,
+            "descuento": 0,
+            "iva": 21,
+            "esCabecera": false
+          },
+          {
+            "id": "l21a",
+            "concepto": "RECICLADORA LAVADOS — PO: 3001258221 — ES: BP MONTSENY",
+            "uds": 1,
+            "precio": 0,
+            "descuento": 0,
+            "iva": 0,
+            "esCabecera": true
+          },
+          {
+            "id": "l21b",
+            "concepto": "Control de Obra (semana) — BP MONTSENY (13/02/26)",
+            "uds": 2,
+            "precio": 650,
+            "descuento": 50,
+            "iva": 21,
+            "esCabecera": false
+          },
+          {
+            "id": "l21c",
+            "concepto": "Actuaciones comunicadas — BP MONTSENY (13/02/26)",
+            "uds": 1,
+            "precio": 240,
+            "descuento": 0,
+            "iva": 21,
+            "esCabecera": false
+          },
+          {
+            "id": "l21d",
+            "concepto": "Actuaciones comunicadas — BP MONTSENY (13/02/26)",
+            "uds": 1,
+            "precio": 240,
+            "descuento": 0,
+            "iva": 21,
+            "esCabecera": false
+          },
+          {
+            "id": "l21e",
+            "concepto": "Licencias de apertura o de actividad — BP MONTSENY (13/02/26)",
+            "uds": 1,
+            "precio": 595,
+            "descuento": 50,
+            "iva": 21,
+            "esCabecera": false
+          },
+          {
+            "id": "l21f",
+            "concepto": "Separata al proyecto — BP MONTSENY (13/02/26)",
+            "uds": 1,
+            "precio": 700,
+            "descuento": 45,
+            "iva": 21,
+            "esCabecera": false
+          },
+          {
+            "id": "l21g",
+            "concepto": "Informe técnico — BP MONTSENY (13/02/26)",
+            "uds": 1,
+            "precio": 1050,
+            "descuento": 65,
+            "iva": 21,
+            "esCabecera": false
+          },
+          {
+            "id": "l21h",
+            "concepto": "Actuaciones comunicadas — BP MONTSENY (13/02/26)",
+            "uds": 1,
+            "precio": 240,
+            "descuento": 0,
+            "iva": 21,
+            "esCabecera": false
+          },
+          {
+            "id": "l21i",
+            "concepto": "Supervisor Seguridad por día — BP MONTSENY (13/02/26)",
+            "uds": 3,
+            "precio": 375,
+            "descuento": 0,
+            "iva": 21,
+            "esCabecera": false
+          },
+          {
+            "id": "l22a",
+            "concepto": "CARRETERAS — PO: 3001321904 — ES: BP EL CUADREJÓN I",
+            "uds": 1,
+            "precio": 0,
+            "descuento": 0,
+            "iva": 0,
+            "esCabecera": true
+          },
+          {
+            "id": "l22b",
+            "concepto": "Actuaciones comunicadas — BP EL CUADREJÓN I (23/01/26)",
+            "uds": 1,
+            "precio": 240,
+            "descuento": 0,
+            "iva": 21,
+            "esCabecera": false
+          },
+          {
+            "id": "l22c",
+            "concepto": "Actuaciones comunicadas — BP EL CUADREJÓN I (23/01/26)",
+            "uds": 2,
+            "precio": 240,
+            "descuento": 0,
+            "iva": 21,
+            "esCabecera": false
+          },
+          {
+            "id": "l22d",
+            "concepto": "Actuaciones comunicadas — BP EL CUADREJÓN I (23/01/26)",
+            "uds": 1,
+            "precio": 240,
+            "descuento": 0,
+            "iva": 21,
+            "esCabecera": false
+          }
+        ],
+        "baseImponible": 31783.8,
+        "ivaPct": 21,
+        "ivaAmt": 6674.6,
+        "total": 38458.4,
+        "iban": "ES45 3025 0003 9914 3335 4334",
+        "metodoPago": "Transferencia bancaria",
+        "diasVto": 60,
+        "vencimiento": "08/08/26",
+        "fechaVto": "2026-08-06",
+        "creadoEn": "2026-06-09T22:00:00.000Z"
+      },
+      {
+        "id": "f178103716540051445",
+        "numero": "IL023/26",
+        "tipo": "Factura",
+        "serie": "IL",
+        "serieNombre": "Tendam y otros",
+        "serieId": "s02",
+        "fecha": "2026-06-09",
+        "estado": "Enviada",
+        "cliente": "TENDAM RETAIL, S.A.",
+        "nif": "A08099459",
+        "clienteId": "cl02",
+        "po": "Local: SPFKIDS - ARANJUEZ CC EL DELEITE",
+        "poRef": "Local: SPFKIDS - ARANJUEZ CC EL DELEITE",
+        "observaciones": "Concepto: CA01901",
+        "lineas": [
+          {
+            "id": "l23a",
+            "concepto": "Visado proyecto de ejecución",
+            "uds": 1,
+            "precio": 159.74,
+            "descuento": 0,
+            "iva": 21,
+            "esCabecera": false
+          },
+          {
+            "id": "l23b",
+            "concepto": "Visado asume DT",
+            "uds": 1,
+            "precio": 95.84,
+            "descuento": 0,
+            "iva": 21,
+            "esCabecera": false
+          }
+        ],
+        "baseImponible": 255.58,
+        "ivaPct": 21,
+        "ivaAmt": 53.67,
+        "total": 309.25,
+        "iban": "ES42 2100 3744 4822 0008 4646",
+        "metodoPago": "Confirming a 60 días",
+        "diasVto": 60,
+        "vencimiento": "08/08/26",
+        "fechaVto": "2026-08-08",
+        "creadoEn": "2026-06-09T22:05:00.000Z"
+      },
+      {
+        "id": "f178103716540075328",
+        "numero": "IL024/26",
+        "tipo": "Factura",
+        "serie": "IL",
+        "serieNombre": "Tendam y otros",
+        "serieId": "s02",
+        "fecha": "2026-06-09",
+        "estado": "Enviada",
+        "cliente": "TENDAM RETAIL, S.A.",
+        "nif": "A08099459",
+        "clienteId": "cl02",
+        "po": "CA01901",
+        "poRef": "Local: SPFKIDS - ALCOY CC ALZAMORA",
+        "observaciones": "Código: CA01901",
+        "lineas": [
+          {
+            "id": "l24a",
+            "concepto": "VISADO PROYECTO DE EJECUCIÓN",
+            "uds": 1,
+            "precio": 136.28,
+            "descuento": 0,
+            "iva": 21,
+            "esCabecera": false
+          },
+          {
+            "id": "l24b",
+            "concepto": "VISADO ASUME DT",
+            "uds": 1,
+            "precio": 81.77,
+            "descuento": 0,
+            "iva": 21,
+            "esCabecera": false
+          }
+        ],
+        "baseImponible": 218.05,
+        "ivaPct": 21,
+        "ivaAmt": 45.79,
+        "total": 263.84,
+        "iban": "ES42 2100 3744 4822 0008 4646",
+        "metodoPago": "Confirming a 60 días",
+        "diasVto": 60,
+        "vencimiento": "08/08/26",
+        "fechaVto": "2026-08-08",
+        "creadoEn": "2026-06-09T22:10:00.000Z"
+      },
+      {
+        "id": "f178103716540027840",
+        "numero": "IL025/26",
+        "tipo": "Factura",
+        "serie": "IL",
+        "serieNombre": "Tendam y otros",
+        "serieId": "s02",
+        "fecha": "2026-06-09",
+        "estado": "Enviada",
+        "cliente": "TENDAM RETAIL, S.A.",
+        "nif": "A08099459",
+        "clienteId": "cl02",
+        "po": "SPFKIDS - LORCA CC PARQUE ALMENARA",
+        "poRef": "Local: SPFKIDS - LORCA CC PARQUE ALMENARA",
+        "observaciones": "Código: CA01901",
+        "lineas": [
+          {
+            "id": "l25a",
+            "concepto": "VISADO PROYECTO DE EJECUCIÓN",
+            "uds": 1,
+            "precio": 154.4,
+            "descuento": 0,
+            "iva": 21,
+            "esCabecera": false
+          },
+          {
+            "id": "l25b",
+            "concepto": "VISADO ASUME DT",
+            "uds": 1,
+            "precio": 92.64,
+            "descuento": 0,
+            "iva": 21,
+            "esCabecera": false
+          }
+        ],
+        "baseImponible": 247.04,
+        "ivaPct": 21,
+        "ivaAmt": 51.88,
+        "total": 298.92,
+        "iban": "ES42 2100 3744 4822 0008 4646",
+        "metodoPago": "Confirming a 60 días",
+        "diasVto": 60,
+        "vencimiento": "08/08/26",
+        "fechaVto": "2026-08-08",
+        "creadoEn": "2026-06-09T22:15:00.000Z"
+      },
+      {
+        "id": "f178103716540020785",
+        "numero": "IL-S005/26",
+        "tipo": "Suplido",
+        "serie": "IL",
+        "serieNombre": "Tendam y otros",
+        "serieId": "s02",
+        "fecha": "2026-06-09",
+        "estado": "Enviada",
+        "cliente": "TENDAM RETAIL, S.A.",
+        "nif": "A08099459",
+        "clienteId": "cl02",
+        "po": "Local: SPFKIDS - ALCOY CC ALZAMORA",
+        "poRef": "Local: SPFKIDS - ALCOY CC ALZAMORA",
+        "observaciones": "Concepto: CA01901",
+        "lineas": [
+          {
+            "id": "l26a",
+            "concepto": "GASTOS DE VISADO CERTIFICADO FINAL DE OBRA",
+            "uds": 1,
+            "precio": 36.3,
+            "descuento": 0,
+            "iva": 0,
+            "esCabecera": false
+          }
+        ],
+        "baseImponible": 36.3,
+        "ivaPct": 0,
+        "ivaAmt": 0,
+        "total": 36.3,
+        "iban": "ES42 2100 3744 4822 0008 4646",
+        "metodoPago": "Fecha vencimiento",
+        "diasVto": 1,
+        "vencimiento": "10/06/26",
+        "fechaVto": "2026-06-10",
+        "creadoEn": "2026-06-09T22:20:00.000Z"
+      },
+      {
         "id": "fDR02426_1780414603613",
         "tipo": "Factura",
-        "serieId": "s_dr",
+        "serieId": "s01",
         "numero": "DR024/26",
         "clienteId": "cl01",
         "fecha": "2026-05-11",
@@ -3306,7 +4256,7 @@
       {
         "id": "f1780328825601",
         "tipo": "Factura",
-        "serieId": "s_dr",
+        "serieId": "s01",
         "numero": "DR027/26",
         "clienteId": "cl01",
         "fecha": "2026-05-30",
@@ -3349,7 +4299,7 @@
       {
         "id": "f1780328800981",
         "tipo": "Factura",
-        "serieId": "s_dr",
+        "serieId": "s01",
         "numero": "DR026/26",
         "clienteId": "cl01",
         "fecha": "2026-05-30",
@@ -3376,7 +4326,7 @@
       {
         "id": "f1780328762180",
         "tipo": "Factura",
-        "serieId": "s_dr",
+        "serieId": "s01",
         "numero": "DR025/26",
         "clienteId": "cl01",
         "fecha": "2026-05-30",
@@ -3403,7 +4353,7 @@
       {
         "id": "f1779390393741",
         "tipo": "Factura",
-        "serieId": "s_dr",
+        "serieId": "s01",
         "numero": "DR023/26",
         "clienteId": "cl1779390198968",
         "fecha": "2026-05-11",
@@ -3438,7 +4388,7 @@
       {
         "id": "f1779389938000",
         "tipo": "Factura",
-        "serieId": "s_dr",
+        "serieId": "s01",
         "numero": "DR022/26",
         "clienteId": "cl1779389598626",
         "fecha": "2026-05-11",
@@ -3497,7 +4447,7 @@
       {
         "id": "f1779361326735",
         "tipo": "Factura",
-        "serieId": "s_il",
+        "serieId": "s02",
         "numero": "IL022/26",
         "clienteId": "cl02",
         "fecha": "2026-05-18",
@@ -3524,7 +4474,7 @@
       {
         "id": "f1779226870661",
         "tipo": "Factura",
-        "serieId": "s_dr",
+        "serieId": "s01",
         "numero": "DR021/26",
         "clienteId": "cl1779133847793",
         "fecha": "2026-05-11",
@@ -3551,7 +4501,7 @@
       {
         "id": "f1779226693264",
         "tipo": "Factura",
-        "serieId": "s_dr",
+        "serieId": "s01",
         "numero": "DR020/26",
         "clienteId": "cl01",
         "fecha": "2026-05-11",
@@ -3690,7 +4640,7 @@
       {
         "id": "f1779225552318",
         "tipo": "Factura",
-        "serieId": "s_dr",
+        "serieId": "s01",
         "numero": "DR019/26",
         "clienteId": "cl01",
         "fecha": "2026-05-11",
@@ -3813,7 +4763,7 @@
       {
         "id": "f1779225046492",
         "tipo": "Factura",
-        "serieId": "s_dr",
+        "serieId": "s01",
         "numero": "DR018/26",
         "clienteId": "cl01",
         "fecha": "2026-05-11",
@@ -3872,7 +4822,7 @@
       {
         "id": "f1779224962928",
         "tipo": "Factura",
-        "serieId": "s_dr",
+        "serieId": "s01",
         "numero": "DR017/26",
         "clienteId": "cl01",
         "fecha": "2026-05-11",
@@ -3939,7 +4889,7 @@
       {
         "id": "f1779224876439",
         "tipo": "Factura",
-        "serieId": "s_dr",
+        "serieId": "s01",
         "numero": "DR016/26",
         "clienteId": "cl01",
         "fecha": "2026-05-11",
@@ -3982,7 +4932,7 @@
       {
         "id": "f1779224822169",
         "tipo": "Factura",
-        "serieId": "s_dr",
+        "serieId": "s01",
         "numero": "DR015/26",
         "clienteId": "cl01",
         "fecha": "2026-05-11",
@@ -4017,7 +4967,7 @@
       {
         "id": "f1779224749011",
         "tipo": "Factura",
-        "serieId": "s_dr",
+        "serieId": "s01",
         "numero": "DR014/26",
         "clienteId": "cl01",
         "fecha": "2026-05-11",
@@ -4060,7 +5010,7 @@
       {
         "id": "f1779224653582",
         "tipo": "Factura",
-        "serieId": "s_dr",
+        "serieId": "s01",
         "numero": "DR013/26",
         "clienteId": "cl01",
         "fecha": "2026-05-11",
@@ -4095,7 +5045,7 @@
       {
         "id": "f1779224564303",
         "tipo": "Factura",
-        "serieId": "s_dr",
+        "serieId": "s01",
         "numero": "DR012/26",
         "clienteId": "cl01",
         "fecha": "2026-05-11",
@@ -4138,7 +5088,7 @@
       {
         "id": "f1779224459093",
         "tipo": "Factura",
-        "serieId": "s_dr",
+        "serieId": "s01",
         "numero": "DR011/26",
         "clienteId": "cl01",
         "fecha": "2026-05-11",
@@ -4197,7 +5147,7 @@
       {
         "id": "f1779224326255",
         "tipo": "Factura",
-        "serieId": "s_dr",
+        "serieId": "s01",
         "numero": "DR010/26",
         "clienteId": "cl01",
         "fecha": "2026-05-11",
@@ -4240,7 +5190,7 @@
       {
         "id": "f1779222948018",
         "tipo": "Factura",
-        "serieId": "s_dr",
+        "serieId": "s01",
         "numero": "DR009/26",
         "clienteId": "cl01",
         "fecha": "2026-05-05",
@@ -4291,7 +5241,7 @@
       {
         "id": "f1779222474764",
         "tipo": "Factura",
-        "serieId": "s_dr",
+        "serieId": "s01",
         "numero": "DR008/26",
         "clienteId": "cl01",
         "fecha": "2026-04-05",
@@ -4318,7 +5268,7 @@
       {
         "id": "f1779145320058",
         "tipo": "Factura",
-        "serieId": "s_il",
+        "serieId": "s02",
         "numero": "IL021/26",
         "clienteId": "cl1779134104822",
         "fecha": "2026-05-18",
@@ -4345,7 +5295,7 @@
       {
         "id": "f1779145247037",
         "tipo": "Factura",
-        "serieId": "s_il",
+        "serieId": "s02",
         "numero": "IL020/26",
         "clienteId": "cl1779133119534",
         "fecha": "2026-05-18",
@@ -4380,7 +5330,7 @@
       {
         "id": "f1779145131492",
         "tipo": "Factura",
-        "serieId": "s_il",
+        "serieId": "s02",
         "numero": "IL019/26",
         "clienteId": "cl1779133119534",
         "fecha": "2026-05-18",
@@ -4407,7 +5357,7 @@
       {
         "id": "f1779145016458",
         "tipo": "Factura",
-        "serieId": "s_il",
+        "serieId": "s02",
         "numero": "IL018/26",
         "clienteId": "cl1779133998801",
         "fecha": "2026-05-18",
@@ -4434,7 +5384,7 @@
       {
         "id": "f1779144821937",
         "tipo": "Factura",
-        "serieId": "s_il",
+        "serieId": "s02",
         "numero": "IL017/26",
         "clienteId": "cl02",
         "fecha": "2026-05-18",
@@ -7682,7 +8632,7 @@
         "id": "s01",
         "codigo": "DR",
         "nombre": "BP España",
-        "contFact": 28,
+        "contFact": 27,
         "contSupl": 1,
         "contAbon": 0,
         "ultimaFechaFact": "2026-06-07",
@@ -7693,8 +8643,8 @@
         "id": "s02",
         "codigo": "IL",
         "nombre": "Tendam y otros",
-        "contFact": 25,
-        "contSupl": 5,
+        "contFact": 22,
+        "contSupl": 4,
         "contAbon": 0,
         "ultimaFechaFact": "2026-06-09",
         "ultimaFechaSupl": "2026-06-09",
