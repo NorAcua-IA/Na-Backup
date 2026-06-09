@@ -1,5 +1,5 @@
 {
-  "fecha": "2026-06-09T05:22:13.712Z",
+  "fecha": "2026-06-09T07:22:13.544Z",
   "version": "2.7",
   "datos": {
     "na-v20-proyectos": [
@@ -2224,6 +2224,38 @@
         ]
       },
       {
+        "proyectoId": "p1779139986725",
+        "conceptoId": "1.4",
+        "trabajador": "Jordi Santos",
+        "fecha": "2026-06-09",
+        "observaciones": "Grupo: 3 actividades",
+        "cantidad": 1,
+        "searchPr": "santa eulalia",
+        "id": "r1780986557651",
+        "estado": "pendiente",
+        "precioManual": null,
+        "createdAt": "2026-06-09T06:29:17.651Z",
+        "creadoPor": "Jordi Santos",
+        "esGrupo": true,
+        "lineasGrupo": [
+          {
+            "conceptoId": "1.4",
+            "cantidad": 1,
+            "observaciones": "Proyecto reforma tienda con afectación estructural"
+          },
+          {
+            "conceptoId": "1.18",
+            "cantidad": 1,
+            "observaciones": "Anexo solución estructural"
+          },
+          {
+            "conceptoId": "7.1",
+            "cantidad": 1,
+            "observaciones": "Licencia obra mayor para reforma tienda"
+          }
+        ]
+      },
+      {
         "proyectoId": "p1779138810443",
         "conceptoId": "7.3",
         "trabajador": "Yennyfer Lemus",
@@ -2267,16 +2299,12 @@
             "conceptoId": "7.6",
             "cantidad": 1,
             "observaciones": "Contestación Requerimiento para Cambio de Titularidad",
-            "certifAprobada": false,
-            "certifEnviada": false,
-            "cantCertif": 1,
-            "certifOferta": false,
-            "_certifCheck": false,
-            "_ofertaCheck": false
+            "certifAprobada": true,
+            "certifEnviada": true,
+            "cantCertif": 1
           }
         ],
-        "estadoCertif": null,
-        "certifOfertaAt": null
+        "estadoCertif": "finalizado"
       },
       {
         "proyectoId": "p1779883791414",
