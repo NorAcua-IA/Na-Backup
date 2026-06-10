@@ -1,5 +1,5 @@
 {
-  "fecha": "2026-06-10T17:09:13.049Z",
+  "fecha": "2026-06-10T19:09:12.752Z",
   "version": "2.7",
   "datos": {
     "na-v20-proyectos": [
@@ -2260,6 +2260,33 @@
         ]
       },
       {
+        "proyectoId": "p1779132004672",
+        "conceptoId": "1.8",
+        "trabajador": "Jordi Santos",
+        "fecha": "2026-06-10",
+        "observaciones": "Grupo: 2 actividades",
+        "cantidad": 1,
+        "capFiltro": "6",
+        "id": "r1781104896753",
+        "estado": "pendiente",
+        "precioManual": null,
+        "createdAt": "2026-06-10T15:21:36.753Z",
+        "creadoPor": "Daniel",
+        "esGrupo": true,
+        "lineasGrupo": [
+          {
+            "conceptoId": "1.8",
+            "cantidad": 1,
+            "observaciones": ""
+          },
+          {
+            "conceptoId": "6.1",
+            "cantidad": 1,
+            "observaciones": ""
+          }
+        ]
+      },
+      {
         "proyectoId": "p1779138810443",
         "conceptoId": "7.3",
         "trabajador": "Yennyfer Lemus",
@@ -3210,33 +3237,6 @@
             "cantidad": 1,
             "observaciones": "",
             "descuento": 20
-          },
-          {
-            "conceptoId": "6.1",
-            "cantidad": 1,
-            "observaciones": ""
-          }
-        ]
-      },
-      {
-        "proyectoId": "p1779132004672",
-        "conceptoId": "1.8",
-        "trabajador": "Jordi Santos",
-        "fecha": "2026-06-10",
-        "observaciones": "Grupo: 2 actividades",
-        "cantidad": 1,
-        "capFiltro": "6",
-        "id": "r1781104896753",
-        "estado": "pendiente",
-        "precioManual": null,
-        "createdAt": "2026-06-10T15:21:36.753Z",
-        "creadoPor": "Daniel",
-        "esGrupo": true,
-        "lineasGrupo": [
-          {
-            "conceptoId": "1.8",
-            "cantidad": 1,
-            "observaciones": ""
           },
           {
             "conceptoId": "6.1",
