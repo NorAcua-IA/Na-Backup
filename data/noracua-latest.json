@@ -1,5 +1,5 @@
 {
-  "fecha": "2026-06-10T19:09:12.752Z",
+  "fecha": "2026-06-10T20:34:56.510Z",
   "version": "2.7",
   "datos": {
     "na-v20-proyectos": [
@@ -8644,6 +8644,7 @@
       "BP MONTIGALA",
       "BP MONTSENY",
       "BP MONTSERRAT CIBRIÁN",
+      "BP NAVISAL",
       "BP OLABERRÍA",
       "BP PARADA LA CREU",
       "BP PLANAMAR",
@@ -8705,6 +8706,27 @@
     ],
     "na-v25-hsse-sups": [
       {
+        "site": "BP NAVISAL",
+        "tipoActividad": "Obra menor mantenimiento",
+        "pctAuditoria": "97",
+        "obraConSupervision": "Sí",
+        "fecha": "2026-06-10",
+        "horas": "10",
+        "horasOrig": "10",
+        "horasAdmin": "10",
+        "supervisor": "Carlos García",
+        "encargo": "Concepción Gutierrez",
+        "zona": "CATALUÑA",
+        "incidencias": "No",
+        "motivoSupervision": "Entrada en espacios confinados",
+        "empresa": "PETROSUPORT",
+        "comentarios": "Limpieza y aspiración de arquetas boca hombre.",
+        "id": "hs_1781120199261",
+        "estado": "pendiente",
+        "creadoPor": "Carlos García",
+        "fechaCreacion": "2026-06-10T19:36:39.261Z"
+      },
+      {
         "site": "Bp FRAGA II",
         "tipoActividad": "Obra menor mantenimiento",
         "pctAuditoria": "100",
@@ -8721,7 +8743,7 @@
         "empresa": "Petrosuport",
         "comentarios": "Reparación e impermeabilización canaletas cubierta edificio tienda.",
         "id": "hs_1781069074454",
-        "estado": "aprobado",
+        "estado": "pendiente",
         "creadoPor": "Carlos García",
         "fechaCreacion": "2026-06-10T05:24:34.454Z"
       },
@@ -8733,7 +8755,7 @@
         "fecha": "2026-06-08",
         "horas": "12",
         "horasOrig": "12",
-        "horasAdmin": 13,
+        "horasAdmin": "12",
         "supervisor": "Carlos García",
         "encargo": "Concepción Gutierrez",
         "zona": "CATALUÑA",
@@ -8742,7 +8764,7 @@
         "empresa": "Petrosuport",
         "comentarios": "Reparación e impermeabilización de canaletas en cubierta edificio tienda",
         "id": "hs_1780997798848",
-        "estado": "aprobado",
+        "estado": "pendiente",
         "creadoPor": "Carlos García",
         "fechaCreacion": "2026-06-09T09:36:38.848Z"
       },
@@ -8754,7 +8776,7 @@
         "fecha": "2026-06-05",
         "horas": "5",
         "horasOrig": "5",
-        "horasAdmin": 8,
+        "horasAdmin": "5",
         "supervisor": "Carlos García",
         "encargo": "Concepción Gutierrez",
         "zona": "CATALUÑA",
@@ -8763,7 +8785,7 @@
         "empresa": "",
         "comentarios": "CONTROL DE DOCUMENTACION A CONTRATISTAS ",
         "id": "hs_1780908673710",
-        "estado": "aprobado",
+        "estado": "pendiente",
         "creadoPor": "Carlos García",
         "fechaCreacion": "2026-06-08T08:51:13.710Z"
       },
