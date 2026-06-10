@@ -1,6 +1,6 @@
 {
-  "fecha": "2026-06-10T21:17:01.674Z",
-  "version": "2.7",
+  "fecha": "2026-06-10T21:34:17.914Z",
+  "version": "2.8",
   "datos": {
     "na-v20-proyectos": [
       {
@@ -1121,7 +1121,9 @@
             "certifEnviadaAt": "2026-05-21T09:31:47.107Z"
           }
         ],
-        "estadoCertif": "finalizado"
+        "estadoCertif": "finalizado",
+        "facturado": true,
+        "facturaRef": "DR028/26"
       },
       {
         "proyectoId": "p1779185410739",
@@ -1159,7 +1161,9 @@
             "cantCertif": 1
           }
         ],
-        "estadoCertif": "finalizado"
+        "estadoCertif": "finalizado",
+        "facturado": true,
+        "facturaRef": "DR028/26"
       },
       {
         "proyectoId": "p1779185513218",
@@ -1186,7 +1190,9 @@
             "certifEnviadaAt": "2026-05-20T08:44:33.845Z"
           }
         ],
-        "estadoCertif": "finalizado"
+        "estadoCertif": "finalizado",
+        "facturado": true,
+        "facturaRef": "DR028/26"
       },
       {
         "proyectoId": "p1779382081008",
@@ -1229,7 +1235,9 @@
             "cantCertif": 1
           }
         ],
-        "estadoCertif": "finalizado"
+        "estadoCertif": "finalizado",
+        "facturado": true,
+        "facturaRef": "DR028/26"
       },
       {
         "proyectoId": "p1779384794378",
@@ -1279,7 +1287,9 @@
             "cantCertif": 1
           }
         ],
-        "estadoCertif": "finalizado"
+        "estadoCertif": "finalizado",
+        "facturado": true,
+        "facturaRef": "DR028/26"
       },
       {
         "proyectoId": "p1779385963232",
@@ -1305,7 +1315,9 @@
             "cantCertif": 1
           }
         ],
-        "estadoCertif": "finalizado"
+        "estadoCertif": "finalizado",
+        "facturado": true,
+        "facturaRef": "DR028/26"
       },
       {
         "proyectoId": "p1779386145802",
@@ -1339,7 +1351,9 @@
             "cantCertif": 1
           }
         ],
-        "estadoCertif": "finalizado"
+        "estadoCertif": "finalizado",
+        "facturado": true,
+        "facturaRef": "DR028/26"
       },
       {
         "proyectoId": "p1779386413694",
@@ -1373,7 +1387,9 @@
             "cantCertif": 1
           }
         ],
-        "estadoCertif": "finalizado"
+        "estadoCertif": "finalizado",
+        "facturado": true,
+        "facturaRef": "DR028/26"
       },
       {
         "proyectoId": "p1779386700752",
@@ -1402,7 +1418,9 @@
             "cantCertif": 1
           }
         ],
-        "estadoCertif": "finalizado"
+        "estadoCertif": "finalizado",
+        "facturado": true,
+        "facturaRef": "DR028/26"
       },
       {
         "proyectoId": "p1779387108379",
@@ -1428,7 +1446,9 @@
             "cantCertif": 1
           }
         ],
-        "estadoCertif": "finalizado"
+        "estadoCertif": "finalizado",
+        "facturado": true,
+        "facturaRef": "DR028/26"
       },
       {
         "proyectoId": "p1779387531504",
@@ -1462,7 +1482,9 @@
             "cantCertif": 1
           }
         ],
-        "estadoCertif": "finalizado"
+        "estadoCertif": "finalizado",
+        "facturado": true,
+        "facturaRef": "DR028/26"
       },
       {
         "proyectoId": "p1779387686938",
@@ -1505,7 +1527,9 @@
             "cantCertif": 1
           }
         ],
-        "estadoCertif": "finalizado"
+        "estadoCertif": "finalizado",
+        "facturado": true,
+        "facturaRef": "DR028/26"
       },
       {
         "proyectoId": "p1779387982062",
@@ -1548,7 +1572,9 @@
             "cantCertif": 1
           }
         ],
-        "estadoCertif": "finalizado"
+        "estadoCertif": "finalizado",
+        "facturado": true,
+        "facturaRef": "DR028/26"
       },
       {
         "proyectoId": "p1779388148839",
@@ -1591,7 +1617,9 @@
             "cantCertif": 1
           }
         ],
-        "estadoCertif": "finalizado"
+        "estadoCertif": "finalizado",
+        "facturado": true,
+        "facturaRef": "DR028/26"
       },
       {
         "proyectoId": "p1779388576112",
@@ -1646,7 +1674,9 @@
             "descuento": 40
           }
         ],
-        "estadoCertif": "finalizado"
+        "estadoCertif": "finalizado",
+        "facturado": true,
+        "facturaRef": "DR028/26"
       },
       {
         "proyectoId": "p1779389151179",
@@ -1688,7 +1718,9 @@
             "cantCertif": 1
           }
         ],
-        "estadoCertif": "finalizado"
+        "estadoCertif": "finalizado",
+        "facturado": true,
+        "facturaRef": "DR028/26"
       },
       {
         "proyectoId": "p1779391171195",
@@ -1738,7 +1770,9 @@
             "cantCertif": 1
           }
         ],
-        "estadoCertif": "finalizado"
+        "estadoCertif": "finalizado",
+        "facturado": true,
+        "facturaRef": "DR028/26"
       },
       {
         "proyectoId": "p1779391786134",
@@ -1807,7 +1841,9 @@
             "cantCertif": 1
           }
         ],
-        "estadoCertif": "finalizado"
+        "estadoCertif": "finalizado",
+        "facturado": true,
+        "facturaRef": "DR028/26"
       },
       {
         "proyectoId": "p1779393360321",
@@ -1833,7 +1869,9 @@
             "cantCertif": 1
           }
         ],
-        "estadoCertif": "finalizado"
+        "estadoCertif": "finalizado",
+        "facturado": true,
+        "facturaRef": "DR028/26"
       },
       {
         "proyectoId": "p1779131920309",
@@ -3059,7 +3097,9 @@
             "cantCertif": 1
           }
         ],
-        "estadoCertif": "finalizado"
+        "estadoCertif": "finalizado",
+        "facturado": true,
+        "facturaRef": "DR028/26"
       },
       {
         "proyectoId": "p1779900916942",
@@ -3146,7 +3186,9 @@
             "cantCertif": 3
           }
         ],
-        "estadoCertif": "finalizado"
+        "estadoCertif": "finalizado",
+        "facturado": true,
+        "facturaRef": "DR028/26"
       },
       {
         "proyectoId": "p1779971594817",
@@ -3188,7 +3230,9 @@
             "cantCertif": 1
           }
         ],
-        "estadoCertif": "finalizado"
+        "estadoCertif": "finalizado",
+        "facturado": true,
+        "facturaRef": "DR028/26"
       }
     ],
     "na-v21-facturas": [
@@ -8630,7 +8674,7 @@
         "id": "s01",
         "codigo": "DR",
         "nombre": "BP España",
-        "contFact": 3,
+        "contFact": 28,
         "contSupl": 1,
         "contAbon": 0,
         "ultimaFechaFact": null,
@@ -8641,8 +8685,8 @@
         "id": "s02",
         "codigo": "IL",
         "nombre": "Tendam y otros",
-        "contFact": 4,
-        "contSupl": 2,
+        "contFact": 25,
+        "contSupl": 5,
         "contAbon": 0,
         "ultimaFechaFact": null,
         "ultimaFechaSupl": null,
@@ -9945,6 +9989,43 @@
       }
     ],
     "na-v20-historico": [
+      {
+        "id": "inf1781020264555",
+        "nom": "INF-Global(250801-260531)",
+        "tipo": "periodo",
+        "proyNombre": "Todos los proyectos",
+        "periodo": "01/08/25 → 31/05/26",
+        "estado": "facturado",
+        "creadoEn": "2026-06-09T17:10:33.226Z",
+        "importeTotal": 31783.8,
+        "proyectoId": null,
+        "regIds": [
+          "r1779184858255",
+          "r1779185166985",
+          "r1779185166985",
+          "r1779382044839",
+          "r1779385261428",
+          "r1779390310832",
+          "r1779578869862",
+          "r1779590009313",
+          "r1779599023393",
+          "r1780036617310",
+          "r1780096617310",
+          "r1780161617310",
+          "r1780196217310",
+          "r1780206217310",
+          "r1780221617310",
+          "r1780241617310",
+          "r1780245617310",
+          "r1780257317310",
+          "r1780262617310",
+          "r1780266217310",
+          "r1780272217310",
+          "r1780278617310"
+        ],
+        "facturaRef": "DR028/26",
+        "_htmlStripped": true
+      },
       {
         "id": "inf1780495505745",
         "nom": "INF-Global(250801-260531)",
