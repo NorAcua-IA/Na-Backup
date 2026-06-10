@@ -1,5 +1,5 @@
 {
-  "fecha": "2026-06-10T21:34:22.916Z",
+  "fecha": "2026-06-10T21:43:28.545Z",
   "version": "2.8",
   "datos": {
     "na-v20-proyectos": [
@@ -2326,7 +2326,7 @@
         "proyectoId": "p1779438468314",
         "conceptoId": "7.6",
         "trabajador": "Yennyfer Lemus",
-        "fecha": "2026-05-21",
+        "fecha": "2026-06-01",
         "observaciones": "Grupo: 1 actividades",
         "cantidad": 1,
         "capFiltro": "7",
@@ -2341,12 +2341,16 @@
             "conceptoId": "7.6",
             "cantidad": 1,
             "observaciones": "Contestación Requerimiento para Cambio de Titularidad",
-            "certifAprobada": true,
-            "certifEnviada": true,
-            "cantCertif": 1
+            "certifAprobada": false,
+            "certifEnviada": false,
+            "cantCertif": 1,
+            "certifOferta": false,
+            "_certifCheck": false,
+            "_ofertaCheck": false
           }
         ],
-        "estadoCertif": "finalizado"
+        "estadoCertif": null,
+        "certifOfertaAt": null
       },
       {
         "proyectoId": "p1779883791414",
@@ -8702,7 +8706,7 @@
         "fecha": "2026-06-10",
         "horas": "10",
         "horasOrig": "10",
-        "horasAdmin": "10",
+        "horasAdmin": 11,
         "supervisor": "Carlos García",
         "encargo": "Concepción Gutierrez",
         "zona": "CATALUÑA",
@@ -8711,7 +8715,7 @@
         "empresa": "PETROSUPORT",
         "comentarios": "Limpieza y aspiración de arquetas boca hombre.",
         "id": "hs_1781120199261",
-        "estado": "pendiente",
+        "estado": "aprobado",
         "creadoPor": "Carlos García",
         "fechaCreacion": "2026-06-10T19:36:39.261Z"
       },
@@ -8732,7 +8736,7 @@
         "empresa": "Petrosuport",
         "comentarios": "Reparación e impermeabilización canaletas cubierta edificio tienda.",
         "id": "hs_1781069074454",
-        "estado": "pendiente",
+        "estado": "aprobado",
         "creadoPor": "Carlos García",
         "fechaCreacion": "2026-06-10T05:24:34.454Z"
       },
@@ -8744,7 +8748,7 @@
         "fecha": "2026-06-08",
         "horas": "12",
         "horasOrig": "12",
-        "horasAdmin": "12",
+        "horasAdmin": 13,
         "supervisor": "Carlos García",
         "encargo": "Concepción Gutierrez",
         "zona": "CATALUÑA",
@@ -8753,7 +8757,7 @@
         "empresa": "Petrosuport",
         "comentarios": "Reparación e impermeabilización de canaletas en cubierta edificio tienda",
         "id": "hs_1780997798848",
-        "estado": "pendiente",
+        "estado": "aprobado",
         "creadoPor": "Carlos García",
         "fechaCreacion": "2026-06-09T09:36:38.848Z"
       },
@@ -8765,7 +8769,7 @@
         "fecha": "2026-06-05",
         "horas": "5",
         "horasOrig": "5",
-        "horasAdmin": "5",
+        "horasAdmin": 8,
         "supervisor": "Carlos García",
         "encargo": "Concepción Gutierrez",
         "zona": "CATALUÑA",
@@ -8774,7 +8778,7 @@
         "empresa": "",
         "comentarios": "CONTROL DE DOCUMENTACION A CONTRATISTAS ",
         "id": "hs_1780908673710",
-        "estado": "pendiente",
+        "estado": "aprobado",
         "creadoPor": "Carlos García",
         "fechaCreacion": "2026-06-08T08:51:13.710Z"
       },
@@ -9989,43 +9993,6 @@
       }
     ],
     "na-v20-historico": [
-      {
-        "id": "inf1781020264555",
-        "nom": "INF-Global(250801-260531)",
-        "tipo": "periodo",
-        "proyNombre": "Todos los proyectos",
-        "periodo": "01/08/25 → 31/05/26",
-        "estado": "facturado",
-        "creadoEn": "2026-06-09T17:10:33.226Z",
-        "importeTotal": 31783.8,
-        "proyectoId": null,
-        "regIds": [
-          "r1779184858255",
-          "r1779185166985",
-          "r1779185166985",
-          "r1779382044839",
-          "r1779385261428",
-          "r1779390310832",
-          "r1779578869862",
-          "r1779590009313",
-          "r1779599023393",
-          "r1780036617310",
-          "r1780096617310",
-          "r1780161617310",
-          "r1780196217310",
-          "r1780206217310",
-          "r1780221617310",
-          "r1780241617310",
-          "r1780245617310",
-          "r1780257317310",
-          "r1780262617310",
-          "r1780266217310",
-          "r1780272217310",
-          "r1780278617310"
-        ],
-        "facturaRef": "DR028/26",
-        "_htmlStripped": true
-      },
       {
         "id": "inf1780495505745",
         "nom": "INF-Global(250801-260531)",
