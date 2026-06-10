@@ -1,5 +1,5 @@
 {
-  "fecha": "2026-06-10T05:09:12.864Z",
+  "fecha": "2026-06-10T07:09:12.606Z",
   "version": "2.7",
   "datos": {
     "na-v20-proyectos": [
@@ -934,6 +934,1332 @@
     ],
     "na-v20-registros": [
       {
+        "proyectoId": "p1779132044557",
+        "conceptoId": "1.2",
+        "trabajador": "Jordi Santos",
+        "fecha": "2026-05-14",
+        "observaciones": "Grupo: 16 actividades",
+        "cantidad": 1,
+        "capFiltro": "11",
+        "id": "r1779134766842",
+        "estado": "ofertada",
+        "precioManual": null,
+        "createdAt": "2026-05-18T20:06:06.842Z",
+        "creadoPor": "Jordi Santos",
+        "esGrupo": true,
+        "lineasGrupo": [
+          {
+            "conceptoId": "1.2",
+            "cantidad": 1,
+            "observaciones": "Documentación técnica para permisos de desmantelamiento tanto para Ayuntamiento como para ADIF, ACA, Industria y Consell Comarcal. El esupuesto lo realiza el contratista",
+            "_certifCheck": false,
+            "certifEnviada": false,
+            "certifAprobada": false,
+            "cantCertif": 1,
+            "certifEnviadaAt": "2026-05-19T09:49:27.209Z"
+          },
+          {
+            "conceptoId": "1.17",
+            "cantidad": 1,
+            "observaciones": "Proyecto para la IP06"
+          },
+          {
+            "conceptoId": "1.2",
+            "cantidad": 1,
+            "observaciones": "Modificación de proyecto en base a reunión con Ayuntamiento del 7 de mayo",
+            "_certifCheck": false
+          },
+          {
+            "conceptoId": "3.1c",
+            "cantidad": 1,
+            "observaciones": ""
+          },
+          {
+            "conceptoId": "3.1b",
+            "cantidad": 2,
+            "observaciones": "",
+            "_certifCheck": false
+          },
+          {
+            "conceptoId": "4.1",
+            "cantidad": 1,
+            "observaciones": ""
+          },
+          {
+            "conceptoId": "4.2",
+            "cantidad": 1,
+            "observaciones": "",
+            "_certifCheck": false
+          },
+          {
+            "conceptoId": "6.1",
+            "cantidad": 3,
+            "observaciones": "",
+            "_certifCheck": false,
+            "_cantCertif": 2,
+            "certifEnviada": false,
+            "certifAprobada": false,
+            "cantCertif": 2,
+            "certifEnviadaAt": "2026-05-19T09:49:27.209Z"
+          },
+          {
+            "conceptoId": "7.1",
+            "cantidad": 1,
+            "observaciones": "",
+            "_certifCheck": false,
+            "certifEnviada": false,
+            "certifAprobada": false,
+            "cantCertif": 1,
+            "certifEnviadaAt": "2026-05-19T09:51:54.220Z"
+          },
+          {
+            "conceptoId": "7.2",
+            "cantidad": 1,
+            "observaciones": "Sondeos",
+            "_certifCheck": false,
+            "certifEnviada": false,
+            "certifAprobada": false,
+            "cantCertif": 1,
+            "certifEnviadaAt": "2026-05-19T09:51:54.220Z"
+          },
+          {
+            "conceptoId": "7.4",
+            "cantidad": 1,
+            "observaciones": "Baja actividad ayto"
+          },
+          {
+            "conceptoId": "7.3",
+            "cantidad": 1,
+            "observaciones": "Baja del Registro Industrial"
+          },
+          {
+            "conceptoId": "7.6",
+            "cantidad": 4,
+            "observaciones": "",
+            "_certifCheck": false,
+            "_cantCertif": 2
+          },
+          {
+            "conceptoId": "10.5",
+            "cantidad": 1,
+            "observaciones": ""
+          },
+          {
+            "conceptoId": "10.4b",
+            "cantidad": 1,
+            "observaciones": ""
+          },
+          {
+            "conceptoId": "11.2",
+            "cantidad": 1,
+            "observaciones": "Propuesta actuación en el ayto",
+            "_certifCheck": false,
+            "certifEnviada": false,
+            "certifAprobada": false,
+            "cantCertif": 1,
+            "certifEnviadaAt": "2026-05-19T09:51:54.220Z"
+          }
+        ],
+        "estadoCertif": "",
+        "ofertaCodigo": "028-26"
+      },
+      {
+        "proyectoId": "p1779182184609",
+        "conceptoId": "6.1",
+        "trabajador": "Jordi Santos",
+        "fecha": "2026-05-19",
+        "observaciones": "Grupo: 3 actividades",
+        "cantidad": 1,
+        "capFiltro": "1",
+        "id": "r1779182351225",
+        "estado": "pendiente",
+        "precioManual": null,
+        "createdAt": "2026-05-19T09:19:11.225Z",
+        "creadoPor": "Jordi Santos",
+        "esGrupo": true,
+        "lineasGrupo": [
+          {
+            "conceptoId": "6.1",
+            "cantidad": 1,
+            "observaciones": "Toma de datos aprovechando catas en cubierta"
+          },
+          {
+            "conceptoId": "2.3",
+            "cantidad": 1,
+            "observaciones": "Informe visita toma de datos con descripción estado cubierta"
+          },
+          {
+            "conceptoId": "1.18",
+            "cantidad": 1,
+            "observaciones": "Nota técnica solución estructural"
+          }
+        ]
+      },
+      {
+        "proyectoId": "p1779183792717",
+        "conceptoId": "6.5",
+        "trabajador": "Jordi Santos",
+        "fecha": "2026-05-19",
+        "observaciones": "Grupo: 1 actividades",
+        "cantidad": 1,
+        "capFiltro": "",
+        "id": "r1779184072093",
+        "estado": "aprobado",
+        "precioManual": null,
+        "createdAt": "2026-05-19T09:47:52.093Z",
+        "creadoPor": "Jordi Santos",
+        "esGrupo": true,
+        "lineasGrupo": [
+          {
+            "conceptoId": "6.5",
+            "cantidad": 1,
+            "observaciones": "Recopilación documental para COOUT",
+            "_certifCheck": false,
+            "certifEnviada": true,
+            "certifAprobada": true,
+            "cantCertif": 1,
+            "certifEnviadaAt": "2026-05-21T09:31:47.107Z"
+          }
+        ],
+        "estadoCertif": "finalizado"
+      },
+      {
+        "proyectoId": "p1779185410739",
+        "conceptoId": "6.5",
+        "trabajador": "Jordi Santos",
+        "fecha": "2026-05-19",
+        "observaciones": "Grupo: 1 actividades",
+        "cantidad": 1,
+        "id": "r1779185491112",
+        "estado": "aprobado",
+        "precioManual": null,
+        "createdAt": "2026-05-19T10:11:31.112Z",
+        "creadoPor": "Jordi Santos",
+        "esGrupo": true,
+        "lineasGrupo": [
+          {
+            "conceptoId": "6.5",
+            "cantidad": 1,
+            "observaciones": "Recopilació documentació para COOUT",
+            "_certifCheck": false,
+            "certifEnviada": true,
+            "certifAprobada": true,
+            "cantCertif": 1,
+            "certifEnviadaAt": "2026-05-21T09:31:44.780Z"
+          },
+          {
+            "id": "lg_1780050182923",
+            "conceptoId": "6.9",
+            "cantidad": 1,
+            "observaciones": "Billete de tren por anulación de visita",
+            "precioManual": 75.8,
+            "_capFiltro": "6",
+            "certifAprobada": true,
+            "certifEnviada": true,
+            "cantCertif": 1
+          }
+        ],
+        "estadoCertif": "finalizado"
+      },
+      {
+        "proyectoId": "p1779185513218",
+        "conceptoId": "6.5",
+        "trabajador": "Jordi Santos",
+        "fecha": "2026-05-19",
+        "observaciones": "Grupo: 1 actividades",
+        "cantidad": 1,
+        "id": "r1779185537188",
+        "estado": "aprobado",
+        "precioManual": null,
+        "createdAt": "2026-05-19T10:12:17.188Z",
+        "creadoPor": "Jordi Santos",
+        "esGrupo": true,
+        "lineasGrupo": [
+          {
+            "conceptoId": "6.5",
+            "cantidad": 1,
+            "observaciones": "Recopilació documentació para COOUT",
+            "_certifCheck": false,
+            "certifEnviada": true,
+            "certifAprobada": true,
+            "cantCertif": 1,
+            "certifEnviadaAt": "2026-05-20T08:44:33.845Z"
+          }
+        ],
+        "estadoCertif": "finalizado"
+      },
+      {
+        "proyectoId": "p1779382081008",
+        "conceptoId": "6.5",
+        "trabajador": "Jordi Santos",
+        "fecha": "2025-08-06",
+        "observaciones": "Grupo: 3 actividades",
+        "cantidad": 1,
+        "capFiltro": "7",
+        "id": "r1779382900916",
+        "estado": "aprobado",
+        "precioManual": null,
+        "createdAt": "2026-05-21T17:01:40.917Z",
+        "creadoPor": "Jordi Santos",
+        "esGrupo": true,
+        "lineasGrupo": [
+          {
+            "conceptoId": "6.5",
+            "cantidad": 1,
+            "observaciones": "Recopilación documentación expediente ",
+            "certifAprobada": true,
+            "certifEnviada": true,
+            "cantCertif": 1
+          },
+          {
+            "conceptoId": "1.9",
+            "cantidad": 1,
+            "observaciones": "Preparación documentación AMB",
+            "certifAprobada": true,
+            "certifEnviada": true,
+            "cantCertif": 1,
+            "descuento": 35
+          },
+          {
+            "conceptoId": "7.6",
+            "cantidad": 1,
+            "observaciones": "Solicitud renovación permiso",
+            "certifAprobada": true,
+            "certifEnviada": true,
+            "cantCertif": 1
+          }
+        ],
+        "estadoCertif": "finalizado"
+      },
+      {
+        "proyectoId": "p1779384794378",
+        "conceptoId": "2.3",
+        "trabajador": "Jordi Santos",
+        "fecha": "2025-12-05",
+        "observaciones": "Grupo: 4 actividades",
+        "cantidad": 1,
+        "capFiltro": "2",
+        "id": "r1779385727831",
+        "estado": "aprobado",
+        "precioManual": null,
+        "createdAt": "2026-05-21T17:48:47.831Z",
+        "creadoPor": "Daniel",
+        "esGrupo": true,
+        "lineasGrupo": [
+          {
+            "conceptoId": "2.3",
+            "cantidad": 1,
+            "observaciones": "Informe estado saneamiento y propuestas solución",
+            "certifAprobada": true,
+            "certifEnviada": true,
+            "cantCertif": 1
+          },
+          {
+            "conceptoId": "6.1",
+            "cantidad": 2,
+            "observaciones": "Visita toma de datos y visita planificación de trabajos restaurtante",
+            "certifAprobada": true,
+            "certifEnviada": true,
+            "cantCertif": 2
+          },
+          {
+            "conceptoId": "3.1b",
+            "cantidad": 1,
+            "observaciones": "",
+            "certifAprobada": true,
+            "certifEnviada": true,
+            "cantCertif": 1
+          },
+          {
+            "conceptoId": "10.2",
+            "cantidad": 1,
+            "observaciones": "",
+            "certifAprobada": true,
+            "certifEnviada": true,
+            "cantCertif": 1
+          }
+        ],
+        "estadoCertif": "finalizado"
+      },
+      {
+        "proyectoId": "p1779385963232",
+        "conceptoId": "2.6",
+        "trabajador": "Jordi Santos",
+        "fecha": "2025-09-15",
+        "observaciones": "Grupo: 1 actividades",
+        "cantidad": 1,
+        "capFiltro": "2",
+        "id": "r1779386014804",
+        "estado": "aprobado",
+        "precioManual": null,
+        "createdAt": "2026-05-21T17:53:34.804Z",
+        "creadoPor": "Daniel",
+        "esGrupo": true,
+        "lineasGrupo": [
+          {
+            "conceptoId": "2.6",
+            "cantidad": 1,
+            "observaciones": "Actualizado informe ATEX con nuevo plano y nuevo doc incluyendo el certificado del nuevo surtidor",
+            "certifAprobada": true,
+            "certifEnviada": true,
+            "cantCertif": 1
+          }
+        ],
+        "estadoCertif": "finalizado"
+      },
+      {
+        "proyectoId": "p1779386145802",
+        "conceptoId": "6.2",
+        "trabajador": "Jordi Santos",
+        "fecha": "2025-10-03",
+        "observaciones": "Grupo: 2 actividades",
+        "cantidad": 1,
+        "capFiltro": "2",
+        "id": "r1779386188218",
+        "estado": "aprobado",
+        "precioManual": null,
+        "createdAt": "2026-05-21T17:56:28.218Z",
+        "creadoPor": "Daniel",
+        "esGrupo": true,
+        "lineasGrupo": [
+          {
+            "conceptoId": "6.2",
+            "cantidad": 1,
+            "observaciones": "",
+            "certifAprobada": true,
+            "certifEnviada": true,
+            "cantCertif": 1
+          },
+          {
+            "conceptoId": "2.3",
+            "cantidad": 1,
+            "observaciones": "",
+            "certifAprobada": true,
+            "certifEnviada": true,
+            "cantCertif": 1
+          }
+        ],
+        "estadoCertif": "finalizado"
+      },
+      {
+        "proyectoId": "p1779386413694",
+        "conceptoId": "6.8",
+        "trabajador": "Jordi Santos",
+        "fecha": "2025-10-15",
+        "observaciones": "Grupo: 2 actividades",
+        "cantidad": 1,
+        "capFiltro": "2",
+        "id": "r1779386510550",
+        "estado": "aprobado",
+        "precioManual": null,
+        "createdAt": "2026-05-21T18:01:50.550Z",
+        "creadoPor": "Daniel",
+        "esGrupo": true,
+        "lineasGrupo": [
+          {
+            "conceptoId": "6.8",
+            "cantidad": 1,
+            "observaciones": "",
+            "certifAprobada": true,
+            "certifEnviada": true,
+            "cantCertif": 1
+          },
+          {
+            "conceptoId": "2.3",
+            "cantidad": 1,
+            "observaciones": "",
+            "certifAprobada": true,
+            "certifEnviada": true,
+            "cantCertif": 1
+          }
+        ],
+        "estadoCertif": "finalizado"
+      },
+      {
+        "proyectoId": "p1779386700752",
+        "conceptoId": "2.8",
+        "trabajador": "Jordi Santos",
+        "fecha": "2025-09-09",
+        "observaciones": "Grupo: 1 actividades",
+        "cantidad": 1,
+        "capFiltro": "2",
+        "id": "r1779386904618",
+        "estado": "aprobado",
+        "precioManual": null,
+        "createdAt": "2026-05-21T18:08:24.618Z",
+        "creadoPor": "Daniel",
+        "esGrupo": true,
+        "lineasGrupo": [
+          {
+            "id": "lg_1779386996867",
+            "conceptoId": "2.3",
+            "cantidad": 1,
+            "observaciones": "Plan autoprotección Vertidos",
+            "precioManual": null,
+            "_capFiltro": "2",
+            "certifAprobada": true,
+            "certifEnviada": true,
+            "cantCertif": 1
+          }
+        ],
+        "estadoCertif": "finalizado"
+      },
+      {
+        "proyectoId": "p1779387108379",
+        "conceptoId": "7.3",
+        "trabajador": "Jordi Santos",
+        "fecha": "2025-11-25",
+        "observaciones": "Grupo: 1 actividades",
+        "cantidad": 1,
+        "capFiltro": "7",
+        "id": "r1779387335704",
+        "estado": "aprobado",
+        "precioManual": null,
+        "createdAt": "2026-05-21T18:15:35.704Z",
+        "creadoPor": "Daniel",
+        "esGrupo": true,
+        "lineasGrupo": [
+          {
+            "conceptoId": "7.3",
+            "cantidad": 1,
+            "observaciones": "Inscripción en el Registro la sustitución del surtidor siniestrado",
+            "certifAprobada": true,
+            "certifEnviada": true,
+            "cantCertif": 1
+          }
+        ],
+        "estadoCertif": "finalizado"
+      },
+      {
+        "proyectoId": "p1779387531504",
+        "conceptoId": "2.3",
+        "trabajador": "Jordi Santos",
+        "fecha": "2025-12-12",
+        "observaciones": "Grupo: 2 actividades",
+        "cantidad": 1,
+        "capFiltro": "6",
+        "id": "r1779387564130",
+        "estado": "aprobado",
+        "precioManual": null,
+        "createdAt": "2026-05-21T18:19:24.130Z",
+        "creadoPor": "Daniel",
+        "esGrupo": true,
+        "lineasGrupo": [
+          {
+            "conceptoId": "2.3",
+            "cantidad": 1,
+            "observaciones": "",
+            "certifAprobada": true,
+            "certifEnviada": true,
+            "cantCertif": 1
+          },
+          {
+            "conceptoId": "6.8",
+            "cantidad": 1,
+            "observaciones": "",
+            "certifAprobada": true,
+            "certifEnviada": true,
+            "cantCertif": 1
+          }
+        ],
+        "estadoCertif": "finalizado"
+      },
+      {
+        "proyectoId": "p1779387686938",
+        "conceptoId": "1.9",
+        "trabajador": "Jordi Santos",
+        "fecha": "2025-12-22",
+        "observaciones": "Grupo: 4 actividades",
+        "cantidad": 1,
+        "capFiltro": "7",
+        "id": "r1779387769358",
+        "estado": "aprobado",
+        "precioManual": null,
+        "createdAt": "2026-05-21T18:22:49.358Z",
+        "creadoPor": "Daniel",
+        "esGrupo": true,
+        "lineasGrupo": [
+          {
+            "conceptoId": "1.9",
+            "cantidad": 0.65,
+            "observaciones": "",
+            "certifAprobada": true,
+            "certifEnviada": true,
+            "cantCertif": 1,
+            "descuento": 35
+          },
+          {
+            "conceptoId": "6.5",
+            "cantidad": 1,
+            "observaciones": "Recopilación documentación",
+            "certifAprobada": true,
+            "certifEnviada": true,
+            "cantCertif": 1
+          },
+          {
+            "conceptoId": "7.6",
+            "cantidad": 1,
+            "observaciones": "",
+            "certifAprobada": true,
+            "certifEnviada": true,
+            "cantCertif": 1
+          }
+        ],
+        "estadoCertif": "finalizado"
+      },
+      {
+        "proyectoId": "p1779387982062",
+        "conceptoId": "1.9",
+        "trabajador": "Jordi Santos",
+        "fecha": "2025-12-22",
+        "observaciones": "Grupo: 3 actividades",
+        "cantidad": 1,
+        "capFiltro": "7",
+        "id": "r1779388094641",
+        "estado": "aprobado",
+        "precioManual": null,
+        "createdAt": "2026-05-21T18:28:14.641Z",
+        "creadoPor": "Daniel",
+        "esGrupo": true,
+        "lineasGrupo": [
+          {
+            "conceptoId": "1.9",
+            "cantidad": 0.65,
+            "observaciones": "",
+            "certifAprobada": true,
+            "certifEnviada": true,
+            "cantCertif": 1,
+            "descuento": 35
+          },
+          {
+            "conceptoId": "6.5",
+            "cantidad": 1,
+            "observaciones": "Recopilación documentación",
+            "certifAprobada": true,
+            "certifEnviada": true,
+            "cantCertif": 1
+          },
+          {
+            "conceptoId": "7.6",
+            "cantidad": 1,
+            "observaciones": "",
+            "certifAprobada": true,
+            "certifEnviada": true,
+            "cantCertif": 1
+          }
+        ],
+        "estadoCertif": "finalizado"
+      },
+      {
+        "proyectoId": "p1779388148839",
+        "conceptoId": "1.9",
+        "trabajador": "Jordi Santos",
+        "fecha": "2025-12-22",
+        "observaciones": "Grupo: 3 actividades",
+        "cantidad": 1,
+        "capFiltro": "7",
+        "id": "r1779388216692",
+        "estado": "aprobado",
+        "precioManual": null,
+        "createdAt": "2026-05-21T18:30:16.692Z",
+        "creadoPor": "Daniel",
+        "esGrupo": true,
+        "lineasGrupo": [
+          {
+            "conceptoId": "1.9",
+            "cantidad": 0.65,
+            "observaciones": "",
+            "certifAprobada": true,
+            "certifEnviada": true,
+            "cantCertif": 1,
+            "descuento": 35
+          },
+          {
+            "conceptoId": "6.5",
+            "cantidad": 1,
+            "observaciones": "Recopilación de documentación",
+            "certifAprobada": true,
+            "certifEnviada": true,
+            "cantCertif": 1
+          },
+          {
+            "conceptoId": "7.6",
+            "cantidad": 1,
+            "observaciones": "",
+            "certifAprobada": true,
+            "certifEnviada": true,
+            "cantCertif": 1
+          }
+        ],
+        "estadoCertif": "finalizado"
+      },
+      {
+        "proyectoId": "p1779388576112",
+        "conceptoId": "1.17",
+        "trabajador": "Jordi Santos",
+        "fecha": "2026-03-20",
+        "observaciones": "Grupo: 4 actividades",
+        "cantidad": 1,
+        "capFiltro": "2",
+        "id": "r1779388851027",
+        "estado": "aprobado",
+        "precioManual": null,
+        "createdAt": "2026-05-21T18:40:51.027Z",
+        "creadoPor": "Daniel",
+        "esGrupo": true,
+        "lineasGrupo": [
+          {
+            "conceptoId": "7.3",
+            "cantidad": 1,
+            "observaciones": "",
+            "certifAprobada": true,
+            "certifEnviada": true,
+            "cantCertif": 1
+          },
+          {
+            "conceptoId": "7.6",
+            "cantidad": 1,
+            "observaciones": "Solicitud certificados fabricante",
+            "certifAprobada": true,
+            "certifEnviada": true,
+            "cantCertif": 1
+          },
+          {
+            "conceptoId": "2.8",
+            "cantidad": 1,
+            "observaciones": "Certificado instalador",
+            "precioManual": 425,
+            "certifAprobada": true,
+            "certifEnviada": true,
+            "cantCertif": 1
+          },
+          {
+            "id": "lg_1779388971161",
+            "conceptoId": "1.17",
+            "cantidad": 0.6,
+            "observaciones": "",
+            "precioManual": null,
+            "_capFiltro": "1",
+            "certifAprobada": true,
+            "certifEnviada": true,
+            "cantCertif": 1,
+            "descuento": 40
+          }
+        ],
+        "estadoCertif": "finalizado"
+      },
+      {
+        "proyectoId": "p1779389151179",
+        "conceptoId": "2.3",
+        "trabajador": "Jordi Santos",
+        "fecha": "2026-01-30",
+        "observaciones": "Grupo: 3 actividades",
+        "cantidad": 1,
+        "capFiltro": "6",
+        "id": "r1779389240174",
+        "estado": "aprobado",
+        "precioManual": null,
+        "createdAt": "2026-05-21T18:47:20.174Z",
+        "creadoPor": "Daniel",
+        "esGrupo": true,
+        "lineasGrupo": [
+          {
+            "conceptoId": "2.3",
+            "cantidad": 1,
+            "observaciones": "Plan autoprotección",
+            "certifAprobada": true,
+            "certifEnviada": true,
+            "cantCertif": 1
+          },
+          {
+            "conceptoId": "2.6",
+            "cantidad": 1,
+            "observaciones": "",
+            "certifAprobada": true,
+            "certifEnviada": true,
+            "cantCertif": 1
+          },
+          {
+            "conceptoId": "6.3",
+            "cantidad": 1,
+            "observaciones": "",
+            "certifAprobada": true,
+            "certifEnviada": true,
+            "cantCertif": 1
+          }
+        ],
+        "estadoCertif": "finalizado"
+      },
+      {
+        "proyectoId": "p1779391171195",
+        "conceptoId": "2.3",
+        "trabajador": "Jordi Santos",
+        "fecha": "2026-03-13",
+        "observaciones": "Grupo: 4 actividades",
+        "cantidad": 1,
+        "capFiltro": "7",
+        "id": "r1779391358989",
+        "estado": "aprobado",
+        "precioManual": null,
+        "createdAt": "2026-05-21T19:22:38.989Z",
+        "creadoPor": "Daniel",
+        "esGrupo": true,
+        "lineasGrupo": [
+          {
+            "conceptoId": "2.3",
+            "cantidad": 1,
+            "observaciones": "Informe descalsificación sótano",
+            "certifAprobada": true,
+            "certifEnviada": true,
+            "cantCertif": 1
+          },
+          {
+            "conceptoId": "6.1",
+            "cantidad": 1,
+            "observaciones": "Visita con técnico OCA",
+            "certifAprobada": true,
+            "certifEnviada": true,
+            "cantCertif": 1
+          },
+          {
+            "conceptoId": "7.6",
+            "cantidad": 1,
+            "observaciones": "Consulta Industria",
+            "certifAprobada": true,
+            "certifEnviada": true,
+            "cantCertif": 1
+          },
+          {
+            "conceptoId": "7.6",
+            "cantidad": 1,
+            "observaciones": "Contestación requerimientos OCA",
+            "certifAprobada": true,
+            "certifEnviada": true,
+            "cantCertif": 1
+          }
+        ],
+        "estadoCertif": "finalizado"
+      },
+      {
+        "proyectoId": "p1779391786134",
+        "conceptoId": "2.8",
+        "trabajador": "Jordi Santos",
+        "fecha": "2026-04-13",
+        "observaciones": "Grupo: 6 actividades",
+        "cantidad": 1,
+        "capFiltro": "7",
+        "id": "r1779392240842",
+        "estado": "aprobado",
+        "precioManual": null,
+        "createdAt": "2026-05-21T19:37:20.842Z",
+        "creadoPor": "Daniel",
+        "esGrupo": true,
+        "lineasGrupo": [
+          {
+            "conceptoId": "2.8",
+            "cantidad": 1,
+            "observaciones": "Contratación EAC",
+            "certifAprobada": true,
+            "certifEnviada": true,
+            "cantCertif": 1,
+            "precioManual": 1750
+          },
+          {
+            "conceptoId": "6.1",
+            "cantidad": 1,
+            "observaciones": "Visita y copia expediente municipal",
+            "certifAprobada": true,
+            "certifEnviada": true,
+            "cantCertif": 1
+          },
+          {
+            "conceptoId": "7.6",
+            "cantidad": 1,
+            "observaciones": "Solicitud vista y copia del expediente municipal",
+            "certifAprobada": true,
+            "certifEnviada": true,
+            "cantCertif": 1
+          },
+          {
+            "conceptoId": "6.1",
+            "cantidad": 1,
+            "observaciones": "Visita ES con EAC",
+            "precioManual": null,
+            "certifAprobada": true,
+            "certifEnviada": true,
+            "cantCertif": 1
+          },
+          {
+            "conceptoId": "2.8",
+            "cantidad": 1,
+            "observaciones": "IPS",
+            "certifAprobada": true,
+            "certifEnviada": true,
+            "cantCertif": 1,
+            "precioManual": 750
+          },
+          {
+            "conceptoId": "7.6",
+            "cantidad": 1,
+            "observaciones": "Registro acta favorable en el ayuntamiento",
+            "certifAprobada": true,
+            "certifEnviada": true,
+            "cantCertif": 1
+          }
+        ],
+        "estadoCertif": "finalizado"
+      },
+      {
+        "proyectoId": "p1779393360321",
+        "conceptoId": "7.6",
+        "trabajador": "Jordi Santos",
+        "fecha": "2026-05-21",
+        "observaciones": "Grupo: 1 actividades",
+        "cantidad": 1,
+        "capFiltro": "7",
+        "id": "r1779393473054",
+        "estado": "aprobado",
+        "precioManual": null,
+        "createdAt": "2026-05-21T19:57:53.054Z",
+        "creadoPor": "Daniel",
+        "esGrupo": true,
+        "lineasGrupo": [
+          {
+            "conceptoId": "7.6",
+            "cantidad": 1,
+            "observaciones": "Consulta a Industria de Albacete",
+            "certifAprobada": true,
+            "certifEnviada": true,
+            "cantCertif": 1
+          }
+        ],
+        "estadoCertif": "finalizado"
+      },
+      {
+        "proyectoId": "p1779131920309",
+        "conceptoId": "1.5",
+        "trabajador": "Jordi Santos",
+        "fecha": "2026-05-22",
+        "observaciones": "Grupo: 1 actividades",
+        "cantidad": 1,
+        "id": "r1779441077721",
+        "estado": "pendiente",
+        "precioManual": null,
+        "createdAt": "2026-05-22T09:11:17.721Z",
+        "creadoPor": "Jordi Santos",
+        "esGrupo": true,
+        "lineasGrupo": [
+          {
+            "conceptoId": "1.5",
+            "cantidad": 1,
+            "observaciones": "Proyecto para adecuación recogida aguas lavado (no incluye autorización vertidos)"
+          },
+          {
+            "id": "lg_1779441095263",
+            "conceptoId": "4.1",
+            "cantidad": 1,
+            "observaciones": "Asume direccion facultativa requerido por Ayuntamiento ",
+            "precioManual": null,
+            "_capFiltro": "4"
+          },
+          {
+            "id": "lg_1779441123353",
+            "conceptoId": "4.2",
+            "cantidad": 1,
+            "observaciones": "Designación CSS",
+            "precioManual": null,
+            "_capFiltro": "4"
+          }
+        ]
+      },
+      {
+        "proyectoId": "p1780035450676",
+        "conceptoId": "6.9",
+        "trabajador": "Jordi Santos",
+        "fecha": "2026-05-26",
+        "observaciones": "Grupo: 1 actividades",
+        "cantidad": 1,
+        "id": "r1780035603826",
+        "estado": "ofertada",
+        "precioManual": null,
+        "createdAt": "2026-05-29T06:20:03.826Z",
+        "creadoPor": "Jordi Santos",
+        "esGrupo": true,
+        "lineasGrupo": [
+          {
+            "conceptoId": "6.9",
+            "cantidad": 1,
+            "observaciones": "Vista / copia de expediente muncipal"
+          },
+          {
+            "id": "lg_1780035613766",
+            "conceptoId": "2.3",
+            "cantidad": 1,
+            "observaciones": "Control Periódico Ambiental (gestión de deficiencias)",
+            "precioManual": 1575,
+            "_capFiltro": "2"
+          },
+          {
+            "id": "lg_1780035660451",
+            "conceptoId": "6.9",
+            "cantidad": 1,
+            "observaciones": "Visita acompañamiento inspector",
+            "precioManual": null,
+            "_capFiltro": "6"
+          },
+          {
+            "id": "lg_1780035751425",
+            "conceptoId": "2.3",
+            "cantidad": 1,
+            "observaciones": "Realización de IPS",
+            "precioManual": null,
+            "_capFiltro": "2"
+          }
+        ],
+        "ofertaCodigo": "029-26"
+      },
+      {
+        "proyectoId": "p1779213701420",
+        "conceptoId": "6.4",
+        "trabajador": "Jordi Santos",
+        "fecha": "2026-05-29",
+        "observaciones": "Grupo: 2 actividades",
+        "cantidad": 1,
+        "id": "r1780036077165",
+        "estado": "pendiente",
+        "precioManual": null,
+        "createdAt": "2026-05-29T06:27:57.165Z",
+        "creadoPor": "Jordi Santos",
+        "esGrupo": true,
+        "lineasGrupo": [
+          {
+            "conceptoId": "6.4",
+            "cantidad": 1,
+            "observaciones": "Toma de datos para realizar proyecto de adecuaciones"
+          },
+          {
+            "conceptoId": "1.5",
+            "cantidad": 1,
+            "observaciones": "Proyecto de adecuaciones (mejoras, pago automático e imagen) IP04 y REBT"
+          }
+        ],
+        "searchPr": ""
+      },
+      {
+        "proyectoId": "p1780477263512",
+        "conceptoId": "2.7",
+        "trabajador": "Jordi Santos",
+        "fecha": "2026-06-03",
+        "observaciones": "Grupo: 2 actividades",
+        "cantidad": 1,
+        "searchPr": "eva",
+        "capFiltro": "6",
+        "id": "r1780477285528",
+        "estado": "aprobado",
+        "precioManual": null,
+        "createdAt": "2026-06-03T09:01:25.529Z",
+        "creadoPor": "Jordi Santos",
+        "esGrupo": true,
+        "lineasGrupo": [
+          {
+            "conceptoId": "2.7",
+            "cantidad": 1,
+            "observaciones": "",
+            "certifEnviada": true,
+            "certifEnviadaAt": "2026-06-05T22:49:11.678Z",
+            "cantCertif": 1,
+            "certifAprobada": true
+          },
+          {
+            "conceptoId": "6.1",
+            "cantidad": 1,
+            "observaciones": "",
+            "certifEnviada": true,
+            "certifEnviadaAt": "2026-06-05T22:49:11.678Z",
+            "cantCertif": 1,
+            "certifAprobada": true
+          }
+        ]
+      },
+      {
+        "proyectoId": "p1780478230969",
+        "conceptoId": "8.7",
+        "trabajador": "Jordi Santos",
+        "fecha": "2026-06-01",
+        "observaciones": "Grupo: 1 actividades",
+        "cantidad": 1,
+        "id": "r1780478609465",
+        "estado": "aprobado",
+        "precioManual": null,
+        "createdAt": "2026-06-03T09:23:29.465Z",
+        "creadoPor": "Jordi Santos",
+        "esGrupo": true,
+        "lineasGrupo": [
+          {
+            "conceptoId": "7.6",
+            "cantidad": 1,
+            "observaciones": "Localización de documentación para justificar deficiencia periódica IP04",
+            "_capFiltro": "7"
+          }
+        ]
+      },
+      {
+        "proyectoId": "p1779138869587",
+        "conceptoId": "7.6",
+        "trabajador": "Jordi Santos",
+        "fecha": "2026-06-04",
+        "observaciones": "Grupo: 2 actividades",
+        "cantidad": 1,
+        "searchPr": "BLANCO",
+        "id": "r1780563158414",
+        "estado": "pendiente",
+        "precioManual": null,
+        "createdAt": "2026-06-04T08:52:38.414Z",
+        "creadoPor": "Jordi Santos",
+        "esGrupo": true,
+        "lineasGrupo": [
+          {
+            "conceptoId": "7.6",
+            "cantidad": 1,
+            "observaciones": "Comunicación fecha replanteo con Unidad de Carreteras"
+          },
+          {
+            "conceptoId": "7.6",
+            "cantidad": 1,
+            "observaciones": "Aporte de pago de tasas y fianza"
+          }
+        ]
+      },
+      {
+        "proyectoId": "p1780566256406",
+        "conceptoId": "7.3",
+        "trabajador": "Jordi Santos",
+        "fecha": "2026-06-04",
+        "observaciones": "Grupo: 1 actividades",
+        "cantidad": 1,
+        "id": "r1780566324086",
+        "estado": "aprobado",
+        "precioManual": null,
+        "createdAt": "2026-06-04T09:45:24.086Z",
+        "creadoPor": "Jordi Santos",
+        "esGrupo": true,
+        "lineasGrupo": [
+          {
+            "conceptoId": "7.3",
+            "cantidad": 1,
+            "observaciones": "Actualización del REIC con SDF y baja margen puesto fuera servicio"
+          }
+        ]
+      },
+      {
+        "proyectoId": "p1780566187701",
+        "conceptoId": "1.2",
+        "trabajador": "Jordi Santos",
+        "fecha": "2026-06-04",
+        "observaciones": "Grupo: 2 actividades",
+        "cantidad": 1,
+        "id": "r1780566468598",
+        "estado": "pendiente",
+        "precioManual": null,
+        "createdAt": "2026-06-04T09:47:48.598Z",
+        "creadoPor": "Jordi Santos",
+        "esGrupo": true,
+        "lineasGrupo": [
+          {
+            "conceptoId": "1.2",
+            "cantidad": 1,
+            "observaciones": "Proyecto para baja de estación de servicio en Industria"
+          },
+          {
+            "conceptoId": "7.5",
+            "cantidad": 1,
+            "observaciones": "Comunicación de la baja en Industria"
+          }
+        ]
+      },
+      {
+        "proyectoId": "p1780656834711",
+        "conceptoId": "6.4",
+        "trabajador": "Jordi Santos",
+        "fecha": "2026-06-03",
+        "observaciones": "Grupo: 3 actividades",
+        "cantidad": 1,
+        "id": "r1780656931595",
+        "estado": "pendiente",
+        "precioManual": null,
+        "createdAt": "2026-06-05T10:55:31.595Z",
+        "creadoPor": "Jordi Santos",
+        "esGrupo": true,
+        "lineasGrupo": [
+          {
+            "conceptoId": "6.4",
+            "cantidad": 1,
+            "observaciones": "Toma de datos de la red de recogida de aguas aprovechando limpieza ",
+            "certifOferta": false,
+            "_ofertaCheck": false,
+            "certifOfertaAt": null
+          },
+          {
+            "conceptoId": "2.3",
+            "cantidad": 1,
+            "observaciones": "Envío de informe con conclusiones",
+            "certifOferta": false,
+            "_ofertaCheck": false,
+            "certifOfertaAt": null
+          },
+          {
+            "conceptoId": "8.7",
+            "cantidad": 1,
+            "observaciones": "Revisión de mediciones proyecto IM para incorporar acutación en recogida de aguas",
+            "certifOferta": false,
+            "_ofertaCheck": false,
+            "certifOfertaAt": null
+          }
+        ],
+        "ofertaCodigo": "030-26",
+        "ofertaCodigos": [
+          "030-26"
+        ],
+        "certifOfertaAt": null
+      },
+      {
+        "proyectoId": "p1780657008965",
+        "conceptoId": "6.1",
+        "trabajador": "Jordi Santos",
+        "fecha": "2026-06-03",
+        "observaciones": "Grupo: 2 actividades",
+        "cantidad": 1,
+        "id": "r1780657073721",
+        "estado": "pendiente",
+        "precioManual": null,
+        "createdAt": "2026-06-05T10:57:53.721Z",
+        "creadoPor": "Jordi Santos",
+        "esGrupo": true,
+        "lineasGrupo": [
+          {
+            "conceptoId": "6.1",
+            "cantidad": 1,
+            "observaciones": "Se realiza toma de datos aprovechando la revisión del saneamiento"
+          },
+          {
+            "conceptoId": "2.3",
+            "cantidad": 1,
+            "observaciones": "Informe de estructuristas con solución técnica "
+          }
+        ]
+      },
+      {
+        "proyectoId": "p1780661994855",
+        "conceptoId": "5.1c",
+        "trabajador": "Jordi Santos",
+        "fecha": "2026-06-05",
+        "observaciones": "Grupo: 1 actividades",
+        "cantidad": 1,
+        "searchPr": "ribas la",
+        "id": "r1780662089301",
+        "estado": "pendiente",
+        "precioManual": null,
+        "createdAt": "2026-06-05T12:21:29.301Z",
+        "creadoPor": "Jordi Santos",
+        "esGrupo": true,
+        "lineasGrupo": [
+          {
+            "conceptoId": "5.1b",
+            "cantidad": 1,
+            "observaciones": "Topografía para catastro"
+          }
+        ],
+        "ofertaCodigos": [
+          "026-26"
+        ],
+        "ofertaCodigo": "026-26"
+      },
+      {
+        "proyectoId": "p1780913844490",
+        "conceptoId": "7.6",
+        "trabajador": "Jordi Santos",
+        "fecha": "2026-06-08",
+        "observaciones": "Grupo: 1 actividades",
+        "cantidad": 1,
+        "id": "r1780913879321",
+        "estado": "pendiente",
+        "precioManual": null,
+        "createdAt": "2026-06-08T10:17:59.321Z",
+        "creadoPor": "Jordi Santos",
+        "esGrupo": true,
+        "lineasGrupo": [
+          {
+            "conceptoId": "7.6",
+            "cantidad": 3,
+            "observaciones": "Contestación parcial del requerimiento y solicitud / obtención expediente cesión espacios / contestación requerimiento"
+          },
+          {
+            "id": "lg_1780913888050",
+            "conceptoId": "7.7",
+            "cantidad": 1,
+            "observaciones": "Consulta previa a Carreteras de BCN por si es tramo afectado",
+            "precioManual": null,
+            "_capFiltro": "7"
+          },
+          {
+            "id": "lg_1780913917435",
+            "conceptoId": "7.6",
+            "cantidad": 3,
+            "observaciones": "Soliictud licencia de obras en Carreteras y solicitud con posterior cierre en el ACA",
+            "precioManual": null,
+            "_capFiltro": "7"
+          },
+          {
+            "id": "lg_1780913963904",
+            "conceptoId": "5.1a",
+            "cantidad": 1,
+            "observaciones": "Topográfico de estación para requerimiento urbanístico",
+            "precioManual": null,
+            "_capFiltro": "5"
+          },
+          {
+            "id": "lg_1780914044947",
+            "conceptoId": "1.18",
+            "cantidad": 1,
+            "observaciones": "Anexo al proyecto para contestación requerimiento",
+            "precioManual": null,
+            "_capFiltro": "1"
+          }
+        ]
+      },
+      {
+        "proyectoId": "p1779139986725",
+        "conceptoId": "1.4",
+        "trabajador": "Jordi Santos",
+        "fecha": "2026-06-09",
+        "observaciones": "Grupo: 3 actividades",
+        "cantidad": 1,
+        "searchPr": "santa eulalia",
+        "id": "r1780986557651",
+        "estado": "pendiente",
+        "precioManual": null,
+        "createdAt": "2026-06-09T06:29:17.651Z",
+        "creadoPor": "Jordi Santos",
+        "esGrupo": true,
+        "lineasGrupo": [
+          {
+            "conceptoId": "1.4",
+            "cantidad": 1,
+            "observaciones": "Proyecto reforma tienda con afectación estructural"
+          },
+          {
+            "conceptoId": "1.18",
+            "cantidad": 1,
+            "observaciones": "Anexo solución estructural"
+          },
+          {
+            "conceptoId": "7.1",
+            "cantidad": 1,
+            "observaciones": "Licencia obra mayor para reforma tienda"
+          }
+        ]
+      },
+      {
         "proyectoId": "p1779138810443",
         "conceptoId": "7.3",
         "trabajador": "Yennyfer Lemus",
@@ -962,7 +2288,7 @@
         "proyectoId": "p1779438468314",
         "conceptoId": "7.6",
         "trabajador": "Yennyfer Lemus",
-        "fecha": "2026-06-01",
+        "fecha": "2026-05-21",
         "observaciones": "Grupo: 1 actividades",
         "cantidad": 1,
         "capFiltro": "7",
@@ -977,16 +2303,12 @@
             "conceptoId": "7.6",
             "cantidad": 1,
             "observaciones": "Contestación Requerimiento para Cambio de Titularidad",
-            "certifAprobada": false,
-            "certifEnviada": false,
-            "cantCertif": 1,
-            "certifOferta": false,
-            "_certifCheck": false,
-            "_ofertaCheck": false
+            "certifAprobada": true,
+            "certifEnviada": true,
+            "cantCertif": 1
           }
         ],
-        "estadoCertif": null,
-        "certifOfertaAt": null
+        "estadoCertif": "finalizado"
       },
       {
         "proyectoId": "p1779883791414",
@@ -1697,1370 +3019,6 @@
         "searchPr": "castro"
       },
       {
-        "proyectoId": "p1779132044557",
-        "conceptoId": "1.2",
-        "trabajador": "Jordi Santos",
-        "fecha": "2026-05-14",
-        "observaciones": "Grupo: 16 actividades",
-        "cantidad": 1,
-        "capFiltro": "11",
-        "id": "r1779134766842",
-        "estado": "ofertada",
-        "precioManual": null,
-        "createdAt": "2026-05-18T20:06:06.842Z",
-        "creadoPor": "Jordi Santos",
-        "esGrupo": true,
-        "lineasGrupo": [
-          {
-            "conceptoId": "1.2",
-            "cantidad": 1,
-            "observaciones": "Documentación técnica para permisos de desmantelamiento tanto para Ayuntamiento como para ADIF, ACA, Industria y Consell Comarcal. El esupuesto lo realiza el contratista",
-            "_certifCheck": false,
-            "certifEnviada": false,
-            "certifAprobada": false,
-            "cantCertif": 1,
-            "certifEnviadaAt": "2026-05-19T09:49:27.209Z"
-          },
-          {
-            "conceptoId": "1.17",
-            "cantidad": 1,
-            "observaciones": "Proyecto para la IP06"
-          },
-          {
-            "conceptoId": "1.2",
-            "cantidad": 1,
-            "observaciones": "Modificación de proyecto en base a reunión con Ayuntamiento del 7 de mayo",
-            "_certifCheck": false
-          },
-          {
-            "conceptoId": "3.1c",
-            "cantidad": 1,
-            "observaciones": ""
-          },
-          {
-            "conceptoId": "3.1b",
-            "cantidad": 2,
-            "observaciones": "",
-            "_certifCheck": false
-          },
-          {
-            "conceptoId": "4.1",
-            "cantidad": 1,
-            "observaciones": ""
-          },
-          {
-            "conceptoId": "4.2",
-            "cantidad": 1,
-            "observaciones": "",
-            "_certifCheck": false
-          },
-          {
-            "conceptoId": "6.1",
-            "cantidad": 3,
-            "observaciones": "",
-            "_certifCheck": false,
-            "_cantCertif": 2,
-            "certifEnviada": false,
-            "certifAprobada": false,
-            "cantCertif": 2,
-            "certifEnviadaAt": "2026-05-19T09:49:27.209Z"
-          },
-          {
-            "conceptoId": "7.1",
-            "cantidad": 1,
-            "observaciones": "",
-            "_certifCheck": false,
-            "certifEnviada": false,
-            "certifAprobada": false,
-            "cantCertif": 1,
-            "certifEnviadaAt": "2026-05-19T09:51:54.220Z"
-          },
-          {
-            "conceptoId": "7.2",
-            "cantidad": 1,
-            "observaciones": "Sondeos",
-            "_certifCheck": false,
-            "certifEnviada": false,
-            "certifAprobada": false,
-            "cantCertif": 1,
-            "certifEnviadaAt": "2026-05-19T09:51:54.220Z"
-          },
-          {
-            "conceptoId": "7.4",
-            "cantidad": 1,
-            "observaciones": "Baja actividad ayto"
-          },
-          {
-            "conceptoId": "7.3",
-            "cantidad": 1,
-            "observaciones": "Baja del Registro Industrial"
-          },
-          {
-            "conceptoId": "7.6",
-            "cantidad": 4,
-            "observaciones": "",
-            "_certifCheck": false,
-            "_cantCertif": 2
-          },
-          {
-            "conceptoId": "10.5",
-            "cantidad": 1,
-            "observaciones": ""
-          },
-          {
-            "conceptoId": "10.4b",
-            "cantidad": 1,
-            "observaciones": ""
-          },
-          {
-            "conceptoId": "11.2",
-            "cantidad": 1,
-            "observaciones": "Propuesta actuación en el ayto",
-            "_certifCheck": false,
-            "certifEnviada": false,
-            "certifAprobada": false,
-            "cantCertif": 1,
-            "certifEnviadaAt": "2026-05-19T09:51:54.220Z"
-          }
-        ],
-        "estadoCertif": "",
-        "ofertaCodigo": "028-26"
-      },
-      {
-        "proyectoId": "p1779182184609",
-        "conceptoId": "6.1",
-        "trabajador": "Jordi Santos",
-        "fecha": "2026-05-19",
-        "observaciones": "Grupo: 3 actividades",
-        "cantidad": 1,
-        "capFiltro": "1",
-        "id": "r1779182351225",
-        "estado": "pendiente",
-        "precioManual": null,
-        "createdAt": "2026-05-19T09:19:11.225Z",
-        "creadoPor": "Jordi Santos",
-        "esGrupo": true,
-        "lineasGrupo": [
-          {
-            "conceptoId": "6.1",
-            "cantidad": 1,
-            "observaciones": "Toma de datos aprovechando catas en cubierta"
-          },
-          {
-            "conceptoId": "2.3",
-            "cantidad": 1,
-            "observaciones": "Informe visita toma de datos con descripción estado cubierta"
-          },
-          {
-            "conceptoId": "1.18",
-            "cantidad": 1,
-            "observaciones": "Nota técnica solución estructural"
-          }
-        ]
-      },
-      {
-        "proyectoId": "p1779183792717",
-        "conceptoId": "6.5",
-        "trabajador": "Jordi Santos",
-        "fecha": "2026-05-19",
-        "observaciones": "Grupo: 1 actividades",
-        "cantidad": 1,
-        "capFiltro": "",
-        "id": "r1779184072093",
-        "estado": "aprobado",
-        "precioManual": null,
-        "createdAt": "2026-05-19T09:47:52.093Z",
-        "creadoPor": "Jordi Santos",
-        "esGrupo": true,
-        "lineasGrupo": [
-          {
-            "conceptoId": "6.5",
-            "cantidad": 1,
-            "observaciones": "Recopilación documental para COOUT",
-            "_certifCheck": false,
-            "certifEnviada": true,
-            "certifAprobada": true,
-            "cantCertif": 1,
-            "certifEnviadaAt": "2026-05-21T09:31:47.107Z"
-          }
-        ],
-        "estadoCertif": "finalizado",
-        "facturado": true,
-        "facturaRef": "DR028/26"
-      },
-      {
-        "proyectoId": "p1779185410739",
-        "conceptoId": "6.5",
-        "trabajador": "Jordi Santos",
-        "fecha": "2026-05-19",
-        "observaciones": "Grupo: 1 actividades",
-        "cantidad": 1,
-        "id": "r1779185491112",
-        "estado": "aprobado",
-        "precioManual": null,
-        "createdAt": "2026-05-19T10:11:31.112Z",
-        "creadoPor": "Jordi Santos",
-        "esGrupo": true,
-        "lineasGrupo": [
-          {
-            "conceptoId": "6.5",
-            "cantidad": 1,
-            "observaciones": "Recopilació documentació para COOUT",
-            "_certifCheck": false,
-            "certifEnviada": true,
-            "certifAprobada": true,
-            "cantCertif": 1,
-            "certifEnviadaAt": "2026-05-21T09:31:44.780Z"
-          },
-          {
-            "id": "lg_1780050182923",
-            "conceptoId": "6.9",
-            "cantidad": 1,
-            "observaciones": "Billete de tren por anulación de visita",
-            "precioManual": 75.8,
-            "_capFiltro": "6",
-            "certifAprobada": true,
-            "certifEnviada": true,
-            "cantCertif": 1
-          }
-        ],
-        "estadoCertif": "finalizado",
-        "facturado": true,
-        "facturaRef": "DR028/26"
-      },
-      {
-        "proyectoId": "p1779185513218",
-        "conceptoId": "6.5",
-        "trabajador": "Jordi Santos",
-        "fecha": "2026-05-19",
-        "observaciones": "Grupo: 1 actividades",
-        "cantidad": 1,
-        "id": "r1779185537188",
-        "estado": "aprobado",
-        "precioManual": null,
-        "createdAt": "2026-05-19T10:12:17.188Z",
-        "creadoPor": "Jordi Santos",
-        "esGrupo": true,
-        "lineasGrupo": [
-          {
-            "conceptoId": "6.5",
-            "cantidad": 1,
-            "observaciones": "Recopilació documentació para COOUT",
-            "_certifCheck": false,
-            "certifEnviada": true,
-            "certifAprobada": true,
-            "cantCertif": 1,
-            "certifEnviadaAt": "2026-05-20T08:44:33.845Z"
-          }
-        ],
-        "estadoCertif": "finalizado",
-        "facturado": true,
-        "facturaRef": "DR028/26"
-      },
-      {
-        "proyectoId": "p1779382081008",
-        "conceptoId": "6.5",
-        "trabajador": "Jordi Santos",
-        "fecha": "2025-08-06",
-        "observaciones": "Grupo: 3 actividades",
-        "cantidad": 1,
-        "capFiltro": "7",
-        "id": "r1779382900916",
-        "estado": "aprobado",
-        "precioManual": null,
-        "createdAt": "2026-05-21T17:01:40.917Z",
-        "creadoPor": "Jordi Santos",
-        "esGrupo": true,
-        "lineasGrupo": [
-          {
-            "conceptoId": "6.5",
-            "cantidad": 1,
-            "observaciones": "Recopilación documentación expediente ",
-            "certifAprobada": true,
-            "certifEnviada": true,
-            "cantCertif": 1
-          },
-          {
-            "conceptoId": "1.9",
-            "cantidad": 1,
-            "observaciones": "Preparación documentación AMB",
-            "certifAprobada": true,
-            "certifEnviada": true,
-            "cantCertif": 1,
-            "descuento": 35
-          },
-          {
-            "conceptoId": "7.6",
-            "cantidad": 1,
-            "observaciones": "Solicitud renovación permiso",
-            "certifAprobada": true,
-            "certifEnviada": true,
-            "cantCertif": 1
-          }
-        ],
-        "estadoCertif": "finalizado",
-        "facturado": true,
-        "facturaRef": "DR028/26"
-      },
-      {
-        "proyectoId": "p1779384794378",
-        "conceptoId": "2.3",
-        "trabajador": "Jordi Santos",
-        "fecha": "2025-12-05",
-        "observaciones": "Grupo: 4 actividades",
-        "cantidad": 1,
-        "capFiltro": "2",
-        "id": "r1779385727831",
-        "estado": "aprobado",
-        "precioManual": null,
-        "createdAt": "2026-05-21T17:48:47.831Z",
-        "creadoPor": "Daniel",
-        "esGrupo": true,
-        "lineasGrupo": [
-          {
-            "conceptoId": "2.3",
-            "cantidad": 1,
-            "observaciones": "Informe estado saneamiento y propuestas solución",
-            "certifAprobada": true,
-            "certifEnviada": true,
-            "cantCertif": 1
-          },
-          {
-            "conceptoId": "6.1",
-            "cantidad": 2,
-            "observaciones": "Visita toma de datos y visita planificación de trabajos restaurtante",
-            "certifAprobada": true,
-            "certifEnviada": true,
-            "cantCertif": 2
-          },
-          {
-            "conceptoId": "3.1b",
-            "cantidad": 1,
-            "observaciones": "",
-            "certifAprobada": true,
-            "certifEnviada": true,
-            "cantCertif": 1
-          },
-          {
-            "conceptoId": "10.2",
-            "cantidad": 1,
-            "observaciones": "",
-            "certifAprobada": true,
-            "certifEnviada": true,
-            "cantCertif": 1
-          }
-        ],
-        "estadoCertif": "finalizado",
-        "facturado": true,
-        "facturaRef": "DR028/26"
-      },
-      {
-        "proyectoId": "p1779385963232",
-        "conceptoId": "2.6",
-        "trabajador": "Jordi Santos",
-        "fecha": "2025-09-15",
-        "observaciones": "Grupo: 1 actividades",
-        "cantidad": 1,
-        "capFiltro": "2",
-        "id": "r1779386014804",
-        "estado": "aprobado",
-        "precioManual": null,
-        "createdAt": "2026-05-21T17:53:34.804Z",
-        "creadoPor": "Daniel",
-        "esGrupo": true,
-        "lineasGrupo": [
-          {
-            "conceptoId": "2.6",
-            "cantidad": 1,
-            "observaciones": "Actualizado informe ATEX con nuevo plano y nuevo doc incluyendo el certificado del nuevo surtidor",
-            "certifAprobada": true,
-            "certifEnviada": true,
-            "cantCertif": 1
-          }
-        ],
-        "estadoCertif": "finalizado",
-        "facturado": true,
-        "facturaRef": "DR028/26"
-      },
-      {
-        "proyectoId": "p1779386145802",
-        "conceptoId": "6.2",
-        "trabajador": "Jordi Santos",
-        "fecha": "2025-10-03",
-        "observaciones": "Grupo: 2 actividades",
-        "cantidad": 1,
-        "capFiltro": "2",
-        "id": "r1779386188218",
-        "estado": "aprobado",
-        "precioManual": null,
-        "createdAt": "2026-05-21T17:56:28.218Z",
-        "creadoPor": "Daniel",
-        "esGrupo": true,
-        "lineasGrupo": [
-          {
-            "conceptoId": "6.2",
-            "cantidad": 1,
-            "observaciones": "",
-            "certifAprobada": true,
-            "certifEnviada": true,
-            "cantCertif": 1
-          },
-          {
-            "conceptoId": "2.3",
-            "cantidad": 1,
-            "observaciones": "",
-            "certifAprobada": true,
-            "certifEnviada": true,
-            "cantCertif": 1
-          }
-        ],
-        "estadoCertif": "finalizado",
-        "facturado": true,
-        "facturaRef": "DR028/26"
-      },
-      {
-        "proyectoId": "p1779386413694",
-        "conceptoId": "6.8",
-        "trabajador": "Jordi Santos",
-        "fecha": "2025-10-15",
-        "observaciones": "Grupo: 2 actividades",
-        "cantidad": 1,
-        "capFiltro": "2",
-        "id": "r1779386510550",
-        "estado": "aprobado",
-        "precioManual": null,
-        "createdAt": "2026-05-21T18:01:50.550Z",
-        "creadoPor": "Daniel",
-        "esGrupo": true,
-        "lineasGrupo": [
-          {
-            "conceptoId": "6.8",
-            "cantidad": 1,
-            "observaciones": "",
-            "certifAprobada": true,
-            "certifEnviada": true,
-            "cantCertif": 1
-          },
-          {
-            "conceptoId": "2.3",
-            "cantidad": 1,
-            "observaciones": "",
-            "certifAprobada": true,
-            "certifEnviada": true,
-            "cantCertif": 1
-          }
-        ],
-        "estadoCertif": "finalizado",
-        "facturado": true,
-        "facturaRef": "DR028/26"
-      },
-      {
-        "proyectoId": "p1779386700752",
-        "conceptoId": "2.8",
-        "trabajador": "Jordi Santos",
-        "fecha": "2025-09-09",
-        "observaciones": "Grupo: 1 actividades",
-        "cantidad": 1,
-        "capFiltro": "2",
-        "id": "r1779386904618",
-        "estado": "aprobado",
-        "precioManual": null,
-        "createdAt": "2026-05-21T18:08:24.618Z",
-        "creadoPor": "Daniel",
-        "esGrupo": true,
-        "lineasGrupo": [
-          {
-            "id": "lg_1779386996867",
-            "conceptoId": "2.3",
-            "cantidad": 1,
-            "observaciones": "Plan autoprotección Vertidos",
-            "precioManual": null,
-            "_capFiltro": "2",
-            "certifAprobada": true,
-            "certifEnviada": true,
-            "cantCertif": 1
-          }
-        ],
-        "estadoCertif": "finalizado",
-        "facturado": true,
-        "facturaRef": "DR028/26"
-      },
-      {
-        "proyectoId": "p1779387108379",
-        "conceptoId": "7.3",
-        "trabajador": "Jordi Santos",
-        "fecha": "2025-11-25",
-        "observaciones": "Grupo: 1 actividades",
-        "cantidad": 1,
-        "capFiltro": "7",
-        "id": "r1779387335704",
-        "estado": "aprobado",
-        "precioManual": null,
-        "createdAt": "2026-05-21T18:15:35.704Z",
-        "creadoPor": "Daniel",
-        "esGrupo": true,
-        "lineasGrupo": [
-          {
-            "conceptoId": "7.3",
-            "cantidad": 1,
-            "observaciones": "Inscripción en el Registro la sustitución del surtidor siniestrado",
-            "certifAprobada": true,
-            "certifEnviada": true,
-            "cantCertif": 1
-          }
-        ],
-        "estadoCertif": "finalizado",
-        "facturado": true,
-        "facturaRef": "DR028/26"
-      },
-      {
-        "proyectoId": "p1779387531504",
-        "conceptoId": "2.3",
-        "trabajador": "Jordi Santos",
-        "fecha": "2025-12-12",
-        "observaciones": "Grupo: 2 actividades",
-        "cantidad": 1,
-        "capFiltro": "6",
-        "id": "r1779387564130",
-        "estado": "aprobado",
-        "precioManual": null,
-        "createdAt": "2026-05-21T18:19:24.130Z",
-        "creadoPor": "Daniel",
-        "esGrupo": true,
-        "lineasGrupo": [
-          {
-            "conceptoId": "2.3",
-            "cantidad": 1,
-            "observaciones": "",
-            "certifAprobada": true,
-            "certifEnviada": true,
-            "cantCertif": 1
-          },
-          {
-            "conceptoId": "6.8",
-            "cantidad": 1,
-            "observaciones": "",
-            "certifAprobada": true,
-            "certifEnviada": true,
-            "cantCertif": 1
-          }
-        ],
-        "estadoCertif": "finalizado",
-        "facturado": true,
-        "facturaRef": "DR028/26"
-      },
-      {
-        "proyectoId": "p1779387686938",
-        "conceptoId": "1.9",
-        "trabajador": "Jordi Santos",
-        "fecha": "2025-12-22",
-        "observaciones": "Grupo: 4 actividades",
-        "cantidad": 1,
-        "capFiltro": "7",
-        "id": "r1779387769358",
-        "estado": "aprobado",
-        "precioManual": null,
-        "createdAt": "2026-05-21T18:22:49.358Z",
-        "creadoPor": "Daniel",
-        "esGrupo": true,
-        "lineasGrupo": [
-          {
-            "conceptoId": "1.9",
-            "cantidad": 0.65,
-            "observaciones": "",
-            "certifAprobada": true,
-            "certifEnviada": true,
-            "cantCertif": 1,
-            "descuento": 35
-          },
-          {
-            "conceptoId": "6.5",
-            "cantidad": 1,
-            "observaciones": "Recopilación documentación",
-            "certifAprobada": true,
-            "certifEnviada": true,
-            "cantCertif": 1
-          },
-          {
-            "conceptoId": "7.6",
-            "cantidad": 1,
-            "observaciones": "",
-            "certifAprobada": true,
-            "certifEnviada": true,
-            "cantCertif": 1
-          }
-        ],
-        "estadoCertif": "finalizado",
-        "facturado": true,
-        "facturaRef": "DR028/26"
-      },
-      {
-        "proyectoId": "p1779387982062",
-        "conceptoId": "1.9",
-        "trabajador": "Jordi Santos",
-        "fecha": "2025-12-22",
-        "observaciones": "Grupo: 3 actividades",
-        "cantidad": 1,
-        "capFiltro": "7",
-        "id": "r1779388094641",
-        "estado": "aprobado",
-        "precioManual": null,
-        "createdAt": "2026-05-21T18:28:14.641Z",
-        "creadoPor": "Daniel",
-        "esGrupo": true,
-        "lineasGrupo": [
-          {
-            "conceptoId": "1.9",
-            "cantidad": 0.65,
-            "observaciones": "",
-            "certifAprobada": true,
-            "certifEnviada": true,
-            "cantCertif": 1,
-            "descuento": 35
-          },
-          {
-            "conceptoId": "6.5",
-            "cantidad": 1,
-            "observaciones": "Recopilación documentación",
-            "certifAprobada": true,
-            "certifEnviada": true,
-            "cantCertif": 1
-          },
-          {
-            "conceptoId": "7.6",
-            "cantidad": 1,
-            "observaciones": "",
-            "certifAprobada": true,
-            "certifEnviada": true,
-            "cantCertif": 1
-          }
-        ],
-        "estadoCertif": "finalizado",
-        "facturado": true,
-        "facturaRef": "DR028/26"
-      },
-      {
-        "proyectoId": "p1779388148839",
-        "conceptoId": "1.9",
-        "trabajador": "Jordi Santos",
-        "fecha": "2025-12-22",
-        "observaciones": "Grupo: 3 actividades",
-        "cantidad": 1,
-        "capFiltro": "7",
-        "id": "r1779388216692",
-        "estado": "aprobado",
-        "precioManual": null,
-        "createdAt": "2026-05-21T18:30:16.692Z",
-        "creadoPor": "Daniel",
-        "esGrupo": true,
-        "lineasGrupo": [
-          {
-            "conceptoId": "1.9",
-            "cantidad": 0.65,
-            "observaciones": "",
-            "certifAprobada": true,
-            "certifEnviada": true,
-            "cantCertif": 1,
-            "descuento": 35
-          },
-          {
-            "conceptoId": "6.5",
-            "cantidad": 1,
-            "observaciones": "Recopilación de documentación",
-            "certifAprobada": true,
-            "certifEnviada": true,
-            "cantCertif": 1
-          },
-          {
-            "conceptoId": "7.6",
-            "cantidad": 1,
-            "observaciones": "",
-            "certifAprobada": true,
-            "certifEnviada": true,
-            "cantCertif": 1
-          }
-        ],
-        "estadoCertif": "finalizado",
-        "facturado": true,
-        "facturaRef": "DR028/26"
-      },
-      {
-        "proyectoId": "p1779388576112",
-        "conceptoId": "1.17",
-        "trabajador": "Jordi Santos",
-        "fecha": "2026-03-20",
-        "observaciones": "Grupo: 4 actividades",
-        "cantidad": 1,
-        "capFiltro": "2",
-        "id": "r1779388851027",
-        "estado": "aprobado",
-        "precioManual": null,
-        "createdAt": "2026-05-21T18:40:51.027Z",
-        "creadoPor": "Daniel",
-        "esGrupo": true,
-        "lineasGrupo": [
-          {
-            "conceptoId": "7.3",
-            "cantidad": 1,
-            "observaciones": "",
-            "certifAprobada": true,
-            "certifEnviada": true,
-            "cantCertif": 1
-          },
-          {
-            "conceptoId": "7.6",
-            "cantidad": 1,
-            "observaciones": "Solicitud certificados fabricante",
-            "certifAprobada": true,
-            "certifEnviada": true,
-            "cantCertif": 1
-          },
-          {
-            "conceptoId": "2.8",
-            "cantidad": 1,
-            "observaciones": "Certificado instalador",
-            "precioManual": 425,
-            "certifAprobada": true,
-            "certifEnviada": true,
-            "cantCertif": 1
-          },
-          {
-            "id": "lg_1779388971161",
-            "conceptoId": "1.17",
-            "cantidad": 0.6,
-            "observaciones": "",
-            "precioManual": null,
-            "_capFiltro": "1",
-            "certifAprobada": true,
-            "certifEnviada": true,
-            "cantCertif": 1,
-            "descuento": 40
-          }
-        ],
-        "estadoCertif": "finalizado",
-        "facturado": true,
-        "facturaRef": "DR028/26"
-      },
-      {
-        "proyectoId": "p1779389151179",
-        "conceptoId": "2.3",
-        "trabajador": "Jordi Santos",
-        "fecha": "2026-01-30",
-        "observaciones": "Grupo: 3 actividades",
-        "cantidad": 1,
-        "capFiltro": "6",
-        "id": "r1779389240174",
-        "estado": "aprobado",
-        "precioManual": null,
-        "createdAt": "2026-05-21T18:47:20.174Z",
-        "creadoPor": "Daniel",
-        "esGrupo": true,
-        "lineasGrupo": [
-          {
-            "conceptoId": "2.3",
-            "cantidad": 1,
-            "observaciones": "Plan autoprotección",
-            "certifAprobada": true,
-            "certifEnviada": true,
-            "cantCertif": 1
-          },
-          {
-            "conceptoId": "2.6",
-            "cantidad": 1,
-            "observaciones": "",
-            "certifAprobada": true,
-            "certifEnviada": true,
-            "cantCertif": 1
-          },
-          {
-            "conceptoId": "6.3",
-            "cantidad": 1,
-            "observaciones": "",
-            "certifAprobada": true,
-            "certifEnviada": true,
-            "cantCertif": 1
-          }
-        ],
-        "estadoCertif": "finalizado",
-        "facturado": true,
-        "facturaRef": "DR028/26"
-      },
-      {
-        "proyectoId": "p1779391171195",
-        "conceptoId": "2.3",
-        "trabajador": "Jordi Santos",
-        "fecha": "2026-03-13",
-        "observaciones": "Grupo: 4 actividades",
-        "cantidad": 1,
-        "capFiltro": "7",
-        "id": "r1779391358989",
-        "estado": "aprobado",
-        "precioManual": null,
-        "createdAt": "2026-05-21T19:22:38.989Z",
-        "creadoPor": "Daniel",
-        "esGrupo": true,
-        "lineasGrupo": [
-          {
-            "conceptoId": "2.3",
-            "cantidad": 1,
-            "observaciones": "Informe descalsificación sótano",
-            "certifAprobada": true,
-            "certifEnviada": true,
-            "cantCertif": 1
-          },
-          {
-            "conceptoId": "6.1",
-            "cantidad": 1,
-            "observaciones": "Visita con técnico OCA",
-            "certifAprobada": true,
-            "certifEnviada": true,
-            "cantCertif": 1
-          },
-          {
-            "conceptoId": "7.6",
-            "cantidad": 1,
-            "observaciones": "Consulta Industria",
-            "certifAprobada": true,
-            "certifEnviada": true,
-            "cantCertif": 1
-          },
-          {
-            "conceptoId": "7.6",
-            "cantidad": 1,
-            "observaciones": "Contestación requerimientos OCA",
-            "certifAprobada": true,
-            "certifEnviada": true,
-            "cantCertif": 1
-          }
-        ],
-        "estadoCertif": "finalizado",
-        "facturado": true,
-        "facturaRef": "DR028/26"
-      },
-      {
-        "proyectoId": "p1779391786134",
-        "conceptoId": "2.8",
-        "trabajador": "Jordi Santos",
-        "fecha": "2026-04-13",
-        "observaciones": "Grupo: 6 actividades",
-        "cantidad": 1,
-        "capFiltro": "7",
-        "id": "r1779392240842",
-        "estado": "aprobado",
-        "precioManual": null,
-        "createdAt": "2026-05-21T19:37:20.842Z",
-        "creadoPor": "Daniel",
-        "esGrupo": true,
-        "lineasGrupo": [
-          {
-            "conceptoId": "2.8",
-            "cantidad": 1,
-            "observaciones": "Contratación EAC",
-            "certifAprobada": true,
-            "certifEnviada": true,
-            "cantCertif": 1,
-            "precioManual": 1750
-          },
-          {
-            "conceptoId": "6.1",
-            "cantidad": 1,
-            "observaciones": "Visita y copia expediente municipal",
-            "certifAprobada": true,
-            "certifEnviada": true,
-            "cantCertif": 1
-          },
-          {
-            "conceptoId": "7.6",
-            "cantidad": 1,
-            "observaciones": "Solicitud vista y copia del expediente municipal",
-            "certifAprobada": true,
-            "certifEnviada": true,
-            "cantCertif": 1
-          },
-          {
-            "conceptoId": "6.1",
-            "cantidad": 1,
-            "observaciones": "Visita ES con EAC",
-            "precioManual": null,
-            "certifAprobada": true,
-            "certifEnviada": true,
-            "cantCertif": 1
-          },
-          {
-            "conceptoId": "2.8",
-            "cantidad": 1,
-            "observaciones": "IPS",
-            "certifAprobada": true,
-            "certifEnviada": true,
-            "cantCertif": 1,
-            "precioManual": 750
-          },
-          {
-            "conceptoId": "7.6",
-            "cantidad": 1,
-            "observaciones": "Registro acta favorable en el ayuntamiento",
-            "certifAprobada": true,
-            "certifEnviada": true,
-            "cantCertif": 1
-          }
-        ],
-        "estadoCertif": "finalizado",
-        "facturado": true,
-        "facturaRef": "DR028/26"
-      },
-      {
-        "proyectoId": "p1779393360321",
-        "conceptoId": "7.6",
-        "trabajador": "Jordi Santos",
-        "fecha": "2026-05-21",
-        "observaciones": "Grupo: 1 actividades",
-        "cantidad": 1,
-        "capFiltro": "7",
-        "id": "r1779393473054",
-        "estado": "aprobado",
-        "precioManual": null,
-        "createdAt": "2026-05-21T19:57:53.054Z",
-        "creadoPor": "Daniel",
-        "esGrupo": true,
-        "lineasGrupo": [
-          {
-            "conceptoId": "7.6",
-            "cantidad": 1,
-            "observaciones": "Consulta a Industria de Albacete",
-            "certifAprobada": true,
-            "certifEnviada": true,
-            "cantCertif": 1
-          }
-        ],
-        "estadoCertif": "finalizado",
-        "facturado": true,
-        "facturaRef": "DR028/26"
-      },
-      {
-        "proyectoId": "p1779131920309",
-        "conceptoId": "1.5",
-        "trabajador": "Jordi Santos",
-        "fecha": "2026-05-22",
-        "observaciones": "Grupo: 1 actividades",
-        "cantidad": 1,
-        "id": "r1779441077721",
-        "estado": "pendiente",
-        "precioManual": null,
-        "createdAt": "2026-05-22T09:11:17.721Z",
-        "creadoPor": "Jordi Santos",
-        "esGrupo": true,
-        "lineasGrupo": [
-          {
-            "conceptoId": "1.5",
-            "cantidad": 1,
-            "observaciones": "Proyecto para adecuación recogida aguas lavado (no incluye autorización vertidos)"
-          },
-          {
-            "id": "lg_1779441095263",
-            "conceptoId": "4.1",
-            "cantidad": 1,
-            "observaciones": "Asume direccion facultativa requerido por Ayuntamiento ",
-            "precioManual": null,
-            "_capFiltro": "4"
-          },
-          {
-            "id": "lg_1779441123353",
-            "conceptoId": "4.2",
-            "cantidad": 1,
-            "observaciones": "Designación CSS",
-            "precioManual": null,
-            "_capFiltro": "4"
-          }
-        ]
-      },
-      {
-        "proyectoId": "p1780035450676",
-        "conceptoId": "6.9",
-        "trabajador": "Jordi Santos",
-        "fecha": "2026-05-26",
-        "observaciones": "Grupo: 1 actividades",
-        "cantidad": 1,
-        "id": "r1780035603826",
-        "estado": "ofertada",
-        "precioManual": null,
-        "createdAt": "2026-05-29T06:20:03.826Z",
-        "creadoPor": "Jordi Santos",
-        "esGrupo": true,
-        "lineasGrupo": [
-          {
-            "conceptoId": "6.9",
-            "cantidad": 1,
-            "observaciones": "Vista / copia de expediente muncipal"
-          },
-          {
-            "id": "lg_1780035613766",
-            "conceptoId": "2.3",
-            "cantidad": 1,
-            "observaciones": "Control Periódico Ambiental (gestión de deficiencias)",
-            "precioManual": 1575,
-            "_capFiltro": "2"
-          },
-          {
-            "id": "lg_1780035660451",
-            "conceptoId": "6.9",
-            "cantidad": 1,
-            "observaciones": "Visita acompañamiento inspector",
-            "precioManual": null,
-            "_capFiltro": "6"
-          },
-          {
-            "id": "lg_1780035751425",
-            "conceptoId": "2.3",
-            "cantidad": 1,
-            "observaciones": "Realización de IPS",
-            "precioManual": null,
-            "_capFiltro": "2"
-          }
-        ],
-        "ofertaCodigo": "029-26"
-      },
-      {
-        "proyectoId": "p1779213701420",
-        "conceptoId": "6.4",
-        "trabajador": "Jordi Santos",
-        "fecha": "2026-05-29",
-        "observaciones": "Grupo: 2 actividades",
-        "cantidad": 1,
-        "id": "r1780036077165",
-        "estado": "pendiente",
-        "precioManual": null,
-        "createdAt": "2026-05-29T06:27:57.165Z",
-        "creadoPor": "Jordi Santos",
-        "esGrupo": true,
-        "lineasGrupo": [
-          {
-            "conceptoId": "6.4",
-            "cantidad": 1,
-            "observaciones": "Toma de datos para realizar proyecto de adecuaciones"
-          },
-          {
-            "conceptoId": "1.5",
-            "cantidad": 1,
-            "observaciones": "Proyecto de adecuaciones (mejoras, pago automático e imagen) IP04 y REBT"
-          }
-        ],
-        "searchPr": ""
-      },
-      {
-        "proyectoId": "p1780477263512",
-        "conceptoId": "2.7",
-        "trabajador": "Jordi Santos",
-        "fecha": "2026-06-03",
-        "observaciones": "Grupo: 2 actividades",
-        "cantidad": 1,
-        "searchPr": "eva",
-        "capFiltro": "6",
-        "id": "r1780477285528",
-        "estado": "aprobado",
-        "precioManual": null,
-        "createdAt": "2026-06-03T09:01:25.529Z",
-        "creadoPor": "Jordi Santos",
-        "esGrupo": true,
-        "lineasGrupo": [
-          {
-            "conceptoId": "2.7",
-            "cantidad": 1,
-            "observaciones": "",
-            "certifEnviada": true,
-            "certifEnviadaAt": "2026-06-05T22:49:11.678Z",
-            "cantCertif": 1,
-            "certifAprobada": true
-          },
-          {
-            "conceptoId": "6.1",
-            "cantidad": 1,
-            "observaciones": "",
-            "certifEnviada": true,
-            "certifEnviadaAt": "2026-06-05T22:49:11.678Z",
-            "cantCertif": 1,
-            "certifAprobada": true
-          }
-        ]
-      },
-      {
-        "proyectoId": "p1780478230969",
-        "conceptoId": "8.7",
-        "trabajador": "Jordi Santos",
-        "fecha": "2026-06-01",
-        "observaciones": "Grupo: 1 actividades",
-        "cantidad": 1,
-        "id": "r1780478609465",
-        "estado": "aprobado",
-        "precioManual": null,
-        "createdAt": "2026-06-03T09:23:29.465Z",
-        "creadoPor": "Jordi Santos",
-        "esGrupo": true,
-        "lineasGrupo": [
-          {
-            "conceptoId": "7.6",
-            "cantidad": 1,
-            "observaciones": "Localización de documentación para justificar deficiencia periódica IP04",
-            "_capFiltro": "7"
-          }
-        ]
-      },
-      {
-        "proyectoId": "p1779138869587",
-        "conceptoId": "7.6",
-        "trabajador": "Jordi Santos",
-        "fecha": "2026-06-04",
-        "observaciones": "Grupo: 2 actividades",
-        "cantidad": 1,
-        "searchPr": "BLANCO",
-        "id": "r1780563158414",
-        "estado": "pendiente",
-        "precioManual": null,
-        "createdAt": "2026-06-04T08:52:38.414Z",
-        "creadoPor": "Jordi Santos",
-        "esGrupo": true,
-        "lineasGrupo": [
-          {
-            "conceptoId": "7.6",
-            "cantidad": 1,
-            "observaciones": "Comunicación fecha replanteo con Unidad de Carreteras"
-          },
-          {
-            "conceptoId": "7.6",
-            "cantidad": 1,
-            "observaciones": "Aporte de pago de tasas y fianza"
-          }
-        ]
-      },
-      {
-        "proyectoId": "p1780566256406",
-        "conceptoId": "7.3",
-        "trabajador": "Jordi Santos",
-        "fecha": "2026-06-04",
-        "observaciones": "Grupo: 1 actividades",
-        "cantidad": 1,
-        "id": "r1780566324086",
-        "estado": "aprobado",
-        "precioManual": null,
-        "createdAt": "2026-06-04T09:45:24.086Z",
-        "creadoPor": "Jordi Santos",
-        "esGrupo": true,
-        "lineasGrupo": [
-          {
-            "conceptoId": "7.3",
-            "cantidad": 1,
-            "observaciones": "Actualización del REIC con SDF y baja margen puesto fuera servicio"
-          }
-        ]
-      },
-      {
-        "proyectoId": "p1780566187701",
-        "conceptoId": "1.2",
-        "trabajador": "Jordi Santos",
-        "fecha": "2026-06-04",
-        "observaciones": "Grupo: 2 actividades",
-        "cantidad": 1,
-        "id": "r1780566468598",
-        "estado": "pendiente",
-        "precioManual": null,
-        "createdAt": "2026-06-04T09:47:48.598Z",
-        "creadoPor": "Jordi Santos",
-        "esGrupo": true,
-        "lineasGrupo": [
-          {
-            "conceptoId": "1.2",
-            "cantidad": 1,
-            "observaciones": "Proyecto para baja de estación de servicio en Industria"
-          },
-          {
-            "conceptoId": "7.5",
-            "cantidad": 1,
-            "observaciones": "Comunicación de la baja en Industria"
-          }
-        ]
-      },
-      {
-        "proyectoId": "p1780656834711",
-        "conceptoId": "6.4",
-        "trabajador": "Jordi Santos",
-        "fecha": "2026-06-03",
-        "observaciones": "Grupo: 3 actividades",
-        "cantidad": 1,
-        "id": "r1780656931595",
-        "estado": "pendiente",
-        "precioManual": null,
-        "createdAt": "2026-06-05T10:55:31.595Z",
-        "creadoPor": "Jordi Santos",
-        "esGrupo": true,
-        "lineasGrupo": [
-          {
-            "conceptoId": "6.4",
-            "cantidad": 1,
-            "observaciones": "Toma de datos de la red de recogida de aguas aprovechando limpieza ",
-            "certifOferta": false,
-            "_ofertaCheck": false,
-            "certifOfertaAt": null
-          },
-          {
-            "conceptoId": "2.3",
-            "cantidad": 1,
-            "observaciones": "Envío de informe con conclusiones",
-            "certifOferta": false,
-            "_ofertaCheck": false,
-            "certifOfertaAt": null
-          },
-          {
-            "conceptoId": "8.7",
-            "cantidad": 1,
-            "observaciones": "Revisión de mediciones proyecto IM para incorporar acutación en recogida de aguas",
-            "certifOferta": false,
-            "_ofertaCheck": false,
-            "certifOfertaAt": null
-          }
-        ],
-        "ofertaCodigo": "030-26",
-        "ofertaCodigos": [
-          "030-26"
-        ],
-        "certifOfertaAt": null
-      },
-      {
-        "proyectoId": "p1780657008965",
-        "conceptoId": "6.1",
-        "trabajador": "Jordi Santos",
-        "fecha": "2026-06-03",
-        "observaciones": "Grupo: 2 actividades",
-        "cantidad": 1,
-        "id": "r1780657073721",
-        "estado": "pendiente",
-        "precioManual": null,
-        "createdAt": "2026-06-05T10:57:53.721Z",
-        "creadoPor": "Jordi Santos",
-        "esGrupo": true,
-        "lineasGrupo": [
-          {
-            "conceptoId": "6.1",
-            "cantidad": 1,
-            "observaciones": "Se realiza toma de datos aprovechando la revisión del saneamiento"
-          },
-          {
-            "conceptoId": "2.3",
-            "cantidad": 1,
-            "observaciones": "Informe de estructuristas con solución técnica "
-          }
-        ]
-      },
-      {
-        "proyectoId": "p1780661994855",
-        "conceptoId": "5.1c",
-        "trabajador": "Jordi Santos",
-        "fecha": "2026-06-05",
-        "observaciones": "Grupo: 1 actividades",
-        "cantidad": 1,
-        "searchPr": "ribas la",
-        "id": "r1780662089301",
-        "estado": "pendiente",
-        "precioManual": null,
-        "createdAt": "2026-06-05T12:21:29.301Z",
-        "creadoPor": "Jordi Santos",
-        "esGrupo": true,
-        "lineasGrupo": [
-          {
-            "conceptoId": "5.1b",
-            "cantidad": 1,
-            "observaciones": "Topografía para catastro"
-          }
-        ],
-        "ofertaCodigos": [
-          "026-26"
-        ],
-        "ofertaCodigo": "026-26"
-      },
-      {
-        "proyectoId": "p1780913844490",
-        "conceptoId": "7.6",
-        "trabajador": "Jordi Santos",
-        "fecha": "2026-06-08",
-        "observaciones": "Grupo: 1 actividades",
-        "cantidad": 1,
-        "id": "r1780913879321",
-        "estado": "pendiente",
-        "precioManual": null,
-        "createdAt": "2026-06-08T10:17:59.321Z",
-        "creadoPor": "Jordi Santos",
-        "esGrupo": true,
-        "lineasGrupo": [
-          {
-            "conceptoId": "7.6",
-            "cantidad": 3,
-            "observaciones": "Contestación parcial del requerimiento y solicitud / obtención expediente cesión espacios / contestación requerimiento"
-          },
-          {
-            "id": "lg_1780913888050",
-            "conceptoId": "7.7",
-            "cantidad": 1,
-            "observaciones": "Consulta previa a Carreteras de BCN por si es tramo afectado",
-            "precioManual": null,
-            "_capFiltro": "7"
-          },
-          {
-            "id": "lg_1780913917435",
-            "conceptoId": "7.6",
-            "cantidad": 3,
-            "observaciones": "Soliictud licencia de obras en Carreteras y solicitud con posterior cierre en el ACA",
-            "precioManual": null,
-            "_capFiltro": "7"
-          },
-          {
-            "id": "lg_1780913963904",
-            "conceptoId": "5.1a",
-            "cantidad": 1,
-            "observaciones": "Topográfico de estación para requerimiento urbanístico",
-            "precioManual": null,
-            "_capFiltro": "5"
-          },
-          {
-            "id": "lg_1780914044947",
-            "conceptoId": "1.18",
-            "cantidad": 1,
-            "observaciones": "Anexo al proyecto para contestación requerimiento",
-            "precioManual": null,
-            "_capFiltro": "1"
-          }
-        ]
-      },
-      {
-        "proyectoId": "p1779139986725",
-        "conceptoId": "1.4",
-        "trabajador": "Jordi Santos",
-        "fecha": "2026-06-09",
-        "observaciones": "Grupo: 3 actividades",
-        "cantidad": 1,
-        "searchPr": "santa eulalia",
-        "id": "r1780986557651",
-        "estado": "pendiente",
-        "precioManual": null,
-        "createdAt": "2026-06-09T06:29:17.651Z",
-        "creadoPor": "Jordi Santos",
-        "esGrupo": true,
-        "lineasGrupo": [
-          {
-            "conceptoId": "1.4",
-            "cantidad": 1,
-            "observaciones": "Proyecto reforma tienda con afectación estructural"
-          },
-          {
-            "conceptoId": "1.18",
-            "cantidad": 1,
-            "observaciones": "Anexo solución estructural"
-          },
-          {
-            "conceptoId": "7.1",
-            "cantidad": 1,
-            "observaciones": "Licencia obra mayor para reforma tienda"
-          }
-        ]
-      },
-      {
         "proyectoId": "p1779812747902",
         "conceptoId": "2.3",
         "trabajador": "Daniel Romero",
@@ -3101,9 +3059,7 @@
             "cantCertif": 1
           }
         ],
-        "estadoCertif": "finalizado",
-        "facturado": true,
-        "facturaRef": "DR028/26"
+        "estadoCertif": "finalizado"
       },
       {
         "proyectoId": "p1779900916942",
@@ -3190,9 +3146,7 @@
             "cantCertif": 3
           }
         ],
-        "estadoCertif": "finalizado",
-        "facturado": true,
-        "facturaRef": "DR028/26"
+        "estadoCertif": "finalizado"
       },
       {
         "proyectoId": "p1779971594817",
@@ -3234,9 +3188,35 @@
             "cantCertif": 1
           }
         ],
-        "estadoCertif": "finalizado",
-        "facturado": true,
-        "facturaRef": "DR028/26"
+        "estadoCertif": "finalizado"
+      },
+      {
+        "proyectoId": "p1779132004672",
+        "conceptoId": "1.8",
+        "trabajador": "Daniel",
+        "fecha": "2026-06-07",
+        "observaciones": "Grupo: 2 actividades",
+        "cantidad": 1,
+        "capFiltro": "6",
+        "id": "r1780837308981",
+        "estado": "rechazado",
+        "precioManual": null,
+        "createdAt": "2026-06-07T13:01:48.981Z",
+        "creadoPor": "Daniel",
+        "esGrupo": true,
+        "lineasGrupo": [
+          {
+            "conceptoId": "1.8",
+            "cantidad": 1,
+            "observaciones": "",
+            "descuento": 20
+          },
+          {
+            "conceptoId": "6.1",
+            "cantidad": 1,
+            "observaciones": ""
+          }
+        ]
       }
     ],
     "na-v21-facturas": [
@@ -8667,6 +8647,7 @@
       "BP VÍA NORTE",
       "BRIVIESCA I",
       "BRIVIESCA II",
+      "Bp FRAGA II",
       "CF DENIA",
       "CF SAGUNTO",
       "OFICINA"
@@ -8676,10 +8657,10 @@
         "id": "s01",
         "codigo": "DR",
         "nombre": "BP España",
-        "contFact": 27,
+        "contFact": 3,
         "contSupl": 1,
         "contAbon": 0,
-        "ultimaFechaFact": "2026-06-07",
+        "ultimaFechaFact": null,
         "ultimaFechaSupl": null,
         "ultimaFechaAbon": null
       },
@@ -8687,24 +8668,45 @@
         "id": "s02",
         "codigo": "IL",
         "nombre": "Tendam y otros",
-        "contFact": 22,
-        "contSupl": 4,
+        "contFact": 4,
+        "contSupl": 2,
         "contAbon": 0,
-        "ultimaFechaFact": "2026-06-09",
-        "ultimaFechaSupl": "2026-06-09",
+        "ultimaFechaFact": null,
+        "ultimaFechaSupl": null,
         "ultimaFechaAbon": null
       }
     ],
     "na-v25-hsse-sups": [
       {
-        "site": "BP FRAGA II",
+        "site": "Bp FRAGA II",
         "tipoActividad": "Obra menor mantenimiento",
-        "pctAuditoria": "98",
+        "pctAuditoria": "100",
         "obraConSupervision": "Sí",
         "fecha": "2026-06-09",
         "horas": "12",
         "horasOrig": "12",
-        "horasAdmin": 14,
+        "horasAdmin": "12",
+        "supervisor": "Carlos García",
+        "encargo": "Concepción Gutierrez",
+        "zona": "CATALUÑA",
+        "incidencias": "No",
+        "motivoSupervision": "Trabajos en altura",
+        "empresa": "Petrosuport",
+        "comentarios": "Reparación e impermeabilización canaletas cubierta edificio tienda.",
+        "id": "hs_1781069074454",
+        "estado": "aprobado",
+        "creadoPor": "Carlos García",
+        "fechaCreacion": "2026-06-10T05:24:34.454Z"
+      },
+      {
+        "site": "BP FRAGA II",
+        "tipoActividad": "Obra menor mantenimiento",
+        "pctAuditoria": "98",
+        "obraConSupervision": "Sí",
+        "fecha": "2026-06-08",
+        "horas": "12",
+        "horasOrig": "12",
+        "horasAdmin": 13,
         "supervisor": "Carlos García",
         "encargo": "Concepción Gutierrez",
         "zona": "CATALUÑA",
@@ -9950,14 +9952,14 @@
     ],
     "na-v20-historico": [
       {
-        "id": "inf1781020264555",
+        "id": "inf1780495505745",
         "nom": "INF-Global(250801-260531)",
         "tipo": "periodo",
         "proyNombre": "Todos los proyectos",
         "periodo": "01/08/25 → 31/05/26",
-        "estado": "facturado",
-        "creadoEn": "2026-06-09T15:51:04.555Z",
-        "importeTotal": 31783.8,
+        "estado": "borrador",
+        "creadoEn": "2026-06-03T14:05:05.745Z",
+        "importeTotal": 32023.8,
         "proyectoId": null,
         "regIds": [
           "r1779184072093",
@@ -9979,11 +9981,48 @@
           "r1779391358989",
           "r1779392240842",
           "r1779393473054",
+          "r1779438583370",
           "r1779812807169",
           "r1779904582618",
           "r1779971954794"
         ],
-        "facturaRef": "DR028/26",
+        "_htmlStripped": true
+      },
+      {
+        "id": "inf1780432778078",
+        "nom": "INF-Global(250801-260531)",
+        "tipo": "periodo",
+        "proyNombre": "Todos los proyectos",
+        "periodo": "01/08/25 → 31/05/26",
+        "estado": "enviado",
+        "creadoEn": "2026-06-02T20:39:38.078Z",
+        "importeTotal": 32023.8,
+        "proyectoId": null,
+        "regIds": [
+          "r1779184072093",
+          "r1779185491112",
+          "r1779185537188",
+          "r1779382900916",
+          "r1779385727831",
+          "r1779386014804",
+          "r1779386188218",
+          "r1779386510550",
+          "r1779386904618",
+          "r1779387335704",
+          "r1779387564130",
+          "r1779387769358",
+          "r1779388094641",
+          "r1779388216692",
+          "r1779388851027",
+          "r1779389240174",
+          "r1779391358989",
+          "r1779392240842",
+          "r1779393473054",
+          "r1779438583370",
+          "r1779812807169",
+          "r1779904582618",
+          "r1779971954794"
+        ],
         "_htmlStripped": true
       }
     ],
