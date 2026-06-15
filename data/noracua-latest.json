@@ -1,5 +1,5 @@
 {
-  "fecha": "2026-06-15T20:47:59.410Z",
+  "fecha": "2026-06-15T21:31:36.638Z",
   "version": "2.8",
   "datos": {
     "na-v20-proyectos": [
@@ -1992,7 +1992,11 @@
             "observaciones": "Proyecto de adecuaciones (mejoras, pago automático e imagen) IP04 y REBT"
           }
         ],
-        "searchPr": ""
+        "searchPr": "",
+        "ofertaCodigos": [
+          "022-26"
+        ],
+        "ofertaCodigo": "022-26"
       },
       {
         "proyectoId": "p1780477263512",
@@ -2344,16 +2348,17 @@
         "cantidad": 1,
         "searchPr": "falua",
         "id": "r1781165699984",
-        "estado": "pendiente",
+        "estado": "aprobado",
         "precioManual": null,
         "createdAt": "2026-06-11T08:14:59.984Z",
         "creadoPor": "Jordi Santos",
         "esGrupo": true,
         "lineasGrupo": [
           {
-            "conceptoId": "7.6",
+            "conceptoId": "4.3",
             "cantidad": 1,
-            "observaciones": "Solicitud viabilidad conexion a red de agua y alcantarillado con el Canal de Isabel II"
+            "observaciones": "Solicitud viabilidad conexion a red de agua y alcantarillado con el Canal de Isabel II",
+            "_capFiltro": "4"
           }
         ]
       },
