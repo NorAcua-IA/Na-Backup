@@ -1,5 +1,5 @@
 {
-  "fecha": "2026-06-16T09:57:13.812Z",
+  "fecha": "2026-06-16T10:02:58.500Z",
   "version": "2.8",
   "datos": {
     "na-v20-proyectos": [
@@ -2026,7 +2026,11 @@
             "observaciones": "Proyecto de adecuaciones (mejoras, pago automático e imagen) IP04 y REBT"
           }
         ],
-        "searchPr": ""
+        "searchPr": "",
+        "ofertaCodigos": [
+          "022-26"
+        ],
+        "ofertaCodigo": "022-26"
       },
       {
         "proyectoId": "p1780477263512",
@@ -2085,7 +2089,8 @@
             "_capFiltro": "7",
             "certifEnviada": true,
             "certifEnviadaAt": "2026-06-16T07:57:57.092Z",
-            "cantCertif": 1
+            "cantCertif": 1,
+            "certifAprobada": true
           }
         ]
       },
@@ -2356,7 +2361,7 @@
         "cantidad": 1,
         "capFiltro": "6",
         "id": "r1781104896753",
-        "estado": "pendiente",
+        "estado": "rechazado",
         "precioManual": null,
         "createdAt": "2026-06-10T15:21:36.753Z",
         "creadoPor": "Daniel",
@@ -2410,16 +2415,18 @@
         "cantidad": 1,
         "searchPr": "falua",
         "id": "r1781165699984",
-        "estado": "pendiente",
+        "estado": "aprobado",
         "precioManual": null,
         "createdAt": "2026-06-11T08:14:59.984Z",
         "creadoPor": "Jordi Santos",
         "esGrupo": true,
         "lineasGrupo": [
           {
-            "conceptoId": "7.6",
+            "conceptoId": "4.3",
             "cantidad": 1,
-            "observaciones": "Solicitud viabilidad conexion a red de agua y alcantarillado con el Canal de Isabel II"
+            "observaciones": "Solicitud viabilidad conexion a red de agua y alcantarillado con el Canal de Isabel II",
+            "_capFiltro": "4",
+            "descuento": 30
           }
         ]
       },
