@@ -1,5 +1,5 @@
 {
-  "fecha": "2026-06-16T18:53:51.353Z",
+  "fecha": "2026-06-16T20:50:27.850Z",
   "version": "2.8",
   "datos": {
     "na-v20-proyectos": [
@@ -2026,11 +2026,7 @@
             "observaciones": "Proyecto de adecuaciones (mejoras, pago automático e imagen) IP04 y REBT"
           }
         ],
-        "searchPr": "",
-        "ofertaCodigos": [
-          "022-26"
-        ],
-        "ofertaCodigo": "022-26"
+        "searchPr": ""
       },
       {
         "proyectoId": "p1780477263512",
@@ -2089,8 +2085,7 @@
             "_capFiltro": "7",
             "certifEnviada": true,
             "certifEnviadaAt": "2026-06-16T07:57:57.092Z",
-            "cantCertif": 1,
-            "certifAprobada": true
+            "cantCertif": 1
           }
         ]
       },
@@ -2361,7 +2356,7 @@
         "cantidad": 1,
         "searchPr": "SAN PEDRO MI",
         "id": "r1781165327113",
-        "estado": "rechazado",
+        "estado": "pendiente",
         "precioManual": null,
         "createdAt": "2026-06-11T08:08:47.113Z",
         "creadoPor": "Jordi Santos",
@@ -2388,18 +2383,16 @@
         "cantidad": 1,
         "searchPr": "falua",
         "id": "r1781165699984",
-        "estado": "aprobado",
+        "estado": "pendiente",
         "precioManual": null,
         "createdAt": "2026-06-11T08:14:59.984Z",
         "creadoPor": "Jordi Santos",
         "esGrupo": true,
         "lineasGrupo": [
           {
-            "conceptoId": "4.3",
+            "conceptoId": "7.6",
             "cantidad": 1,
-            "observaciones": "Solicitud viabilidad conexion a red de agua y alcantarillado con el Canal de Isabel II",
-            "_capFiltro": "4",
-            "descuento": 30
+            "observaciones": "Solicitud viabilidad conexion a red de agua y alcantarillado con el Canal de Isabel II"
           }
         ]
       },
@@ -8858,6 +8851,7 @@
       }
     ],
     "na-v20-estaciones": [
+      ".BP FRAGA II",
       "BP ALELLA",
       "BP AV DAROCA",
       "BP BADALONA",
@@ -8868,8 +8862,6 @@
       "BP BILBAO AEROPUERTO",
       "BP BLANCO I",
       "BP BLANCO II",
-      "BP BRIVIESCA I",
-      "BP BRIVIESCA II",
       "BP BUFALVENT",
       "BP CA S'ESTRELLA",
       "BP CAN SOLÁ",
@@ -8937,6 +8929,10 @@
       "BP VILLAMANTA",
       "BP VÍA FAVENCIA",
       "BP VÍA NORTE",
+      "BRIVIESCA I",
+      "BRIVIESCA II",
+      "Bp FRAGA II",
+      "Bp Navisal",
       "CF DENIA",
       "CF SAGUNTO",
       "OFICINA"
