@@ -1,5 +1,5 @@
 {
-  "fecha": "2026-06-16T07:31:31.903Z",
+  "fecha": "2026-06-16T07:58:45.408Z",
   "version": "2.8",
   "datos": {
     "na-v20-proyectos": [
@@ -1922,7 +1922,11 @@
           {
             "conceptoId": "6.9",
             "cantidad": 1,
-            "observaciones": "Vista / copia de expediente muncipal"
+            "observaciones": "Vista / copia de expediente muncipal",
+            "_ofertaCheck": false,
+            "certifOferta": true,
+            "certifOfertaAt": "2026-06-16T07:58:19.291Z",
+            "cantCertifOferta": 1
           },
           {
             "id": "lg_1780035613766",
@@ -1930,7 +1934,11 @@
             "cantidad": 1,
             "observaciones": "Control Periódico Ambiental (gestión de deficiencias)",
             "precioManual": 1575,
-            "_capFiltro": "2"
+            "_capFiltro": "2",
+            "_ofertaCheck": false,
+            "certifOferta": true,
+            "certifOfertaAt": "2026-06-16T07:58:19.291Z",
+            "cantCertifOferta": 1
           },
           {
             "id": "lg_1780035660451",
@@ -1938,7 +1946,11 @@
             "cantidad": 1,
             "observaciones": "Visita acompañamiento inspector",
             "precioManual": null,
-            "_capFiltro": "6"
+            "_capFiltro": "6",
+            "_ofertaCheck": false,
+            "certifOferta": true,
+            "certifOfertaAt": "2026-06-16T07:58:19.291Z",
+            "cantCertifOferta": 1
           },
           {
             "id": "lg_1780035751425",
@@ -2032,7 +2044,10 @@
             "conceptoId": "7.6",
             "cantidad": 1,
             "observaciones": "Localización de documentación para justificar deficiencia periódica IP04",
-            "_capFiltro": "7"
+            "_capFiltro": "7",
+            "certifEnviada": true,
+            "certifEnviadaAt": "2026-06-16T07:57:57.092Z",
+            "cantCertif": 1
           }
         ]
       },
@@ -2128,17 +2143,19 @@
             "conceptoId": "6.4",
             "cantidad": 1,
             "observaciones": "Toma de datos de la red de recogida de aguas aprovechando limpieza ",
-            "certifOferta": false,
+            "certifOferta": true,
             "_ofertaCheck": false,
-            "certifOfertaAt": null
+            "certifOfertaAt": "2026-06-16T07:57:54.686Z",
+            "cantCertifOferta": 1
           },
           {
             "conceptoId": "2.3",
             "cantidad": 1,
             "observaciones": "Envío de informe con conclusiones",
-            "certifOferta": false,
+            "certifOferta": true,
             "_ofertaCheck": false,
-            "certifOfertaAt": null
+            "certifOfertaAt": "2026-06-16T07:57:54.686Z",
+            "cantCertifOferta": 1
           },
           {
             "conceptoId": "8.7",
@@ -2398,6 +2415,53 @@
             "conceptoId": "7.6",
             "cantidad": 1,
             "observaciones": "Licencia de carreteras"
+          }
+        ]
+      },
+      {
+        "proyectoId": "p1781595067921",
+        "conceptoId": "2.8",
+        "trabajador": "Jordi Santos",
+        "fecha": "2026-06-12",
+        "observaciones": "Grupo: 6 actividades",
+        "cantidad": 1,
+        "searchPr": "montig",
+        "id": "r1781595344777",
+        "estado": "pendiente",
+        "precioManual": null,
+        "createdAt": "2026-06-16T07:35:44.777Z",
+        "creadoPor": "Jordi Santos",
+        "esGrupo": true,
+        "lineasGrupo": [
+          {
+            "conceptoId": "2.8",
+            "cantidad": 1,
+            "observaciones": "Recopilación documentación previo inspección"
+          },
+          {
+            "conceptoId": "2.3",
+            "cantidad": 1,
+            "observaciones": "Control Periódico Ambiental (coste EAC)"
+          },
+          {
+            "conceptoId": "6.9",
+            "cantidad": 1,
+            "observaciones": "Visita acompañamiento inspector"
+          },
+          {
+            "conceptoId": "8.7",
+            "cantidad": 1,
+            "observaciones": "Gestión de deficiencias"
+          },
+          {
+            "conceptoId": "2.3",
+            "cantidad": 1,
+            "observaciones": "Realización de IPS"
+          },
+          {
+            "conceptoId": "2.8",
+            "cantidad": 1,
+            "observaciones": "Inventario simplificado de Alumbrado Exterior"
           }
         ]
       },
