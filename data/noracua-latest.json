@@ -1,5 +1,5 @@
 {
-  "fecha": "2026-06-16T18:07:15.149Z",
+  "fecha": "2026-06-16T18:10:32.239Z",
   "version": "2.8",
   "datos": {
     "na-v20-proyectos": [
@@ -867,7 +867,7 @@
       },
       {
         "nombre": "VERTIDOS",
-        "po": "",
+        "po": "3001344520",
         "zona": "BALEARES",
         "responsableBP": "Guiomar Tuero",
         "estacion": "BP SANTA EULALIA",
@@ -6791,10 +6791,10 @@
         "clienteId": "cl01",
         "proyectoId": "p1780656834711",
         "zona": "BALEARES",
-        "po": "",
+        "po": "3001344520",
         "asunto": "BP INFORME VERTIDOS ES",
         "nombre": "Oferta VERTIDOS",
-        "estado": "Enviada",
+        "estado": "Aceptada",
         "version": 1,
         "lineas": [
           {
@@ -8931,6 +8931,27 @@
       }
     ],
     "na-v25-hsse-sups": [
+      {
+        "site": "BP BADANOR",
+        "tipoActividad": "Obra mayor",
+        "pctAuditoria": "",
+        "obraConSupervision": "Sí",
+        "fecha": "2026-06-16",
+        "horas": "4",
+        "horasOrig": "4",
+        "horasAdmin": "4",
+        "supervisor": "Jordi Santos",
+        "encargo": "Josep Seijo",
+        "zona": "CATALUÑA",
+        "incidencias": "No",
+        "motivoSupervision": "",
+        "empresa": "ISTOBAL",
+        "comentarios": "Montaje cerramientos edificio lavado",
+        "id": "hs_1781633373109",
+        "estado": "anulado",
+        "creadoPor": "admin",
+        "fechaCreacion": "2026-06-16T18:09:33.109Z"
+      },
       {
         "site": "BP NAVISAL",
         "tipoActividad": "Obra menor mantenimiento",
