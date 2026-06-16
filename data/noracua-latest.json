@@ -1,5 +1,5 @@
 {
-  "fecha": "2026-06-16T14:25:49.484Z",
+  "fecha": "2026-06-16T16:33:00.286Z",
   "version": "2.8",
   "datos": {
     "na-v20-proyectos": [
@@ -6409,18 +6409,27 @@
         "tipo": "Suplido",
         "serie": "IL",
         "serieNombre": "IL — NorAcua",
-        "fecha": "2026-06-09",
-        "estado": "Pendiente",
+        "fecha": "2026-04-14",
+        "estado": "Enviada",
         "cliente": "TENDAM RETAIL, S.A.",
         "nif": "A08099459",
         "po": "",
         "observaciones": "Concepto: CA01901",
         "lineas": [
           {
+            "id": "l1",
+            "concepto": "Pago tasas registro BT",
+            "uds": 1,
+            "precio": 31.22,
+            "descuento": 0,
+            "iva": 0,
+            "total": 31.22
+          },
+          {
             "id": "l2",
             "concepto": "Pago OCA legalización BT",
             "uds": 1,
-            "precio": 471.9,
+            "precio": 667.79,
             "descuento": 0,
             "iva": 0,
             "total": 667.79
@@ -6432,12 +6441,12 @@
         "total": 699.01,
         "vencimiento": "2026-04-14",
         "clienteId": "cl02",
-        "serieId": "s02",
+        "serieId": "s_il",
         "iban": "ES42 2100 3744 4822 0008 4646",
-        "metodoPago": "CONTADO",
+        "metodoPago": "Confirming a 60 días",
         "diasVto": 1,
-        "fechaVto": "2026-06-10",
-        "poRef": "Local: SPF-KIDS-SEGOVIA CC LUZ DE CASTILLA",
+        "fechaVto": "2026-04-15",
+        "poRef": "Local: SPF-KIDS-ARANJUEZ-C.C. EL DELEITE",
         "creadoEn": "2026-04-14T00:00:00.000Z"
       },
       {
