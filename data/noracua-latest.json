@@ -1,5 +1,5 @@
 {
-  "fecha": "2026-06-16T16:33:05.559Z",
+  "fecha": "2026-06-16T16:58:03.730Z",
   "version": "2.8",
   "datos": {
     "na-v20-proyectos": [
@@ -848,7 +848,7 @@
         "po": "",
         "zona": "NORTE",
         "responsableBP": "Concepción Gutierrez",
-        "estacion": "BRIVIESCA I",
+        "estacion": "BP BRIVIESCA I",
         "clienteId": "cl01",
         "id": "p1780566187701",
         "creadoEn": "2026-06-04T09:43:07.701Z",
@@ -6793,6 +6793,54 @@
     ],
     "na-v21-ofertas": [
       {
+        "id": "o1781627943721",
+        "numero": "031-26",
+        "asunto": "CF INFORME DEFICIENCIAS ES",
+        "version": 1,
+        "referencia": "CF-IDE-160626-v1",
+        "fecha": "2026-06-16",
+        "emplazamiento": "CF DENIA",
+        "zona": "OTROS",
+        "clienteId": "cl1779132918444",
+        "firmanteCliente": "Dña. Natalia Pérez-Chao",
+        "firmanteNorAcua": "D. Daniel Romero",
+        "formaPago": "Según contrato",
+        "estado": "Enviada",
+        "nota": "",
+        "lineas": [
+          {
+            "id": "lo1781627813554",
+            "conceptoId": "2.3",
+            "cantidad": 1,
+            "precioUnit": 1100,
+            "descuento": 0,
+            "total": 1100,
+            "comentario": "INFORME DEFICIENCIAS LEGALES E IP04 ES CF DENIA"
+          },
+          {
+            "id": "lo1781627851218",
+            "conceptoId": "6.1",
+            "cantidad": 1,
+            "precioUnit": 725,
+            "descuento": 0,
+            "total": 725,
+            "comentario": "VISITA TOMA DE DATOS ES"
+          },
+          {
+            "id": "lo1781627910337",
+            "conceptoId": "6.9",
+            "cantidad": 1,
+            "precioUnit": 425,
+            "descuento": 0,
+            "total": 425,
+            "comentario": "VISTA TÉCNICO AYUNTAMIENTO"
+          }
+        ],
+        "proyectoId": "p1779213701420",
+        "propuestaPor": null,
+        "creadoEn": "2026-06-16T16:39:03.721Z"
+      },
+      {
         "id": "o1781040685810",
         "numero": "030-26",
         "clienteId": "cl01",
@@ -8823,10 +8871,13 @@
       {
         "nombre": "Gabriel Mondejar",
         "sexo": "M"
+      },
+      {
+        "nombre": "Natalia Pérez-Chao",
+        "sexo": "F"
       }
     ],
     "na-v20-estaciones": [
-      ".BP FRAGA II",
       "BP ALELLA",
       "BP AV DAROCA",
       "BP BADALONA",
@@ -8837,6 +8888,8 @@
       "BP BILBAO AEROPUERTO",
       "BP BLANCO I",
       "BP BLANCO II",
+      "BP BRIVIESCA I",
+      "BP BRIVIESCA II",
       "BP BUFALVENT",
       "BP CA S'ESTRELLA",
       "BP CAN SOLÁ",
@@ -8906,8 +8959,6 @@
       "BP VÍA NORTE",
       "BRIVIESCA I",
       "BRIVIESCA II",
-      "Bp FRAGA II",
-      "Bp Navisal",
       "CF DENIA",
       "CF SAGUNTO",
       "OFICINA"
@@ -9001,7 +9052,7 @@
         "fechaCreacion": "2026-06-10T19:36:39.261Z"
       },
       {
-        "site": "Bp FRAGA II",
+        "site": "BP FRAGA II",
         "tipoActividad": "Obra menor mantenimiento",
         "pctAuditoria": "100",
         "obraConSupervision": "Sí",
