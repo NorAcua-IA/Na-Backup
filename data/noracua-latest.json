@@ -1,5 +1,5 @@
 {
-  "fecha": "2026-06-16T18:10:32.239Z",
+  "fecha": "2026-06-16T18:18:37.025Z",
   "version": "2.8",
   "datos": {
     "na-v20-proyectos": [
@@ -2361,7 +2361,7 @@
         "cantidad": 1,
         "searchPr": "SAN PEDRO MI",
         "id": "r1781165327113",
-        "estado": "pendiente",
+        "estado": "rechazado",
         "precioManual": null,
         "createdAt": "2026-06-11T08:08:47.113Z",
         "creadoPor": "Jordi Santos",
@@ -3422,6 +3422,41 @@
       }
     ],
     "na-v21-facturas": [
+      {
+        "id": "f1781633558630",
+        "tipo": "Factura",
+        "serieId": "s01",
+        "numero": "DR029/26",
+        "clienteId": "cl01",
+        "fecha": "2026-06-16",
+        "fechaVto": "2026-08-15",
+        "diasVto": 60,
+        "iban": "ES45 3025 0003 9914 3335 4334",
+        "metodoPago": "Transferencia bancaria",
+        "observaciones": "Ref. oferta: 030-26 v1 — BP INFORME VERTIDOS ES",
+        "refAbono": "",
+        "lineas": [
+          {
+            "id": "l1781633534764l3oksj6rcw",
+            "concepto": "6.4 — Toma de datos para programas",
+            "uds": 1,
+            "precio": 405,
+            "descuento": 0,
+            "iva": 21
+          },
+          {
+            "id": "l178163353476497gga6fk7e7",
+            "concepto": "2.3 — Informe técnico",
+            "uds": 1,
+            "precio": 1050,
+            "descuento": 0,
+            "iva": 21
+          }
+        ],
+        "estado": "Enviada",
+        "poRef": "3001344520",
+        "creadoEn": "2026-06-16T18:12:38.630Z"
+      },
       {
         "id": "f178103716540071306",
         "numero": "DR028/26",
@@ -6794,7 +6829,7 @@
         "po": "3001344520",
         "asunto": "BP INFORME VERTIDOS ES",
         "nombre": "Oferta VERTIDOS",
-        "estado": "Aceptada",
+        "estado": "Facturada",
         "version": 1,
         "lineas": [
           {
@@ -8911,10 +8946,10 @@
         "id": "s01",
         "codigo": "DR",
         "nombre": "BP España",
-        "contFact": 28,
+        "contFact": 29,
         "contSupl": 1,
         "contAbon": 0,
-        "ultimaFechaFact": null,
+        "ultimaFechaFact": "2026-06-16",
         "ultimaFechaSupl": null,
         "ultimaFechaAbon": null
       },
