@@ -1,5 +1,5 @@
 {
-  "fecha": "2026-06-17T07:32:32.728Z",
+  "fecha": "2026-06-17T07:46:45.495Z",
   "version": "2.8",
   "datos": {
     "na-v20-proyectos": [
@@ -2348,60 +2348,6 @@
         ]
       },
       {
-        "proyectoId": "p1779132004672",
-        "conceptoId": "1.8",
-        "trabajador": "Jordi Santos",
-        "fecha": "2026-06-10",
-        "observaciones": "Grupo: 2 actividades",
-        "cantidad": 1,
-        "capFiltro": "6",
-        "id": "r1781104896753",
-        "estado": "pendiente",
-        "precioManual": null,
-        "createdAt": "2026-06-10T15:21:36.753Z",
-        "creadoPor": "Daniel",
-        "esGrupo": true,
-        "lineasGrupo": [
-          {
-            "conceptoId": "1.8",
-            "cantidad": 1,
-            "observaciones": ""
-          },
-          {
-            "conceptoId": "6.1",
-            "cantidad": 1,
-            "observaciones": ""
-          }
-        ]
-      },
-      {
-        "proyectoId": "p1779812747902",
-        "conceptoId": "7.7",
-        "trabajador": "Jordi Santos",
-        "fecha": "2026-06-11",
-        "observaciones": "Grupo: 2 actividades",
-        "cantidad": 1,
-        "searchPr": "SAN PEDRO MI",
-        "id": "r1781165327113",
-        "estado": "pendiente",
-        "precioManual": null,
-        "createdAt": "2026-06-11T08:08:47.113Z",
-        "creadoPor": "Jordi Santos",
-        "esGrupo": true,
-        "lineasGrupo": [
-          {
-            "conceptoId": "7.7",
-            "cantidad": 1,
-            "observaciones": "Solicitud nueva acometida eléctrica con distribuidora"
-          },
-          {
-            "conceptoId": "1.18",
-            "cantidad": 1,
-            "observaciones": "Memoria eléctrica descriptiva para nueva acometida"
-          }
-        ]
-      },
-      {
         "proyectoId": "p1781165660956",
         "conceptoId": "7.6",
         "trabajador": "Jordi Santos",
@@ -3439,34 +3385,6 @@
         "estadoCertif": "finalizado",
         "facturado": true,
         "facturaRef": "DR028/26"
-      },
-      {
-        "proyectoId": "p1779132004672",
-        "conceptoId": "1.8",
-        "trabajador": "Daniel",
-        "fecha": "2026-06-07",
-        "observaciones": "Grupo: 2 actividades",
-        "cantidad": 1,
-        "capFiltro": "6",
-        "id": "r1780837308981",
-        "estado": "rechazado",
-        "precioManual": null,
-        "createdAt": "2026-06-07T13:01:48.981Z",
-        "creadoPor": "Daniel",
-        "esGrupo": true,
-        "lineasGrupo": [
-          {
-            "conceptoId": "1.8",
-            "cantidad": 1,
-            "observaciones": "",
-            "descuento": 20
-          },
-          {
-            "conceptoId": "6.1",
-            "cantidad": 1,
-            "observaciones": ""
-          }
-        ]
       }
     ],
     "na-v21-facturas": [
