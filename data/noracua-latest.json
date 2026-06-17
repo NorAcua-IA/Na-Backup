@@ -1,5 +1,5 @@
 {
-  "fecha": "2026-06-17T17:58:12.030Z",
+  "fecha": "2026-06-17T18:22:00.423Z",
   "version": "2.8",
   "datos": {
     "na-v20-proyectos": [
@@ -922,7 +922,7 @@
       },
       {
         "nombre": "REQUERIMIENTO URBANISMO TRAS RECICLADORA",
-        "po": "",
+        "po": "3001322306",
         "zona": "CATALUÑA",
         "responsableBP": "Josep Seijo",
         "estacion": "BP SANTA PERPETUA",
@@ -6923,15 +6923,231 @@
     ],
     "na-v21-ofertas": [
       {
+        "id": "o1781720319118",
+        "numero": "039-26",
+        "asunto": "BP TOPOGRÁFICO PARCELA LAVADOS",
+        "version": 1,
+        "referencia": "BP-TPL-170626-v1",
+        "fecha": "2026-06-17",
+        "emplazamiento": "BP TRÁPAGA",
+        "zona": "NORTE",
+        "clienteId": "cl01",
+        "firmanteCliente": "Dña. Raquel Martínez",
+        "firmanteNorAcua": "D. Daniel Romero",
+        "formaPago": "Según contrato",
+        "estado": "Borrador",
+        "nota": "",
+        "lineas": [
+          {
+            "id": "lo1781720311240",
+            "conceptoId": "5.1a",
+            "cantidad": 1,
+            "precioUnit": 800,
+            "descuento": 0,
+            "total": 800,
+            "comentario": ""
+          }
+        ],
+        "proyectoId": "p1779132004672",
+        "propuestaPor": null,
+        "creadoEn": "2026-06-17T18:18:39.118Z"
+      },
+      {
+        "id": "o1781719851755",
+        "numero": "038-26",
+        "asunto": "BP INSTALACIÓN RECICLADORA LAVADOS",
+        "version": 1,
+        "referencia": "BP-IRL-170626-v1",
+        "fecha": "2026-06-17",
+        "emplazamiento": "BP VILANOVA II",
+        "zona": "CATALUÑA",
+        "clienteId": "cl01",
+        "firmanteCliente": "D. Josep Seijo",
+        "firmanteNorAcua": "D. Daniel Romero",
+        "formaPago": "Según contrato",
+        "estado": "Borrador",
+        "nota": "",
+        "lineas": [
+          {
+            "id": "lo1781719728515",
+            "conceptoId": "1.5",
+            "cantidad": 1,
+            "precioUnit": 1760,
+            "descuento": 40,
+            "total": 1056,
+            "comentario": ""
+          },
+          {
+            "id": "lo1781719752933",
+            "conceptoId": "3.1b",
+            "cantidad": 3,
+            "precioUnit": 650,
+            "descuento": 0,
+            "total": 1950,
+            "comentario": ""
+          },
+          {
+            "id": "lo1781719760875",
+            "conceptoId": "4.1",
+            "cantidad": 1,
+            "precioUnit": 3125,
+            "descuento": 40,
+            "total": 1875,
+            "comentario": ""
+          },
+          {
+            "id": "lo1781719762443",
+            "conceptoId": "4.2",
+            "cantidad": 1,
+            "precioUnit": 1265,
+            "descuento": 0,
+            "total": 1265,
+            "comentario": ""
+          },
+          {
+            "id": "lo1781719789711",
+            "conceptoId": "7.2",
+            "cantidad": 1,
+            "precioUnit": 595,
+            "descuento": 0,
+            "total": 595,
+            "comentario": ""
+          },
+          {
+            "id": "lo1781719791890",
+            "conceptoId": "7.6",
+            "cantidad": 1,
+            "precioUnit": 240,
+            "descuento": 0,
+            "total": 240,
+            "comentario": "Recuperación fianzas"
+          },
+          {
+            "id": "lo1781719816649",
+            "conceptoId": "10.2",
+            "cantidad": 6,
+            "precioUnit": 375,
+            "descuento": 0,
+            "total": 2250,
+            "comentario": ""
+          }
+        ],
+        "proyectoId": "p1781719085766",
+        "propuestaPor": null,
+        "creadoEn": "2026-06-17T18:10:51.755Z"
+      },
+      {
+        "id": "o1781719639308",
+        "numero": "037-26",
+        "asunto": "BP INSTALACIÓN RECICLADORA LAVADOS",
+        "version": 1,
+        "referencia": "BP-IRL-170626-v1",
+        "fecha": "2026-06-17",
+        "emplazamiento": "BP HOSTAL DE LA SELVA",
+        "zona": "CATALUÑA",
+        "clienteId": "cl01",
+        "firmanteCliente": "D. Josep Seijo",
+        "firmanteNorAcua": "D. Daniel Romero",
+        "formaPago": "Según contrato",
+        "estado": "Borrador",
+        "nota": "",
+        "lineas": [
+          {
+            "id": "lo1781719177728",
+            "conceptoId": "1.5",
+            "cantidad": 1,
+            "precioUnit": 1760,
+            "descuento": 40,
+            "total": 1056,
+            "comentario": ""
+          },
+          {
+            "id": "lo1781719194213",
+            "conceptoId": "3.1b",
+            "cantidad": 3,
+            "precioUnit": 650,
+            "descuento": 0,
+            "total": 1950,
+            "comentario": ""
+          },
+          {
+            "id": "lo1781719203150",
+            "conceptoId": "4.1",
+            "cantidad": 1,
+            "precioUnit": 3125,
+            "descuento": 40,
+            "total": 1875,
+            "comentario": ""
+          },
+          {
+            "id": "lo1781719236193",
+            "conceptoId": "4.2",
+            "cantidad": 1,
+            "precioUnit": 1265,
+            "descuento": 0,
+            "total": 1265,
+            "comentario": ""
+          },
+          {
+            "id": "lo1781719243066",
+            "conceptoId": "7.2",
+            "cantidad": 1,
+            "precioUnit": 595,
+            "descuento": 0,
+            "total": 595,
+            "comentario": ""
+          },
+          {
+            "id": "lo1781719252936",
+            "conceptoId": "10.2",
+            "cantidad": 6,
+            "precioUnit": 375,
+            "descuento": 0,
+            "total": 2250,
+            "comentario": ""
+          },
+          {
+            "id": "lo1781719513293",
+            "conceptoId": "7.6",
+            "cantidad": 1,
+            "precioUnit": 240,
+            "descuento": 0,
+            "total": 240,
+            "comentario": "Permiso de Carreteras"
+          },
+          {
+            "id": "lo1781719571824",
+            "conceptoId": "7.6",
+            "cantidad": 1,
+            "precioUnit": 240,
+            "descuento": 0,
+            "total": 240,
+            "comentario": "Recuperación fianzas"
+          },
+          {
+            "id": "lo1781719597932",
+            "conceptoId": "7.6",
+            "cantidad": 1,
+            "precioUnit": 240,
+            "descuento": 0,
+            "total": 240,
+            "comentario": "Comunicación Carreteras comienzo trabajos"
+          }
+        ],
+        "proyectoId": "p1781718910285",
+        "propuestaPor": null,
+        "creadoEn": "2026-06-17T18:07:19.308Z"
+      },
+      {
         "id": "o1781718509009",
         "numero": "036-26",
         "clienteId": "cl01",
         "proyectoId": "p1780913844490",
         "zona": "CATALUÑA",
-        "po": "",
+        "po": "3001322306",
         "asunto": "BP REQUERIMIENTO URBANISMO Y CARRETERAS INSTALACIÓN RECICLADORA",
         "nombre": "Oferta REQUERIMIENTO URBANISMO TRAS RECICLADORA",
-        "estado": "Enviada",
+        "estado": "Aceptada",
         "version": 1,
         "lineas": [
           {
