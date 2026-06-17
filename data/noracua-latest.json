@@ -1,5 +1,5 @@
 {
-  "fecha": "2026-06-17T08:52:59.637Z",
+  "fecha": "2026-06-17T11:04:21.013Z",
   "version": "2.8",
   "datos": {
     "na-v20-proyectos": [
@@ -962,6 +962,17 @@
         "clienteId": "cl01",
         "id": "p1781595067921",
         "creadoEn": "2026-06-16T07:31:07.921Z",
+        "creadoPor": "Jordi Santos"
+      },
+      {
+        "nombre": "ADECUACIÓN SANEAMIENTO",
+        "po": "",
+        "zona": "CATALUÑA",
+        "responsableBP": "",
+        "estacion": "BP EL CORB",
+        "clienteId": "",
+        "id": "p1781687205435",
+        "creadoEn": "2026-06-17T09:06:45.435Z",
         "creadoPor": "Jordi Santos"
       }
     ],
@@ -2524,6 +2535,33 @@
             "conceptoId": "1.20",
             "cantidad": 1,
             "observaciones": "Rehacer mediciones / planos con solución saneamiento y muro contención lavados"
+          }
+        ]
+      },
+      {
+        "proyectoId": "p1781687205435",
+        "conceptoId": "6.9",
+        "trabajador": "Jordi Santos",
+        "fecha": "2026-06-17",
+        "observaciones": "Grupo: 2 actividades",
+        "cantidad": 1,
+        "searchPr": "CORB",
+        "id": "r1781687708060",
+        "estado": "pendiente",
+        "precioManual": null,
+        "createdAt": "2026-06-17T09:15:08.060Z",
+        "creadoPor": "Jordi Santos",
+        "esGrupo": true,
+        "lineasGrupo": [
+          {
+            "conceptoId": "6.9",
+            "cantidad": 1,
+            "observaciones": "Visita con contratista para presupuesto con replanteo"
+          },
+          {
+            "conceptoId": "3.1b",
+            "cantidad": 1,
+            "observaciones": "Control trabajos con visita final de obra"
           }
         ]
       },
