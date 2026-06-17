@@ -1,5 +1,5 @@
 {
-  "fecha": "2026-06-17T11:54:49.651Z",
+  "fecha": "2026-06-17T12:24:27.609Z",
   "version": "2.8",
   "datos": {
     "na-v20-proyectos": [
@@ -6870,6 +6870,36 @@
     ],
     "na-v21-ofertas": [
       {
+        "id": "o1781698402802",
+        "numero": "033-26",
+        "asunto": "BP TOPOGRAFICO PARA COORDINACIÓN CATASTRO",
+        "version": 1,
+        "referencia": "BP-TPCC-170626-v1",
+        "fecha": "2026-06-17",
+        "emplazamiento": "BP POZUELO",
+        "zona": "CENTRO",
+        "clienteId": "cl01",
+        "firmanteCliente": "Dña. Raquel Martínez",
+        "firmanteNorAcua": "D. Daniel Romero",
+        "formaPago": "Según contrato",
+        "estado": "Enviada",
+        "nota": "",
+        "lineas": [
+          {
+            "id": "lo1781697328554",
+            "conceptoId": "5.1c",
+            "cantidad": 1,
+            "precioUnit": 1100,
+            "descuento": 0,
+            "total": 1100,
+            "comentario": ""
+          }
+        ],
+        "proyectoId": "p1781697283219",
+        "propuestaPor": null,
+        "creadoEn": "2026-06-17T12:13:22.802Z"
+      },
+      {
         "id": "o1781695980665",
         "numero": "032-26",
         "clienteId": "cl1781695600182",
@@ -8939,9 +8969,9 @@
         "id": "cl1780068226069"
       },
       {
+        "codigoRef": "BP",
         "nombre": "INMOBILIARIA Y AGRARIA CATALANA, S.L.",
         "nif": "B58762311",
-        "codigoRef": "BP",
         "direccion": "Carrer Bosch i Gimpera",
         "poblacion": "08034 - Barcelona (Barcelona)",
         "iban": "ES45 3025 0003 9914 3335 4334",
