@@ -1,5 +1,5 @@
 {
-  "fecha": "2026-06-17T17:55:16.663Z",
+  "fecha": "2026-06-17T17:58:12.030Z",
   "version": "2.8",
   "datos": {
     "na-v20-proyectos": [
@@ -995,6 +995,17 @@
         "clienteId": "cl01",
         "id": "p1781718910285",
         "creadoEn": "2026-06-17T17:55:10.285Z",
+        "creadoPor": "Daniel"
+      },
+      {
+        "nombre": "RECICLADORA LAVADOS",
+        "po": "",
+        "zona": "CATALUÑA",
+        "responsableBP": "Josep Seijo",
+        "estacion": "BP VILANOVA II",
+        "clienteId": "cl01",
+        "id": "p1781719085766",
+        "creadoEn": "2026-06-17T17:58:05.766Z",
         "creadoPor": "Daniel"
       }
     ],
