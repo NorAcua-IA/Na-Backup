@@ -1,5 +1,5 @@
 {
-  "fecha": "2026-06-17T08:20:03.194Z",
+  "fecha": "2026-06-17T08:52:02.554Z",
   "version": "2.8",
   "datos": {
     "na-v20-proyectos": [
@@ -2344,6 +2344,14 @@
             "conceptoId": "7.1",
             "cantidad": 1,
             "observaciones": "Licencia obra mayor para reforma tienda"
+          },
+          {
+            "id": "lg_1781685908493",
+            "conceptoId": "6.9",
+            "cantidad": 1,
+            "observaciones": "Consulta previa con técnico de actividades",
+            "precioManual": null,
+            "_capFiltro": "6"
           }
         ]
       },
@@ -2493,6 +2501,29 @@
             "conceptoId": "7.2",
             "cantidad": 1,
             "observaciones": "Tramitación Comunicació Previa de Obra"
+          }
+        ]
+      },
+      {
+        "proyectoId": "p1779137795530",
+        "conceptoId": "1.20",
+        "trabajador": "Jordi Santos",
+        "fecha": "2026-06-17",
+        "observaciones": "Grupo: 1 actividades",
+        "cantidad": 1,
+        "searchPr": "santa eulalia",
+        "capFiltro": "1",
+        "id": "r1781686289540",
+        "estado": "pendiente",
+        "precioManual": null,
+        "createdAt": "2026-06-17T08:51:29.540Z",
+        "creadoPor": "Jordi Santos",
+        "esGrupo": true,
+        "lineasGrupo": [
+          {
+            "conceptoId": "1.20",
+            "cantidad": 1,
+            "observaciones": "Rehacer mediciones / planos con solución saneamiento y muro contención lavados"
           }
         ]
       },
