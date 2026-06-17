@@ -1,5 +1,5 @@
 {
-  "fecha": "2026-06-17T08:05:24.401Z",
+  "fecha": "2026-06-17T08:19:58.307Z",
   "version": "2.8",
   "datos": {
     "na-v20-proyectos": [
@@ -2026,11 +2026,7 @@
             "observaciones": "Proyecto de adecuaciones (mejoras, pago automático e imagen) IP04 y REBT"
           }
         ],
-        "searchPr": "",
-        "ofertaCodigos": [
-          "022-26"
-        ],
-        "ofertaCodigo": "022-26"
+        "searchPr": ""
       },
       {
         "proyectoId": "p1780477263512",
@@ -2089,8 +2085,7 @@
             "_capFiltro": "7",
             "certifEnviada": true,
             "certifEnviadaAt": "2026-06-16T07:57:57.092Z",
-            "cantCertif": 1,
-            "certifAprobada": true
+            "cantCertif": 1
           }
         ]
       },
@@ -2213,9 +2208,7 @@
         "ofertaCodigos": [
           "030-26"
         ],
-        "certifOfertaAt": null,
-        "facturado": true,
-        "estadoCertif": "finalizado"
+        "certifOfertaAt": null
       },
       {
         "proyectoId": "p1780657008965",
@@ -2453,6 +2446,53 @@
             "conceptoId": "2.8",
             "cantidad": 1,
             "observaciones": "Inventario simplificado de Alumbrado Exterior"
+          }
+        ]
+      },
+      {
+        "proyectoId": "p1779137983090",
+        "conceptoId": "8.7",
+        "trabajador": "Jordi Santos",
+        "fecha": "2026-06-17",
+        "observaciones": "Grupo: 6 actividades",
+        "cantidad": 1,
+        "searchPr": "planamar",
+        "id": "r1781684363292",
+        "estado": "pendiente",
+        "precioManual": null,
+        "createdAt": "2026-06-17T08:19:23.292Z",
+        "creadoPor": "Jordi Santos",
+        "esGrupo": true,
+        "lineasGrupo": [
+          {
+            "conceptoId": "8.7",
+            "cantidad": 1,
+            "observaciones": "Recopilación documentación técnica para proyecto"
+          },
+          {
+            "conceptoId": "6.5",
+            "cantidad": 2,
+            "observaciones": "Consulta previa trámite en Ayuntamiento, solicitud vista/copia expediente "
+          },
+          {
+            "conceptoId": "6.9",
+            "cantidad": 1,
+            "observaciones": "Visita en Ayuntamiento con Arquitecto municipal"
+          },
+          {
+            "conceptoId": "7.6",
+            "cantidad": 1,
+            "observaciones": "Consulta previa trámite sin recicladora (comunicación previa)"
+          },
+          {
+            "conceptoId": "1.8",
+            "cantidad": 1,
+            "observaciones": "Memoria valorada con planos para Comunicación Previa"
+          },
+          {
+            "conceptoId": "7.2",
+            "cantidad": 1,
+            "observaciones": "Tramitación Comunicació Previa de Obra"
           }
         ]
       },
@@ -8832,6 +8872,7 @@
       }
     ],
     "na-v20-estaciones": [
+      ".BP FRAGA II",
       "BP ALELLA",
       "BP AV DAROCA",
       "BP BADALONA",
@@ -8842,8 +8883,6 @@
       "BP BILBAO AEROPUERTO",
       "BP BLANCO I",
       "BP BLANCO II",
-      "BP BRIVIESCA I",
-      "BP BRIVIESCA II",
       "BP BUFALVENT",
       "BP CA S'ESTRELLA",
       "BP CAN SOLÁ",
@@ -8883,7 +8922,6 @@
       "BP MONTSENY",
       "BP MONTSERRAT CIBRIÁN",
       "BP NAVISAL",
-      "BP Navisal",
       "BP OLABERRÍA",
       "BP PARADA LA CREU",
       "BP PLANAMAR",
@@ -8905,7 +8943,6 @@
       "BP TORREJÓN LOECHES",
       "BP TRÁPAGA",
       "BP VALDONAIRE",
-      "BP VIA FAVENCIA",
       "BP VILADECANS",
       "BP VILANOVA (AV. BALMES)",
       "BP VILANOVA II",
@@ -8913,6 +8950,10 @@
       "BP VILLAMANTA",
       "BP VÍA FAVENCIA",
       "BP VÍA NORTE",
+      "BRIVIESCA I",
+      "BRIVIESCA II",
+      "Bp FRAGA II",
+      "Bp Navisal",
       "CF DENIA",
       "CF SAGUNTO",
       "OFICINA"
