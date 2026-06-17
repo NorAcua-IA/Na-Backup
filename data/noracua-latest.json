@@ -1,5 +1,5 @@
 {
-  "fecha": "2026-06-17T19:22:58.549Z",
+  "fecha": "2026-06-17T19:31:13.109Z",
   "version": "3.0",
   "datos": {
     "proyectos": [
@@ -88,6 +88,30 @@
         "legacy_id": "p1779386145802"
       },
       {
+        "id": "c1771264-a85e-4223-8fb9-308aaf8675af",
+        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
+        "nombre": "CO OUT ES",
+        "zona": "NORTE",
+        "po": "3001342428",
+        "estacion_id": "4116c1a7-37d5-4b50-8217-82c517388d31",
+        "responsable_bp_id": "0d31ea79-7b68-4389-9316-f68d918e0edb",
+        "activo": true,
+        "creado_en": "2026-06-16T11:25:39.389344+00:00",
+        "legacy_id": "p1779185410739"
+      },
+      {
+        "id": "4eaf98c0-695f-4215-9885-4dc55c64bdc7",
+        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
+        "nombre": "CO OUT ES",
+        "zona": "NORTE",
+        "po": null,
+        "estacion_id": "f2c2e879-822a-46f8-95e6-523aeaff5258",
+        "responsable_bp_id": "ececaf57-8526-419e-9dfe-ac31324ecde8",
+        "activo": true,
+        "creado_en": "2026-06-16T11:25:39.389344+00:00",
+        "legacy_id": "p1779138810443"
+      },
+      {
         "id": "b364c94e-a3f5-464f-82de-2218a3db27ea",
         "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
         "nombre": "CO OUT ES",
@@ -110,30 +134,6 @@
         "activo": true,
         "creado_en": "2026-06-16T11:25:39.389344+00:00",
         "legacy_id": "p1779185513218"
-      },
-      {
-        "id": "4eaf98c0-695f-4215-9885-4dc55c64bdc7",
-        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
-        "nombre": "CO OUT ES",
-        "zona": "NORTE",
-        "po": null,
-        "estacion_id": "f2c2e879-822a-46f8-95e6-523aeaff5258",
-        "responsable_bp_id": "ececaf57-8526-419e-9dfe-ac31324ecde8",
-        "activo": true,
-        "creado_en": "2026-06-16T11:25:39.389344+00:00",
-        "legacy_id": "p1779138810443"
-      },
-      {
-        "id": "c1771264-a85e-4223-8fb9-308aaf8675af",
-        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
-        "nombre": "CO OUT ES",
-        "zona": "NORTE",
-        "po": "3001342428",
-        "estacion_id": "4116c1a7-37d5-4b50-8217-82c517388d31",
-        "responsable_bp_id": "0d31ea79-7b68-4389-9316-f68d918e0edb",
-        "activo": true,
-        "creado_en": "2026-06-16T11:25:39.389344+00:00",
-        "legacy_id": "p1779185410739"
       },
       {
         "id": "d8b56b96-62d2-4fa8-bf26-7ff226aacfaa",
@@ -172,18 +172,6 @@
         "legacy_id": "p1780035450676"
       },
       {
-        "id": "c5cfa823-71f5-4929-91ec-427d9f88cb86",
-        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
-        "nombre": "CONTROL PERIÓDICO AMBIENTAL",
-        "zona": "CATALUÑA",
-        "po": "3001321904",
-        "estacion_id": "3843f715-e606-41b4-a326-8f9f630063af",
-        "responsable_bp_id": "d1a0ed21-6f85-4bab-b968-681501dbd784",
-        "activo": true,
-        "creado_en": "2026-06-16T11:25:39.389344+00:00",
-        "legacy_id": "p1779391786134"
-      },
-      {
         "id": "2aacacf3-eee5-4216-a37b-8ba9fb56bc2b",
         "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
         "nombre": "CONTROL PERIÓDICO AMBIENTAL",
@@ -194,6 +182,18 @@
         "activo": true,
         "creado_en": "2026-06-16T11:25:39.389344+00:00",
         "legacy_id": "p1781595067921"
+      },
+      {
+        "id": "c5cfa823-71f5-4929-91ec-427d9f88cb86",
+        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
+        "nombre": "CONTROL PERIÓDICO AMBIENTAL",
+        "zona": "CATALUÑA",
+        "po": "3001321904",
+        "estacion_id": "3843f715-e606-41b4-a326-8f9f630063af",
+        "responsable_bp_id": "d1a0ed21-6f85-4bab-b968-681501dbd784",
+        "activo": true,
+        "creado_en": "2026-06-16T11:25:39.389344+00:00",
+        "legacy_id": "p1779391786134"
       },
       {
         "id": "ab66cc05-2445-49e7-8e46-4d62d0a5d9d7",
@@ -256,18 +256,6 @@
         "legacy_id": "p1779132004672"
       },
       {
-        "id": "75fde8f4-4de9-4000-b67d-67e91b00c497",
-        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
-        "nombre": "LEGALIZACIÓN BT",
-        "zona": "BALEARES",
-        "po": "3001331643",
-        "estacion_id": "8a8ef6b3-da2f-4635-b580-376f2e265abb",
-        "responsable_bp_id": "cc323490-3235-48e5-b06c-e4558bdee00a",
-        "activo": true,
-        "creado_en": "2026-06-16T11:25:39.389344+00:00",
-        "legacy_id": "p1779140021508"
-      },
-      {
         "id": "f9ffaa8b-0b50-45ab-a85c-0a0812721928",
         "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
         "nombre": "LEGALIZACIÓN BT",
@@ -290,6 +278,18 @@
         "activo": true,
         "creado_en": "2026-06-16T11:25:39.389344+00:00",
         "legacy_id": "p1779138950348"
+      },
+      {
+        "id": "75fde8f4-4de9-4000-b67d-67e91b00c497",
+        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
+        "nombre": "LEGALIZACIÓN BT",
+        "zona": "BALEARES",
+        "po": "3001331643",
+        "estacion_id": "8a8ef6b3-da2f-4635-b580-376f2e265abb",
+        "responsable_bp_id": "cc323490-3235-48e5-b06c-e4558bdee00a",
+        "activo": true,
+        "creado_en": "2026-06-16T11:25:39.389344+00:00",
+        "legacy_id": "p1779140021508"
       },
       {
         "id": "3073c25d-2aa1-40cb-b08e-02f6498bf3c7",
@@ -460,66 +460,6 @@
         "legacy_id": "p1779138693519"
       },
       {
-        "id": "82a902c5-a661-4c20-a2e7-c74537189192",
-        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
-        "nombre": "REFORMA TIENDA DIA",
-        "zona": "CENTRO",
-        "po": null,
-        "estacion_id": "6ae027f2-13e2-43b3-8aba-373b674cc2ff",
-        "responsable_bp_id": "d1a0ed21-6f85-4bab-b968-681501dbd784",
-        "activo": true,
-        "creado_en": "2026-06-16T11:25:39.389344+00:00",
-        "legacy_id": "p1779132204730"
-      },
-      {
-        "id": "f8e1b774-f812-4f50-9d78-36cf1627e76b",
-        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
-        "nombre": "REFORMA TIENDA DIA",
-        "zona": "CENTRO",
-        "po": null,
-        "estacion_id": "eb77a89e-515a-44f1-9138-4b7510f9545e",
-        "responsable_bp_id": "50314b46-47a7-4b90-8f8f-58441cbcb7e8",
-        "activo": true,
-        "creado_en": "2026-06-16T11:25:39.389344+00:00",
-        "legacy_id": "p1779132271164"
-      },
-      {
-        "id": "5c63c3e2-efbd-40ee-9edc-a802beaf4306",
-        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
-        "nombre": "REFORMA TIENDA DIA",
-        "zona": "CENTRO",
-        "po": null,
-        "estacion_id": "3aaa19c7-97e0-4595-bc74-efd50e4e9d85",
-        "responsable_bp_id": "d1a0ed21-6f85-4bab-b968-681501dbd784",
-        "activo": true,
-        "creado_en": "2026-06-16T11:25:39.389344+00:00",
-        "legacy_id": "p1779132293709"
-      },
-      {
-        "id": "bcc6b5d0-b55f-46cf-a169-e30df02b16fe",
-        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
-        "nombre": "REFORMA TIENDA DIA",
-        "zona": "CENTRO",
-        "po": null,
-        "estacion_id": "211a62a9-8f2d-4c53-b896-e591eb8c2b3a",
-        "responsable_bp_id": "d1a0ed21-6f85-4bab-b968-681501dbd784",
-        "activo": true,
-        "creado_en": "2026-06-16T11:25:39.389344+00:00",
-        "legacy_id": "p1779132080175"
-      },
-      {
-        "id": "ea5531da-2676-4065-a0b5-8329b13af24b",
-        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
-        "nombre": "REFORMA TIENDA DIA",
-        "zona": "CENTRO",
-        "po": null,
-        "estacion_id": "ebac7f17-b59a-4cf1-b5d9-b20e49763986",
-        "responsable_bp_id": "d1a0ed21-6f85-4bab-b968-681501dbd784",
-        "activo": true,
-        "creado_en": "2026-06-16T11:25:39.389344+00:00",
-        "legacy_id": "p1779132322623"
-      },
-      {
         "id": "b57c75a8-1f80-4ca4-9dcf-0745235a87e2",
         "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
         "nombre": "REFORMA TIENDA DIA",
@@ -530,18 +470,6 @@
         "activo": true,
         "creado_en": "2026-06-16T11:25:39.389344+00:00",
         "legacy_id": "p1779132250291"
-      },
-      {
-        "id": "5896ccb1-7ca3-43c2-87d4-e632101bb68a",
-        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
-        "nombre": "REFORMA TIENDA DIA",
-        "zona": "CENTRO",
-        "po": null,
-        "estacion_id": "09c051b9-1465-43b2-9850-6f3e057b4202",
-        "responsable_bp_id": "d1a0ed21-6f85-4bab-b968-681501dbd784",
-        "activo": true,
-        "creado_en": "2026-06-16T11:25:39.389344+00:00",
-        "legacy_id": "p1779132124323"
       },
       {
         "id": "43762560-acf4-484e-8b2a-3a1c782f1a31",
@@ -580,6 +508,78 @@
         "legacy_id": "p1779132230677"
       },
       {
+        "id": "82a902c5-a661-4c20-a2e7-c74537189192",
+        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
+        "nombre": "REFORMA TIENDA DIA",
+        "zona": "CENTRO",
+        "po": null,
+        "estacion_id": "6ae027f2-13e2-43b3-8aba-373b674cc2ff",
+        "responsable_bp_id": "d1a0ed21-6f85-4bab-b968-681501dbd784",
+        "activo": true,
+        "creado_en": "2026-06-16T11:25:39.389344+00:00",
+        "legacy_id": "p1779132204730"
+      },
+      {
+        "id": "f8e1b774-f812-4f50-9d78-36cf1627e76b",
+        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
+        "nombre": "REFORMA TIENDA DIA",
+        "zona": "CENTRO",
+        "po": null,
+        "estacion_id": "eb77a89e-515a-44f1-9138-4b7510f9545e",
+        "responsable_bp_id": "50314b46-47a7-4b90-8f8f-58441cbcb7e8",
+        "activo": true,
+        "creado_en": "2026-06-16T11:25:39.389344+00:00",
+        "legacy_id": "p1779132271164"
+      },
+      {
+        "id": "5c63c3e2-efbd-40ee-9edc-a802beaf4306",
+        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
+        "nombre": "REFORMA TIENDA DIA",
+        "zona": "CENTRO",
+        "po": null,
+        "estacion_id": "3aaa19c7-97e0-4595-bc74-efd50e4e9d85",
+        "responsable_bp_id": "d1a0ed21-6f85-4bab-b968-681501dbd784",
+        "activo": true,
+        "creado_en": "2026-06-16T11:25:39.389344+00:00",
+        "legacy_id": "p1779132293709"
+      },
+      {
+        "id": "ea5531da-2676-4065-a0b5-8329b13af24b",
+        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
+        "nombre": "REFORMA TIENDA DIA",
+        "zona": "CENTRO",
+        "po": null,
+        "estacion_id": "ebac7f17-b59a-4cf1-b5d9-b20e49763986",
+        "responsable_bp_id": "d1a0ed21-6f85-4bab-b968-681501dbd784",
+        "activo": true,
+        "creado_en": "2026-06-16T11:25:39.389344+00:00",
+        "legacy_id": "p1779132322623"
+      },
+      {
+        "id": "bcc6b5d0-b55f-46cf-a169-e30df02b16fe",
+        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
+        "nombre": "REFORMA TIENDA DIA",
+        "zona": "CENTRO",
+        "po": null,
+        "estacion_id": "211a62a9-8f2d-4c53-b896-e591eb8c2b3a",
+        "responsable_bp_id": "d1a0ed21-6f85-4bab-b968-681501dbd784",
+        "activo": true,
+        "creado_en": "2026-06-16T11:25:39.389344+00:00",
+        "legacy_id": "p1779132080175"
+      },
+      {
+        "id": "5896ccb1-7ca3-43c2-87d4-e632101bb68a",
+        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
+        "nombre": "REFORMA TIENDA DIA",
+        "zona": "CENTRO",
+        "po": null,
+        "estacion_id": "09c051b9-1465-43b2-9850-6f3e057b4202",
+        "responsable_bp_id": "d1a0ed21-6f85-4bab-b968-681501dbd784",
+        "activo": true,
+        "creado_en": "2026-06-16T11:25:39.389344+00:00",
+        "legacy_id": "p1779132124323"
+      },
+      {
         "id": "50033e86-2e47-46a5-ab55-fe15c266c798",
         "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
         "nombre": "REGISTRO INDUSTRIAL",
@@ -604,16 +604,16 @@
         "legacy_id": "p1779182184609"
       },
       {
-        "id": "96893d3f-7a9f-4aef-a3c8-6f33b4e0b1ce",
+        "id": "675dfd70-d1f7-4db6-b70a-d676fb958411",
         "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
         "nombre": "REQUERIMIENTO IP04",
         "zona": "CATALUÑA",
         "po": "3001321904",
-        "estacion_id": "2bad070b-52b7-4d0b-b503-f86379967f9d",
+        "estacion_id": "ed233916-f535-42ac-a316-02562adb9a49",
         "responsable_bp_id": "10c094e3-c6e3-43ac-8a80-670b618de68f",
         "activo": true,
         "creado_en": "2026-06-16T11:25:39.389344+00:00",
-        "legacy_id": "p1780559545145"
+        "legacy_id": "p1780561843356"
       },
       {
         "id": "1fd9fe20-1db5-47ec-acc4-82709bcc1444",
@@ -748,16 +748,16 @@
         "legacy_id": "p1780559445776"
       },
       {
-        "id": "675dfd70-d1f7-4db6-b70a-d676fb958411",
+        "id": "96893d3f-7a9f-4aef-a3c8-6f33b4e0b1ce",
         "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
         "nombre": "REQUERIMIENTO IP04",
         "zona": "CATALUÑA",
         "po": "3001321904",
-        "estacion_id": "ed233916-f535-42ac-a316-02562adb9a49",
+        "estacion_id": "2bad070b-52b7-4d0b-b503-f86379967f9d",
         "responsable_bp_id": "10c094e3-c6e3-43ac-8a80-670b618de68f",
         "activo": true,
         "creado_en": "2026-06-16T11:25:39.389344+00:00",
-        "legacy_id": "p1780561843356"
+        "legacy_id": "p1780559545145"
       },
       {
         "id": "eecd4135-718d-419f-b39d-66fe43ac9dfb",
@@ -964,18 +964,6 @@
         "legacy_id": "p1779386413694"
       },
       {
-        "id": "63691af2-7577-435d-816d-1d83c658d7e3",
-        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
-        "nombre": "SÓTANO ES",
-        "zona": "CENTRO",
-        "po": "3001322306",
-        "estacion_id": "4c48bfa9-c326-454f-8f38-d989b6ff08dd",
-        "responsable_bp_id": "ececaf57-8526-419e-9dfe-ac31324ecde8",
-        "activo": true,
-        "creado_en": "2026-06-16T11:25:39.389344+00:00",
-        "legacy_id": "p1779391171195"
-      },
-      {
         "id": "cc0ab490-77e4-4727-86f4-113704921bc1",
         "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
         "nombre": "SÓTANO ES",
@@ -986,6 +974,18 @@
         "activo": true,
         "creado_en": "2026-06-16T11:25:39.389344+00:00",
         "legacy_id": "p1779387531504"
+      },
+      {
+        "id": "63691af2-7577-435d-816d-1d83c658d7e3",
+        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
+        "nombre": "SÓTANO ES",
+        "zona": "CENTRO",
+        "po": "3001322306",
+        "estacion_id": "4c48bfa9-c326-454f-8f38-d989b6ff08dd",
+        "responsable_bp_id": "ececaf57-8526-419e-9dfe-ac31324ecde8",
+        "activo": true,
+        "creado_en": "2026-06-16T11:25:39.389344+00:00",
+        "legacy_id": "p1779391171195"
       },
       {
         "id": "c5a70b76-725f-4b7b-a83f-2cbf79461d28",
@@ -1072,40 +1072,16 @@
         "legacy_id": "p1779138869587"
       },
       {
-        "id": "c5f68702-6d75-40c9-8be2-f38bb985a5c9",
-        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
-        "nombre": "VERTIDOS",
-        "zona": "CENTRO",
-        "po": null,
-        "estacion_id": "dbe130ce-9050-4349-849f-d40de962f4e8",
-        "responsable_bp_id": "ececaf57-8526-419e-9dfe-ac31324ecde8",
-        "activo": true,
-        "creado_en": "2026-06-16T11:25:39.389344+00:00",
-        "legacy_id": "p1779140164516"
-      },
-      {
-        "id": "ed2f275e-f5c5-40ed-90eb-ca1f797c3d1a",
-        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
-        "nombre": "VERTIDOS",
-        "zona": "CENTRO",
-        "po": null,
-        "estacion_id": "0b2795b4-de61-4756-8472-0815a449a766",
-        "responsable_bp_id": "0d31ea79-7b68-4389-9316-f68d918e0edb",
-        "activo": true,
-        "creado_en": "2026-06-16T11:25:39.389344+00:00",
-        "legacy_id": "p1779131945230"
-      },
-      {
-        "id": "448de56b-e302-4af9-ba00-150b2d12d60f",
+        "id": "cedb0007-94f3-47a7-b35c-231077ded168",
         "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
         "nombre": "VERTIDOS",
         "zona": "CATALUÑA",
         "po": "3001321904",
-        "estacion_id": "f3512ddb-8584-40a3-ace1-4ce040f261f6",
+        "estacion_id": "47d2ed36-d4cf-4244-9db5-541ad02e829c",
         "responsable_bp_id": "10c094e3-c6e3-43ac-8a80-670b618de68f",
         "activo": true,
         "creado_en": "2026-06-16T11:25:39.389344+00:00",
-        "legacy_id": "p1779382081008"
+        "legacy_id": "p1779387982062"
       },
       {
         "id": "728fe971-df4e-4d78-92c6-f2e884047c0d",
@@ -1144,16 +1120,28 @@
         "legacy_id": "p1779387686938"
       },
       {
-        "id": "03dfd712-b4d1-46a4-bb33-5511abc6193f",
+        "id": "448de56b-e302-4af9-ba00-150b2d12d60f",
         "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
         "nombre": "VERTIDOS",
-        "zona": "BALEARES",
-        "po": null,
-        "estacion_id": "a62792dd-e6ba-46e2-9353-ef0f31737cd2",
-        "responsable_bp_id": "cc323490-3235-48e5-b06c-e4558bdee00a",
+        "zona": "CATALUÑA",
+        "po": "3001321904",
+        "estacion_id": "f3512ddb-8584-40a3-ace1-4ce040f261f6",
+        "responsable_bp_id": "10c094e3-c6e3-43ac-8a80-670b618de68f",
         "activo": true,
         "creado_en": "2026-06-16T11:25:39.389344+00:00",
-        "legacy_id": "p1780656834711"
+        "legacy_id": "p1779382081008"
+      },
+      {
+        "id": "ed2f275e-f5c5-40ed-90eb-ca1f797c3d1a",
+        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
+        "nombre": "VERTIDOS",
+        "zona": "CENTRO",
+        "po": null,
+        "estacion_id": "0b2795b4-de61-4756-8472-0815a449a766",
+        "responsable_bp_id": "0d31ea79-7b68-4389-9316-f68d918e0edb",
+        "activo": true,
+        "creado_en": "2026-06-16T11:25:39.389344+00:00",
+        "legacy_id": "p1779131945230"
       },
       {
         "id": "006d9aac-5e3f-4314-b472-f480941d226f",
@@ -1168,16 +1156,28 @@
         "legacy_id": "p1779131920309"
       },
       {
-        "id": "cedb0007-94f3-47a7-b35c-231077ded168",
+        "id": "03dfd712-b4d1-46a4-bb33-5511abc6193f",
         "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
         "nombre": "VERTIDOS",
-        "zona": "CATALUÑA",
-        "po": "3001321904",
-        "estacion_id": "47d2ed36-d4cf-4244-9db5-541ad02e829c",
-        "responsable_bp_id": "10c094e3-c6e3-43ac-8a80-670b618de68f",
+        "zona": "BALEARES",
+        "po": null,
+        "estacion_id": "a62792dd-e6ba-46e2-9353-ef0f31737cd2",
+        "responsable_bp_id": "cc323490-3235-48e5-b06c-e4558bdee00a",
         "activo": true,
         "creado_en": "2026-06-16T11:25:39.389344+00:00",
-        "legacy_id": "p1779387982062"
+        "legacy_id": "p1780656834711"
+      },
+      {
+        "id": "c5f68702-6d75-40c9-8be2-f38bb985a5c9",
+        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
+        "nombre": "VERTIDOS",
+        "zona": "CENTRO",
+        "po": null,
+        "estacion_id": "dbe130ce-9050-4349-849f-d40de962f4e8",
+        "responsable_bp_id": "ececaf57-8526-419e-9dfe-ac31324ecde8",
+        "activo": true,
+        "creado_en": "2026-06-16T11:25:39.389344+00:00",
+        "legacy_id": "p1779140164516"
       },
       {
         "id": "1cdb48d1-a738-4b2f-a02f-57fae79d8664",
@@ -4450,7 +4450,7 @@
         "codigo": "CF",
         "nombre": "C.C. CARREFOUR, S.A.",
         "nif": "A28425270",
-        "direccion_linea1": "Av. de la Transición Española, 36, 28108 - Alcobendas (Madrid), 28108 - Alcobendas (Madrid), 28108 - Alcobendas (Madrid), 28108 - Alcobendas (Madrid), 28108 - Alcobendas (Madrid), 28108 - Alcobendas (Madrid), 28108 - Alcobendas (Madrid), 28108 - Alcobendas (Madrid), 28108 - Alcobendas (Madrid)",
+        "direccion_linea1": "Av. de la Transición Española, 36, 28108 - Alcobendas (Madrid), 28108 - Alcobendas (Madrid), 28108 - Alcobendas (Madrid), 28108 - Alcobendas (Madrid), 28108 - Alcobendas (Madrid), 28108 - Alcobendas (Madrid), 28108 - Alcobendas (Madrid), 28108 - Alcobendas (Madrid), 28108 - Alcobendas (Madrid), 28108 - Alcobendas (Madrid)",
         "direccion_linea2": "28108 - Alcobendas (Madrid)",
         "cp": null,
         "ciudad": null,
@@ -4525,7 +4525,7 @@
         "codigo": "IVC1",
         "nombre": "IVC EVIDENSIA ASSETS S.L.U.",
         "nif": "B06874754",
-        "direccion_linea1": "Av. del Llano Castellano, 51, 28034 - Madrid (Madrid), 28034 - Madrid (Madrid), 28034 - Madrid (Madrid), 28034 - Madrid (Madrid), 28034 - Madrid (Madrid), 28034 - Madrid (Madrid), 28034 - Madrid (Madrid), 28034 - Madrid (Madrid), 28034 - Madrid (Madrid)",
+        "direccion_linea1": "Av. del Llano Castellano, 51, 28034 - Madrid (Madrid), 28034 - Madrid (Madrid), 28034 - Madrid (Madrid), 28034 - Madrid (Madrid), 28034 - Madrid (Madrid), 28034 - Madrid (Madrid), 28034 - Madrid (Madrid), 28034 - Madrid (Madrid), 28034 - Madrid (Madrid), 28034 - Madrid (Madrid)",
         "direccion_linea2": "28034 - Madrid (Madrid)",
         "cp": null,
         "ciudad": null,
