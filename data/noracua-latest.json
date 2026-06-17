@@ -1,5 +1,5 @@
 {
-  "fecha": "2026-06-17T11:24:42.129Z",
+  "fecha": "2026-06-17T11:30:23.087Z",
   "version": "2.8",
   "datos": {
     "na-v20-proyectos": [
@@ -970,7 +970,7 @@
         "zona": "CATALUÑA",
         "responsableBP": "",
         "estacion": "BP EL CORB",
-        "clienteId": "",
+        "clienteId": "cl1781695600182",
         "id": "p1781687205435",
         "creadoEn": "2026-06-17T09:06:45.435Z",
         "creadoPor": "Jordi Santos"
@@ -2096,7 +2096,8 @@
             "_capFiltro": "7",
             "certifEnviada": true,
             "certifEnviadaAt": "2026-06-16T07:57:57.092Z",
-            "cantCertif": 1
+            "cantCertif": 1,
+            "certifAprobada": true
           }
         ]
       },
@@ -8885,6 +8886,22 @@
         "conceptoCliente": "",
         "formaPago": "Según contrato",
         "id": "cl1780068226069"
+      },
+      {
+        "nombre": "INMOBILIARIA Y AGRARIA CATALANA, S.L.",
+        "nif": "B58762311",
+        "codigoRef": "BP",
+        "direccion": "Carrer Bosch i Gimpera",
+        "poblacion": "08034 - Barcelona (Barcelona)",
+        "iban": "ES45 3025 0003 9914 3335 4334",
+        "emailFact": "",
+        "diasVto": 30,
+        "metodoPago": "Transferencia bancaria",
+        "serieDefecto": "DR",
+        "ivaDefecto": 21,
+        "conceptoCliente": "",
+        "formaPago": "Según contrato",
+        "id": "cl1781695600182"
       }
     ],
     "na-v20-trabajadores": [
