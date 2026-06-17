@@ -1,5 +1,5 @@
 {
-  "fecha": "2026-06-17T07:58:28.437Z",
+  "fecha": "2026-06-17T08:05:10.892Z",
   "version": "2.8",
   "datos": {
     "na-v20-proyectos": [
@@ -2026,7 +2026,11 @@
             "observaciones": "Proyecto de adecuaciones (mejoras, pago automático e imagen) IP04 y REBT"
           }
         ],
-        "searchPr": ""
+        "searchPr": "",
+        "ofertaCodigos": [
+          "022-26"
+        ],
+        "ofertaCodigo": "022-26"
       },
       {
         "proyectoId": "p1780477263512",
@@ -2085,7 +2089,8 @@
             "_capFiltro": "7",
             "certifEnviada": true,
             "certifEnviadaAt": "2026-06-16T07:57:57.092Z",
-            "cantCertif": 1
+            "cantCertif": 1,
+            "certifAprobada": true
           }
         ]
       },
@@ -2208,7 +2213,9 @@
         "ofertaCodigos": [
           "030-26"
         ],
-        "certifOfertaAt": null
+        "certifOfertaAt": null,
+        "facturado": true,
+        "estadoCertif": "finalizado"
       },
       {
         "proyectoId": "p1780657008965",
@@ -3394,8 +3401,8 @@
         "serieId": "s01",
         "numero": "DR029/26",
         "clienteId": "cl01",
-        "fecha": "2026-06-16",
-        "fechaVto": "2026-08-15",
+        "fecha": "2026-06-11",
+        "fechaVto": "2026-08-10",
         "diasVto": 60,
         "iban": "ES45 3025 0003 9914 3335 4334",
         "metodoPago": "Transferencia bancaria",
@@ -3421,7 +3428,8 @@
         ],
         "estado": "Enviada",
         "poRef": "3001344520",
-        "creadoEn": "2026-06-16T18:12:38.630Z"
+        "creadoEn": "2026-06-16T18:12:38.630Z",
+        "vencimiento": "10/08/26"
       },
       {
         "id": "f178103716540071306",
@@ -8824,7 +8832,6 @@
       }
     ],
     "na-v20-estaciones": [
-      ".BP FRAGA II",
       "BP ALELLA",
       "BP AV DAROCA",
       "BP BADALONA",
@@ -8835,6 +8842,8 @@
       "BP BILBAO AEROPUERTO",
       "BP BLANCO I",
       "BP BLANCO II",
+      "BP BRIVIESCA I",
+      "BP BRIVIESCA II",
       "BP BUFALVENT",
       "BP CA S'ESTRELLA",
       "BP CAN SOLÁ",
@@ -8904,11 +8913,6 @@
       "BP VILLAMANTA",
       "BP VÍA FAVENCIA",
       "BP VÍA NORTE",
-      "BRIVIESCA I",
-      "BRIVIESCA II",
-      "Bp FRAGA II",
-      "Bp NAVISAL",
-      "Bp Navisal",
       "CF DENIA",
       "CF SAGUNTO",
       "OFICINA"
@@ -8955,19 +8959,19 @@
         "empresa": "PETROSUPORT",
         "comentarios": "Trabajos en arqueta boca hombre. Verificación FASE II",
         "id": "hs_1781672770477",
-        "estado": "pendiente",
+        "estado": "aprobado",
         "creadoPor": "Carlos García",
         "fechaCreacion": "2026-06-17T05:06:10.477Z"
       },
       {
-        "site": "Bp NAVISAL",
+        "site": "BP NAVISAL",
         "tipoActividad": "Obra menor mantenimiento",
         "pctAuditoria": "100",
         "obraConSupervision": "Sí",
         "fecha": "2026-06-15",
         "horas": "9",
         "horasOrig": "9",
-        "horasAdmin": "9",
+        "horasAdmin": 10,
         "supervisor": "Carlos García",
         "encargo": "Guiomar Tuero",
         "zona": "CATALUÑA",
@@ -8976,19 +8980,19 @@
         "empresa": "Petrosuport",
         "comentarios": "Trabajos en arquetas. Pintado de instalación mecánica. Prueba de presión a tanque.",
         "id": "hs_1781598635910",
-        "estado": "pendiente",
+        "estado": "aprobado",
         "creadoPor": "Carlos García",
         "fechaCreacion": "2026-06-16T08:30:35.910Z"
       },
       {
-        "site": "Bp Navisal",
+        "site": "BP NAVISAL",
         "tipoActividad": "Obra menor mantenimiento",
         "pctAuditoria": "100",
         "obraConSupervision": "Sí",
         "fecha": "2026-06-12",
         "horas": "8",
         "horasOrig": "8",
-        "horasAdmin": "8",
+        "horasAdmin": 9,
         "supervisor": "Carlos García",
         "encargo": "Guiomar Tuero",
         "zona": "CATALUÑA",
@@ -8997,12 +9001,12 @@
         "empresa": "Petrosuport",
         "comentarios": "Trabajos en arqueta boca hombre",
         "id": "hs_1781280915981",
-        "estado": "pendiente",
+        "estado": "aprobado",
         "creadoPor": "Carlos García",
         "fechaCreacion": "2026-06-12T16:15:15.981Z"
       },
       {
-        "site": "BP Navisal",
+        "site": "BP NAVISAL",
         "tipoActividad": "Obra menor mantenimiento",
         "pctAuditoria": "100",
         "obraConSupervision": "Sí",
@@ -9018,7 +9022,7 @@
         "empresa": "Petrosuport",
         "comentarios": "Trabajos en arquetas boca hombre tanques",
         "id": "hs_1781280834755",
-        "estado": "pendiente",
+        "estado": "aprobado",
         "creadoPor": "Carlos García",
         "fechaCreacion": "2026-06-12T16:13:54.755Z"
       },
