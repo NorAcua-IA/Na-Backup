@@ -1,5 +1,5 @@
 {
-  "fecha": "2026-06-17T04:53:45.983Z",
+  "fecha": "2026-06-17T05:32:35.034Z",
   "version": "2.8",
   "datos": {
     "na-v20-proyectos": [
@@ -2348,6 +2348,60 @@
         ]
       },
       {
+        "proyectoId": "p1779132004672",
+        "conceptoId": "1.8",
+        "trabajador": "Jordi Santos",
+        "fecha": "2026-06-10",
+        "observaciones": "Grupo: 2 actividades",
+        "cantidad": 1,
+        "capFiltro": "6",
+        "id": "r1781104896753",
+        "estado": "pendiente",
+        "precioManual": null,
+        "createdAt": "2026-06-10T15:21:36.753Z",
+        "creadoPor": "Daniel",
+        "esGrupo": true,
+        "lineasGrupo": [
+          {
+            "conceptoId": "1.8",
+            "cantidad": 1,
+            "observaciones": ""
+          },
+          {
+            "conceptoId": "6.1",
+            "cantidad": 1,
+            "observaciones": ""
+          }
+        ]
+      },
+      {
+        "proyectoId": "p1779812747902",
+        "conceptoId": "7.7",
+        "trabajador": "Jordi Santos",
+        "fecha": "2026-06-11",
+        "observaciones": "Grupo: 2 actividades",
+        "cantidad": 1,
+        "searchPr": "SAN PEDRO MI",
+        "id": "r1781165327113",
+        "estado": "pendiente",
+        "precioManual": null,
+        "createdAt": "2026-06-11T08:08:47.113Z",
+        "creadoPor": "Jordi Santos",
+        "esGrupo": true,
+        "lineasGrupo": [
+          {
+            "conceptoId": "7.7",
+            "cantidad": 1,
+            "observaciones": "Solicitud nueva acometida eléctrica con distribuidora"
+          },
+          {
+            "conceptoId": "1.18",
+            "cantidad": 1,
+            "observaciones": "Memoria eléctrica descriptiva para nueva acometida"
+          }
+        ]
+      },
+      {
         "proyectoId": "p1781165660956",
         "conceptoId": "7.6",
         "trabajador": "Jordi Santos",
@@ -3385,6 +3439,34 @@
         "estadoCertif": "finalizado",
         "facturado": true,
         "facturaRef": "DR028/26"
+      },
+      {
+        "proyectoId": "p1779132004672",
+        "conceptoId": "1.8",
+        "trabajador": "Daniel",
+        "fecha": "2026-06-07",
+        "observaciones": "Grupo: 2 actividades",
+        "cantidad": 1,
+        "capFiltro": "6",
+        "id": "r1780837308981",
+        "estado": "rechazado",
+        "precioManual": null,
+        "createdAt": "2026-06-07T13:01:48.981Z",
+        "creadoPor": "Daniel",
+        "esGrupo": true,
+        "lineasGrupo": [
+          {
+            "conceptoId": "1.8",
+            "cantidad": 1,
+            "observaciones": "",
+            "descuento": 20
+          },
+          {
+            "conceptoId": "6.1",
+            "cantidad": 1,
+            "observaciones": ""
+          }
+        ]
       }
     ],
     "na-v21-facturas": [
@@ -8874,6 +8956,7 @@
       "BP MONTSENY",
       "BP MONTSERRAT CIBRIÁN",
       "BP NAVISAL",
+      "BP Navisal",
       "BP OLABERRÍA",
       "BP PARADA LA CREU",
       "BP PLANAMAR",
@@ -8895,6 +8978,7 @@
       "BP TORREJÓN LOECHES",
       "BP TRÁPAGA",
       "BP VALDONAIRE",
+      "BP VIA FAVENCIA",
       "BP VILADECANS",
       "BP VILANOVA (AV. BALMES)",
       "BP VILANOVA II",
@@ -8905,6 +8989,7 @@
       "BRIVIESCA I",
       "BRIVIESCA II",
       "Bp FRAGA II",
+      "Bp NAVISAL",
       "Bp Navisal",
       "CF DENIA",
       "CF SAGUNTO",
@@ -8936,35 +9021,56 @@
     ],
     "na-v25-hsse-sups": [
       {
-        "site": "BP BADANOR",
-        "tipoActividad": "Obra mayor",
-        "pctAuditoria": "",
+        "site": "BP VIA FAVENCIA",
+        "tipoActividad": "Obra menor mantenimiento",
+        "pctAuditoria": ".100",
         "obraConSupervision": "Sí",
         "fecha": "2026-06-16",
-        "horas": "4",
-        "horasOrig": "4",
-        "horasAdmin": "4",
-        "supervisor": "Jordi Santos",
-        "encargo": "Josep Seijo",
+        "horas": "8",
+        "horasOrig": "8",
+        "horasAdmin": "8",
+        "supervisor": "Carlos García",
+        "encargo": "Guiomar Tuero",
         "zona": "CATALUÑA",
         "incidencias": "No",
-        "motivoSupervision": "",
-        "empresa": "ISTOBAL",
-        "comentarios": "Montaje cerramientos edificio lavado",
-        "id": "hs_1781633373109",
-        "estado": "anulado",
-        "creadoPor": "admin",
-        "fechaCreacion": "2026-06-16T18:09:33.109Z"
+        "motivoSupervision": "Entrada en espacios confinados",
+        "empresa": "PETROSUPORT",
+        "comentarios": "Trabajos en arqueta boca hombre. Verificación FASE II",
+        "id": "hs_1781672770477",
+        "estado": "pendiente",
+        "creadoPor": "Carlos García",
+        "fechaCreacion": "2026-06-17T05:06:10.477Z"
       },
       {
-        "site": "BP NAVISAL",
+        "site": "Bp NAVISAL",
+        "tipoActividad": "Obra menor mantenimiento",
+        "pctAuditoria": "100",
+        "obraConSupervision": "Sí",
+        "fecha": "2026-06-15",
+        "horas": "9",
+        "horasOrig": "9",
+        "horasAdmin": "9",
+        "supervisor": "Carlos García",
+        "encargo": "Guiomar Tuero",
+        "zona": "CATALUÑA",
+        "incidencias": "No",
+        "motivoSupervision": "Entrada en espacios confinados",
+        "empresa": "Petrosuport",
+        "comentarios": "Trabajos en arquetas. Pintado de instalación mecánica. Prueba de presión a tanque.",
+        "id": "hs_1781598635910",
+        "estado": "pendiente",
+        "creadoPor": "Carlos García",
+        "fechaCreacion": "2026-06-16T08:30:35.910Z"
+      },
+      {
+        "site": "Bp Navisal",
         "tipoActividad": "Obra menor mantenimiento",
         "pctAuditoria": "100",
         "obraConSupervision": "Sí",
         "fecha": "2026-06-12",
         "horas": "8",
         "horasOrig": "8",
-        "horasAdmin": 9,
+        "horasAdmin": "8",
         "supervisor": "Carlos García",
         "encargo": "Guiomar Tuero",
         "zona": "CATALUÑA",
@@ -8973,12 +9079,12 @@
         "empresa": "Petrosuport",
         "comentarios": "Trabajos en arqueta boca hombre",
         "id": "hs_1781280915981",
-        "estado": "aprobado",
+        "estado": "pendiente",
         "creadoPor": "Carlos García",
         "fechaCreacion": "2026-06-12T16:15:15.981Z"
       },
       {
-        "site": "BP NAVISAL",
+        "site": "BP Navisal",
         "tipoActividad": "Obra menor mantenimiento",
         "pctAuditoria": "100",
         "obraConSupervision": "Sí",
@@ -8994,7 +9100,7 @@
         "empresa": "Petrosuport",
         "comentarios": "Trabajos en arquetas boca hombre tanques",
         "id": "hs_1781280834755",
-        "estado": "aprobado",
+        "estado": "pendiente",
         "creadoPor": "Carlos García",
         "fechaCreacion": "2026-06-12T16:13:54.755Z"
       },
@@ -9020,7 +9126,7 @@
         "fechaCreacion": "2026-06-10T19:36:39.261Z"
       },
       {
-        "site": "BP FRAGA II",
+        "site": "Bp FRAGA II",
         "tipoActividad": "Obra menor mantenimiento",
         "pctAuditoria": "100",
         "obraConSupervision": "Sí",
@@ -10194,6 +10300,27 @@
         "estadoFact": "facturado",
         "creadoEn": "2026-05-25T08:00:00.000Z",
         "po": "3001322306"
+      },
+      {
+        "site": "BP BADANOR",
+        "tipoActividad": "Obra mayor",
+        "pctAuditoria": "",
+        "obraConSupervision": "Sí",
+        "fecha": "2026-06-16",
+        "horas": "4",
+        "horasOrig": "4",
+        "horasAdmin": "4",
+        "supervisor": "Jordi Santos",
+        "encargo": "Josep Seijo",
+        "zona": "CATALUÑA",
+        "incidencias": "No",
+        "motivoSupervision": "",
+        "empresa": "ISTOBAL",
+        "comentarios": "Montaje cerramientos edificio lavado",
+        "id": "hs_1781633373109",
+        "estado": "anulado",
+        "creadoPor": "admin",
+        "fechaCreacion": "2026-06-16T18:09:33.109Z"
       }
     ],
     "na-v25-hsse-cfg": {
