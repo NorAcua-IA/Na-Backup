@@ -1,5 +1,5 @@
 {
-  "fecha": "2026-06-18T09:00:07.042Z",
+  "fecha": "2026-06-18T09:02:33.248Z",
   "version": "2.8",
   "datos": {
     "na-v20-proyectos": [
@@ -2252,7 +2252,9 @@
         "ofertaCodigos": [
           "030-26"
         ],
-        "certifOfertaAt": null
+        "certifOfertaAt": null,
+        "facturado": true,
+        "estadoCertif": "finalizado"
       },
       {
         "proyectoId": "p1780657008965",
