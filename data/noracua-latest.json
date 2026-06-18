@@ -1,5 +1,5 @@
 {
-  "fecha": "2026-06-18T07:44:31.134Z",
+  "fecha": "2026-06-18T08:26:51.377Z",
   "version": "2.8",
   "datos": {
     "na-v20-proyectos": [
@@ -2129,8 +2129,7 @@
             "_capFiltro": "7",
             "certifEnviada": true,
             "certifEnviadaAt": "2026-06-16T07:57:57.092Z",
-            "cantCertif": 1,
-            "certifAprobada": true
+            "cantCertif": 1
           }
         ]
       },
@@ -2159,11 +2158,7 @@
             "cantidad": 1,
             "observaciones": "Aporte de pago de tasas y fianza"
           }
-        ],
-        "ofertaCodigos": [
-          "034-26"
-        ],
-        "ofertaCodigo": "034-26"
+        ]
       },
       {
         "proyectoId": "p1780566256406",
@@ -2257,9 +2252,7 @@
         "ofertaCodigos": [
           "030-26"
         ],
-        "certifOfertaAt": null,
-        "facturado": true,
-        "estadoCertif": "finalizado"
+        "certifOfertaAt": null
       },
       {
         "proyectoId": "p1780657008965",
@@ -2364,11 +2357,7 @@
             "precioManual": null,
             "_capFiltro": "1"
           }
-        ],
-        "ofertaCodigos": [
-          "036-26"
-        ],
-        "ofertaCodigo": "036-26"
+        ]
       },
       {
         "proyectoId": "p1779139986725",
@@ -2419,18 +2408,16 @@
         "cantidad": 1,
         "searchPr": "falua",
         "id": "r1781165699984",
-        "estado": "aprobado",
+        "estado": "pendiente",
         "precioManual": null,
         "createdAt": "2026-06-11T08:14:59.984Z",
         "creadoPor": "Jordi Santos",
         "esGrupo": true,
         "lineasGrupo": [
           {
-            "conceptoId": "4.3",
+            "conceptoId": "7.6",
             "cantidad": 1,
-            "observaciones": "Solicitud viabilidad conexion a red de agua y alcantarillado con el Canal de Isabel II",
-            "_capFiltro": "4",
-            "descuento": 30
+            "observaciones": "Solicitud viabilidad conexion a red de agua y alcantarillado con el Canal de Isabel II"
           }
         ]
       },
@@ -2451,10 +2438,9 @@
         "esGrupo": true,
         "lineasGrupo": [
           {
-            "conceptoId": "1.5",
+            "conceptoId": "1.16",
             "cantidad": 1,
-            "observaciones": "Memoria valorada para Ayuntamiento",
-            "descuento": 50
+            "observaciones": "Memoria valorada para Ayuntamiento"
           },
           {
             "conceptoId": "7.2",
@@ -2466,11 +2452,7 @@
             "cantidad": 1,
             "observaciones": "Licencia de carreteras"
           }
-        ],
-        "ofertaCodigos": [
-          "035-26"
-        ],
-        "ofertaCodigo": "035-26"
+        ]
       },
       {
         "proyectoId": "p1781595067921",
@@ -2535,21 +2517,19 @@
         "esGrupo": true,
         "lineasGrupo": [
           {
-            "conceptoId": "7.6",
+            "conceptoId": "8.7",
             "cantidad": 1,
-            "observaciones": "Recopilación documentación técnica para proyecto",
-            "_capFiltro": "7"
+            "observaciones": "Recopilación documentación técnica para proyecto"
           },
           {
-            "conceptoId": "7.6",
+            "conceptoId": "6.5",
             "cantidad": 2,
-            "observaciones": "Consulta previa trámite en Ayuntamiento, solicitud vista/copia expediente ",
-            "_capFiltro": "7"
+            "observaciones": "Consulta previa trámite en Ayuntamiento, solicitud vista/copia expediente "
           },
           {
-            "conceptoId": "6.1",
-            "cantidad": 2,
-            "observaciones": "Visita en Ayuntamiento con Arquitecto municipal, toma de datos ES"
+            "conceptoId": "6.9",
+            "cantidad": 1,
+            "observaciones": "Visita en Ayuntamiento con Arquitecto municipal"
           },
           {
             "conceptoId": "7.6",
@@ -2557,24 +2537,14 @@
             "observaciones": "Consulta previa trámite sin recicladora (comunicación previa)"
           },
           {
-            "conceptoId": "1.5",
+            "conceptoId": "1.8",
             "cantidad": 1,
-            "observaciones": "Memoria valorada con planos para Comunicación Previa",
-            "descuento": 35
+            "observaciones": "Memoria valorada con planos para Comunicación Previa"
           },
           {
             "conceptoId": "7.2",
             "cantidad": 1,
-            "observaciones": "Tramitación Comunicación Previa de Obra"
-          },
-          {
-            "id": "lg_1781710753587",
-            "conceptoId": "4.1",
-            "cantidad": 1,
-            "observaciones": "",
-            "precioManual": null,
-            "_capFiltro": "4",
-            "descuento": 35
+            "observaciones": "Tramitación Comunicació Previa de Obra"
           }
         ]
       },
@@ -2617,7 +2587,7 @@
         "esGrupo": true,
         "lineasGrupo": [
           {
-            "conceptoId": "6.1",
+            "conceptoId": "6.9",
             "cantidad": 1,
             "observaciones": "Visita con contratista para presupuesto con replanteo"
           },
@@ -2626,11 +2596,7 @@
             "cantidad": 1,
             "observaciones": "Control trabajos con visita final de obra"
           }
-        ],
-        "ofertaCodigos": [
-          "032-26"
-        ],
-        "ofertaCodigo": "032-26"
+        ]
       },
       {
         "proyectoId": "p1779138810443",
@@ -11083,14 +11049,14 @@
     ],
     "na-v20-historico": [
       {
-        "id": "inf1780495505745",
+        "id": "inf1781020264555",
         "nom": "INF-Global(250801-260531)",
         "tipo": "periodo",
         "proyNombre": "Todos los proyectos",
         "periodo": "01/08/25 → 31/05/26",
-        "estado": "borrador",
-        "creadoEn": "2026-06-03T14:05:05.745Z",
-        "importeTotal": 32023.8,
+        "estado": "facturado",
+        "creadoEn": "2026-06-09T15:51:04.555Z",
+        "importeTotal": 31783.8,
         "proyectoId": null,
         "regIds": [
           "r1779184072093",
@@ -11112,48 +11078,11 @@
           "r1779391358989",
           "r1779392240842",
           "r1779393473054",
-          "r1779438583370",
           "r1779812807169",
           "r1779904582618",
           "r1779971954794"
         ],
-        "_htmlStripped": true
-      },
-      {
-        "id": "inf1780432778078",
-        "nom": "INF-Global(250801-260531)",
-        "tipo": "periodo",
-        "proyNombre": "Todos los proyectos",
-        "periodo": "01/08/25 → 31/05/26",
-        "estado": "enviado",
-        "creadoEn": "2026-06-02T20:39:38.078Z",
-        "importeTotal": 32023.8,
-        "proyectoId": null,
-        "regIds": [
-          "r1779184072093",
-          "r1779185491112",
-          "r1779185537188",
-          "r1779382900916",
-          "r1779385727831",
-          "r1779386014804",
-          "r1779386188218",
-          "r1779386510550",
-          "r1779386904618",
-          "r1779387335704",
-          "r1779387564130",
-          "r1779387769358",
-          "r1779388094641",
-          "r1779388216692",
-          "r1779388851027",
-          "r1779389240174",
-          "r1779391358989",
-          "r1779392240842",
-          "r1779393473054",
-          "r1779438583370",
-          "r1779812807169",
-          "r1779904582618",
-          "r1779971954794"
-        ],
+        "facturaRef": "DR028/26",
         "_htmlStripped": true
       }
     ],
