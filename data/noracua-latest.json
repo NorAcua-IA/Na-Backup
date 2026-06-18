@@ -1,5 +1,5 @@
 {
-  "fecha": "2026-06-18T10:57:01.858Z",
+  "fecha": "2026-06-18T10:58:01.568Z",
   "version": "2.8",
   "datos": {
     "na-v20-proyectos": [
@@ -933,11 +933,11 @@
         "id": "p1781719085766"
       },
       {
-        "nombre": "CAMBIO TITULAR CAFETERIA BP MARIA",
+        "nombre": "CAMBIO TITULARIDAD",
         "po": "",
         "zona": "CENTRO",
         "responsableBP": "Eduardo González",
-        "estacion": "BP ALELLA",
+        "estacion": "BP MARÍA",
         "clienteId": "cl01",
         "id": "p1781778973177",
         "creadoEn": "2026-06-18T10:36:13.177Z",
@@ -9390,6 +9390,7 @@
       "BP LOSADA",
       "BP MARESME",
       "BP MARTORELL",
+      "BP MARÍA",
       "BP MATAS BLANCAS",
       "BP MEQUINENZA",
       "BP MONTECANAL",
