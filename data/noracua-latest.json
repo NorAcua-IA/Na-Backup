@@ -1,5 +1,5 @@
 {
-  "fecha": "2026-06-19T09:55:20.448Z",
+  "fecha": "2026-06-19T09:55:56.354Z",
   "version": "2.8",
   "datos": {
     "na-v20-proyectos": [
@@ -958,7 +958,7 @@
         "nombre": "IPS ",
         "po": "",
         "zona": "CATALUÑA",
-        "responsableBP": "",
+        "responsableBP": "Joan Rafecas",
         "estacion": "BP RIBAS LA COMETA",
         "clienteId": "cl1780068226069",
         "id": "p1781862914242",
@@ -9345,6 +9345,10 @@
       },
       {
         "nombre": "Borja Nobell",
+        "sexo": "M"
+      },
+      {
+        "nombre": "Joan Rafecas",
         "sexo": "M"
       }
     ],
