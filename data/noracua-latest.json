@@ -1,5 +1,5 @@
 {
-  "fecha": "2026-06-19T11:36:28.644Z",
+  "fecha": "2026-06-19T13:36:30.108Z",
   "version": "2.8",
   "datos": {
     "na-v20-proyectos": [
@@ -3654,7 +3654,7 @@
         "cantidad": 1,
         "capFiltro": "7",
         "id": "r1781868597052",
-        "estado": "pendiente",
+        "estado": "aprobado",
         "precioManual": null,
         "createdAt": "2026-06-19T11:29:57.052Z",
         "creadoPor": "Daniel",
@@ -7121,7 +7121,7 @@
         "firmanteCliente": "D. Joan Rafecas",
         "firmanteNorAcua": "D. Daniel Romero",
         "formaPago": "Según contrato",
-        "estado": "Enviada",
+        "estado": "Aceptada",
         "nota": "",
         "lineas": [
           {
@@ -7136,7 +7136,8 @@
         ],
         "proyectoId": "p1781862914242",
         "propuestaPor": null,
-        "creadoEn": "2026-06-19T09:59:04.854Z"
+        "creadoEn": "2026-06-19T09:59:04.854Z",
+        "po": ""
       },
       {
         "id": "o1781720319118",
