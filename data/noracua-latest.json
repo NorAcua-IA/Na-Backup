@@ -1,5 +1,5 @@
 {
-  "fecha": "2026-06-19T10:31:57.061Z",
+  "fecha": "2026-06-19T11:20:40.156Z",
   "version": "2.8",
   "datos": {
     "na-v20-proyectos": [
@@ -974,6 +974,17 @@
         "clienteId": "cl01",
         "id": "p1781865110967",
         "creadoEn": "2026-06-19T10:31:50.967Z",
+        "creadoPor": "Daniel"
+      },
+      {
+        "nombre": "DEMOLICIÓN CAFETERIA ",
+        "po": "",
+        "zona": "CENTRO",
+        "responsableBP": "Raquel Martínez",
+        "estacion": "BP CABAÑAS MD",
+        "clienteId": "cl01",
+        "id": "p1781868033842",
+        "creadoEn": "2026-06-19T11:20:33.842Z",
         "creadoPor": "Daniel"
       }
     ],
@@ -2449,21 +2460,23 @@
         "cantidad": 1,
         "searchPr": "montig",
         "id": "r1781595344777",
-        "estado": "pendiente",
+        "estado": "aprobado",
         "precioManual": null,
         "createdAt": "2026-06-16T07:35:44.777Z",
         "creadoPor": "Jordi Santos",
         "esGrupo": true,
         "lineasGrupo": [
           {
-            "conceptoId": "2.8",
+            "conceptoId": "6.1",
             "cantidad": 1,
-            "observaciones": "Recopilación documentación previo inspección"
+            "observaciones": "Recopilación documentación previo inspección",
+            "_capFiltro": "6"
           },
           {
-            "conceptoId": "2.3",
+            "conceptoId": "2.8",
             "cantidad": 1,
-            "observaciones": "Control Periódico Ambiental (coste EAC)"
+            "observaciones": "Control Periódico Ambiental (coste EAC)",
+            "precioManual": 1750
           },
           {
             "conceptoId": "6.9",
@@ -2476,14 +2489,40 @@
             "observaciones": "Gestión de deficiencias"
           },
           {
-            "conceptoId": "2.3",
-            "cantidad": 1,
-            "observaciones": "Realización de IPS"
-          },
-          {
             "conceptoId": "2.8",
             "cantidad": 1,
-            "observaciones": "Inventario simplificado de Alumbrado Exterior"
+            "observaciones": "Realización de IPS",
+            "precioManual": 750
+          },
+          {
+            "conceptoId": "2.3",
+            "cantidad": 1,
+            "observaciones": "Inventario simplificado de Alumbrado Exterior",
+            "descuento": 50
+          },
+          {
+            "id": "lg_1781866408042",
+            "conceptoId": "7.6",
+            "cantidad": 1,
+            "observaciones": "Solicitud vista y copia del expediente municipal",
+            "precioManual": null,
+            "_capFiltro": "7"
+          },
+          {
+            "id": "lg_1781866449365",
+            "conceptoId": "7.6",
+            "cantidad": 1,
+            "observaciones": "Contestación requerimientos ACA",
+            "precioManual": null,
+            "_capFiltro": "7"
+          },
+          {
+            "id": "lg_1781866473764",
+            "conceptoId": "7.6",
+            "cantidad": 1,
+            "observaciones": "Registro acta favorable en el ayuntamiento",
+            "precioManual": null,
+            "_capFiltro": "7"
           }
         ]
       },
@@ -2504,12 +2543,6 @@
         "lineasGrupo": [
           {
             "conceptoId": "7.6",
-            "cantidad": 1,
-            "observaciones": "Recopilación documentación técnica para proyecto",
-            "_capFiltro": "7"
-          },
-          {
-            "conceptoId": "7.6",
             "cantidad": 2,
             "observaciones": "Consulta previa trámite en Ayuntamiento, solicitud vista/copia expediente ",
             "_capFiltro": "7"
@@ -2525,10 +2558,10 @@
             "observaciones": "Consulta previa trámite sin recicladora (comunicación previa)"
           },
           {
-            "conceptoId": "1.5",
+            "conceptoId": "1.8",
             "cantidad": 1,
             "observaciones": "Memoria valorada con planos para Comunicación Previa",
-            "descuento": 35
+            "descuento": 0
           },
           {
             "conceptoId": "7.2",
@@ -2544,7 +2577,11 @@
             "_capFiltro": "4",
             "descuento": 35
           }
-        ]
+        ],
+        "ofertaCodigos": [
+          "041-26"
+        ],
+        "ofertaCodigo": "041-26"
       },
       {
         "proyectoId": "p1779137795530",
@@ -3581,6 +3618,32 @@
         "estadoCertif": "finalizado",
         "facturado": true,
         "facturaRef": "DR028/26"
+      },
+      {
+        "proyectoId": "p1781865110967",
+        "conceptoId": "7.6",
+        "trabajador": "Daniel Romero",
+        "fecha": "2026-06-19",
+        "observaciones": "Grupo: 1 actividades",
+        "cantidad": 1,
+        "capFiltro": "7",
+        "id": "r1781865131502",
+        "estado": "aprobado",
+        "precioManual": null,
+        "createdAt": "2026-06-19T10:32:11.502Z",
+        "creadoPor": "Daniel",
+        "esGrupo": true,
+        "lineasGrupo": [
+          {
+            "conceptoId": "7.6",
+            "cantidad": 1,
+            "observaciones": "Consulta técnico Sanidad problema techos",
+            "certifAprobada": true,
+            "certifEnviada": true,
+            "cantCertif": 1
+          }
+        ],
+        "estadoCertif": "finalizado"
       }
     ],
     "na-v21-facturas": [
@@ -6936,6 +6999,82 @@
     ],
     "na-v21-ofertas": [
       {
+        "id": "o1781865498794",
+        "numero": "041-26",
+        "clienteId": "cl01",
+        "proyectoId": "p1779137983090",
+        "zona": "CATALUÑA",
+        "po": "",
+        "asunto": "BP INSTALACIÓN LAVADOS",
+        "nombre": "Oferta LAVADOS",
+        "estado": "Enviada",
+        "version": 1,
+        "lineas": [
+          {
+            "id": "lo1781865446758nbcpxhphe9",
+            "conceptoId": "7.6",
+            "cantidad": 2,
+            "precioUnit": 240,
+            "descuento": 0,
+            "total": 480,
+            "comentario": "Consulta previa trámite en Ayuntamiento, solicitud vista/copia expediente "
+          },
+          {
+            "id": "lo1781865446758lvzd7snraf",
+            "conceptoId": "6.1",
+            "cantidad": 2,
+            "precioUnit": 405,
+            "descuento": 0,
+            "total": 810,
+            "comentario": "Visita en Ayuntamiento con Arquitecto municipal, toma de datos ES"
+          },
+          {
+            "id": "lo1781865446758zg7lpwmzpzi",
+            "conceptoId": "7.6",
+            "cantidad": 1,
+            "precioUnit": 240,
+            "descuento": 0,
+            "total": 240,
+            "comentario": "Consulta previa trámite sin recicladora (comunicación previa)"
+          },
+          {
+            "id": "lo1781865446758m9ls2w5xbx",
+            "conceptoId": "1.8",
+            "cantidad": 1,
+            "precioUnit": 1150,
+            "descuento": 0,
+            "total": 1150,
+            "comentario": "Memoria valorada con planos para Comunicación Previa"
+          },
+          {
+            "id": "lo1781865446758s0t8xim4nt",
+            "conceptoId": "7.2",
+            "cantidad": 1,
+            "precioUnit": 595,
+            "descuento": 0,
+            "total": 595,
+            "comentario": "Tramitación Comunicación Previa de Obra"
+          },
+          {
+            "id": "lo17818654467581ytapq1ki16",
+            "conceptoId": "4.1",
+            "cantidad": 1,
+            "precioUnit": 3125,
+            "descuento": 35,
+            "total": 2031.25,
+            "comentario": ""
+          }
+        ],
+        "firmante": "",
+        "firmanteCliente": "D. Josep Seijo",
+        "firmanteNorAcua": "D. Daniel Romero",
+        "formaPago": "Según contrato",
+        "fecha": "2026-06-19",
+        "creadoEn": "2026-06-19T10:38:18.794Z",
+        "referencia": "BP-IL-190626-v1",
+        "emplazamiento": "BP PLANAMAR"
+      },
+      {
         "id": "o1781863144854",
         "numero": "040-26",
         "asunto": "BP INFORME PRELIMINAR DE SUELOS PARA CONTROL AMBIENTAL",
@@ -9406,6 +9545,7 @@
       "BP BLANCO II",
       "BP BRIVIESCA I",
       "BP BRIVIESCA II",
+      "BP CABAÑAS MD",
       "BP CALDAS",
       "BP CALVET",
       "BP CAMPRODON",
@@ -9513,6 +9653,48 @@
       }
     ],
     "na-v25-hsse-sups": [
+      {
+        "site": "BP BLANCO II",
+        "tipoActividad": "Obra menor",
+        "pctAuditoria": "",
+        "obraConSupervision": "Sí",
+        "fecha": "2026-06-09",
+        "horas": "8",
+        "horasOrig": "8",
+        "horasAdmin": "8",
+        "supervisor": "Jesús Rodríguez",
+        "encargo": "Raquel Martínez",
+        "zona": "NORTE",
+        "incidencias": "No",
+        "motivoSupervision": "Excavaciones",
+        "empresa": "ELSAN",
+        "comentarios": "Obras adecuación venteos",
+        "id": "hs_1781866137380",
+        "estado": "anulado",
+        "creadoPor": "admin",
+        "fechaCreacion": "2026-06-19T10:48:57.380Z"
+      },
+      {
+        "site": "BP BLANCO II",
+        "tipoActividad": "Obra menor",
+        "pctAuditoria": "",
+        "obraConSupervision": "Sí",
+        "fecha": "2026-06-08",
+        "horas": "8",
+        "horasOrig": "8",
+        "horasAdmin": "8",
+        "supervisor": "Jesús Rodríguez",
+        "encargo": "Raquel Martínez",
+        "zona": "NORTE",
+        "incidencias": "No",
+        "motivoSupervision": "Excavaciones",
+        "empresa": "ELSAN",
+        "comentarios": "Obras adecuación venteos",
+        "id": "hs_1781866077312",
+        "estado": "anulado",
+        "creadoPor": "admin",
+        "fechaCreacion": "2026-06-19T10:47:57.312Z"
+      },
       {
         "site": "BP LA BÓBILA",
         "tipoActividad": "Obra menor mantenimiento",
