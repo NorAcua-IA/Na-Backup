@@ -1,5 +1,5 @@
 {
-  "fecha": "2026-06-19T09:36:38.989Z",
+  "fecha": "2026-06-19T09:55:20.448Z",
   "version": "2.8",
   "datos": {
     "na-v20-proyectos": [
@@ -953,6 +953,17 @@
         "id": "p1781779369909",
         "creadoEn": "2026-06-18T10:42:49.909Z",
         "creadoPor": "Yennyfer Lemus"
+      },
+      {
+        "nombre": "IPS ",
+        "po": "",
+        "zona": "CATALUÑA",
+        "responsableBP": "",
+        "estacion": "BP RIBAS LA COMETA",
+        "clienteId": "cl1780068226069",
+        "id": "p1781862914242",
+        "creadoEn": "2026-06-19T09:55:14.242Z",
+        "creadoPor": "Daniel"
       }
     ],
     "na-v20-registros": [
@@ -9410,6 +9421,7 @@
       "BP PUENTE SABIÑANIGO",
       "BP PUJADES",
       "BP REGUERAL",
+      "BP RIBAS LA COMETA",
       "BP RIBERA ALTA",
       "BP RIBERA BAJA",
       "BP RIPOLLET",
@@ -9431,6 +9443,8 @@
       "BP VALLGORGUINA",
       "BP VILAMARINA",
       "BP VILANOVA",
+      "BP VILANOVA II",
+      "OFICINA",
       "REPSOL CARLET"
     ],
     "na-v20-series": [
