@@ -1,5 +1,5 @@
 {
-  "fecha": "2026-06-19T18:42:45.647Z",
+  "fecha": "2026-06-19T18:44:05.572Z",
   "version": "2.8",
   "datos": {
     "na-v20-proyectos": [
@@ -3414,9 +3414,13 @@
           {
             "conceptoId": "7.6",
             "cantidad": 1,
-            "observaciones": "Solicitud cambio de titular Cafetería"
+            "observaciones": "Solicitud cambio de titular Cafetería",
+            "certifAprobada": true,
+            "certifEnviada": true,
+            "cantCertif": 1
           }
-        ]
+        ],
+        "estadoCertif": "finalizado"
       },
       {
         "proyectoId": "p1781779369909",
