@@ -1,5 +1,5 @@
 {
-  "fecha": "2026-06-19T09:55:56.354Z",
+  "fecha": "2026-06-19T10:30:59.093Z",
   "version": "2.8",
   "datos": {
     "na-v20-proyectos": [
@@ -6924,6 +6924,36 @@
       }
     ],
     "na-v21-ofertas": [
+      {
+        "id": "o1781863144854",
+        "numero": "040-26",
+        "asunto": "BP INFORME PRELIMINAR DE SUELOS PARA CONTROL AMBIENTAL",
+        "version": 1,
+        "referencia": "BP-IPDSPCA-190626-v1",
+        "fecha": "2026-06-19",
+        "emplazamiento": "BP RIBAS LA COMETA",
+        "zona": "CATALUÑA",
+        "clienteId": "cl1780068226069",
+        "firmanteCliente": "D. Joan Rafecas",
+        "firmanteNorAcua": "D. Daniel Romero",
+        "formaPago": "Según contrato",
+        "estado": "Enviada",
+        "nota": "",
+        "lineas": [
+          {
+            "id": "lo1781863013882",
+            "conceptoId": "2.8",
+            "cantidad": 1,
+            "precioUnit": 750,
+            "descuento": 0,
+            "total": 750,
+            "comentario": "Informe Preliminar de Suelos"
+          }
+        ],
+        "proyectoId": "p1781862914242",
+        "propuestaPor": null,
+        "creadoEn": "2026-06-19T09:59:04.854Z"
+      },
       {
         "id": "o1781720319118",
         "numero": "039-26",
