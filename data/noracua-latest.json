@@ -1,5 +1,5 @@
 {
-  "fecha": "2026-06-20T21:09:26.244Z",
+  "fecha": "2026-06-20T21:36:47.400Z",
   "version": "3.0",
   "datos": {
     "proyectos": [
@@ -4119,22 +4119,28 @@
     ],
     "ofertas": [
       {
-        "id": "1eda3625-34cd-498b-aae7-001d33b7b724",
-        "codigo": "039-26",
+        "id": "6e861df7-cd37-446a-aa55-47613fa2d2a7",
+        "codigo": "041-26",
         "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
-        "asunto": "BP TOPOGRÁFICO PARCELA LAVADOS",
+        "asunto": "BP INSTALACIÓN LAVADOS",
         "po": null,
-        "estado": "borrador",
-        "importe_total": null,
+        "estado": "activa",
+        "importe_total": 5306.25,
         "creado_por_id": "3e50e7e7-9fd7-4e53-9bf0-2bfd2d063f7f",
-        "creado_en": "2026-06-18T21:18:47.259582+00:00",
+        "creado_en": "2026-06-19T10:38:18.794+00:00",
         "metadatos": {
-          "ref": "BP-TPL-170626-v1",
-          "zona": "NORTE",
-          "fecha": "2026-06-17",
-          "estacion": "BP TRÁPAGA"
+          "zona": "CATALUÑA",
+          "fecha": "2026-06-19",
+          "nombre": "Oferta LAVADOS",
+          "version": 1,
+          "formaPago": "Según contrato",
+          "referencia": "BP-IL-190626-v1",
+          "emplazamiento": "BP PLANAMAR",
+          "firmanteCliente": "D. Josep Seijo",
+          "firmanteNorAcua": "D. Daniel Romero",
+          "proyectoIdLegacy": "p1779137983090"
         },
-        "legacy_id": null
+        "legacy_id": "o1781865498794"
       },
       {
         "id": "afe7fc21-8a75-4856-8c89-c9283e79cc47",
@@ -4202,17 +4208,20 @@
         "legacy_id": null
       },
       {
-        "id": "a6aa432d-d474-49e9-b355-ad69133b9923",
-        "codigo": "034-26",
+        "id": "1eda3625-34cd-498b-aae7-001d33b7b724",
+        "codigo": "039-26",
         "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
-        "asunto": "BP ADECUACIÓN VENTEOS",
+        "asunto": "BP TOPOGRÁFICO PARCELA LAVADOS",
         "po": null,
-        "estado": "activa",
+        "estado": "borrador",
         "importe_total": null,
         "creado_por_id": "3e50e7e7-9fd7-4e53-9bf0-2bfd2d063f7f",
         "creado_en": "2026-06-18T21:18:47.259582+00:00",
         "metadatos": {
-          "fecha": "2026-06-16"
+          "ref": "BP-TPL-170626-v1",
+          "zona": "NORTE",
+          "fecha": "2026-06-17",
+          "estacion": "BP TRÁPAGA"
         },
         "legacy_id": null
       },
@@ -4263,17 +4272,19 @@
         "legacy_id": null
       },
       {
-        "id": "bcb7198a-e26b-4140-98ee-0385b4e88468",
-        "codigo": "021-26",
+        "id": "a6aa432d-d474-49e9-b355-ad69133b9923",
+        "codigo": "034-26",
         "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
-        "asunto": "BP IMPLANTACIÓN PARA LAVADOS",
-        "po": "3001341277",
-        "estado": "cerrada",
+        "asunto": "BP ADECUACIÓN VENTEOS",
+        "po": null,
+        "estado": "activa",
         "importe_total": null,
         "creado_por_id": "3e50e7e7-9fd7-4e53-9bf0-2bfd2d063f7f",
-        "creado_en": "2026-06-16T13:39:49.533974+00:00",
-        "metadatos": null,
-        "legacy_id": "o1779144271044"
+        "creado_en": "2026-06-18T21:18:47.259582+00:00",
+        "metadatos": {
+          "fecha": "2026-06-16"
+        },
+        "legacy_id": null
       },
       {
         "id": "ea233e40-3fea-4727-a303-d817cdd20b0e",
@@ -4406,17 +4417,17 @@
         "legacy_id": "of_009_26"
       },
       {
-        "id": "42d5355e-4647-45f8-b1fb-3172650a25d5",
-        "codigo": "025-26",
+        "id": "2796bfac-3a53-45c6-8fad-9230119b3c08",
+        "codigo": "010-26",
         "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
-        "asunto": "BP PROYECTO Y LICENCIAS PARA CAMBIO DE SHC",
-        "po": null,
-        "estado": "pendiente",
+        "asunto": "BP PROYECTO CAMBIO VENTEOS ES BLANCO II",
+        "po": "3001326128",
+        "estado": "facturada",
         "importe_total": null,
         "creado_por_id": "3e50e7e7-9fd7-4e53-9bf0-2bfd2d063f7f",
         "creado_en": "2026-06-16T13:39:49.533974+00:00",
         "metadatos": null,
-        "legacy_id": "o1779719628499"
+        "legacy_id": "of_010_26"
       },
       {
         "id": "f09dac1c-f6b4-4deb-92f1-1bfd1b100bb4",
@@ -4471,17 +4482,17 @@
         "legacy_id": "of_018_26"
       },
       {
-        "id": "fc041699-e13c-4a6c-91ba-5be2534c5f4b",
-        "codigo": "011-26",
+        "id": "42d5355e-4647-45f8-b1fb-3172650a25d5",
+        "codigo": "025-26",
         "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
-        "asunto": "BP MONITORIZACIÓN MURO ES VÍA NORTE",
-        "po": "3001326125",
-        "estado": "facturada",
+        "asunto": "BP PROYECTO Y LICENCIAS PARA CAMBIO DE SHC",
+        "po": null,
+        "estado": "pendiente",
         "importe_total": null,
         "creado_por_id": "3e50e7e7-9fd7-4e53-9bf0-2bfd2d063f7f",
         "creado_en": "2026-06-16T13:39:49.533974+00:00",
         "metadatos": null,
-        "legacy_id": "of_011_26"
+        "legacy_id": "o1779719628499"
       },
       {
         "id": "4c284a13-ff32-4a94-9bd4-58e094515645",
@@ -4549,17 +4560,17 @@
         "legacy_id": "of_017_26"
       },
       {
-        "id": "2796bfac-3a53-45c6-8fad-9230119b3c08",
-        "codigo": "010-26",
+        "id": "fc041699-e13c-4a6c-91ba-5be2534c5f4b",
+        "codigo": "011-26",
         "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
-        "asunto": "BP PROYECTO CAMBIO VENTEOS ES BLANCO II",
-        "po": "3001326128",
+        "asunto": "BP MONITORIZACIÓN MURO ES VÍA NORTE",
+        "po": "3001326125",
         "estado": "facturada",
         "importe_total": null,
         "creado_por_id": "3e50e7e7-9fd7-4e53-9bf0-2bfd2d063f7f",
         "creado_en": "2026-06-16T13:39:49.533974+00:00",
         "metadatos": null,
-        "legacy_id": "of_010_26"
+        "legacy_id": "of_011_26"
       },
       {
         "id": "3545d2d4-dbb9-419c-a216-0b3114a110e6",
@@ -4664,6 +4675,19 @@
         "creado_en": "2026-06-16T13:39:49.533974+00:00",
         "metadatos": null,
         "legacy_id": "o1779196755155"
+      },
+      {
+        "id": "bcb7198a-e26b-4140-98ee-0385b4e88468",
+        "codigo": "021-26",
+        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
+        "asunto": "BP IMPLANTACIÓN PARA LAVADOS",
+        "po": "3001341277",
+        "estado": "cerrada",
+        "importe_total": null,
+        "creado_por_id": "3e50e7e7-9fd7-4e53-9bf0-2bfd2d063f7f",
+        "creado_en": "2026-06-16T13:39:49.533974+00:00",
+        "metadatos": null,
+        "legacy_id": "o1779144271044"
       }
     ],
     "clientes": [
