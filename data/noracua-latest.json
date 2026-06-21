@@ -1,5 +1,5 @@
 {
-  "fecha": "2026-06-21T20:12:44.035Z",
+  "fecha": "2026-06-21T21:17:32.832Z",
   "version": "3.0",
   "datos": {
     "proyectos": [
@@ -544,28 +544,16 @@
         "legacy_id": "p1779138693519"
       },
       {
-        "id": "ea5531da-2676-4065-a0b5-8329b13af24b",
+        "id": "f8e1b774-f812-4f50-9d78-36cf1627e76b",
         "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
         "nombre": "REFORMA TIENDA DIA",
         "zona": "CENTRO",
         "po": null,
-        "estacion_id": "ebac7f17-b59a-4cf1-b5d9-b20e49763986",
-        "responsable_bp_id": "d1a0ed21-6f85-4bab-b968-681501dbd784",
+        "estacion_id": "eb77a89e-515a-44f1-9138-4b7510f9545e",
+        "responsable_bp_id": "50314b46-47a7-4b90-8f8f-58441cbcb7e8",
         "activo": true,
         "creado_en": "2026-06-16T11:25:39.389344+00:00",
-        "legacy_id": "p1779132322623"
-      },
-      {
-        "id": "8ce214c9-4f40-4348-89d4-27b43a45d030",
-        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
-        "nombre": "REFORMA TIENDA DIA",
-        "zona": "CENTRO",
-        "po": null,
-        "estacion_id": "fea0fa24-4de5-4d86-ad7f-ba372166d31d",
-        "responsable_bp_id": "d1a0ed21-6f85-4bab-b968-681501dbd784",
-        "activo": true,
-        "creado_en": "2026-06-16T11:25:39.389344+00:00",
-        "legacy_id": "p1779132230677"
+        "legacy_id": "p1779132271164"
       },
       {
         "id": "5c63c3e2-efbd-40ee-9edc-a802beaf4306",
@@ -592,18 +580,6 @@
         "legacy_id": "p1779132250291"
       },
       {
-        "id": "f8e1b774-f812-4f50-9d78-36cf1627e76b",
-        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
-        "nombre": "REFORMA TIENDA DIA",
-        "zona": "CENTRO",
-        "po": null,
-        "estacion_id": "eb77a89e-515a-44f1-9138-4b7510f9545e",
-        "responsable_bp_id": "50314b46-47a7-4b90-8f8f-58441cbcb7e8",
-        "activo": true,
-        "creado_en": "2026-06-16T11:25:39.389344+00:00",
-        "legacy_id": "p1779132271164"
-      },
-      {
         "id": "bcc6b5d0-b55f-46cf-a169-e30df02b16fe",
         "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
         "nombre": "REFORMA TIENDA DIA",
@@ -614,6 +590,18 @@
         "activo": true,
         "creado_en": "2026-06-16T11:25:39.389344+00:00",
         "legacy_id": "p1779132080175"
+      },
+      {
+        "id": "43762560-acf4-484e-8b2a-3a1c782f1a31",
+        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
+        "nombre": "REFORMA TIENDA DIA",
+        "zona": "CENTRO",
+        "po": null,
+        "estacion_id": "cf99b3d1-1276-455b-a990-c7ff07f8a73b",
+        "responsable_bp_id": "d1a0ed21-6f85-4bab-b968-681501dbd784",
+        "activo": true,
+        "creado_en": "2026-06-16T11:25:39.389344+00:00",
+        "legacy_id": "p1779132181864"
       },
       {
         "id": "7aa43162-2501-4b0f-a77d-ffcbe096ee3c",
@@ -628,16 +616,16 @@
         "legacy_id": "p1779132098965"
       },
       {
-        "id": "43762560-acf4-484e-8b2a-3a1c782f1a31",
+        "id": "8ce214c9-4f40-4348-89d4-27b43a45d030",
         "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
         "nombre": "REFORMA TIENDA DIA",
         "zona": "CENTRO",
         "po": null,
-        "estacion_id": "cf99b3d1-1276-455b-a990-c7ff07f8a73b",
+        "estacion_id": "fea0fa24-4de5-4d86-ad7f-ba372166d31d",
         "responsable_bp_id": "d1a0ed21-6f85-4bab-b968-681501dbd784",
         "activo": true,
         "creado_en": "2026-06-16T11:25:39.389344+00:00",
-        "legacy_id": "p1779132181864"
+        "legacy_id": "p1779132230677"
       },
       {
         "id": "5896ccb1-7ca3-43c2-87d4-e632101bb68a",
@@ -664,6 +652,18 @@
         "legacy_id": "p1779132204730"
       },
       {
+        "id": "ea5531da-2676-4065-a0b5-8329b13af24b",
+        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
+        "nombre": "REFORMA TIENDA DIA",
+        "zona": "CENTRO",
+        "po": null,
+        "estacion_id": "ebac7f17-b59a-4cf1-b5d9-b20e49763986",
+        "responsable_bp_id": "d1a0ed21-6f85-4bab-b968-681501dbd784",
+        "activo": true,
+        "creado_en": "2026-06-16T11:25:39.389344+00:00",
+        "legacy_id": "p1779132322623"
+      },
+      {
         "id": "50033e86-2e47-46a5-ab55-fe15c266c798",
         "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
         "nombre": "REGISTRO INDUSTRIAL",
@@ -688,16 +688,16 @@
         "legacy_id": "p1779182184609"
       },
       {
-        "id": "26a565a8-239f-4a9d-8f31-0249527c6d32",
+        "id": "c36cf5b2-004a-4537-a34e-31dc976fd17e",
         "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
         "nombre": "REQUERIMIENTO IP04",
         "zona": "CATALUÑA",
         "po": "3001321904",
-        "estacion_id": "47d2ed36-d4cf-4244-9db5-541ad02e829c",
+        "estacion_id": "d80834ee-ac92-4005-ac69-c079edb3597c",
         "responsable_bp_id": "10c094e3-c6e3-43ac-8a80-670b618de68f",
         "activo": true,
         "creado_en": "2026-06-16T11:25:39.389344+00:00",
-        "legacy_id": "p1780562208357"
+        "legacy_id": "p1780562447137"
       },
       {
         "id": "1fd9fe20-1db5-47ec-acc4-82709bcc1444",
@@ -904,30 +904,6 @@
         "legacy_id": "p1780561959486"
       },
       {
-        "id": "2a98d756-a149-4abc-9382-c6c1eec1c5e1",
-        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
-        "nombre": "REQUERIMIENTO IP04",
-        "zona": "CATALUÑA",
-        "po": "3001321904",
-        "estacion_id": "f4ab001e-0fdf-4639-8fbb-3194b6f80749",
-        "responsable_bp_id": "10c094e3-c6e3-43ac-8a80-670b618de68f",
-        "activo": true,
-        "creado_en": "2026-06-16T11:25:39.389344+00:00",
-        "legacy_id": "p1780560322612"
-      },
-      {
-        "id": "c36cf5b2-004a-4537-a34e-31dc976fd17e",
-        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
-        "nombre": "REQUERIMIENTO IP04",
-        "zona": "CATALUÑA",
-        "po": "3001321904",
-        "estacion_id": "d80834ee-ac92-4005-ac69-c079edb3597c",
-        "responsable_bp_id": "10c094e3-c6e3-43ac-8a80-670b618de68f",
-        "activo": true,
-        "creado_en": "2026-06-16T11:25:39.389344+00:00",
-        "legacy_id": "p1780562447137"
-      },
-      {
         "id": "84a5d3cc-1bcc-4505-8e05-26990963b2de",
         "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
         "nombre": "REQUERIMIENTO IP04",
@@ -938,6 +914,30 @@
         "activo": true,
         "creado_en": "2026-06-16T11:25:39.389344+00:00",
         "legacy_id": "p1780562270182"
+      },
+      {
+        "id": "26a565a8-239f-4a9d-8f31-0249527c6d32",
+        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
+        "nombre": "REQUERIMIENTO IP04",
+        "zona": "CATALUÑA",
+        "po": "3001321904",
+        "estacion_id": "47d2ed36-d4cf-4244-9db5-541ad02e829c",
+        "responsable_bp_id": "10c094e3-c6e3-43ac-8a80-670b618de68f",
+        "activo": true,
+        "creado_en": "2026-06-16T11:25:39.389344+00:00",
+        "legacy_id": "p1780562208357"
+      },
+      {
+        "id": "2a98d756-a149-4abc-9382-c6c1eec1c5e1",
+        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
+        "nombre": "REQUERIMIENTO IP04",
+        "zona": "CATALUÑA",
+        "po": "3001321904",
+        "estacion_id": "f4ab001e-0fdf-4639-8fbb-3194b6f80749",
+        "responsable_bp_id": "10c094e3-c6e3-43ac-8a80-670b618de68f",
+        "activo": true,
+        "creado_en": "2026-06-16T11:25:39.389344+00:00",
+        "legacy_id": "p1780560322612"
       },
       {
         "id": "4182ebf3-9f0b-4b9d-9f0c-2651b57dc0dd",
@@ -1048,18 +1048,6 @@
         "legacy_id": "p1779384794378"
       },
       {
-        "id": "63691af2-7577-435d-816d-1d83c658d7e3",
-        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
-        "nombre": "SÓTANO ES",
-        "zona": "CENTRO",
-        "po": "3001322306",
-        "estacion_id": "4c48bfa9-c326-454f-8f38-d989b6ff08dd",
-        "responsable_bp_id": "ececaf57-8526-419e-9dfe-ac31324ecde8",
-        "activo": true,
-        "creado_en": "2026-06-16T11:25:39.389344+00:00",
-        "legacy_id": "p1779391171195"
-      },
-      {
         "id": "354336aa-31d1-47b2-9bd2-d5a67bb41b19",
         "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
         "nombre": "SÓTANO ES",
@@ -1082,6 +1070,18 @@
         "activo": true,
         "creado_en": "2026-06-16T11:25:39.389344+00:00",
         "legacy_id": "p1779387531504"
+      },
+      {
+        "id": "63691af2-7577-435d-816d-1d83c658d7e3",
+        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
+        "nombre": "SÓTANO ES",
+        "zona": "CENTRO",
+        "po": "3001322306",
+        "estacion_id": "4c48bfa9-c326-454f-8f38-d989b6ff08dd",
+        "responsable_bp_id": "ececaf57-8526-419e-9dfe-ac31324ecde8",
+        "activo": true,
+        "creado_en": "2026-06-16T11:25:39.389344+00:00",
+        "legacy_id": "p1779391171195"
       },
       {
         "id": "c5a70b76-725f-4b7b-a83f-2cbf79461d28",
@@ -1320,7 +1320,7 @@
         "observaciones": "Grupo: 1 actividades",
         "estacion_id": null,
         "creado_en": "2026-06-20T22:20:06.607819+00:00",
-        "actualizado_en": "2026-06-21T19:37:47.994717+00:00",
+        "actualizado_en": "2026-06-21T21:17:24.764715+00:00",
         "eliminado_en": null,
         "legacy_id": "r1781865131502"
       },
@@ -1343,7 +1343,7 @@
         "observaciones": "Grupo: 3 actividades",
         "estacion_id": null,
         "creado_en": "2026-06-20T22:20:06.607819+00:00",
-        "actualizado_en": "2026-06-21T19:37:47.994717+00:00",
+        "actualizado_en": "2026-06-21T21:17:24.764715+00:00",
         "eliminado_en": null,
         "legacy_id": "r1781868597052"
       },
@@ -1366,7 +1366,7 @@
         "observaciones": "Grupo: 1 actividades",
         "estacion_id": null,
         "creado_en": "2026-06-20T22:20:06.607819+00:00",
-        "actualizado_en": "2026-06-21T19:37:47.994717+00:00",
+        "actualizado_en": "2026-06-21T21:17:24.764715+00:00",
         "eliminado_en": null,
         "legacy_id": "r1781779103780"
       },
@@ -1389,7 +1389,7 @@
         "observaciones": "Grupo: 1 actividades",
         "estacion_id": null,
         "creado_en": "2026-06-20T22:20:06.607819+00:00",
-        "actualizado_en": "2026-06-21T19:37:47.994717+00:00",
+        "actualizado_en": "2026-06-21T21:17:24.764715+00:00",
         "eliminado_en": null,
         "legacy_id": "r1781779434155"
       },
@@ -1412,7 +1412,7 @@
         "observaciones": "Grupo: 2 actividades",
         "estacion_id": null,
         "creado_en": "2026-06-20T22:20:06.607819+00:00",
-        "actualizado_en": "2026-06-21T19:37:47.994717+00:00",
+        "actualizado_en": "2026-06-21T21:17:24.764715+00:00",
         "eliminado_en": null,
         "legacy_id": "r1781687708060"
       },
@@ -1435,7 +1435,7 @@
         "observaciones": "Grupo: 1 actividades",
         "estacion_id": null,
         "creado_en": "2026-06-20T22:20:06.607819+00:00",
-        "actualizado_en": "2026-06-21T19:37:47.994717+00:00",
+        "actualizado_en": "2026-06-21T21:17:24.764715+00:00",
         "eliminado_en": null,
         "legacy_id": "r1781686289540"
       },
@@ -1458,7 +1458,7 @@
         "observaciones": "Grupo: 6 actividades",
         "estacion_id": null,
         "creado_en": "2026-06-20T22:20:06.607819+00:00",
-        "actualizado_en": "2026-06-21T19:37:47.994717+00:00",
+        "actualizado_en": "2026-06-21T21:17:24.764715+00:00",
         "eliminado_en": null,
         "legacy_id": "r1781684363292"
       },
@@ -1481,7 +1481,7 @@
         "observaciones": "Grupo: 3 actividades",
         "estacion_id": null,
         "creado_en": "2026-06-16T05:57:09.199+00:00",
-        "actualizado_en": "2026-06-21T19:37:47.994717+00:00",
+        "actualizado_en": "2026-06-21T21:17:24.764715+00:00",
         "eliminado_en": null,
         "legacy_id": "r1781589429198"
       },
@@ -1504,7 +1504,7 @@
         "observaciones": "Grupo: 6 actividades",
         "estacion_id": null,
         "creado_en": "2026-06-16T07:35:44.777+00:00",
-        "actualizado_en": "2026-06-21T19:37:47.994717+00:00",
+        "actualizado_en": "2026-06-21T21:17:24.764715+00:00",
         "eliminado_en": null,
         "legacy_id": "r1781595344777"
       },
@@ -1527,7 +1527,7 @@
         "observaciones": "Grupo: 2 actividades",
         "estacion_id": null,
         "creado_en": "2026-06-11T08:08:47.113+00:00",
-        "actualizado_en": "2026-06-21T19:37:47.994717+00:00",
+        "actualizado_en": "2026-06-21T21:17:24.764715+00:00",
         "eliminado_en": null,
         "legacy_id": "r1781165327113"
       },
@@ -1550,7 +1550,7 @@
         "observaciones": "Grupo: 1 actividades",
         "estacion_id": null,
         "creado_en": "2026-06-11T08:14:59.984+00:00",
-        "actualizado_en": "2026-06-21T19:37:47.994717+00:00",
+        "actualizado_en": "2026-06-21T21:17:24.764715+00:00",
         "eliminado_en": null,
         "legacy_id": "r1781165699984"
       },
@@ -1573,7 +1573,7 @@
         "observaciones": "Grupo: 2 actividades",
         "estacion_id": null,
         "creado_en": "2026-06-10T15:21:36.753+00:00",
-        "actualizado_en": "2026-06-21T19:37:47.994717+00:00",
+        "actualizado_en": "2026-06-21T21:17:24.764715+00:00",
         "eliminado_en": null,
         "legacy_id": "r1781104896753"
       },
@@ -1596,7 +1596,7 @@
         "observaciones": "Grupo: 3 actividades",
         "estacion_id": null,
         "creado_en": "2026-06-09T06:29:17.651+00:00",
-        "actualizado_en": "2026-06-21T19:37:47.994717+00:00",
+        "actualizado_en": "2026-06-21T21:17:24.764715+00:00",
         "eliminado_en": null,
         "legacy_id": "r1780986557651"
       },
@@ -1619,7 +1619,7 @@
         "observaciones": "Grupo: 1 actividades",
         "estacion_id": null,
         "creado_en": "2026-06-08T10:17:59.321+00:00",
-        "actualizado_en": "2026-06-21T19:37:47.994717+00:00",
+        "actualizado_en": "2026-06-21T21:17:24.764715+00:00",
         "eliminado_en": null,
         "legacy_id": "r1780913879321"
       },
@@ -1642,7 +1642,7 @@
         "observaciones": "Grupo: 2 actividades",
         "estacion_id": null,
         "creado_en": "2026-06-07T13:01:48.981+00:00",
-        "actualizado_en": "2026-06-21T19:37:47.994717+00:00",
+        "actualizado_en": "2026-06-21T21:17:24.764715+00:00",
         "eliminado_en": null,
         "legacy_id": "r1780837308981"
       },
@@ -1665,7 +1665,7 @@
         "observaciones": "Grupo: 1 actividades",
         "estacion_id": null,
         "creado_en": "2026-06-05T12:21:29.301+00:00",
-        "actualizado_en": "2026-06-21T19:37:47.994717+00:00",
+        "actualizado_en": "2026-06-21T21:17:24.764715+00:00",
         "eliminado_en": null,
         "legacy_id": "r1780662089301"
       },
@@ -1688,7 +1688,7 @@
         "observaciones": "Grupo: 1 actividades",
         "estacion_id": null,
         "creado_en": "2026-06-04T10:21:18.197+00:00",
-        "actualizado_en": "2026-06-21T19:37:47.994717+00:00",
+        "actualizado_en": "2026-06-21T21:17:24.764715+00:00",
         "eliminado_en": null,
         "legacy_id": "r1780568478197"
       },
@@ -1711,7 +1711,7 @@
         "observaciones": "Grupo: 1 actividades",
         "estacion_id": null,
         "creado_en": "2026-06-04T09:45:24.086+00:00",
-        "actualizado_en": "2026-06-21T19:37:47.994717+00:00",
+        "actualizado_en": "2026-06-21T21:17:24.764715+00:00",
         "eliminado_en": null,
         "legacy_id": "r1780566324086"
       },
@@ -1734,7 +1734,7 @@
         "observaciones": "Grupo: 2 actividades",
         "estacion_id": null,
         "creado_en": "2026-06-04T09:47:48.598+00:00",
-        "actualizado_en": "2026-06-21T19:37:47.994717+00:00",
+        "actualizado_en": "2026-06-21T21:17:24.764715+00:00",
         "eliminado_en": null,
         "legacy_id": "r1780566468598"
       },
@@ -1757,7 +1757,7 @@
         "observaciones": "Grupo: 2 actividades",
         "estacion_id": null,
         "creado_en": "2026-06-04T08:52:38.414+00:00",
-        "actualizado_en": "2026-06-21T19:37:47.994717+00:00",
+        "actualizado_en": "2026-06-21T21:17:24.764715+00:00",
         "eliminado_en": null,
         "legacy_id": "r1780563158414"
       },
@@ -1780,7 +1780,7 @@
         "observaciones": "Grupo: 3 actividades",
         "estacion_id": null,
         "creado_en": "2026-06-05T10:55:31.595+00:00",
-        "actualizado_en": "2026-06-21T19:37:47.994717+00:00",
+        "actualizado_en": "2026-06-21T21:17:24.764715+00:00",
         "eliminado_en": null,
         "legacy_id": "r1780656931595"
       },
@@ -1803,7 +1803,7 @@
         "observaciones": "Grupo: 2 actividades",
         "estacion_id": null,
         "creado_en": "2026-06-05T10:57:53.721+00:00",
-        "actualizado_en": "2026-06-21T19:37:47.994717+00:00",
+        "actualizado_en": "2026-06-21T21:17:24.764715+00:00",
         "eliminado_en": null,
         "legacy_id": "r1780657073721"
       },
@@ -1826,13 +1826,13 @@
         "observaciones": "Grupo: 2 actividades",
         "estacion_id": null,
         "creado_en": "2026-06-03T09:01:25.529+00:00",
-        "actualizado_en": "2026-06-21T19:37:47.994717+00:00",
+        "actualizado_en": "2026-06-21T21:17:24.764715+00:00",
         "eliminado_en": null,
         "legacy_id": "r1780477285528"
       },
       {
-        "id": "132e8a36-182a-4992-94a3-6ba9637ae8de",
-        "proyecto_id": "c36cf5b2-004a-4537-a34e-31dc976fd17e",
+        "id": "bc135183-e8e1-4ea2-b76c-a908ebb2dead",
+        "proyecto_id": "baaa89b3-098c-47ef-a0c4-56b158e64d56",
         "tecnico_id": "76085462-4441-41bf-b473-3f127cc74860",
         "creado_por_id": "76085462-4441-41bf-b473-3f127cc74860",
         "estado": "aprobado",
@@ -1848,10 +1848,10 @@
         "informe_id": null,
         "observaciones": "Grupo: 1 actividades",
         "estacion_id": null,
-        "creado_en": "2026-06-04T08:41:06.575+00:00",
-        "actualizado_en": "2026-06-21T19:37:47.994717+00:00",
+        "creado_en": "2026-06-04T08:32:59.932+00:00",
+        "actualizado_en": "2026-06-21T21:17:24.764715+00:00",
         "eliminado_en": null,
-        "legacy_id": "r1780562466575"
+        "legacy_id": "r1780561979932"
       },
       {
         "id": "7c053dfa-35da-4372-8d37-4322809e4a99",
@@ -1872,7 +1872,7 @@
         "observaciones": "Grupo: 1 actividades",
         "estacion_id": null,
         "creado_en": "2026-06-04T08:35:56.684+00:00",
-        "actualizado_en": "2026-06-21T19:37:47.994717+00:00",
+        "actualizado_en": "2026-06-21T21:17:24.764715+00:00",
         "eliminado_en": null,
         "legacy_id": "r1780562156684"
       },
@@ -1895,7 +1895,7 @@
         "observaciones": "Grupo: 1 actividades",
         "estacion_id": null,
         "creado_en": "2026-06-04T08:39:08.657+00:00",
-        "actualizado_en": "2026-06-21T19:37:47.994717+00:00",
+        "actualizado_en": "2026-06-21T21:17:24.764715+00:00",
         "eliminado_en": null,
         "legacy_id": "r1780562348657"
       },
@@ -1918,7 +1918,7 @@
         "observaciones": "Grupo: 1 actividades",
         "estacion_id": null,
         "creado_en": "2026-06-04T08:29:22.499+00:00",
-        "actualizado_en": "2026-06-21T19:37:47.994717+00:00",
+        "actualizado_en": "2026-06-21T21:17:24.764715+00:00",
         "eliminado_en": null,
         "legacy_id": "r1780561762499"
       },
@@ -1941,7 +1941,7 @@
         "observaciones": "Grupo: 1 actividades",
         "estacion_id": null,
         "creado_en": "2026-06-04T08:31:08.235+00:00",
-        "actualizado_en": "2026-06-21T19:37:47.994717+00:00",
+        "actualizado_en": "2026-06-21T21:17:24.764715+00:00",
         "eliminado_en": null,
         "legacy_id": "r1780561868235"
       },
@@ -1964,7 +1964,7 @@
         "observaciones": "Grupo: 1 actividades",
         "estacion_id": null,
         "creado_en": "2026-06-04T08:37:08.924+00:00",
-        "actualizado_en": "2026-06-21T19:37:47.994717+00:00",
+        "actualizado_en": "2026-06-21T21:17:24.764715+00:00",
         "eliminado_en": null,
         "legacy_id": "r1780562228924"
       },
@@ -1987,7 +1987,7 @@
         "observaciones": "Grupo: 1 actividades",
         "estacion_id": null,
         "creado_en": "2026-06-04T08:23:47.904+00:00",
-        "actualizado_en": "2026-06-21T19:37:47.994717+00:00",
+        "actualizado_en": "2026-06-21T21:17:24.764715+00:00",
         "eliminado_en": null,
         "legacy_id": "r1780561427904"
       },
@@ -2010,7 +2010,7 @@
         "observaciones": "Grupo: 1 actividades",
         "estacion_id": null,
         "creado_en": "2026-06-04T08:26:11.922+00:00",
-        "actualizado_en": "2026-06-21T19:37:47.994717+00:00",
+        "actualizado_en": "2026-06-21T21:17:24.764715+00:00",
         "eliminado_en": null,
         "legacy_id": "r1780561571922"
       },
@@ -2033,7 +2033,7 @@
         "observaciones": "Grupo: 1 actividades",
         "estacion_id": null,
         "creado_en": "2026-06-04T08:40:02.832+00:00",
-        "actualizado_en": "2026-06-21T19:37:47.994717+00:00",
+        "actualizado_en": "2026-06-21T21:17:24.764715+00:00",
         "eliminado_en": null,
         "legacy_id": "r1780562402832"
       },
@@ -2056,7 +2056,7 @@
         "observaciones": "Grupo: 1 actividades",
         "estacion_id": null,
         "creado_en": "2026-06-04T07:54:56.946+00:00",
-        "actualizado_en": "2026-06-21T19:37:47.994717+00:00",
+        "actualizado_en": "2026-06-21T21:17:24.764715+00:00",
         "eliminado_en": null,
         "legacy_id": "r1780559696946"
       },
@@ -2079,7 +2079,7 @@
         "observaciones": "Grupo: 1 actividades",
         "estacion_id": null,
         "creado_en": "2026-06-04T08:18:45.848+00:00",
-        "actualizado_en": "2026-06-21T19:37:47.994717+00:00",
+        "actualizado_en": "2026-06-21T21:17:24.764715+00:00",
         "eliminado_en": null,
         "legacy_id": "r1780561125848"
       },
@@ -2102,7 +2102,7 @@
         "observaciones": "Grupo: 1 actividades",
         "estacion_id": null,
         "creado_en": "2026-06-04T08:20:48.465+00:00",
-        "actualizado_en": "2026-06-21T19:37:47.994717+00:00",
+        "actualizado_en": "2026-06-21T21:17:24.764715+00:00",
         "eliminado_en": null,
         "legacy_id": "r1780561248465"
       },
@@ -2125,9 +2125,55 @@
         "observaciones": "Grupo: 1 actividades",
         "estacion_id": null,
         "creado_en": "2026-06-04T08:28:09.704+00:00",
-        "actualizado_en": "2026-06-21T19:37:47.994717+00:00",
+        "actualizado_en": "2026-06-21T21:17:24.764715+00:00",
         "eliminado_en": null,
         "legacy_id": "r1780561689704"
+      },
+      {
+        "id": "f8423196-62d9-4487-bc56-b4339e8afc7b",
+        "proyecto_id": "da7f1051-05e6-4655-a821-cc55888a0d94",
+        "tecnico_id": "76085462-4441-41bf-b473-3f127cc74860",
+        "creado_por_id": "76085462-4441-41bf-b473-3f127cc74860",
+        "estado": "aprobado",
+        "estado_certif": "aprobada",
+        "fecha": "2026-06-02",
+        "es_grupo": true,
+        "concepto_id": null,
+        "precio_unitario": null,
+        "cantidad": 1,
+        "descuento_pct": 0,
+        "oferta_id": null,
+        "factura_id": null,
+        "informe_id": null,
+        "observaciones": "Grupo: 1 actividades",
+        "estacion_id": null,
+        "creado_en": "2026-06-04T08:41:56.578+00:00",
+        "actualizado_en": "2026-06-21T21:17:24.764715+00:00",
+        "eliminado_en": null,
+        "legacy_id": "r1780562516578"
+      },
+      {
+        "id": "132e8a36-182a-4992-94a3-6ba9637ae8de",
+        "proyecto_id": "c36cf5b2-004a-4537-a34e-31dc976fd17e",
+        "tecnico_id": "76085462-4441-41bf-b473-3f127cc74860",
+        "creado_por_id": "76085462-4441-41bf-b473-3f127cc74860",
+        "estado": "aprobado",
+        "estado_certif": "aprobada",
+        "fecha": "2026-06-02",
+        "es_grupo": true,
+        "concepto_id": null,
+        "precio_unitario": null,
+        "cantidad": 1,
+        "descuento_pct": 0,
+        "oferta_id": null,
+        "factura_id": null,
+        "informe_id": null,
+        "observaciones": "Grupo: 1 actividades",
+        "estacion_id": null,
+        "creado_en": "2026-06-04T08:41:06.575+00:00",
+        "actualizado_en": "2026-06-21T21:17:24.764715+00:00",
+        "eliminado_en": null,
+        "legacy_id": "r1780562466575"
       },
       {
         "id": "0cb21fb5-803d-4d0b-aff4-9659e995f3e3",
@@ -2148,7 +2194,7 @@
         "observaciones": "Grupo: 1 actividades",
         "estacion_id": null,
         "creado_en": "2026-06-04T08:05:48.62+00:00",
-        "actualizado_en": "2026-06-21T19:37:47.994717+00:00",
+        "actualizado_en": "2026-06-21T21:17:24.764715+00:00",
         "eliminado_en": null,
         "legacy_id": "r1780560348620"
       },
@@ -2171,7 +2217,7 @@
         "observaciones": "Grupo: 1 actividades",
         "estacion_id": null,
         "creado_en": "2026-06-04T08:38:05.315+00:00",
-        "actualizado_en": "2026-06-21T19:37:47.994717+00:00",
+        "actualizado_en": "2026-06-21T21:17:24.764715+00:00",
         "eliminado_en": null,
         "legacy_id": "r1780562285315"
       },
@@ -2194,7 +2240,7 @@
         "observaciones": "Grupo: 1 actividades",
         "estacion_id": null,
         "creado_en": "2026-06-04T07:56:50.183+00:00",
-        "actualizado_en": "2026-06-21T19:37:47.994717+00:00",
+        "actualizado_en": "2026-06-21T21:17:24.764715+00:00",
         "eliminado_en": null,
         "legacy_id": "r1780559810182"
       },
@@ -2217,7 +2263,7 @@
         "observaciones": "Grupo: 1 actividades",
         "estacion_id": null,
         "creado_en": "2026-06-04T07:58:17.767+00:00",
-        "actualizado_en": "2026-06-21T19:37:47.994717+00:00",
+        "actualizado_en": "2026-06-21T21:17:24.764715+00:00",
         "eliminado_en": null,
         "legacy_id": "r1780559897767"
       },
@@ -2240,55 +2286,9 @@
         "observaciones": "Grupo: 1 actividades",
         "estacion_id": null,
         "creado_en": "2026-06-04T07:59:56.68+00:00",
-        "actualizado_en": "2026-06-21T19:37:47.994717+00:00",
+        "actualizado_en": "2026-06-21T21:17:24.764715+00:00",
         "eliminado_en": null,
         "legacy_id": "r1780559996680"
-      },
-      {
-        "id": "bc135183-e8e1-4ea2-b76c-a908ebb2dead",
-        "proyecto_id": "baaa89b3-098c-47ef-a0c4-56b158e64d56",
-        "tecnico_id": "76085462-4441-41bf-b473-3f127cc74860",
-        "creado_por_id": "76085462-4441-41bf-b473-3f127cc74860",
-        "estado": "aprobado",
-        "estado_certif": "aprobada",
-        "fecha": "2026-06-02",
-        "es_grupo": true,
-        "concepto_id": null,
-        "precio_unitario": null,
-        "cantidad": 1,
-        "descuento_pct": 0,
-        "oferta_id": null,
-        "factura_id": null,
-        "informe_id": null,
-        "observaciones": "Grupo: 1 actividades",
-        "estacion_id": null,
-        "creado_en": "2026-06-04T08:32:59.932+00:00",
-        "actualizado_en": "2026-06-21T19:37:47.994717+00:00",
-        "eliminado_en": null,
-        "legacy_id": "r1780561979932"
-      },
-      {
-        "id": "f8423196-62d9-4487-bc56-b4339e8afc7b",
-        "proyecto_id": "da7f1051-05e6-4655-a821-cc55888a0d94",
-        "tecnico_id": "76085462-4441-41bf-b473-3f127cc74860",
-        "creado_por_id": "76085462-4441-41bf-b473-3f127cc74860",
-        "estado": "aprobado",
-        "estado_certif": "aprobada",
-        "fecha": "2026-06-02",
-        "es_grupo": true,
-        "concepto_id": null,
-        "precio_unitario": null,
-        "cantidad": 1,
-        "descuento_pct": 0,
-        "oferta_id": null,
-        "factura_id": null,
-        "informe_id": null,
-        "observaciones": "Grupo: 1 actividades",
-        "estacion_id": null,
-        "creado_en": "2026-06-04T08:41:56.578+00:00",
-        "actualizado_en": "2026-06-21T19:37:47.994717+00:00",
-        "eliminado_en": null,
-        "legacy_id": "r1780562516578"
       },
       {
         "id": "96562414-4594-457f-9e0e-01dc366bce72",
@@ -2309,7 +2309,7 @@
         "observaciones": "Grupo: 1 actividades",
         "estacion_id": null,
         "creado_en": "2026-06-04T08:34:12.568+00:00",
-        "actualizado_en": "2026-06-21T19:37:47.994717+00:00",
+        "actualizado_en": "2026-06-21T21:17:24.764715+00:00",
         "eliminado_en": null,
         "legacy_id": "r1780562052568"
       },
@@ -2332,7 +2332,7 @@
         "observaciones": "Grupo: 1 actividades",
         "estacion_id": null,
         "creado_en": "2026-06-04T07:53:14.722+00:00",
-        "actualizado_en": "2026-06-21T19:37:47.994717+00:00",
+        "actualizado_en": "2026-06-21T21:17:24.764715+00:00",
         "eliminado_en": null,
         "legacy_id": "r1780559594722"
       },
@@ -2355,7 +2355,7 @@
         "observaciones": "Grupo: 1 actividades",
         "estacion_id": null,
         "creado_en": "2026-06-04T07:51:43.567+00:00",
-        "actualizado_en": "2026-06-21T19:37:47.994717+00:00",
+        "actualizado_en": "2026-06-21T21:17:24.764715+00:00",
         "eliminado_en": null,
         "legacy_id": "r1780559503567"
       },
@@ -2378,7 +2378,7 @@
         "observaciones": "Grupo: 1 actividades",
         "estacion_id": null,
         "creado_en": "2026-06-04T07:49:06.457+00:00",
-        "actualizado_en": "2026-06-21T19:37:47.994717+00:00",
+        "actualizado_en": "2026-06-21T21:17:24.764715+00:00",
         "eliminado_en": null,
         "legacy_id": "r1780559346457"
       },
@@ -2401,7 +2401,7 @@
         "observaciones": "Grupo: 1 actividades",
         "estacion_id": null,
         "creado_en": "2026-05-19T21:57:24.334+00:00",
-        "actualizado_en": "2026-06-21T19:37:47.994717+00:00",
+        "actualizado_en": "2026-06-21T21:17:24.764715+00:00",
         "eliminado_en": null,
         "legacy_id": "r1779227844334"
       },
@@ -2424,7 +2424,7 @@
         "observaciones": "Grupo: 1 actividades",
         "estacion_id": null,
         "creado_en": "2026-06-03T09:23:29.465+00:00",
-        "actualizado_en": "2026-06-21T19:37:47.994717+00:00",
+        "actualizado_en": "2026-06-21T21:17:24.764715+00:00",
         "eliminado_en": null,
         "legacy_id": "r1780478609465"
       },
@@ -2447,7 +2447,7 @@
         "observaciones": "Grupo: 2 actividades",
         "estacion_id": null,
         "creado_en": "2026-05-29T08:57:41.13+00:00",
-        "actualizado_en": "2026-06-21T19:37:47.994717+00:00",
+        "actualizado_en": "2026-06-21T21:17:24.764715+00:00",
         "eliminado_en": null,
         "legacy_id": "r1780045061130"
       },
@@ -2470,7 +2470,7 @@
         "observaciones": "Grupo: 2 actividades",
         "estacion_id": null,
         "creado_en": "2026-05-29T06:27:57.165+00:00",
-        "actualizado_en": "2026-06-21T19:37:47.994717+00:00",
+        "actualizado_en": "2026-06-21T21:17:24.764715+00:00",
         "eliminado_en": null,
         "legacy_id": "r1780036077165"
       },
@@ -2493,7 +2493,7 @@
         "observaciones": "Grupo: 3 actividades",
         "estacion_id": null,
         "creado_en": "2026-05-26T16:26:47.169+00:00",
-        "actualizado_en": "2026-06-21T19:37:47.994717+00:00",
+        "actualizado_en": "2026-06-21T21:17:24.764715+00:00",
         "eliminado_en": null,
         "legacy_id": "r1779812807169"
       },
@@ -2516,7 +2516,7 @@
         "observaciones": "Grupo: 1 actividades",
         "estacion_id": null,
         "creado_en": "2026-05-29T06:20:03.826+00:00",
-        "actualizado_en": "2026-06-21T19:37:47.994717+00:00",
+        "actualizado_en": "2026-06-21T21:17:24.764715+00:00",
         "eliminado_en": null,
         "legacy_id": "r1780035603826"
       },
@@ -2539,7 +2539,7 @@
         "observaciones": "Grupo: 1 actividades",
         "estacion_id": null,
         "creado_en": "2026-05-22T09:11:17.721+00:00",
-        "actualizado_en": "2026-06-21T19:37:47.994717+00:00",
+        "actualizado_en": "2026-06-21T21:17:24.764715+00:00",
         "eliminado_en": null,
         "legacy_id": "r1779441077721"
       },
@@ -2562,7 +2562,7 @@
         "observaciones": "Grupo: 1 actividades",
         "estacion_id": null,
         "creado_en": "2026-05-21T19:57:53.054+00:00",
-        "actualizado_en": "2026-06-21T19:37:47.994717+00:00",
+        "actualizado_en": "2026-06-21T21:17:24.764715+00:00",
         "eliminado_en": null,
         "legacy_id": "r1779393473054"
       },
@@ -2585,7 +2585,7 @@
         "observaciones": "Grupo: 1 actividades",
         "estacion_id": null,
         "creado_en": "2026-05-22T08:29:43.37+00:00",
-        "actualizado_en": "2026-06-21T19:37:47.994717+00:00",
+        "actualizado_en": "2026-06-21T21:17:24.764715+00:00",
         "eliminado_en": null,
         "legacy_id": "r1779438583370"
       },
@@ -2608,7 +2608,7 @@
         "observaciones": "Grupo: 1 actividades",
         "estacion_id": null,
         "creado_en": "2026-05-19T09:47:52.093+00:00",
-        "actualizado_en": "2026-06-21T19:37:47.994717+00:00",
+        "actualizado_en": "2026-06-21T21:17:24.764715+00:00",
         "eliminado_en": null,
         "legacy_id": "r1779184072093"
       },
@@ -2631,7 +2631,7 @@
         "observaciones": "Grupo: 1 actividades",
         "estacion_id": null,
         "creado_en": "2026-05-19T10:12:17.188+00:00",
-        "actualizado_en": "2026-06-21T19:37:47.994717+00:00",
+        "actualizado_en": "2026-06-21T21:17:24.764715+00:00",
         "eliminado_en": null,
         "legacy_id": "r1779185537188"
       },
@@ -2654,7 +2654,7 @@
         "observaciones": "Grupo: 3 actividades",
         "estacion_id": null,
         "creado_en": "2026-05-19T09:19:11.225+00:00",
-        "actualizado_en": "2026-06-21T19:37:47.994717+00:00",
+        "actualizado_en": "2026-06-21T21:17:24.764715+00:00",
         "eliminado_en": null,
         "legacy_id": "r1779182351225"
       },
@@ -2677,7 +2677,7 @@
         "observaciones": "Grupo: 1 actividades",
         "estacion_id": null,
         "creado_en": "2026-05-19T10:11:31.112+00:00",
-        "actualizado_en": "2026-06-21T19:37:47.994717+00:00",
+        "actualizado_en": "2026-06-21T21:17:24.764715+00:00",
         "eliminado_en": null,
         "legacy_id": "r1779185491112"
       },
@@ -2700,7 +2700,7 @@
         "observaciones": "Grupo: 16 actividades",
         "estacion_id": null,
         "creado_en": "2026-05-18T20:06:06.842+00:00",
-        "actualizado_en": "2026-06-21T19:37:47.994717+00:00",
+        "actualizado_en": "2026-06-21T21:17:24.764715+00:00",
         "eliminado_en": null,
         "legacy_id": "r1779134766842"
       },
@@ -2723,7 +2723,7 @@
         "observaciones": "Grupo: 6 actividades",
         "estacion_id": null,
         "creado_en": "2026-05-21T19:37:20.842+00:00",
-        "actualizado_en": "2026-06-21T19:37:47.994717+00:00",
+        "actualizado_en": "2026-06-21T21:17:24.764715+00:00",
         "eliminado_en": null,
         "legacy_id": "r1779392240842"
       },
@@ -2746,7 +2746,7 @@
         "observaciones": "Grupo: 4 actividades",
         "estacion_id": null,
         "creado_en": "2026-05-21T18:40:51.027+00:00",
-        "actualizado_en": "2026-06-21T19:37:47.994717+00:00",
+        "actualizado_en": "2026-06-21T21:17:24.764715+00:00",
         "eliminado_en": null,
         "legacy_id": "r1779388851027"
       },
@@ -2769,7 +2769,7 @@
         "observaciones": "Grupo: 4 actividades",
         "estacion_id": null,
         "creado_en": "2026-05-21T19:22:38.989+00:00",
-        "actualizado_en": "2026-06-21T19:37:47.994717+00:00",
+        "actualizado_en": "2026-06-21T21:17:24.764715+00:00",
         "eliminado_en": null,
         "legacy_id": "r1779391358989"
       },
@@ -2792,7 +2792,7 @@
         "observaciones": "Grupo: 14 actividades",
         "estacion_id": null,
         "creado_en": "2026-05-27T17:56:22.618+00:00",
-        "actualizado_en": "2026-06-21T19:37:47.994717+00:00",
+        "actualizado_en": "2026-06-21T21:17:24.764715+00:00",
         "eliminado_en": null,
         "legacy_id": "r1779904582618"
       },
@@ -2815,7 +2815,7 @@
         "observaciones": "Grupo: 3 actividades",
         "estacion_id": null,
         "creado_en": "2026-05-21T18:47:20.174+00:00",
-        "actualizado_en": "2026-06-21T19:37:47.994717+00:00",
+        "actualizado_en": "2026-06-21T21:17:24.764715+00:00",
         "eliminado_en": null,
         "legacy_id": "r1779389240174"
       },
@@ -2838,7 +2838,7 @@
         "observaciones": "Grupo: 3 actividades",
         "estacion_id": null,
         "creado_en": "2026-05-28T12:39:14.794+00:00",
-        "actualizado_en": "2026-06-21T19:37:47.994717+00:00",
+        "actualizado_en": "2026-06-21T21:17:24.764715+00:00",
         "eliminado_en": null,
         "legacy_id": "r1779971954794"
       },
@@ -2861,7 +2861,7 @@
         "observaciones": "Grupo: 4 actividades",
         "estacion_id": null,
         "creado_en": "2026-05-21T18:22:49.358+00:00",
-        "actualizado_en": "2026-06-21T19:37:47.994717+00:00",
+        "actualizado_en": "2026-06-21T21:17:24.764715+00:00",
         "eliminado_en": null,
         "legacy_id": "r1779387769358"
       },
@@ -2884,7 +2884,7 @@
         "observaciones": "Grupo: 3 actividades",
         "estacion_id": null,
         "creado_en": "2026-05-21T18:30:16.692+00:00",
-        "actualizado_en": "2026-06-21T19:37:47.994717+00:00",
+        "actualizado_en": "2026-06-21T21:17:24.764715+00:00",
         "eliminado_en": null,
         "legacy_id": "r1779388216692"
       },
@@ -2907,7 +2907,7 @@
         "observaciones": "Grupo: 3 actividades",
         "estacion_id": null,
         "creado_en": "2026-05-21T18:28:14.641+00:00",
-        "actualizado_en": "2026-06-21T19:37:47.994717+00:00",
+        "actualizado_en": "2026-06-21T21:17:24.764715+00:00",
         "eliminado_en": null,
         "legacy_id": "r1779388094641"
       },
@@ -2930,7 +2930,7 @@
         "observaciones": "Grupo: 2 actividades",
         "estacion_id": null,
         "creado_en": "2026-05-21T18:19:24.13+00:00",
-        "actualizado_en": "2026-06-21T19:37:47.994717+00:00",
+        "actualizado_en": "2026-06-21T21:17:24.764715+00:00",
         "eliminado_en": null,
         "legacy_id": "r1779387564130"
       },
@@ -2953,7 +2953,7 @@
         "observaciones": "Grupo: 4 actividades",
         "estacion_id": null,
         "creado_en": "2026-05-21T17:48:47.831+00:00",
-        "actualizado_en": "2026-06-21T19:37:47.994717+00:00",
+        "actualizado_en": "2026-06-21T21:17:24.764715+00:00",
         "eliminado_en": null,
         "legacy_id": "r1779385727831"
       },
@@ -2976,7 +2976,7 @@
         "observaciones": "Grupo: 1 actividades",
         "estacion_id": null,
         "creado_en": "2026-05-21T18:15:35.704+00:00",
-        "actualizado_en": "2026-06-21T19:37:47.994717+00:00",
+        "actualizado_en": "2026-06-21T21:17:24.764715+00:00",
         "eliminado_en": null,
         "legacy_id": "r1779387335704"
       },
@@ -2999,7 +2999,7 @@
         "observaciones": "Grupo: 2 actividades",
         "estacion_id": null,
         "creado_en": "2026-05-21T18:01:50.55+00:00",
-        "actualizado_en": "2026-06-21T19:37:47.994717+00:00",
+        "actualizado_en": "2026-06-21T21:17:24.764715+00:00",
         "eliminado_en": null,
         "legacy_id": "r1779386510550"
       },
@@ -3022,7 +3022,7 @@
         "observaciones": "Grupo: 2 actividades",
         "estacion_id": null,
         "creado_en": "2026-05-21T17:56:28.218+00:00",
-        "actualizado_en": "2026-06-21T19:37:47.994717+00:00",
+        "actualizado_en": "2026-06-21T21:17:24.764715+00:00",
         "eliminado_en": null,
         "legacy_id": "r1779386188218"
       },
@@ -3045,7 +3045,7 @@
         "observaciones": "Grupo: 1 actividades",
         "estacion_id": null,
         "creado_en": "2026-05-21T17:53:34.804+00:00",
-        "actualizado_en": "2026-06-21T19:37:47.994717+00:00",
+        "actualizado_en": "2026-06-21T21:17:24.764715+00:00",
         "eliminado_en": null,
         "legacy_id": "r1779386014804"
       },
@@ -3068,7 +3068,7 @@
         "observaciones": "Grupo: 1 actividades",
         "estacion_id": null,
         "creado_en": "2026-05-21T18:08:24.618+00:00",
-        "actualizado_en": "2026-06-21T19:37:47.994717+00:00",
+        "actualizado_en": "2026-06-21T21:17:24.764715+00:00",
         "eliminado_en": null,
         "legacy_id": "r1779386904618"
       },
@@ -3091,7 +3091,7 @@
         "observaciones": "Grupo: 3 actividades",
         "estacion_id": null,
         "creado_en": "2026-05-21T17:01:40.917+00:00",
-        "actualizado_en": "2026-06-21T19:37:47.994717+00:00",
+        "actualizado_en": "2026-06-21T21:17:24.764715+00:00",
         "eliminado_en": null,
         "legacy_id": "r1779382900916"
       }
@@ -4907,7 +4907,7 @@
         "codigo": "CF",
         "nombre": "C.C. CARREFOUR, S.A.",
         "nif": "A28425270",
-        "direccion_linea1": "Av. de la Transición Española, 36, 28108 - Alcobendas (Madrid), 28108 - Alcobendas (Madrid), 28108 - Alcobendas (Madrid), 28108 - Alcobendas (Madrid), 28108 - Alcobendas (Madrid), 28108 - Alcobendas (Madrid), 28108 - Alcobendas (Madrid), 28108 - Alcobendas (Madrid), 28108 - Alcobendas (Madrid), 28108 - Alcobendas (Madrid), 28108 - Alcobendas (Madrid), 28108 - Alcobendas (Madrid), 28108 - Alcobendas (Madrid), 28108 - Alcobendas (Madrid), 28108 - Alcobendas (Madrid), 28108 - Alcobendas (Madrid), 28108 - Alcobendas (Madrid), 28108 - Alcobendas (Madrid), 28108 - Alcobendas (Madrid), 28108 - Alcobendas (Madrid), 28108 - Alcobendas (Madrid), 28108 - Alcobendas (Madrid), 28108 - Alcobendas (Madrid), 28108 - Alcobendas (Madrid), 28108 - Alcobendas (Madrid), 28108 - Alcobendas (Madrid), 28108 - Alcobendas (Madrid), 28108 - Alcobendas (Madrid), 28108 - Alcobendas (Madrid), 28108 - Alcobendas (Madrid), 28108 - Alcobendas (Madrid), 28108 - Alcobendas (Madrid), 28108 - Alcobendas (Madrid), 28108 - Alcobendas (Madrid), 28108 - Alcobendas (Madrid), 28108 - Alcobendas (Madrid), 28108 - Alcobendas (Madrid), 28108 - Alcobendas (Madrid), 28108 - Alcobendas (Madrid), 28108 - Alcobendas (Madrid), 28108 - Alcobendas (Madrid), 28108 - Alcobendas (Madrid), 28108 - Alcobendas (Madrid), 28108 - Alcobendas (Madrid)",
+        "direccion_linea1": "Av. de la Transición Española, 36, 28108 - Alcobendas (Madrid), 28108 - Alcobendas (Madrid), 28108 - Alcobendas (Madrid), 28108 - Alcobendas (Madrid), 28108 - Alcobendas (Madrid), 28108 - Alcobendas (Madrid), 28108 - Alcobendas (Madrid), 28108 - Alcobendas (Madrid), 28108 - Alcobendas (Madrid), 28108 - Alcobendas (Madrid), 28108 - Alcobendas (Madrid), 28108 - Alcobendas (Madrid), 28108 - Alcobendas (Madrid), 28108 - Alcobendas (Madrid), 28108 - Alcobendas (Madrid), 28108 - Alcobendas (Madrid), 28108 - Alcobendas (Madrid), 28108 - Alcobendas (Madrid), 28108 - Alcobendas (Madrid), 28108 - Alcobendas (Madrid), 28108 - Alcobendas (Madrid), 28108 - Alcobendas (Madrid), 28108 - Alcobendas (Madrid), 28108 - Alcobendas (Madrid), 28108 - Alcobendas (Madrid), 28108 - Alcobendas (Madrid), 28108 - Alcobendas (Madrid), 28108 - Alcobendas (Madrid), 28108 - Alcobendas (Madrid), 28108 - Alcobendas (Madrid), 28108 - Alcobendas (Madrid), 28108 - Alcobendas (Madrid), 28108 - Alcobendas (Madrid), 28108 - Alcobendas (Madrid), 28108 - Alcobendas (Madrid), 28108 - Alcobendas (Madrid), 28108 - Alcobendas (Madrid), 28108 - Alcobendas (Madrid), 28108 - Alcobendas (Madrid), 28108 - Alcobendas (Madrid), 28108 - Alcobendas (Madrid), 28108 - Alcobendas (Madrid), 28108 - Alcobendas (Madrid), 28108 - Alcobendas (Madrid), 28108 - Alcobendas (Madrid), 28108 - Alcobendas (Madrid)",
         "direccion_linea2": "28108 - Alcobendas (Madrid)",
         "cp": null,
         "ciudad": null,
@@ -4997,7 +4997,7 @@
         "codigo": "IVC1",
         "nombre": "IVC EVIDENSIA ASSETS S.L.U.",
         "nif": "B06874754",
-        "direccion_linea1": "Av. del Llano Castellano, 51, 28034 - Madrid (Madrid), 28034 - Madrid (Madrid), 28034 - Madrid (Madrid), 28034 - Madrid (Madrid), 28034 - Madrid (Madrid), 28034 - Madrid (Madrid), 28034 - Madrid (Madrid), 28034 - Madrid (Madrid), 28034 - Madrid (Madrid), 28034 - Madrid (Madrid), 28034 - Madrid (Madrid), 28034 - Madrid (Madrid), 28034 - Madrid (Madrid), 28034 - Madrid (Madrid), 28034 - Madrid (Madrid), 28034 - Madrid (Madrid), 28034 - Madrid (Madrid), 28034 - Madrid (Madrid), 28034 - Madrid (Madrid), 28034 - Madrid (Madrid), 28034 - Madrid (Madrid), 28034 - Madrid (Madrid), 28034 - Madrid (Madrid), 28034 - Madrid (Madrid), 28034 - Madrid (Madrid), 28034 - Madrid (Madrid), 28034 - Madrid (Madrid), 28034 - Madrid (Madrid), 28034 - Madrid (Madrid), 28034 - Madrid (Madrid), 28034 - Madrid (Madrid), 28034 - Madrid (Madrid), 28034 - Madrid (Madrid), 28034 - Madrid (Madrid), 28034 - Madrid (Madrid), 28034 - Madrid (Madrid), 28034 - Madrid (Madrid), 28034 - Madrid (Madrid), 28034 - Madrid (Madrid), 28034 - Madrid (Madrid), 28034 - Madrid (Madrid), 28034 - Madrid (Madrid), 28034 - Madrid (Madrid), 28034 - Madrid (Madrid)",
+        "direccion_linea1": "Av. del Llano Castellano, 51, 28034 - Madrid (Madrid), 28034 - Madrid (Madrid), 28034 - Madrid (Madrid), 28034 - Madrid (Madrid), 28034 - Madrid (Madrid), 28034 - Madrid (Madrid), 28034 - Madrid (Madrid), 28034 - Madrid (Madrid), 28034 - Madrid (Madrid), 28034 - Madrid (Madrid), 28034 - Madrid (Madrid), 28034 - Madrid (Madrid), 28034 - Madrid (Madrid), 28034 - Madrid (Madrid), 28034 - Madrid (Madrid), 28034 - Madrid (Madrid), 28034 - Madrid (Madrid), 28034 - Madrid (Madrid), 28034 - Madrid (Madrid), 28034 - Madrid (Madrid), 28034 - Madrid (Madrid), 28034 - Madrid (Madrid), 28034 - Madrid (Madrid), 28034 - Madrid (Madrid), 28034 - Madrid (Madrid), 28034 - Madrid (Madrid), 28034 - Madrid (Madrid), 28034 - Madrid (Madrid), 28034 - Madrid (Madrid), 28034 - Madrid (Madrid), 28034 - Madrid (Madrid), 28034 - Madrid (Madrid), 28034 - Madrid (Madrid), 28034 - Madrid (Madrid), 28034 - Madrid (Madrid), 28034 - Madrid (Madrid), 28034 - Madrid (Madrid), 28034 - Madrid (Madrid), 28034 - Madrid (Madrid), 28034 - Madrid (Madrid), 28034 - Madrid (Madrid), 28034 - Madrid (Madrid), 28034 - Madrid (Madrid), 28034 - Madrid (Madrid), 28034 - Madrid (Madrid), 28034 - Madrid (Madrid)",
         "direccion_linea2": "28034 - Madrid (Madrid)",
         "cp": null,
         "ciudad": null,
