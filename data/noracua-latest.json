@@ -1,5 +1,5 @@
 {
-  "fecha": "2026-07-06T16:21:57.499Z",
+  "fecha": "2026-07-06T16:23:15.546Z",
   "version": "2.8",
   "datos": {
     "na-v20-proyectos": [
@@ -1041,6 +1041,17 @@
         "id": "p1783338399830",
         "creadoEn": "2026-07-06T11:46:39.830Z",
         "creadoPor": "Jordi Santos"
+      },
+      {
+        "nombre": "PLANO EVACUACIÓN",
+        "po": "",
+        "zona": "CENTRO",
+        "responsableBP": "Raquel Martínez",
+        "estacion": "BP JUNCAL",
+        "clienteId": "cl01",
+        "id": "p1783354989309",
+        "creadoEn": "2026-07-06T16:23:09.309Z",
+        "creadoPor": "Daniel"
       }
     ],
     "na-v20-registros": [
@@ -9919,6 +9930,7 @@
       "BP FRAGA II",
       "BP GUALBA",
       "BP INFIESTO",
+      "BP JUNCAL",
       "BP LA FALUA",
       "BP MARÍA",
       "BP MONTIGALA",
