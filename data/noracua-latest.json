@@ -1,5 +1,5 @@
 {
-  "fecha": "2026-07-07T16:07:05.523Z",
+  "fecha": "2026-07-07T16:55:05.297Z",
   "version": "2.8",
   "datos": {
     "na-v20-proyectos": [
@@ -3971,9 +3971,36 @@
         "cantidad": 1,
         "capFiltro": "2",
         "id": "r1783355028070",
-        "estado": "pendiente",
+        "estado": "aprobado",
         "precioManual": null,
         "createdAt": "2026-07-06T16:23:48.070Z",
+        "creadoPor": "Daniel",
+        "esGrupo": true,
+        "lineasGrupo": [
+          {
+            "conceptoId": "2.7",
+            "cantidad": 1,
+            "observaciones": "",
+            "precioManual": 185,
+            "certifAprobada": true,
+            "certifEnviada": true,
+            "cantCertif": 1
+          }
+        ],
+        "estadoCertif": "finalizado"
+      },
+      {
+        "proyectoId": "p1783354989309",
+        "conceptoId": "2.7",
+        "trabajador": "Daniel",
+        "fecha": "2026-07-07",
+        "observaciones": "Grupo: 1 actividades",
+        "cantidad": 1,
+        "capFiltro": "2",
+        "id": "r1783440469442",
+        "estado": "rechazado",
+        "precioManual": null,
+        "createdAt": "2026-07-07T16:07:49.442Z",
         "creadoPor": "Daniel",
         "esGrupo": true,
         "lineasGrupo": [
