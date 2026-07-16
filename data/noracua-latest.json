@@ -1,5 +1,5 @@
 {
-  "fecha": "2026-07-08T12:06:56.092Z",
+  "fecha": "2026-07-16T18:36:19.482Z",
   "version": "2.8",
   "datos": {
     "na-v20-proyectos": [
@@ -1052,6 +1052,39 @@
         "id": "p1783354989309",
         "creadoEn": "2026-07-06T16:23:09.309Z",
         "creadoPor": "Daniel"
+      },
+      {
+        "nombre": "RESPUESTA REQUERIMIENTO INDUSTRIA",
+        "po": "",
+        "zona": "NORTE",
+        "responsableBP": "Eduardo González",
+        "estacion": "BP INFIESTO",
+        "clienteId": "cl01",
+        "id": "p1783932630586",
+        "creadoEn": "2026-07-13T08:50:30.586Z",
+        "creadoPor": "Yennyfer Lemus"
+      },
+      {
+        "nombre": "MANTENIMIENTO Y CONSERVACION MARQUESINA",
+        "po": "",
+        "zona": "NORTE",
+        "responsableBP": "José Ramón Rivero",
+        "estacion": "BP IRUN",
+        "clienteId": "cl01",
+        "id": "p1783937731189",
+        "creadoEn": "2026-07-13T10:15:31.189Z",
+        "creadoPor": "Jordi Santos"
+      },
+      {
+        "nombre": "AUTORIZACIÓN DE VERTIDOS",
+        "po": "",
+        "zona": "CENTRO",
+        "responsableBP": "Raquel Martínez",
+        "estacion": "BP APADIS",
+        "clienteId": "cl01",
+        "id": "p1784099732326",
+        "creadoEn": "2026-07-15T07:15:32.327Z",
+        "creadoPor": "Jordi Santos"
       }
     ],
     "na-v20-registros": [
@@ -1078,18 +1111,30 @@
             "certifEnviada": false,
             "certifAprobada": false,
             "cantCertif": 1,
-            "certifEnviadaAt": "2026-05-19T09:49:27.209Z"
+            "certifEnviadaAt": "2026-05-19T09:49:27.209Z",
+            "_ofertaCheck": false,
+            "certifOferta": true,
+            "certifOfertaAt": "2026-07-08T20:54:30.937Z",
+            "cantCertifOferta": 1
           },
           {
             "conceptoId": "1.17",
             "cantidad": 1,
-            "observaciones": "Proyecto para la IP06"
+            "observaciones": "Proyecto para la IP06",
+            "_ofertaCheck": false,
+            "certifOferta": true,
+            "certifOfertaAt": "2026-07-08T20:54:30.937Z",
+            "cantCertifOferta": 1
           },
           {
             "conceptoId": "1.2",
             "cantidad": 1,
             "observaciones": "Modificación de proyecto en base a reunión con Ayuntamiento del 7 de mayo",
-            "_certifCheck": false
+            "_certifCheck": false,
+            "_ofertaCheck": false,
+            "certifOferta": true,
+            "certifOfertaAt": "2026-07-08T20:54:30.937Z",
+            "cantCertifOferta": 1
           },
           {
             "conceptoId": "3.1c",
@@ -1122,7 +1167,11 @@
             "certifEnviada": false,
             "certifAprobada": false,
             "cantCertif": 2,
-            "certifEnviadaAt": "2026-05-19T09:49:27.209Z"
+            "certifEnviadaAt": "2026-05-19T09:49:27.209Z",
+            "_ofertaCheck": false,
+            "certifOferta": true,
+            "certifOfertaAt": "2026-07-08T20:54:30.937Z",
+            "cantCertifOferta": 3
           },
           {
             "conceptoId": "7.1",
@@ -1132,7 +1181,11 @@
             "certifEnviada": false,
             "certifAprobada": false,
             "cantCertif": 1,
-            "certifEnviadaAt": "2026-05-19T09:51:54.220Z"
+            "certifEnviadaAt": "2026-05-19T09:51:54.220Z",
+            "_ofertaCheck": false,
+            "certifOferta": true,
+            "certifOfertaAt": "2026-07-08T20:54:30.937Z",
+            "cantCertifOferta": 1
           },
           {
             "conceptoId": "7.2",
@@ -1142,12 +1195,17 @@
             "certifEnviada": false,
             "certifAprobada": false,
             "cantCertif": 1,
-            "certifEnviadaAt": "2026-05-19T09:51:54.220Z"
+            "certifEnviadaAt": "2026-05-19T09:51:54.220Z",
+            "_ofertaCheck": false,
+            "certifOferta": true,
+            "certifOfertaAt": "2026-07-08T20:54:30.937Z",
+            "cantCertifOferta": 1
           },
           {
             "conceptoId": "7.4",
             "cantidad": 1,
-            "observaciones": "Baja actividad ayto"
+            "observaciones": "Baja actividad ayto",
+            "_ofertaCheck": false
           },
           {
             "conceptoId": "7.3",
@@ -1159,7 +1217,11 @@
             "cantidad": 4,
             "observaciones": "",
             "_certifCheck": false,
-            "_cantCertif": 2
+            "_cantCertif": 2,
+            "_ofertaCheck": false,
+            "certifOferta": true,
+            "certifOfertaAt": "2026-07-08T20:54:30.937Z",
+            "cantCertifOferta": 4
           },
           {
             "conceptoId": "10.5",
@@ -1179,7 +1241,11 @@
             "certifEnviada": false,
             "certifAprobada": false,
             "cantCertif": 1,
-            "certifEnviadaAt": "2026-05-19T09:51:54.220Z"
+            "certifEnviadaAt": "2026-05-19T09:51:54.220Z",
+            "_ofertaCheck": false,
+            "certifOferta": true,
+            "certifOfertaAt": "2026-07-08T20:54:30.937Z",
+            "cantCertifOferta": 1
           }
         ],
         "estadoCertif": "",
@@ -2507,7 +2573,11 @@
             "conceptoId": "1.5",
             "cantidad": 1,
             "observaciones": "Memoria valorada para Ayuntamiento",
-            "descuento": 50
+            "descuento": 50,
+            "_ofertaCheck": false,
+            "certifOferta": true,
+            "certifOfertaAt": "2026-07-10T08:49:37.072Z",
+            "cantCertifOferta": 1
           },
           {
             "conceptoId": "7.2",
@@ -2894,6 +2964,87 @@
             "conceptoId": "7.6",
             "cantidad": 1,
             "observaciones": "Licencia en Carreteras"
+          }
+        ]
+      },
+      {
+        "proyectoId": "p1783937731189",
+        "conceptoId": "7.7",
+        "trabajador": "Jordi Santos",
+        "fecha": "2026-07-13",
+        "observaciones": "Grupo: 1 actividades",
+        "cantidad": 1,
+        "searchPr": "irun",
+        "id": "r1783937766340",
+        "estado": "pendiente",
+        "precioManual": null,
+        "createdAt": "2026-07-13T10:16:06.340Z",
+        "creadoPor": "Jordi Santos",
+        "esGrupo": true,
+        "lineasGrupo": [
+          {
+            "conceptoId": "7.7",
+            "cantidad": 1,
+            "observaciones": "Comunicación final trabajos y aporte gestión residuos"
+          }
+        ]
+      },
+      {
+        "proyectoId": "p1779138869587",
+        "conceptoId": "7.6",
+        "trabajador": "Jordi Santos",
+        "fecha": "2026-07-13",
+        "observaciones": "Grupo: 1 actividades",
+        "cantidad": 1,
+        "searchPr": "blanco",
+        "id": "r1783947598915",
+        "estado": "pendiente",
+        "precioManual": null,
+        "createdAt": "2026-07-13T12:59:58.915Z",
+        "creadoPor": "Jordi Santos",
+        "esGrupo": true,
+        "lineasGrupo": [
+          {
+            "conceptoId": "7.6",
+            "cantidad": 1,
+            "observaciones": "Comunicación fin obras y devolución fianza Carreteras"
+          }
+        ]
+      },
+      {
+        "proyectoId": "p1784099732326",
+        "conceptoId": "6.1",
+        "trabajador": "Jordi Santos",
+        "fecha": "2026-07-15",
+        "observaciones": "Grupo: 4 actividades",
+        "cantidad": 1,
+        "searchPr": "apadis",
+        "id": "r1784099831598",
+        "estado": "pendiente",
+        "precioManual": null,
+        "createdAt": "2026-07-15T07:17:11.598Z",
+        "creadoPor": "Jordi Santos",
+        "esGrupo": true,
+        "lineasGrupo": [
+          {
+            "conceptoId": "6.1",
+            "cantidad": 1,
+            "observaciones": "Limpieza supervisada"
+          },
+          {
+            "conceptoId": "1.9",
+            "cantidad": 1,
+            "observaciones": "Proyecto para autorización de vertidos"
+          },
+          {
+            "conceptoId": "7.6",
+            "cantidad": 1,
+            "observaciones": "Solicitud de autorización de vertidos"
+          },
+          {
+            "conceptoId": "7.6",
+            "cantidad": 1,
+            "observaciones": "Instancia para comunicar incidencia en colectro con Canal Isabell II"
           }
         ]
       },
@@ -3711,6 +3862,28 @@
             "cantidad": 1,
             "observaciones": "Consulta trámite de Conversión DP Tq 1",
             "descuento": 50
+          }
+        ]
+      },
+      {
+        "proyectoId": "p1783932630586",
+        "conceptoId": "7.3",
+        "trabajador": "Yennyfer Lemus",
+        "fecha": "2026-07-11",
+        "observaciones": "Grupo: 1 actividades",
+        "cantidad": 1,
+        "capFiltro": "7",
+        "id": "r1783932699396",
+        "estado": "pendiente",
+        "precioManual": null,
+        "createdAt": "2026-07-13T08:51:39.396Z",
+        "creadoPor": "Yennyfer Lemus",
+        "esGrupo": true,
+        "lineasGrupo": [
+          {
+            "conceptoId": "7.3",
+            "cantidad": 1,
+            "observaciones": "Respuesta Requerimiento Conversión Doble Pared Tanque Nº2"
           }
         ]
       },
@@ -9990,6 +10163,7 @@
       }
     ],
     "na-v20-estaciones": [
+      "B",
       "BP ADRIA CASAS",
       "BP ALELLA",
       "BP AV DAROCA",
@@ -10020,8 +10194,10 @@
       "BP PLANAMAR",
       "BP SA POBLA",
       "BP SABADELL",
+      "BP SANT BOI",
       "BP SANTA COLOMA",
       "BP SANTA EULALIA",
+      "BP SANTA EULALIA DE RONÇANA",
       "BP TARRASSA",
       "BP VILANOVA",
       "BP VILANOVA II",
@@ -10049,6 +10225,195 @@
       }
     ],
     "na-v25-hsse-sups": [
+      {
+        "site": "OFICINA",
+        "tipoActividad": "Obra menor mantenimiento",
+        "pctAuditoria": "",
+        "obraConSupervision": "Sí",
+        "fecha": "2026-07-15",
+        "horas": "8",
+        "horasOrig": "8",
+        "horasAdmin": "8",
+        "supervisor": "Carlos García",
+        "encargo": "Guiomar Tuero",
+        "zona": "CATALUÑA",
+        "incidencias": "No",
+        "motivoSupervision": "Elaboración informes de excepción entrada a espacios confinados.",
+        "empresa": "",
+        "comentarios": "",
+        "id": "hs_1784177009038",
+        "estado": "pendiente",
+        "creadoPor": "Carlos García",
+        "fechaCreacion": "2026-07-16T04:43:29.038Z"
+      },
+      {
+        "site": "BP BADANOR",
+        "tipoActividad": "Obra menor mantenimiento",
+        "pctAuditoria": "100",
+        "obraConSupervision": "Sí",
+        "fecha": "2026-07-14",
+        "horas": "8",
+        "horasOrig": "8",
+        "horasAdmin": "8",
+        "supervisor": "Carlos García",
+        "encargo": "Guiomar Tuero",
+        "zona": "CATALUÑA",
+        "incidencias": "No",
+        "motivoSupervision": "Trabajos en altura",
+        "empresa": "Istobal / PETROSUPORT ",
+        "comentarios": "Trabajos instalación eléctrica. Instalar puertas en cerramiento.",
+        "id": "hs_1784176916545",
+        "estado": "pendiente",
+        "creadoPor": "Carlos García",
+        "fechaCreacion": "2026-07-16T04:41:56.545Z"
+      },
+      {
+        "site": "BP BADANOR",
+        "tipoActividad": "Obra menor mantenimiento",
+        "pctAuditoria": "100",
+        "obraConSupervision": "Sí",
+        "fecha": "2026-07-13",
+        "horas": "9",
+        "horasOrig": "9",
+        "horasAdmin": "9",
+        "supervisor": "Carlos García",
+        "encargo": "Guiomar Tuero",
+        "zona": "CATALUÑA",
+        "incidencias": "No",
+        "motivoSupervision": "Trabajos en altura",
+        "empresa": "Istobal / PETROSUPORT ",
+        "comentarios": "Trabajos eléctricos. Cerramiento lateral túnel.",
+        "id": "hs_1784176761537",
+        "estado": "pendiente",
+        "creadoPor": "Carlos García",
+        "fechaCreacion": "2026-07-16T04:39:21.537Z"
+      },
+      {
+        "site": "OFICINA",
+        "tipoActividad": "Itinerante",
+        "pctAuditoria": "",
+        "obraConSupervision": "",
+        "fecha": "2026-07-10",
+        "horas": "6",
+        "horasOrig": "6",
+        "horasAdmin": "6",
+        "supervisor": "Carlos García",
+        "encargo": "",
+        "zona": "",
+        "incidencias": "No",
+        "motivoSupervision": "Control documental de Contratistas. Elaboración informe solicitud acceso a tanque",
+        "empresa": "",
+        "comentarios": "",
+        "id": "hs_1783927464598",
+        "estado": "pendiente",
+        "creadoPor": "Carlos García",
+        "fechaCreacion": "2026-07-13T07:24:24.598Z"
+      },
+      {
+        "site": "BP SANTA EULALIA DE RONÇANA",
+        "tipoActividad": "Obra menor mantenimiento",
+        "pctAuditoria": "100",
+        "obraConSupervision": "Sí",
+        "fecha": "2026-07-09",
+        "horas": "9",
+        "horasOrig": "9",
+        "horasAdmin": "9",
+        "supervisor": "Carlos García",
+        "encargo": "Guiomar Tuero",
+        "zona": "",
+        "incidencias": "No",
+        "motivoSupervision": "Entrada en espacios confinados ",
+        "empresa": "PETROSUPORT ",
+        "comentarios": "Sustitución de 6 válvulas de sobrellenado",
+        "id": "hs_1783927343141",
+        "estado": "pendiente",
+        "creadoPor": "Carlos García",
+        "fechaCreacion": "2026-07-13T07:22:23.141Z"
+      },
+      {
+        "site": "BP SANT BOI",
+        "tipoActividad": "Obra menor mantenimiento",
+        "pctAuditoria": "100",
+        "obraConSupervision": "Sí",
+        "fecha": "2026-07-08",
+        "horas": "8",
+        "horasOrig": "8",
+        "horasAdmin": "8",
+        "supervisor": "Carlos García",
+        "encargo": "Guiomar Tuero",
+        "zona": "CATALUÑA",
+        "incidencias": "No",
+        "motivoSupervision": "Entrada en espacios confinados ",
+        "empresa": "PETROSUPORT ",
+        "comentarios": "Limpieza y aspirado de arquetas boca hombre.",
+        "id": "hs_1783573888523",
+        "estado": "pendiente",
+        "creadoPor": "Carlos García",
+        "fechaCreacion": "2026-07-09T05:11:28.523Z"
+      },
+      {
+        "site": "BP ADRIA CASAS",
+        "tipoActividad": "Obra menor mantenimiento",
+        "pctAuditoria": "99",
+        "obraConSupervision": "Sí",
+        "fecha": "2026-07-07",
+        "horas": "9",
+        "horasOrig": "9",
+        "horasAdmin": "9",
+        "supervisor": "Carlos García",
+        "encargo": "Guiomar Tuero",
+        "zona": "CATALUÑA",
+        "incidencias": "No",
+        "motivoSupervision": "Entrada en espacios confinados ",
+        "empresa": "PETROSUPORT ",
+        "comentarios": "Instalación de equipotenciales en arquetas boca hombre",
+        "id": "hs_1783522139736",
+        "estado": "pendiente",
+        "creadoPor": "Carlos García",
+        "fechaCreacion": "2026-07-08T14:48:59.736Z"
+      },
+      {
+        "site": "BP SANTA EULALIA",
+        "tipoActividad": "Obra menor mantenimiento",
+        "pctAuditoria": "100",
+        "obraConSupervision": "Sí",
+        "fecha": "2026-07-07",
+        "horas": "8",
+        "horasOrig": "8",
+        "horasAdmin": "8",
+        "supervisor": "Ana Vélez",
+        "encargo": "Guiomar Tuero",
+        "zona": "BALEARES",
+        "incidencias": "No",
+        "motivoSupervision": "Trabajos en caliente",
+        "empresa": "PETROSUPORT ",
+        "comentarios": "Regata para embutir equipotenciales en zona bocas de descarga",
+        "id": "hs_1783522058009",
+        "estado": "pendiente",
+        "creadoPor": "Carlos García",
+        "fechaCreacion": "2026-07-08T14:47:38.009Z"
+      },
+      {
+        "site": "OFICINA",
+        "tipoActividad": "Itinerante",
+        "pctAuditoria": "",
+        "obraConSupervision": "",
+        "fecha": "2026-07-06",
+        "horas": "8",
+        "horasOrig": "8",
+        "horasAdmin": "8",
+        "supervisor": "Carlos García",
+        "encargo": "",
+        "zona": "",
+        "incidencias": "No",
+        "motivoSupervision": "Gestión documental Contratistas",
+        "empresa": "PETROSUPORT ",
+        "comentarios": "",
+        "id": "hs_1783521945252",
+        "estado": "pendiente",
+        "creadoPor": "Carlos García",
+        "fechaCreacion": "2026-07-08T14:45:45.252Z"
+      },
       {
         "site": "BP PALMA",
         "tipoActividad": "Obra menor mantenimiento",
