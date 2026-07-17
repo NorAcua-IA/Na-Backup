@@ -1,5 +1,5 @@
 {
-  "fecha": "2026-07-17T21:08:43.844Z",
+  "fecha": "2026-07-17T21:39:46.961Z",
   "version": "3.0",
   "datos": {
     "proyectos": [
@@ -136,6 +136,18 @@
         "legacy_id": "p1779386145802"
       },
       {
+        "id": "4eaf98c0-695f-4215-9885-4dc55c64bdc7",
+        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
+        "nombre": "CO OUT ES",
+        "zona": "NORTE",
+        "po": null,
+        "estacion_id": "f2c2e879-822a-46f8-95e6-523aeaff5258",
+        "responsable_bp_id": "ececaf57-8526-419e-9dfe-ac31324ecde8",
+        "activo": true,
+        "creado_en": "2026-06-16T11:25:39.389344+00:00",
+        "legacy_id": "p1779138810443"
+      },
+      {
         "id": "c1771264-a85e-4223-8fb9-308aaf8675af",
         "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
         "nombre": "CO OUT ES",
@@ -146,18 +158,6 @@
         "activo": true,
         "creado_en": "2026-06-16T11:25:39.389344+00:00",
         "legacy_id": "p1779185410739"
-      },
-      {
-        "id": "e086b7ff-9d39-488d-bd14-e259ce27cd2c",
-        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
-        "nombre": "CO OUT ES",
-        "zona": "NORTE",
-        "po": "3001342429",
-        "estacion_id": "4cee0521-b716-47ec-ba46-cfc9388369a6",
-        "responsable_bp_id": "0d31ea79-7b68-4389-9316-f68d918e0edb",
-        "activo": true,
-        "creado_en": "2026-06-16T11:25:39.389344+00:00",
-        "legacy_id": "p1779185513218"
       },
       {
         "id": "b364c94e-a3f5-464f-82de-2218a3db27ea",
@@ -172,16 +172,16 @@
         "legacy_id": "p1779183792717"
       },
       {
-        "id": "4eaf98c0-695f-4215-9885-4dc55c64bdc7",
+        "id": "e086b7ff-9d39-488d-bd14-e259ce27cd2c",
         "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
         "nombre": "CO OUT ES",
         "zona": "NORTE",
-        "po": null,
-        "estacion_id": "f2c2e879-822a-46f8-95e6-523aeaff5258",
-        "responsable_bp_id": "ececaf57-8526-419e-9dfe-ac31324ecde8",
+        "po": "3001342429",
+        "estacion_id": "4cee0521-b716-47ec-ba46-cfc9388369a6",
+        "responsable_bp_id": "0d31ea79-7b68-4389-9316-f68d918e0edb",
         "activo": true,
         "creado_en": "2026-06-16T11:25:39.389344+00:00",
-        "legacy_id": "p1779138810443"
+        "legacy_id": "p1779185513218"
       },
       {
         "id": "d8b56b96-62d2-4fa8-bf26-7ff226aacfaa",
@@ -220,18 +220,6 @@
         "legacy_id": "p1779391786134"
       },
       {
-        "id": "2aacacf3-eee5-4216-a37b-8ba9fb56bc2b",
-        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
-        "nombre": "CONTROL PERIÓDICO AMBIENTAL",
-        "zona": "CATALUÑA",
-        "po": null,
-        "estacion_id": "5eb72b89-f11a-4d7e-9a64-d35e4d30ab47",
-        "responsable_bp_id": "10c094e3-c6e3-43ac-8a80-670b618de68f",
-        "activo": true,
-        "creado_en": "2026-06-16T11:25:39.389344+00:00",
-        "legacy_id": "p1781595067921"
-      },
-      {
         "id": "6f779582-e80f-4027-8d21-53c1137d2218",
         "cliente_id": "a1a48a0d-bdc4-4c0e-a02d-c4f1060c549a",
         "nombre": "CONTROL PERIÓDICO AMBIENTAL",
@@ -242,6 +230,18 @@
         "activo": true,
         "creado_en": "2026-06-16T11:25:39.389344+00:00",
         "legacy_id": "p1780035450676"
+      },
+      {
+        "id": "2aacacf3-eee5-4216-a37b-8ba9fb56bc2b",
+        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
+        "nombre": "CONTROL PERIÓDICO AMBIENTAL",
+        "zona": "CATALUÑA",
+        "po": null,
+        "estacion_id": "5eb72b89-f11a-4d7e-9a64-d35e4d30ab47",
+        "responsable_bp_id": "10c094e3-c6e3-43ac-8a80-670b618de68f",
+        "activo": true,
+        "creado_en": "2026-06-16T11:25:39.389344+00:00",
+        "legacy_id": "p1781595067921"
       },
       {
         "id": "d0f867e6-e1fa-46e0-8485-6fc7106caeea",
@@ -328,18 +328,6 @@
         "legacy_id": "p1781862914242"
       },
       {
-        "id": "82ea1c9a-084b-421b-8f7b-6c24c15636e4",
-        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
-        "nombre": "LAVADOS",
-        "zona": "CATALUÑA",
-        "po": null,
-        "estacion_id": "f4ab001e-0fdf-4639-8fbb-3194b6f80749",
-        "responsable_bp_id": "d1a0ed21-6f85-4bab-b968-681501dbd784",
-        "activo": true,
-        "creado_en": "2026-06-16T11:25:39.389344+00:00",
-        "legacy_id": "p1779137983090"
-      },
-      {
         "id": "725546ca-0e8a-4b13-93a9-3357aa2366e8",
         "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
         "nombre": "LAVADOS",
@@ -352,16 +340,28 @@
         "legacy_id": "p1779132004672"
       },
       {
-        "id": "ce2ce3d0-5315-4f3c-ae63-d9ee14ab736c",
+        "id": "82ea1c9a-084b-421b-8f7b-6c24c15636e4",
         "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
-        "nombre": "LEGALIZACIÓN BT",
-        "zona": "NORTE",
-        "po": "3001339420",
-        "estacion_id": "5e4bf7bc-8607-4a78-bd90-e847600295ca",
-        "responsable_bp_id": "cc323490-3235-48e5-b06c-e4558bdee00a",
+        "nombre": "LAVADOS",
+        "zona": "CATALUÑA",
+        "po": null,
+        "estacion_id": "f4ab001e-0fdf-4639-8fbb-3194b6f80749",
+        "responsable_bp_id": "d1a0ed21-6f85-4bab-b968-681501dbd784",
         "activo": true,
         "creado_en": "2026-06-16T11:25:39.389344+00:00",
-        "legacy_id": "p1779138950348"
+        "legacy_id": "p1779137983090"
+      },
+      {
+        "id": "f9ffaa8b-0b50-45ab-a85c-0a0812721928",
+        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
+        "nombre": "LEGALIZACIÓN BT",
+        "zona": "CENTRO",
+        "po": null,
+        "estacion_id": "9577d07d-e9e8-429e-9bc5-63120fa82598",
+        "responsable_bp_id": "ececaf57-8526-419e-9dfe-ac31324ecde8",
+        "activo": true,
+        "creado_en": "2026-06-16T11:25:39.389344+00:00",
+        "legacy_id": "p1779138632454"
       },
       {
         "id": "75fde8f4-4de9-4000-b67d-67e91b00c497",
@@ -376,16 +376,16 @@
         "legacy_id": "p1779140021508"
       },
       {
-        "id": "f9ffaa8b-0b50-45ab-a85c-0a0812721928",
+        "id": "ce2ce3d0-5315-4f3c-ae63-d9ee14ab736c",
         "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
         "nombre": "LEGALIZACIÓN BT",
-        "zona": "CENTRO",
-        "po": null,
-        "estacion_id": "9577d07d-e9e8-429e-9bc5-63120fa82598",
-        "responsable_bp_id": "ececaf57-8526-419e-9dfe-ac31324ecde8",
+        "zona": "NORTE",
+        "po": "3001339420",
+        "estacion_id": "5e4bf7bc-8607-4a78-bd90-e847600295ca",
+        "responsable_bp_id": "cc323490-3235-48e5-b06c-e4558bdee00a",
         "activo": true,
         "creado_en": "2026-06-16T11:25:39.389344+00:00",
-        "legacy_id": "p1779138632454"
+        "legacy_id": "p1779138950348"
       },
       {
         "id": "3073c25d-2aa1-40cb-b08e-02f6498bf3c7",
@@ -532,18 +532,6 @@
         "legacy_id": "p1779900916942"
       },
       {
-        "id": "4d5a7f3a-9439-4ba8-9593-3113c7a63f6b",
-        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
-        "nombre": "RECICLADORA LAVADOS",
-        "zona": "CATALUÑA",
-        "po": null,
-        "estacion_id": "69bf44e8-d908-4a24-acdb-f50d4978b374",
-        "responsable_bp_id": "d1a0ed21-6f85-4bab-b968-681501dbd784",
-        "activo": true,
-        "creado_en": "2026-06-17T17:58:05.766+00:00",
-        "legacy_id": "p1781719085766"
-      },
-      {
         "id": "232f96fb-99a7-4e15-9766-664c8fadc155",
         "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
         "nombre": "RECICLADORA LAVADOS",
@@ -592,18 +580,6 @@
         "legacy_id": "p1779139986725"
       },
       {
-        "id": "7021c451-baaa-41e4-b5f4-7bd7590e163e",
-        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
-        "nombre": "REFORMA TIENDA",
-        "zona": "CATALUÑA",
-        "po": null,
-        "estacion_id": "adfd2f27-86b2-4b64-956e-63b78de762c8",
-        "responsable_bp_id": "cc323490-3235-48e5-b06c-e4558bdee00a",
-        "activo": true,
-        "creado_en": "2026-06-16T11:25:39.389344+00:00",
-        "legacy_id": "p1779138737907"
-      },
-      {
         "id": "ca7bcb77-7ab1-4cac-b70a-e420f8d46747",
         "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
         "nombre": "REFORMA TIENDA",
@@ -616,6 +592,18 @@
         "legacy_id": "p1779131978216"
       },
       {
+        "id": "7021c451-baaa-41e4-b5f4-7bd7590e163e",
+        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
+        "nombre": "REFORMA TIENDA",
+        "zona": "CATALUÑA",
+        "po": null,
+        "estacion_id": "adfd2f27-86b2-4b64-956e-63b78de762c8",
+        "responsable_bp_id": "cc323490-3235-48e5-b06c-e4558bdee00a",
+        "activo": true,
+        "creado_en": "2026-06-16T11:25:39.389344+00:00",
+        "legacy_id": "p1779138737907"
+      },
+      {
         "id": "f2e00fc2-351c-4313-813e-a7659e401e16",
         "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
         "nombre": "REFORMA TIENDA ",
@@ -626,66 +614,6 @@
         "activo": true,
         "creado_en": "2026-06-16T11:25:39.389344+00:00",
         "legacy_id": "p1779138693519"
-      },
-      {
-        "id": "8ce214c9-4f40-4348-89d4-27b43a45d030",
-        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
-        "nombre": "REFORMA TIENDA DIA",
-        "zona": "CENTRO",
-        "po": null,
-        "estacion_id": "fea0fa24-4de5-4d86-ad7f-ba372166d31d",
-        "responsable_bp_id": "d1a0ed21-6f85-4bab-b968-681501dbd784",
-        "activo": true,
-        "creado_en": "2026-06-16T11:25:39.389344+00:00",
-        "legacy_id": "p1779132230677"
-      },
-      {
-        "id": "43762560-acf4-484e-8b2a-3a1c782f1a31",
-        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
-        "nombre": "REFORMA TIENDA DIA",
-        "zona": "CENTRO",
-        "po": null,
-        "estacion_id": "cf99b3d1-1276-455b-a990-c7ff07f8a73b",
-        "responsable_bp_id": "d1a0ed21-6f85-4bab-b968-681501dbd784",
-        "activo": true,
-        "creado_en": "2026-06-16T11:25:39.389344+00:00",
-        "legacy_id": "p1779132181864"
-      },
-      {
-        "id": "f8e1b774-f812-4f50-9d78-36cf1627e76b",
-        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
-        "nombre": "REFORMA TIENDA DIA",
-        "zona": "CENTRO",
-        "po": null,
-        "estacion_id": "eb77a89e-515a-44f1-9138-4b7510f9545e",
-        "responsable_bp_id": "50314b46-47a7-4b90-8f8f-58441cbcb7e8",
-        "activo": true,
-        "creado_en": "2026-06-16T11:25:39.389344+00:00",
-        "legacy_id": "p1779132271164"
-      },
-      {
-        "id": "5c63c3e2-efbd-40ee-9edc-a802beaf4306",
-        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
-        "nombre": "REFORMA TIENDA DIA",
-        "zona": "CENTRO",
-        "po": null,
-        "estacion_id": "3aaa19c7-97e0-4595-bc74-efd50e4e9d85",
-        "responsable_bp_id": "d1a0ed21-6f85-4bab-b968-681501dbd784",
-        "activo": true,
-        "creado_en": "2026-06-16T11:25:39.389344+00:00",
-        "legacy_id": "p1779132293709"
-      },
-      {
-        "id": "5896ccb1-7ca3-43c2-87d4-e632101bb68a",
-        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
-        "nombre": "REFORMA TIENDA DIA",
-        "zona": "CENTRO",
-        "po": null,
-        "estacion_id": "09c051b9-1465-43b2-9850-6f3e057b4202",
-        "responsable_bp_id": "d1a0ed21-6f85-4bab-b968-681501dbd784",
-        "activo": true,
-        "creado_en": "2026-06-16T11:25:39.389344+00:00",
-        "legacy_id": "p1779132124323"
       },
       {
         "id": "7aa43162-2501-4b0f-a77d-ffcbe096ee3c",
@@ -734,6 +662,66 @@
         "activo": true,
         "creado_en": "2026-06-16T11:25:39.389344+00:00",
         "legacy_id": "p1779132322623"
+      },
+      {
+        "id": "5c63c3e2-efbd-40ee-9edc-a802beaf4306",
+        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
+        "nombre": "REFORMA TIENDA DIA",
+        "zona": "CENTRO",
+        "po": null,
+        "estacion_id": "3aaa19c7-97e0-4595-bc74-efd50e4e9d85",
+        "responsable_bp_id": "d1a0ed21-6f85-4bab-b968-681501dbd784",
+        "activo": true,
+        "creado_en": "2026-06-16T11:25:39.389344+00:00",
+        "legacy_id": "p1779132293709"
+      },
+      {
+        "id": "43762560-acf4-484e-8b2a-3a1c782f1a31",
+        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
+        "nombre": "REFORMA TIENDA DIA",
+        "zona": "CENTRO",
+        "po": null,
+        "estacion_id": "cf99b3d1-1276-455b-a990-c7ff07f8a73b",
+        "responsable_bp_id": "d1a0ed21-6f85-4bab-b968-681501dbd784",
+        "activo": true,
+        "creado_en": "2026-06-16T11:25:39.389344+00:00",
+        "legacy_id": "p1779132181864"
+      },
+      {
+        "id": "f8e1b774-f812-4f50-9d78-36cf1627e76b",
+        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
+        "nombre": "REFORMA TIENDA DIA",
+        "zona": "CENTRO",
+        "po": null,
+        "estacion_id": "eb77a89e-515a-44f1-9138-4b7510f9545e",
+        "responsable_bp_id": "50314b46-47a7-4b90-8f8f-58441cbcb7e8",
+        "activo": true,
+        "creado_en": "2026-06-16T11:25:39.389344+00:00",
+        "legacy_id": "p1779132271164"
+      },
+      {
+        "id": "5896ccb1-7ca3-43c2-87d4-e632101bb68a",
+        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
+        "nombre": "REFORMA TIENDA DIA",
+        "zona": "CENTRO",
+        "po": null,
+        "estacion_id": "09c051b9-1465-43b2-9850-6f3e057b4202",
+        "responsable_bp_id": "d1a0ed21-6f85-4bab-b968-681501dbd784",
+        "activo": true,
+        "creado_en": "2026-06-16T11:25:39.389344+00:00",
+        "legacy_id": "p1779132124323"
+      },
+      {
+        "id": "8ce214c9-4f40-4348-89d4-27b43a45d030",
+        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
+        "nombre": "REFORMA TIENDA DIA",
+        "zona": "CENTRO",
+        "po": null,
+        "estacion_id": "fea0fa24-4de5-4d86-ad7f-ba372166d31d",
+        "responsable_bp_id": "d1a0ed21-6f85-4bab-b968-681501dbd784",
+        "activo": true,
+        "creado_en": "2026-06-16T11:25:39.389344+00:00",
+        "legacy_id": "p1779132230677"
       },
       {
         "id": "b57c75a8-1f80-4ca4-9dcf-0745235a87e2",
@@ -1168,16 +1156,16 @@
         "legacy_id": "p1779384794378"
       },
       {
-        "id": "cc0ab490-77e4-4727-86f4-113704921bc1",
+        "id": "354336aa-31d1-47b2-9bd2-d5a67bb41b19",
         "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
         "nombre": "SÓTANO ES",
-        "zona": "CATALUÑA",
+        "zona": "BALEARES",
         "po": "3001322306",
-        "estacion_id": "d86d4e7d-6e1e-422a-9c43-339da639312b",
-        "responsable_bp_id": "d1a0ed21-6f85-4bab-b968-681501dbd784",
+        "estacion_id": "5649ba45-91a3-4732-a544-dd5f3917fc40",
+        "responsable_bp_id": "cc323490-3235-48e5-b06c-e4558bdee00a",
         "activo": true,
         "creado_en": "2026-06-16T11:25:39.389344+00:00",
-        "legacy_id": "p1779387531504"
+        "legacy_id": "p1779386413694"
       },
       {
         "id": "63691af2-7577-435d-816d-1d83c658d7e3",
@@ -1192,16 +1180,16 @@
         "legacy_id": "p1779391171195"
       },
       {
-        "id": "354336aa-31d1-47b2-9bd2-d5a67bb41b19",
+        "id": "cc0ab490-77e4-4727-86f4-113704921bc1",
         "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
         "nombre": "SÓTANO ES",
-        "zona": "BALEARES",
+        "zona": "CATALUÑA",
         "po": "3001322306",
-        "estacion_id": "5649ba45-91a3-4732-a544-dd5f3917fc40",
-        "responsable_bp_id": "cc323490-3235-48e5-b06c-e4558bdee00a",
+        "estacion_id": "d86d4e7d-6e1e-422a-9c43-339da639312b",
+        "responsable_bp_id": "d1a0ed21-6f85-4bab-b968-681501dbd784",
         "activo": true,
         "creado_en": "2026-06-16T11:25:39.389344+00:00",
-        "legacy_id": "p1779386413694"
+        "legacy_id": "p1779387531504"
       },
       {
         "id": "c5a70b76-725f-4b7b-a83f-2cbf79461d28",
@@ -1237,18 +1225,6 @@
         "responsable_bp_id": "121568c5-32cc-457e-9a08-5a885cbe0ddb",
         "activo": true,
         "creado_en": "2026-07-16T23:04:52.407+00:00",
-        "legacy_id": "p1781589286924"
-      },
-      {
-        "id": "ec2c4756-5960-4f70-9540-33aff5e409c4",
-        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
-        "nombre": "SUSTITUCIÓN CUBIERTA AMIANTO MARQUESINA",
-        "zona": "CATALUÑA",
-        "po": null,
-        "estacion_id": "69fe02f4-3467-46af-be4a-fd568b56983c",
-        "responsable_bp_id": "121568c5-32cc-457e-9a08-5a885cbe0ddb",
-        "activo": true,
-        "creado_en": "2026-06-16T11:25:39.389344+00:00",
         "legacy_id": "p1781589286924"
       },
       {
@@ -1310,30 +1286,6 @@
         "activo": true,
         "creado_en": "2026-06-16T11:25:39.389344+00:00",
         "legacy_id": "p1779138869587"
-      },
-      {
-        "id": "72df291c-9132-419b-8fcc-67f6466e663d",
-        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
-        "nombre": "VENTEOS ",
-        "zona": "NORTE",
-        "po": "3001345374",
-        "estacion_id": "8b591e31-1379-468d-ad2f-462500c8b71e",
-        "responsable_bp_id": "0d31ea79-7b68-4389-9316-f68d918e0edb",
-        "activo": true,
-        "creado_en": "2026-07-16T23:04:52.407+00:00",
-        "legacy_id": "p1779138869587"
-      },
-      {
-        "id": "cedb0007-94f3-47a7-b35c-231077ded168",
-        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
-        "nombre": "VERTIDOS",
-        "zona": "CATALUÑA",
-        "po": "3001321904",
-        "estacion_id": "47d2ed36-d4cf-4244-9db5-541ad02e829c",
-        "responsable_bp_id": "10c094e3-c6e3-43ac-8a80-670b618de68f",
-        "activo": true,
-        "creado_en": "2026-06-16T11:25:39.389344+00:00",
-        "legacy_id": "p1779387982062"
       },
       {
         "id": "beecdccc-e718-482f-bacb-83670bbc7a69",
@@ -1430,6 +1382,18 @@
         "activo": true,
         "creado_en": "2026-06-16T11:25:39.389344+00:00",
         "legacy_id": "p1779140164516"
+      },
+      {
+        "id": "cedb0007-94f3-47a7-b35c-231077ded168",
+        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
+        "nombre": "VERTIDOS",
+        "zona": "CATALUÑA",
+        "po": "3001321904",
+        "estacion_id": "47d2ed36-d4cf-4244-9db5-541ad02e829c",
+        "responsable_bp_id": "10c094e3-c6e3-43ac-8a80-670b618de68f",
+        "activo": true,
+        "creado_en": "2026-06-16T11:25:39.389344+00:00",
+        "legacy_id": "p1779387982062"
       },
       {
         "id": "1cdb48d1-a738-4b2f-a02f-57fae79d8664",
@@ -1538,6 +1502,29 @@
         "legacy_id": "r1783932699396"
       },
       {
+        "id": "d188c26d-2416-4363-a9f8-22c494b8637b",
+        "proyecto_id": "8693def8-3f80-43ac-a45b-94f63649707f",
+        "tecnico_id": "5ab5456a-6a78-4393-8809-c97b41cffb96",
+        "creado_por_id": "5ab5456a-6a78-4393-8809-c97b41cffb96",
+        "estado": "pendiente",
+        "estado_certif": null,
+        "fecha": "2026-07-07",
+        "es_grupo": true,
+        "concepto_id": null,
+        "precio_unitario": null,
+        "cantidad": 1,
+        "descuento_pct": 0,
+        "oferta_id": null,
+        "factura_id": null,
+        "informe_id": null,
+        "observaciones": "Grupo: 3 actividades",
+        "estacion_id": null,
+        "creado_en": "2026-07-07T09:36:16.749+00:00",
+        "actualizado_en": "2026-07-17T21:21:10.490136+00:00",
+        "eliminado_en": null,
+        "legacy_id": "r1783416976749"
+      },
+      {
         "id": "bbeef278-d25a-4670-9dd2-2e8c716d286a",
         "proyecto_id": "48b5471b-9043-4bba-b212-6b7a7db1efd1",
         "tecnico_id": "3e50e7e7-9fd7-4e53-9bf0-2bfd2d063f7f",
@@ -1561,13 +1548,13 @@
         "legacy_id": "r1783440469442"
       },
       {
-        "id": "d188c26d-2416-4363-a9f8-22c494b8637b",
-        "proyecto_id": "ec2c4756-5960-4f70-9540-33aff5e409c4",
+        "id": "d1544a12-1f71-43ee-adde-700a75760197",
+        "proyecto_id": "bb91efbf-e9eb-491d-9606-64948b7af781",
         "tecnico_id": "5ab5456a-6a78-4393-8809-c97b41cffb96",
         "creado_por_id": "5ab5456a-6a78-4393-8809-c97b41cffb96",
         "estado": "pendiente",
         "estado_certif": null,
-        "fecha": "2026-07-07",
+        "fecha": "2026-07-06",
         "es_grupo": true,
         "concepto_id": null,
         "precio_unitario": null,
@@ -1576,12 +1563,12 @@
         "oferta_id": null,
         "factura_id": null,
         "informe_id": null,
-        "observaciones": "Grupo: 3 actividades",
+        "observaciones": "Grupo: 1 actividades",
         "estacion_id": null,
-        "creado_en": "2026-07-07T09:36:16.749+00:00",
+        "creado_en": "2026-07-06T11:46:20.705+00:00",
         "actualizado_en": "2026-07-17T20:41:32.848377+00:00",
         "eliminado_en": null,
-        "legacy_id": "r1783416976749"
+        "legacy_id": "r1783338380705"
       },
       {
         "id": "dc2dcfb8-d1cd-462b-b2b7-bde71c66a03a",
@@ -1605,29 +1592,6 @@
         "actualizado_en": "2026-07-17T20:41:32.848377+00:00",
         "eliminado_en": null,
         "legacy_id": "r1783338428093"
-      },
-      {
-        "id": "d1544a12-1f71-43ee-adde-700a75760197",
-        "proyecto_id": "bb91efbf-e9eb-491d-9606-64948b7af781",
-        "tecnico_id": "5ab5456a-6a78-4393-8809-c97b41cffb96",
-        "creado_por_id": "5ab5456a-6a78-4393-8809-c97b41cffb96",
-        "estado": "pendiente",
-        "estado_certif": null,
-        "fecha": "2026-07-06",
-        "es_grupo": true,
-        "concepto_id": null,
-        "precio_unitario": null,
-        "cantidad": 1,
-        "descuento_pct": 0,
-        "oferta_id": null,
-        "factura_id": null,
-        "informe_id": null,
-        "observaciones": "Grupo: 1 actividades",
-        "estacion_id": null,
-        "creado_en": "2026-07-06T11:46:20.705+00:00",
-        "actualizado_en": "2026-07-17T20:41:32.848377+00:00",
-        "eliminado_en": null,
-        "legacy_id": "r1783338380705"
       },
       {
         "id": "20ff76cb-b6bf-4aff-b33e-2770c9d15a0c",
@@ -1791,29 +1755,6 @@
         "legacy_id": "r1781865131502"
       },
       {
-        "id": "15caef20-ee20-49a9-b6a4-9318c543a9b6",
-        "proyecto_id": "53531d55-8fec-460f-92f2-8a3cf4214e5f",
-        "tecnico_id": "76085462-4441-41bf-b473-3f127cc74860",
-        "creado_por_id": "76085462-4441-41bf-b473-3f127cc74860",
-        "estado": "aprobado",
-        "estado_certif": "aprobada",
-        "fecha": "2026-06-18",
-        "es_grupo": true,
-        "concepto_id": null,
-        "precio_unitario": null,
-        "cantidad": 1,
-        "descuento_pct": 0,
-        "oferta_id": null,
-        "factura_id": null,
-        "informe_id": null,
-        "observaciones": "Grupo: 1 actividades",
-        "estacion_id": null,
-        "creado_en": "2026-06-20T22:20:06.607819+00:00",
-        "actualizado_en": "2026-07-17T20:41:32.848377+00:00",
-        "eliminado_en": null,
-        "legacy_id": "r1781779103780"
-      },
-      {
         "id": "597c29db-1260-460d-9ffa-0c98cfddfd01",
         "proyecto_id": "322bab5c-dd04-4d87-ad1c-b9f72e844a3f",
         "tecnico_id": "76085462-4441-41bf-b473-3f127cc74860",
@@ -1835,6 +1776,29 @@
         "actualizado_en": "2026-07-17T20:41:32.848377+00:00",
         "eliminado_en": null,
         "legacy_id": "r1781779434155"
+      },
+      {
+        "id": "15caef20-ee20-49a9-b6a4-9318c543a9b6",
+        "proyecto_id": "53531d55-8fec-460f-92f2-8a3cf4214e5f",
+        "tecnico_id": "76085462-4441-41bf-b473-3f127cc74860",
+        "creado_por_id": "76085462-4441-41bf-b473-3f127cc74860",
+        "estado": "aprobado",
+        "estado_certif": "aprobada",
+        "fecha": "2026-06-18",
+        "es_grupo": true,
+        "concepto_id": null,
+        "precio_unitario": null,
+        "cantidad": 1,
+        "descuento_pct": 0,
+        "oferta_id": null,
+        "factura_id": null,
+        "informe_id": null,
+        "observaciones": "Grupo: 1 actividades",
+        "estacion_id": null,
+        "creado_en": "2026-06-20T22:20:06.607819+00:00",
+        "actualizado_en": "2026-07-17T20:41:32.848377+00:00",
+        "eliminado_en": null,
+        "legacy_id": "r1781779103780"
       },
       {
         "id": "4cf31a4a-e3c3-4c4b-9e20-54987188c8c5",
@@ -1860,29 +1824,6 @@
         "legacy_id": "r1781686289540"
       },
       {
-        "id": "071714ed-7eb9-462a-a668-f1c80802f070",
-        "proyecto_id": "7a1f0f42-9123-45b8-b17d-8e26b1f7afc0",
-        "tecnico_id": "5ab5456a-6a78-4393-8809-c97b41cffb96",
-        "creado_por_id": "5ab5456a-6a78-4393-8809-c97b41cffb96",
-        "estado": "pendiente",
-        "estado_certif": null,
-        "fecha": "2026-06-17",
-        "es_grupo": true,
-        "concepto_id": null,
-        "precio_unitario": null,
-        "cantidad": 1,
-        "descuento_pct": 0,
-        "oferta_id": "11af0318-d03e-4857-acf7-1103c9bccc2e",
-        "factura_id": null,
-        "informe_id": null,
-        "observaciones": "Grupo: 2 actividades",
-        "estacion_id": null,
-        "creado_en": "2026-06-20T22:20:06.607819+00:00",
-        "actualizado_en": "2026-07-17T20:41:32.848377+00:00",
-        "eliminado_en": null,
-        "legacy_id": "r1781687708060"
-      },
-      {
         "id": "8dc9fe5d-7bb5-45b6-b37e-85371b07dfe3",
         "proyecto_id": "82ea1c9a-084b-421b-8f7b-6c24c15636e4",
         "tecnico_id": "5ab5456a-6a78-4393-8809-c97b41cffb96",
@@ -1906,8 +1847,31 @@
         "legacy_id": "r1781684363292"
       },
       {
+        "id": "071714ed-7eb9-462a-a668-f1c80802f070",
+        "proyecto_id": "7a1f0f42-9123-45b8-b17d-8e26b1f7afc0",
+        "tecnico_id": "5ab5456a-6a78-4393-8809-c97b41cffb96",
+        "creado_por_id": "5ab5456a-6a78-4393-8809-c97b41cffb96",
+        "estado": "pendiente",
+        "estado_certif": null,
+        "fecha": "2026-06-17",
+        "es_grupo": true,
+        "concepto_id": null,
+        "precio_unitario": null,
+        "cantidad": 1,
+        "descuento_pct": 0,
+        "oferta_id": null,
+        "factura_id": null,
+        "informe_id": null,
+        "observaciones": "Grupo: 2 actividades",
+        "estacion_id": null,
+        "creado_en": "2026-06-20T22:20:06.607819+00:00",
+        "actualizado_en": "2026-07-17T21:39:25.542459+00:00",
+        "eliminado_en": null,
+        "legacy_id": "r1781687708060"
+      },
+      {
         "id": "69584c85-8d07-4167-9691-a533d5d6e57d",
-        "proyecto_id": "ec2c4756-5960-4f70-9540-33aff5e409c4",
+        "proyecto_id": "8693def8-3f80-43ac-a45b-94f63649707f",
         "tecnico_id": "5ab5456a-6a78-4393-8809-c97b41cffb96",
         "creado_por_id": "5ab5456a-6a78-4393-8809-c97b41cffb96",
         "estado": "pendiente",
@@ -1924,7 +1888,7 @@
         "observaciones": "Grupo: 3 actividades",
         "estacion_id": null,
         "creado_en": "2026-06-16T05:57:09.199+00:00",
-        "actualizado_en": "2026-07-17T20:41:32.848377+00:00",
+        "actualizado_en": "2026-07-17T21:21:10.490136+00:00",
         "eliminado_en": null,
         "legacy_id": "r1781589429198"
       },
@@ -2113,8 +2077,8 @@
         "legacy_id": "r1780662089301"
       },
       {
-        "id": "2c446568-a33f-4efa-9d98-9e5eb90dae71",
-        "proyecto_id": "a5438cf8-5619-4a66-af28-16478b00feab",
+        "id": "b31d6afe-5346-4599-b596-767ce5539d36",
+        "proyecto_id": "1ed654d6-f77b-41eb-9f35-f549ae962b47",
         "tecnico_id": "5ab5456a-6a78-4393-8809-c97b41cffb96",
         "creado_por_id": "5ab5456a-6a78-4393-8809-c97b41cffb96",
         "estado": "pendiente",
@@ -2130,10 +2094,10 @@
         "informe_id": null,
         "observaciones": "Grupo: 2 actividades",
         "estacion_id": null,
-        "creado_en": "2026-06-04T09:47:48.598+00:00",
+        "creado_en": "2026-06-04T08:52:38.414+00:00",
         "actualizado_en": "2026-07-17T20:41:32.848377+00:00",
         "eliminado_en": null,
-        "legacy_id": "r1780566468598"
+        "legacy_id": "r1780563158414"
       },
       {
         "id": "cd44d0b9-c0e3-4976-9280-7dc0de24b843",
@@ -2182,8 +2146,8 @@
         "legacy_id": "r1780568478197"
       },
       {
-        "id": "b31d6afe-5346-4599-b596-767ce5539d36",
-        "proyecto_id": "1ed654d6-f77b-41eb-9f35-f549ae962b47",
+        "id": "2c446568-a33f-4efa-9d98-9e5eb90dae71",
+        "proyecto_id": "a5438cf8-5619-4a66-af28-16478b00feab",
         "tecnico_id": "5ab5456a-6a78-4393-8809-c97b41cffb96",
         "creado_por_id": "5ab5456a-6a78-4393-8809-c97b41cffb96",
         "estado": "pendiente",
@@ -2199,10 +2163,10 @@
         "informe_id": null,
         "observaciones": "Grupo: 2 actividades",
         "estacion_id": null,
-        "creado_en": "2026-06-04T08:52:38.414+00:00",
+        "creado_en": "2026-06-04T09:47:48.598+00:00",
         "actualizado_en": "2026-07-17T20:41:32.848377+00:00",
         "eliminado_en": null,
-        "legacy_id": "r1780563158414"
+        "legacy_id": "r1780566468598"
       },
       {
         "id": "fd3ea3df-48df-4e58-b71b-b0259561adb1",
@@ -4899,7 +4863,8 @@
           "firmanteCliente": "D. Josep Seijo",
           "firmanteNorAcua": "D. Daniel Romero"
         },
-        "legacy_id": "o1781865498794"
+        "legacy_id": "o1781865498794",
+        "proyecto_id": "82ea1c9a-084b-421b-8f7b-6c24c15636e4"
       },
       {
         "id": "7d528cb6-03e6-4cf8-b04d-12813a7d0baa",
@@ -4932,2024 +4897,8 @@
           "firmanteCliente": "D. Joan Rafecas",
           "firmanteNorAcua": "D. Daniel Romero"
         },
-        "legacy_id": "o1781863144854"
-      },
-      {
-        "id": "afe7fc21-8a75-4856-8c89-c9283e79cc47",
-        "codigo": "038-26",
-        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
-        "asunto": "BP INSTALACIÓN RECICLADORA LAVADOS",
-        "po": null,
-        "estado": "activa",
-        "importe_total": 9719.5,
-        "creado_por_id": "3e50e7e7-9fd7-4e53-9bf0-2bfd2d063f7f",
-        "creado_en": "2026-06-18T21:18:47.259582+00:00",
-        "metadatos": {
-          "zona": "CATALUÑA",
-          "fecha": "2026-06-17",
-          "lineas": [
-            {
-              "id": "lo1781719728515",
-              "total": 1232,
-              "cantidad": 1,
-              "descuento": 30,
-              "conceptoId": "1.5",
-              "precioUnit": 1760
-            },
-            {
-              "id": "lo1781719752933",
-              "total": 1950,
-              "cantidad": 3,
-              "descuento": 0,
-              "conceptoId": "3.1b",
-              "precioUnit": 650
-            },
-            {
-              "id": "lo1781719760875",
-              "total": 2187.5,
-              "cantidad": 1,
-              "descuento": 30,
-              "conceptoId": "4.1",
-              "precioUnit": 3125
-            },
-            {
-              "id": "lo1781719762443",
-              "total": 1265,
-              "cantidad": 1,
-              "descuento": 0,
-              "conceptoId": "4.2",
-              "precioUnit": 1265
-            },
-            {
-              "id": "lo1781719789711",
-              "total": 595,
-              "cantidad": 1,
-              "descuento": 0,
-              "conceptoId": "7.2",
-              "precioUnit": 595
-            },
-            {
-              "id": "lo1781719791890",
-              "total": 240,
-              "cantidad": 1,
-              "descuento": 0,
-              "comentario": "Recuperación fianzas",
-              "conceptoId": "7.6",
-              "precioUnit": 240
-            },
-            {
-              "id": "lo1781719816649",
-              "total": 2250,
-              "cantidad": 6,
-              "descuento": 0,
-              "conceptoId": "10.2",
-              "precioUnit": 375
-            }
-          ],
-          "nombre": "",
-          "firmante": "",
-          "formaPago": "Según contrato",
-          "referencia": "BP-IRL-170626-v1",
-          "emplazamiento": "BP VILANOVA II",
-          "firmanteCliente": "D. Josep Seijo",
-          "firmanteNorAcua": "D. Daniel Romero"
-        },
-        "legacy_id": null
-      },
-      {
-        "id": "a6aa432d-d474-49e9-b355-ad69133b9923",
-        "codigo": "034-26",
-        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
-        "asunto": "BP ADECUACIÓN VENTEOS",
-        "po": null,
-        "estado": "activa",
-        "importe_total": 3255,
-        "creado_por_id": "3e50e7e7-9fd7-4e53-9bf0-2bfd2d063f7f",
-        "creado_en": "2026-06-18T21:18:47.259582+00:00",
-        "metadatos": {
-          "zona": "NORTE",
-          "fecha": "2026-06-17",
-          "lineas": [
-            {
-              "id": "lo17816991564045ap4753x0nn",
-              "total": 240,
-              "cantidad": 1,
-              "descuento": 0,
-              "conceptoId": "7.6",
-              "precioUnit": 240
-            },
-            {
-              "id": "lo1781699251614",
-              "total": 650,
-              "cantidad": 1,
-              "descuento": 0,
-              "conceptoId": "3.1b",
-              "precioUnit": 650
-            },
-            {
-              "id": "lo1781699255983",
-              "total": 1375,
-              "cantidad": 1,
-              "descuento": 0,
-              "conceptoId": "4.2",
-              "precioUnit": 1375
-            },
-            {
-              "id": "lo1781699262020",
-              "total": 240,
-              "cantidad": 1,
-              "descuento": 0,
-              "conceptoId": "7.6",
-              "precioUnit": 240
-            },
-            {
-              "id": "lo1781699288115",
-              "total": 750,
-              "cantidad": 2,
-              "descuento": 0,
-              "conceptoId": "10.2",
-              "precioUnit": 375
-            }
-          ],
-          "nombre": "",
-          "firmante": "",
-          "formaPago": "Según contrato",
-          "referencia": "BP-AV-170626-v1",
-          "emplazamiento": "BP BLANCO II",
-          "firmanteCliente": "Dña. Raquel Martínez",
-          "firmanteNorAcua": "D. Daniel Romero"
-        },
-        "legacy_id": null
-      },
-      {
-        "id": "11af0318-d03e-4857-acf7-1103c9bccc2e",
-        "codigo": "032-26",
-        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
-        "asunto": "BP ADECUACIÓN SANEAMIENTO",
-        "po": null,
-        "estado": "activa",
-        "importe_total": 1055,
-        "creado_por_id": "3e50e7e7-9fd7-4e53-9bf0-2bfd2d063f7f",
-        "creado_en": "2026-06-18T21:18:47.259582+00:00",
-        "metadatos": {
-          "zona": "CATALUÑA",
-          "fecha": "2026-06-17",
-          "lineas": [
-            {
-              "id": "lo17816958716038jnni0hp2ca",
-              "total": 405,
-              "cantidad": 1,
-              "descuento": 0,
-              "conceptoId": "6.1",
-              "precioUnit": 405
-            },
-            {
-              "id": "lo17816958716034swo0fzh07a",
-              "total": 650,
-              "cantidad": 1,
-              "descuento": 0,
-              "conceptoId": "3.1b",
-              "precioUnit": 650
-            }
-          ],
-          "nombre": "",
-          "firmante": "",
-          "formaPago": "30 días fecha factura",
-          "referencia": "BP-AS-170626-v1",
-          "emplazamiento": "BP EL CORB",
-          "firmanteCliente": "D. Borja Nobell",
-          "firmanteNorAcua": "D. Daniel Romero"
-        },
-        "legacy_id": null
-      },
-      {
-        "id": "b001ed80-fc18-4456-b316-8e759cfb887c",
-        "codigo": "037-26",
-        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
-        "asunto": "BP INSTALACIÓN RECICLADORA LAVADOS",
-        "po": null,
-        "estado": "activa",
-        "importe_total": 10199.5,
-        "creado_por_id": "3e50e7e7-9fd7-4e53-9bf0-2bfd2d063f7f",
-        "creado_en": "2026-06-18T21:18:47.259582+00:00",
-        "metadatos": {
-          "zona": "CATALUÑA",
-          "fecha": "2026-06-17",
-          "lineas": [
-            {
-              "id": "lo1781719177728",
-              "total": 1232,
-              "cantidad": 1,
-              "descuento": 30,
-              "conceptoId": "1.5",
-              "precioUnit": 1760
-            },
-            {
-              "id": "lo1781719194213",
-              "total": 1950,
-              "cantidad": 3,
-              "descuento": 0,
-              "conceptoId": "3.1b",
-              "precioUnit": 650
-            },
-            {
-              "id": "lo1781719203150",
-              "total": 2187.5,
-              "cantidad": 1,
-              "descuento": 30,
-              "conceptoId": "4.1",
-              "precioUnit": 3125
-            },
-            {
-              "id": "lo1781719236193",
-              "total": 1265,
-              "cantidad": 1,
-              "descuento": 0,
-              "conceptoId": "4.2",
-              "precioUnit": 1265
-            },
-            {
-              "id": "lo1781719243066",
-              "total": 595,
-              "cantidad": 1,
-              "descuento": 0,
-              "conceptoId": "7.2",
-              "precioUnit": 595
-            },
-            {
-              "id": "lo1781719252936",
-              "total": 2250,
-              "cantidad": 6,
-              "descuento": 0,
-              "conceptoId": "10.2",
-              "precioUnit": 375
-            },
-            {
-              "id": "lo1781719513293",
-              "total": 240,
-              "cantidad": 1,
-              "descuento": 0,
-              "comentario": "Permiso de Carreteras",
-              "conceptoId": "7.6",
-              "precioUnit": 240
-            },
-            {
-              "id": "lo1781719571824",
-              "total": 240,
-              "cantidad": 1,
-              "descuento": 0,
-              "comentario": "Recuperación fianzas",
-              "conceptoId": "7.6",
-              "precioUnit": 240
-            },
-            {
-              "id": "lo1781719597932",
-              "total": 240,
-              "cantidad": 1,
-              "descuento": 0,
-              "comentario": "Comunicación Carreteras comienzo trabajos",
-              "conceptoId": "7.6",
-              "precioUnit": 240
-            }
-          ],
-          "nombre": "",
-          "firmante": "",
-          "formaPago": "Según contrato",
-          "referencia": "BP-IRL-170626-v1",
-          "emplazamiento": "BP HOSTAL DE LA SELVA",
-          "firmanteCliente": "D. Josep Seijo",
-          "firmanteNorAcua": "D. Daniel Romero"
-        },
-        "legacy_id": null
-      },
-      {
-        "id": "a01dd6d0-10fa-4c75-975b-4eebfa44796f",
-        "codigo": "036-26",
-        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
-        "asunto": "BP REQUERIMIENTO URBANISMO Y CARRETERAS INSTALACIÓN",
-        "po": null,
-        "estado": "cerrada",
-        "importe_total": 3380,
-        "creado_por_id": "3e50e7e7-9fd7-4e53-9bf0-2bfd2d063f7f",
-        "creado_en": "2026-06-18T21:18:47.259582+00:00",
-        "metadatos": {
-          "zona": "CATALUÑA",
-          "fecha": "2026-06-17",
-          "lineas": [
-            {
-              "id": "lo1781717940052ef5f9lcl5e",
-              "total": 700,
-              "cantidad": 1,
-              "descuento": 0,
-              "comentario": "Anexo al proyecto para contestación requerimiento",
-              "conceptoId": "1.18",
-              "precioUnit": 700
-            },
-            {
-              "id": "lo1781718145702",
-              "total": 240,
-              "cantidad": 1,
-              "descuento": 0,
-              "conceptoId": "7.6",
-              "precioUnit": 240
-            },
-            {
-              "id": "lo1781718161707",
-              "total": 240,
-              "cantidad": 1,
-              "descuento": 0,
-              "conceptoId": "7.6",
-              "precioUnit": 240
-            },
-            {
-              "id": "lo1781718194571",
-              "total": 240,
-              "cantidad": 1,
-              "descuento": 0,
-              "conceptoId": "7.6",
-              "precioUnit": 240
-            },
-            {
-              "id": "lo1781718218653",
-              "total": 240,
-              "cantidad": 1,
-              "descuento": 0,
-              "conceptoId": "7.6",
-              "precioUnit": 240
-            },
-            {
-              "id": "lo1781718243919",
-              "total": 240,
-              "cantidad": 1,
-              "descuento": 0,
-              "conceptoId": "7.6",
-              "precioUnit": 240
-            },
-            {
-              "id": "lo1781718266601",
-              "total": 480,
-              "cantidad": 2,
-              "descuento": 0,
-              "conceptoId": "7.6",
-              "precioUnit": 240
-            },
-            {
-              "id": "lo1781718396440",
-              "total": 1000,
-              "cantidad": 1,
-              "descuento": 0,
-              "comentario": "Topográfico de estación para requerimiento urbanístico",
-              "conceptoId": "5.1b",
-              "precioUnit": 1000
-            }
-          ],
-          "nombre": "",
-          "firmante": "",
-          "formaPago": "Según contrato",
-          "referencia": "BP-RUCIR-170626-v1",
-          "emplazamiento": "BP SANTA PERPETUA",
-          "firmanteCliente": "D. Josep Seijo",
-          "firmanteNorAcua": "D. Daniel Romero"
-        },
-        "legacy_id": null
-      },
-      {
-        "id": "e4e916b3-465a-462c-a440-3bb55cde0797",
-        "codigo": "035-26",
-        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
-        "asunto": "TRABAJOS VARIOS MARQUESINA",
-        "po": null,
-        "estado": "activa",
-        "importe_total": 5134,
-        "creado_por_id": "3e50e7e7-9fd7-4e53-9bf0-2bfd2d063f7f",
-        "creado_en": "2026-06-18T21:18:47.259582+00:00",
-        "metadatos": {
-          "zona": "CATALUÑA",
-          "fecha": "2026-06-17",
-          "lineas": [
-            {
-              "id": "lo1781717013349f3vniwlznn",
-              "total": 704,
-              "cantidad": 1,
-              "descuento": 60,
-              "conceptoId": "1.5",
-              "precioUnit": 1760
-            },
-            {
-              "id": "lo178171701334920k1o4sotbt",
-              "total": 595,
-              "cantidad": 1,
-              "descuento": 0,
-              "conceptoId": "7.2",
-              "precioUnit": 595
-            },
-            {
-              "id": "lo17817170133491xl99javwnz",
-              "total": 240,
-              "cantidad": 1,
-              "descuento": 0,
-              "conceptoId": "7.6",
-              "precioUnit": 240
-            },
-            {
-              "id": "lo1781717097112",
-              "total": 650,
-              "cantidad": 1,
-              "descuento": 0,
-              "conceptoId": "3.1b",
-              "precioUnit": 650
-            },
-            {
-              "id": "lo1781717110554",
-              "total": 1265,
-              "cantidad": 1,
-              "descuento": 0,
-              "conceptoId": "4.2",
-              "precioUnit": 1265
-            },
-            {
-              "id": "lo1781717126803",
-              "total": 240,
-              "cantidad": 1,
-              "descuento": 0,
-              "conceptoId": "7.6",
-              "precioUnit": 240
-            },
-            {
-              "id": "lo1781717163937",
-              "total": 240,
-              "cantidad": 1,
-              "descuento": 0,
-              "conceptoId": "7.6",
-              "precioUnit": 240
-            },
-            {
-              "id": "lo1781717296419",
-              "total": 1200,
-              "cantidad": 1,
-              "descuento": 0,
-              "conceptoId": "10.4a",
-              "precioUnit": 1200
-            }
-          ],
-          "nombre": "",
-          "firmante": "",
-          "formaPago": "Según contrato",
-          "referencia": "BP-TVM-170626-v1",
-          "emplazamiento": "BP HOSTAL DE LA SELVA",
-          "firmanteCliente": "D. José Ramón Rivero",
-          "firmanteNorAcua": "D. Daniel Romero"
-        },
-        "legacy_id": null
-      },
-      {
-        "id": "3e8486b6-dabf-4b6e-8832-05eceadf4613",
-        "codigo": "033-26",
-        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
-        "asunto": "BP TOPOGRAFICO PARA COORDINACIÓN CATASTRO",
-        "po": null,
-        "estado": "activa",
-        "importe_total": 1100,
-        "creado_por_id": "3e50e7e7-9fd7-4e53-9bf0-2bfd2d063f7f",
-        "creado_en": "2026-06-18T21:18:47.259582+00:00",
-        "metadatos": {
-          "zona": "CENTRO",
-          "fecha": "2026-06-17",
-          "lineas": [
-            {
-              "id": "lo1781697328554",
-              "total": 1100,
-              "cantidad": 1,
-              "descuento": 0,
-              "conceptoId": "5.1c",
-              "precioUnit": 1100
-            }
-          ],
-          "nombre": "",
-          "firmante": "",
-          "formaPago": "Según contrato",
-          "referencia": "BP-TPCC-170626-v1",
-          "emplazamiento": "BP POZUELO",
-          "firmanteCliente": "Dña. Raquel Martínez",
-          "firmanteNorAcua": "D. Daniel Romero"
-        },
-        "legacy_id": null
-      },
-      {
-        "id": "5d8d54f5-e5d9-421c-b8fc-5d4208c1108a",
-        "codigo": "031-26",
-        "cliente_id": "b405360f-b82f-4344-aa54-4a5c87490d63",
-        "asunto": "CF INFORME DEFICIENCIAS ES",
-        "po": null,
-        "estado": "activa",
-        "importe_total": 2250,
-        "creado_por_id": "3e50e7e7-9fd7-4e53-9bf0-2bfd2d063f7f",
-        "creado_en": "2026-06-18T21:18:47.259582+00:00",
-        "metadatos": {
-          "zona": "OTROS",
-          "fecha": "2026-06-16",
-          "lineas": [
-            {
-              "id": "lo1781627813554",
-              "total": 1100,
-              "cantidad": 1,
-              "descuento": 0,
-              "comentario": "INFORME DEFICIENCIAS LEGALES E IP04 ES CF DENIA",
-              "conceptoId": "2.3",
-              "precioUnit": 1100
-            },
-            {
-              "id": "lo1781627851218",
-              "total": 725,
-              "cantidad": 1,
-              "descuento": 0,
-              "comentario": "VISITA TOMA DE DATOS ES",
-              "conceptoId": "6.1",
-              "precioUnit": 725
-            },
-            {
-              "id": "lo1781627910337",
-              "total": 425,
-              "cantidad": 1,
-              "descuento": 0,
-              "comentario": "VISTA TÉCNICO AYUNTAMIENTO",
-              "conceptoId": "6.9",
-              "precioUnit": 425
-            }
-          ],
-          "nombre": "",
-          "firmante": "",
-          "formaPago": "Según contrato",
-          "referencia": "CF-IDE-160626-v1",
-          "emplazamiento": "CF DENIA",
-          "firmanteCliente": "Dña. Natalia Pérez-Chao",
-          "firmanteNorAcua": "D. Daniel Romero"
-        },
-        "legacy_id": null
-      },
-      {
-        "id": "1eda3625-34cd-498b-aae7-001d33b7b724",
-        "codigo": "039-26",
-        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
-        "asunto": "BP TOPOGRÁFICO PARCELA LAVADOS",
-        "po": null,
-        "estado": "borrador",
-        "importe_total": 800,
-        "creado_por_id": "3e50e7e7-9fd7-4e53-9bf0-2bfd2d063f7f",
-        "creado_en": "2026-06-18T21:18:47.259582+00:00",
-        "metadatos": {
-          "zona": "NORTE",
-          "fecha": "2026-06-17",
-          "lineas": [
-            {
-              "id": "lo1781720311240",
-              "total": 800,
-              "cantidad": 1,
-              "descuento": 0,
-              "conceptoId": "5.1a",
-              "precioUnit": 800
-            }
-          ],
-          "nombre": "",
-          "firmante": "",
-          "formaPago": "Según contrato",
-          "referencia": "BP-TPL-170626-v1",
-          "emplazamiento": "BP TRÁPAGA",
-          "firmanteCliente": "Dña. Raquel Martínez",
-          "firmanteNorAcua": "D. Daniel Romero"
-        },
-        "legacy_id": null
-      },
-      {
-        "id": "f09dac1c-f6b4-4deb-92f1-1bfd1b100bb4",
-        "codigo": "030-26",
-        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
-        "asunto": "BP INFORME VERTIDOS ES",
-        "po": null,
-        "estado": "facturada",
-        "importe_total": 1455,
-        "creado_por_id": "3e50e7e7-9fd7-4e53-9bf0-2bfd2d063f7f",
-        "creado_en": "2026-06-16T13:39:49.533974+00:00",
-        "metadatos": {
-          "zona": "BALEARES",
-          "fecha": "2026-06-09",
-          "lineas": [
-            {
-              "id": "lo1781040617527lz1v1oxzti",
-              "total": 405,
-              "cantidad": 1,
-              "descuento": 0,
-              "conceptoId": "6.4",
-              "precioUnit": 405
-            },
-            {
-              "id": "lo1781040617527ejcv0u9r94s",
-              "total": 1050,
-              "cantidad": 1,
-              "descuento": 0,
-              "conceptoId": "2.3",
-              "precioUnit": 1050
-            }
-          ],
-          "nombre": "",
-          "firmante": "",
-          "formaPago": "Según contrato",
-          "referencia": "BP-IVE-090626-v1",
-          "emplazamiento": "BP SANTA EULALIA",
-          "firmanteCliente": "Dña. Guiomar Tuero",
-          "firmanteNorAcua": "D. Daniel Romero"
-        },
-        "legacy_id": "o1781040685810"
-      },
-      {
-        "id": "aa4d1b27-9e02-4687-86c4-780690f27b7b",
-        "codigo": "027-26",
-        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
-        "asunto": "BP TRABAJOS VARIOS RECICLADORA ES MONTSENY",
-        "po": "3001258221",
-        "estado": "activa",
-        "importe_total": 5296.25,
-        "creado_por_id": "3e50e7e7-9fd7-4e53-9bf0-2bfd2d063f7f",
-        "creado_en": "2026-06-16T13:39:49.533974+00:00",
-        "metadatos": {
-          "zona": "CATALUÑA",
-          "fecha": "2025-02-11",
-          "lineas": [
-            {
-              "id": "lo1779961476813k4ldkq8kjpd",
-              "total": 880,
-              "cantidad": 1,
-              "descuento": 50,
-              "conceptoId": "1.5",
-              "precioUnit": 1760
-            },
-            {
-              "id": "lo1779961476813nvslitxawx9",
-              "total": 650,
-              "cantidad": 1,
-              "descuento": 0,
-              "conceptoId": "3.1b",
-              "precioUnit": 650
-            },
-            {
-              "id": "lo177996147681351wwonln3jj",
-              "total": 781.25,
-              "cantidad": 1,
-              "descuento": 75,
-              "conceptoId": "4.1",
-              "precioUnit": 3125
-            },
-            {
-              "id": "lo1779961476813j2cofxzuyu",
-              "total": 1265,
-              "cantidad": 1,
-              "descuento": 0,
-              "conceptoId": "4.2",
-              "precioUnit": 1265
-            },
-            {
-              "id": "lo1779961476813r47no5pgx6",
-              "total": 595,
-              "cantidad": 1,
-              "descuento": 0,
-              "conceptoId": "7.2",
-              "precioUnit": 595
-            },
-            {
-              "id": "lo1779961476813d0bd0rvbhv",
-              "total": 375,
-              "cantidad": 3,
-              "descuento": 0,
-              "conceptoId": "10.2",
-              "precioUnit": 375
-            }
-          ],
-          "nombre": "",
-          "firmante": "",
-          "formaPago": "Según contrato",
-          "referencia": "BP-TVREM-280526-v1",
-          "emplazamiento": "BP MONTSENY",
-          "firmanteCliente": "D. Josep Seijo",
-          "firmanteNorAcua": "D. Daniel Romero"
-        },
-        "legacy_id": "o1779961546848"
-      },
-      {
-        "id": "42d5355e-4647-45f8-b1fb-3172650a25d5",
-        "codigo": "025-26",
-        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
-        "asunto": "BP PROYECTO Y LICENCIAS PARA CAMBIO DE SHC",
-        "po": null,
-        "estado": "pendiente",
-        "importe_total": 7325,
-        "creado_por_id": "3e50e7e7-9fd7-4e53-9bf0-2bfd2d063f7f",
-        "creado_en": "2026-06-16T13:39:49.533974+00:00",
-        "metadatos": {
-          "zona": "NORTE",
-          "fecha": "2026-05-22",
-          "lineas": [
-            {
-              "id": "lo1779444742817kd4qtslhsds",
-              "total": 2000,
-              "cantidad": 1,
-              "descuento": 0,
-              "conceptoId": "1.5",
-              "precioUnit": 2000
-            },
-            {
-              "id": "lo1779444742817t7s2i7zjx5",
-              "total": 3300,
-              "cantidad": 1,
-              "descuento": 0,
-              "conceptoId": "4.1",
-              "precioUnit": 3300
-            },
-            {
-              "id": "lo1779444742817qorj2sklat",
-              "total": 1375,
-              "cantidad": 1,
-              "descuento": 0,
-              "conceptoId": "4.2",
-              "precioUnit": 1375
-            },
-            {
-              "id": "lo17794447428170bhjrwvdckte",
-              "total": 650,
-              "cantidad": 1,
-              "descuento": 0,
-              "conceptoId": "7.2",
-              "precioUnit": 650
-            }
-          ],
-          "nombre": "",
-          "firmante": "",
-          "formaPago": "Según contrato",
-          "referencia": "BP-PLPCDS-220526-v1",
-          "emplazamiento": "BP CASTRO URDIALES",
-          "firmanteCliente": "Dña. Raquel Martínez",
-          "firmanteNorAcua": "D. Daniel Romero"
-        },
-        "legacy_id": "o1779719628499"
-      },
-      {
-        "id": "17fa0b2f-effa-4e36-853d-6d7b5f497cca",
-        "codigo": "004-26",
-        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
-        "asunto": "BP LEGALIZACIÓN INSTALACIÓN BT ES MECO",
-        "po": "3001322329",
-        "estado": "facturada",
-        "importe_total": 4303.75,
-        "creado_por_id": "3e50e7e7-9fd7-4e53-9bf0-2bfd2d063f7f",
-        "creado_en": "2026-06-16T13:39:49.533974+00:00",
-        "metadatos": {
-          "zona": "CENTRO",
-          "fecha": "2026-01-30",
-          "lineas": [
-            {
-              "id": "lo1779139075016",
-              "total": 1180,
-              "cantidad": 1,
-              "descuento": 0,
-              "conceptoId": "1.17",
-              "precioUnit": 1180
-            },
-            {
-              "id": "lo1779139082490",
-              "total": 1093.75,
-              "cantidad": 1,
-              "descuento": 65,
-              "conceptoId": "4.1",
-              "precioUnit": 3125
-            },
-            {
-              "id": "lo1779139115410",
-              "total": 850,
-              "cantidad": 1,
-              "descuento": 0,
-              "conceptoId": "2.8",
-              "precioUnit": 850
-            },
-            {
-              "id": "lo1779139133182",
-              "total": 450,
-              "cantidad": 1,
-              "descuento": 0,
-              "conceptoId": "2.8",
-              "precioUnit": 450
-            },
-            {
-              "id": "lo1779139703490",
-              "total": 135,
-              "cantidad": 1,
-              "descuento": 0,
-              "conceptoId": "2.8",
-              "precioUnit": 135
-            },
-            {
-              "id": "lo1779139735871",
-              "total": 595,
-              "cantidad": 1,
-              "descuento": 0,
-              "conceptoId": "7.3",
-              "precioUnit": 595
-            }
-          ],
-          "nombre": "",
-          "firmante": "",
-          "formaPago": "Según contrato",
-          "referencia": "BP-LIBEM-300126-v3",
-          "emplazamiento": "BP MECO",
-          "firmanteCliente": "Dña. Concepción Gutierrez",
-          "firmanteNorAcua": ""
-        },
-        "legacy_id": "of_004_26"
-      },
-      {
-        "id": "3987fcae-c3af-4541-882c-4c247d2086ba",
-        "codigo": "006-26",
-        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
-        "asunto": "BP TRABAJOS VARIOS REFORMA TIENDA ES CHEYPER",
-        "po": "3001323709",
-        "estado": "facturada",
-        "importe_total": 1705,
-        "creado_por_id": "3e50e7e7-9fd7-4e53-9bf0-2bfd2d063f7f",
-        "creado_en": "2026-06-16T13:39:49.533974+00:00",
-        "metadatos": {
-          "zona": "CENTRO",
-          "fecha": "2026-02-06",
-          "lineas": [
-            {
-              "id": "lo1779139182432",
-              "total": 550,
-              "cantidad": 1,
-              "descuento": 0,
-              "conceptoId": "3.1b",
-              "precioUnit": 550
-            },
-            {
-              "id": "lo1779139191753",
-              "total": 405,
-              "cantidad": 1,
-              "descuento": 0,
-              "conceptoId": "6.1",
-              "precioUnit": 405
-            },
-            {
-              "id": "lo1779139199753",
-              "total": 750,
-              "cantidad": 2,
-              "descuento": 0,
-              "conceptoId": "10.2",
-              "precioUnit": 375
-            }
-          ],
-          "nombre": "",
-          "firmante": "",
-          "formaPago": "Según contrato",
-          "referencia": "BP-TVRTEC-060226-v2",
-          "emplazamiento": "BP CHEYPER",
-          "firmanteCliente": "D. Josep Seijo",
-          "firmanteNorAcua": ""
-        },
-        "legacy_id": "of_006_26"
-      },
-      {
-        "id": "82633bfa-1ede-4826-8a0c-05db77d67c28",
-        "codigo": "014-26",
-        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
-        "asunto": "BP TRABAJOS REFIBRADO ES CENTRAL LECHERA",
-        "po": "3001334471",
-        "estado": "facturada",
-        "importe_total": 3900,
-        "creado_por_id": "3e50e7e7-9fd7-4e53-9bf0-2bfd2d063f7f",
-        "creado_en": "2026-06-16T13:39:49.533974+00:00",
-        "metadatos": {
-          "zona": "NORTE",
-          "fecha": "2026-02-27",
-          "lineas": [
-            {
-              "id": "lo1779139775890",
-              "total": 275,
-              "cantidad": 1,
-              "descuento": 75,
-              "conceptoId": "2.3",
-              "precioUnit": 1100
-            },
-            {
-              "id": "lo1779139795923",
-              "total": 3000,
-              "cantidad": 8,
-              "descuento": 0,
-              "conceptoId": "10.2",
-              "precioUnit": 375
-            },
-            {
-              "id": "lo1779140472854",
-              "total": 625,
-              "cantidad": 1,
-              "descuento": 0,
-              "conceptoId": "7.3",
-              "precioUnit": 625
-            }
-          ],
-          "nombre": "",
-          "firmante": "",
-          "formaPago": "Según contrato",
-          "referencia": "BP-TRECL-270226-v4",
-          "emplazamiento": "BP CENTRAL LECHERA",
-          "firmanteCliente": "Dña. Concepción Gutierrez",
-          "firmanteNorAcua": ""
-        },
-        "legacy_id": "of_014_26"
-      },
-      {
-        "id": "78251ea6-6ab0-4094-8562-348fc67319c9",
-        "codigo": "016-26",
-        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
-        "asunto": "BP PROYECTO Y LICENCIAS MODIFICACIÓN EDIFICIO ES SANTA EULALIA",
-        "po": null,
-        "estado": "facturada",
-        "importe_total": 6605,
-        "creado_por_id": "3e50e7e7-9fd7-4e53-9bf0-2bfd2d063f7f",
-        "creado_en": "2026-06-16T13:39:49.533974+00:00",
-        "metadatos": {
-          "zona": "BALEARES",
-          "fecha": "2026-03-16",
-          "lineas": [
-            {
-              "id": "lo1779140268094",
-              "total": 2075,
-              "cantidad": 1,
-              "descuento": 50,
-              "conceptoId": "1.4",
-              "precioUnit": 4150
-            },
-            {
-              "id": "lo1779140283151",
-              "total": 3125,
-              "cantidad": 1,
-              "descuento": 0,
-              "conceptoId": "4.1",
-              "precioUnit": 3125
-            },
-            {
-              "id": "lo1779140292469",
-              "total": 405,
-              "cantidad": 1,
-              "descuento": 0,
-              "conceptoId": "6.1",
-              "precioUnit": 405
-            },
-            {
-              "id": "lo1779140298223",
-              "total": 1000,
-              "cantidad": 1,
-              "descuento": 0,
-              "conceptoId": "7.1",
-              "precioUnit": 1000
-            }
-          ],
-          "nombre": "",
-          "firmante": "",
-          "formaPago": "Según contrato",
-          "referencia": "BP-PLMEESE-160326-v1",
-          "emplazamiento": "BP SANTA EULALIA",
-          "firmanteCliente": "D. Josep Seijo",
-          "firmanteNorAcua": ""
-        },
-        "legacy_id": "of_016_26"
-      },
-      {
-        "id": "5da152ac-4e91-48d6-8691-c1f8e1c0aab6",
-        "codigo": "022-26",
-        "cliente_id": "b405360f-b82f-4344-aa54-4a5c87490d63",
-        "asunto": "CF PROYECTO ADECUACIÓN INSTALACIÓN PETROLÍFERA EXISTENTE",
-        "po": null,
-        "estado": "activa",
-        "importe_total": 9470,
-        "creado_por_id": "3e50e7e7-9fd7-4e53-9bf0-2bfd2d063f7f",
-        "creado_en": "2026-06-16T13:39:49.533974+00:00",
-        "metadatos": {
-          "zona": "OTROS",
-          "fecha": "2026-05-19",
-          "lineas": [
-            {
-              "id": "lo1779195171838",
-              "total": 725,
-              "cantidad": 1,
-              "descuento": 0,
-              "conceptoId": "6.1",
-              "precioUnit": 725
-            },
-            {
-              "id": "lo1779195186048",
-              "total": 650,
-              "cantidad": 1,
-              "descuento": 0,
-              "conceptoId": "7.2",
-              "precioUnit": 650
-            },
-            {
-              "id": "lo1779195193540",
-              "total": 595,
-              "cantidad": 1,
-              "descuento": 0,
-              "conceptoId": "7.3",
-              "precioUnit": 595
-            },
-            {
-              "id": "lo1779195206509",
-              "total": 2050,
-              "cantidad": 1,
-              "descuento": 0,
-              "conceptoId": "4.1",
-              "precioUnit": 2050
-            },
-            {
-              "id": "lo1779195231304",
-              "total": 1800,
-              "cantidad": 3,
-              "descuento": 0,
-              "conceptoId": "3.1b",
-              "precioUnit": 600
-            },
-            {
-              "id": "lo1779213083108",
-              "total": 2650,
-              "cantidad": 1,
-              "descuento": 0,
-              "conceptoId": "1.5",
-              "precioUnit": 2650
-            },
-            {
-              "id": "lo1779213118432",
-              "total": 1000,
-              "cantidad": 2,
-              "descuento": 0,
-              "conceptoId": "7.5",
-              "precioUnit": 500
-            }
-          ],
-          "nombre": "",
-          "firmante": "",
-          "formaPago": "Según contrato",
-          "referencia": "CF-PAIPE-190526-v1",
-          "emplazamiento": "CF DENIA",
-          "firmanteCliente": "D. Rubén Vigaray",
-          "firmanteNorAcua": "D. Daniel Romero"
-        },
-        "legacy_id": "o1779196755155"
-      },
-      {
-        "id": "0236a2db-9a88-4a83-a72b-dd571ec01921",
-        "codigo": "001-26",
-        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
-        "asunto": "BP PROYECTO Y LICENCIAS IM ES SANTA EULALIA",
-        "po": "3001323676",
-        "estado": "facturada",
-        "importe_total": 5555,
-        "creado_por_id": "3e50e7e7-9fd7-4e53-9bf0-2bfd2d063f7f",
-        "creado_en": "2026-06-16T13:39:49.533974+00:00",
-        "metadatos": {
-          "zona": "BALEARES",
-          "fecha": "2026-01-28",
-          "lineas": [
-            {
-              "id": "lo1779137881797",
-              "total": 4150,
-              "cantidad": 1,
-              "descuento": 0,
-              "conceptoId": "1.4",
-              "precioUnit": 4150
-            },
-            {
-              "id": "lo1779137890213",
-              "total": 405,
-              "cantidad": 1,
-              "descuento": 0,
-              "conceptoId": "6.1",
-              "precioUnit": 405
-            },
-            {
-              "id": "lo1779137897862",
-              "total": 1000,
-              "cantidad": 1,
-              "descuento": 0,
-              "conceptoId": "7.1",
-              "precioUnit": 1000
-            }
-          ],
-          "nombre": "",
-          "firmante": "",
-          "formaPago": "Según contrato",
-          "referencia": "BP-PYLIESE-280126-v1",
-          "emplazamiento": "BP SANTA EULALIA",
-          "firmanteCliente": "Dña. Guimar Tuero",
-          "firmanteNorAcua": ""
-        },
-        "legacy_id": "of_001_26"
-      },
-      {
-        "id": "b0851e5d-3d59-4735-8c54-fde3668c7847",
-        "codigo": "002-26",
-        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
-        "asunto": "BP PROYECTO Y LICENCIAS LAVADOS ES PLANAMAR",
-        "po": null,
-        "estado": "facturada",
-        "importe_total": 7700,
-        "creado_por_id": "3e50e7e7-9fd7-4e53-9bf0-2bfd2d063f7f",
-        "creado_en": "2026-06-16T13:39:49.533974+00:00",
-        "metadatos": {
-          "zona": "CATALUÑA",
-          "fecha": "2026-01-28",
-          "lineas": [
-            {
-              "id": "lo1779138019538",
-              "total": 1760,
-              "cantidad": 1,
-              "descuento": 0,
-              "conceptoId": "1.5",
-              "precioUnit": 1760
-            },
-            {
-              "id": "lo1779138028560",
-              "total": 2187.5,
-              "cantidad": 1,
-              "descuento": 30,
-              "conceptoId": "4.1",
-              "precioUnit": 3125
-            },
-            {
-              "id": "lo1779138043886",
-              "total": 1265,
-              "cantidad": 1,
-              "descuento": 0,
-              "conceptoId": "4.2",
-              "precioUnit": 1265
-            },
-            {
-              "id": "lo1779138048136",
-              "total": 362.5,
-              "cantidad": 1,
-              "descuento": 50,
-              "conceptoId": "4.4",
-              "precioUnit": 725
-            },
-            {
-              "id": "lo1779138059140",
-              "total": 810,
-              "cantidad": 2,
-              "descuento": 0,
-              "conceptoId": "6.1",
-              "precioUnit": 405
-            },
-            {
-              "id": "lo1779138070661",
-              "total": 595,
-              "cantidad": 1,
-              "descuento": 0,
-              "conceptoId": "7.2",
-              "precioUnit": 595
-            },
-            {
-              "id": "lo1779138072927",
-              "total": 720,
-              "cantidad": 3,
-              "descuento": 0,
-              "conceptoId": "7.6",
-              "precioUnit": 240
-            }
-          ],
-          "nombre": "",
-          "firmante": "",
-          "formaPago": "Según contrato",
-          "referencia": "BP-PLLEP-280126-v1",
-          "emplazamiento": "BP PLANAMAR",
-          "firmanteCliente": "D. Josep Seijo",
-          "firmanteNorAcua": ""
-        },
-        "legacy_id": "of_002_26"
-      },
-      {
-        "id": "fc041699-e13c-4a6c-91ba-5be2534c5f4b",
-        "codigo": "011-26",
-        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
-        "asunto": "BP MONITORIZACIÓN MURO ES VÍA NORTE",
-        "po": "3001326125",
-        "estado": "facturada",
-        "importe_total": 2025,
-        "creado_por_id": "3e50e7e7-9fd7-4e53-9bf0-2bfd2d063f7f",
-        "creado_en": "2026-06-16T13:39:49.533974+00:00",
-        "metadatos": {
-          "zona": "NORTE",
-          "fecha": "2026-02-22",
-          "lineas": [
-            {
-              "id": "lo1779139475479",
-              "total": 1100,
-              "cantidad": 1,
-              "descuento": 0,
-              "conceptoId": "2.3",
-              "precioUnit": 1100
-            },
-            {
-              "id": "lo1779139479699",
-              "total": 500,
-              "cantidad": 10,
-              "descuento": 0,
-              "conceptoId": "2.8",
-              "precioUnit": 50
-            },
-            {
-              "id": "lo1779139496567",
-              "total": 425,
-              "cantidad": 1,
-              "descuento": 0,
-              "conceptoId": "6.1",
-              "precioUnit": 425
-            }
-          ],
-          "nombre": "",
-          "firmante": "",
-          "formaPago": "Según contrato",
-          "referencia": "BP-MMEVN-220226-v1",
-          "emplazamiento": "BP VÍA NORTE",
-          "firmanteCliente": "Dña. Concepción Gutierrez",
-          "firmanteNorAcua": ""
-        },
-        "legacy_id": "of_011_26"
-      },
-      {
-        "id": "4c284a13-ff32-4a94-9bd4-58e094515645",
-        "codigo": "012-26",
-        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
-        "asunto": "BP PROYECTO LEGALIZACIÓN BT ES OLABERRÍA",
-        "po": "3001339420",
-        "estado": "facturada",
-        "importe_total": 4335,
-        "creado_por_id": "3e50e7e7-9fd7-4e53-9bf0-2bfd2d063f7f",
-        "creado_en": "2026-06-16T13:39:49.533974+00:00",
-        "metadatos": {
-          "zona": "NORTE",
-          "fecha": "2026-02-22",
-          "lineas": [
-            {
-              "id": "lo1779139531185",
-              "total": 1250,
-              "cantidad": 1,
-              "descuento": 0,
-              "conceptoId": "1.17",
-              "precioUnit": 1250
-            },
-            {
-              "id": "lo1779139542387",
-              "total": 880,
-              "cantidad": 1,
-              "descuento": 20,
-              "conceptoId": "2.3",
-              "precioUnit": 1100
-            },
-            {
-              "id": "lo1779139552723",
-              "total": 1155,
-              "cantidad": 1,
-              "descuento": 65,
-              "conceptoId": "4.1",
-              "precioUnit": 3300
-            },
-            {
-              "id": "lo1779139565800",
-              "total": 425,
-              "cantidad": 1,
-              "descuento": 0,
-              "conceptoId": "6.1",
-              "precioUnit": 425
-            },
-            {
-              "id": "lo1779139573923",
-              "total": 625,
-              "cantidad": 1,
-              "descuento": 0,
-              "conceptoId": "7.3",
-              "precioUnit": 625
-            }
-          ],
-          "nombre": "",
-          "firmante": "",
-          "formaPago": "Según contrato",
-          "referencia": "BP-PLBEO-220226-v3",
-          "emplazamiento": "BP OLABERRÍA",
-          "firmanteCliente": "Dña. Concepción Gutierrez",
-          "firmanteNorAcua": ""
-        },
-        "legacy_id": "of_012_26"
-      },
-      {
-        "id": "8b6128ae-8b83-4720-81ee-9cee11295955",
-        "codigo": "003-26",
-        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
-        "asunto": "BP PROYECTO VENTEOS Y ACTUACIONES EN ES BLANCO I",
-        "po": "3001322938",
-        "estado": "facturada",
-        "importe_total": 9945,
-        "creado_por_id": "3e50e7e7-9fd7-4e53-9bf0-2bfd2d063f7f",
-        "creado_en": "2026-06-16T13:39:49.533974+00:00",
-        "metadatos": {
-          "zona": "NORTE",
-          "fecha": "2026-01-30",
-          "lineas": [
-            {
-              "id": "lo1779138255854",
-              "total": 2000,
-              "cantidad": 1,
-              "descuento": 0,
-              "conceptoId": "1.5",
-              "precioUnit": 2000
-            },
-            {
-              "id": "lo1779138264371",
-              "total": 650,
-              "cantidad": 1,
-              "descuento": 0,
-              "conceptoId": "3.1b",
-              "precioUnit": 650
-            },
-            {
-              "id": "lo1779138270750",
-              "total": 2310,
-              "cantidad": 1,
-              "descuento": 30,
-              "conceptoId": "4.1",
-              "precioUnit": 3300
-            },
-            {
-              "id": "lo1779138280354",
-              "total": 1375,
-              "cantidad": 1,
-              "descuento": 0,
-              "conceptoId": "4.2",
-              "precioUnit": 1375
-            },
-            {
-              "id": "lo1779138288552",
-              "total": 425,
-              "cantidad": 1,
-              "descuento": 0,
-              "conceptoId": "6.1",
-              "precioUnit": 425
-            },
-            {
-              "id": "lo1779138301986",
-              "total": 650,
-              "cantidad": 1,
-              "descuento": 0,
-              "conceptoId": "7.2",
-              "precioUnit": 650
-            },
-            {
-              "id": "lo1779138304412",
-              "total": 960,
-              "cantidad": 4,
-              "descuento": 0,
-              "conceptoId": "7.6",
-              "precioUnit": 240
-            },
-            {
-              "id": "lo1779138320823",
-              "total": 1200,
-              "cantidad": 1,
-              "descuento": 0,
-              "conceptoId": "10.4a",
-              "precioUnit": 1200
-            },
-            {
-              "id": "lo1779138322999",
-              "total": 375,
-              "cantidad": 1,
-              "descuento": 0,
-              "conceptoId": "10.2",
-              "precioUnit": 375
-            }
-          ],
-          "nombre": "",
-          "firmante": "",
-          "formaPago": "Según contrato",
-          "referencia": "BP-PVAEEB-300126-v1",
-          "emplazamiento": "BP BLANCO I",
-          "firmanteCliente": "Dña. Concepción Gutierrez",
-          "firmanteNorAcua": ""
-        },
-        "legacy_id": "of_003_26"
-      },
-      {
-        "id": "0eed0dc6-4110-4608-a6ef-9b3a461a1b75",
-        "codigo": "007-26",
-        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
-        "asunto": "BP TRABAJOS VARIOS ES EL ESPARTAL",
-        "po": "3001333956",
-        "estado": "facturada",
-        "importe_total": 4025,
-        "creado_por_id": "3e50e7e7-9fd7-4e53-9bf0-2bfd2d063f7f",
-        "creado_en": "2026-06-16T13:39:49.533974+00:00",
-        "metadatos": {
-          "zona": "CATALUÑA",
-          "fecha": "2026-02-11",
-          "lineas": [
-            {
-              "id": "lo1779139254121",
-              "total": 1950,
-              "cantidad": 3,
-              "descuento": 0,
-              "conceptoId": "3.1b",
-              "precioUnit": 650
-            },
-            {
-              "id": "lo1779139263099",
-              "total": 1265,
-              "cantidad": 1,
-              "descuento": 0,
-              "conceptoId": "4.2",
-              "precioUnit": 1265
-            },
-            {
-              "id": "lo1779139271847",
-              "total": 810,
-              "cantidad": 2,
-              "descuento": 0,
-              "conceptoId": "6.1",
-              "precioUnit": 405
-            }
-          ],
-          "nombre": "",
-          "firmante": "",
-          "formaPago": "Según contrato",
-          "referencia": "BP-TVEEE-110226-v1",
-          "emplazamiento": "BP EL ESPARTAL",
-          "firmanteCliente": "Dña. Guimar Tuero",
-          "firmanteNorAcua": ""
-        },
-        "legacy_id": "of_007_26"
-      },
-      {
-        "id": "8481108d-4007-420f-b358-5f30eb92f281",
-        "codigo": "008-26",
-        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
-        "asunto": "BP TRABAJOS RETIRADA LAVANDERÍA ES GANZO",
-        "po": "3001326127",
-        "estado": "facturada",
-        "importe_total": 982.5,
-        "creado_por_id": "3e50e7e7-9fd7-4e53-9bf0-2bfd2d063f7f",
-        "creado_en": "2026-06-16T13:39:49.533974+00:00",
-        "metadatos": {
-          "zona": "CENTRO",
-          "fecha": "2026-02-22",
-          "lineas": [
-            {
-              "id": "lo1779139309861",
-              "total": 607.5,
-              "cantidad": 2,
-              "descuento": 25,
-              "conceptoId": "6.1",
-              "precioUnit": 405
-            },
-            {
-              "id": "lo1779139342076",
-              "total": 375,
-              "cantidad": 1,
-              "descuento": 0,
-              "conceptoId": "10.2",
-              "precioUnit": 375
-            }
-          ],
-          "nombre": "",
-          "firmante": "",
-          "formaPago": "Según contrato",
-          "referencia": "BP-TRLEG-220226-v1",
-          "emplazamiento": "BP GANZO",
-          "firmanteCliente": "Dña. Concepción Gutierrez",
-          "firmanteNorAcua": ""
-        },
-        "legacy_id": "of_008_26"
-      },
-      {
-        "id": "6c11f44b-f9e3-47b8-9452-90320044d70b",
-        "codigo": "024-26",
-        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
-        "asunto": "BP TOMA DE DATOS E INFORME SANEAMIENTO ES BP CASTRO URDIALES",
-        "po": null,
-        "estado": "activa",
-        "importe_total": 2140,
-        "creado_por_id": "3e50e7e7-9fd7-4e53-9bf0-2bfd2d063f7f",
-        "creado_en": "2026-06-16T13:39:49.533974+00:00",
-        "metadatos": {
-          "zona": "NORTE",
-          "fecha": "2026-05-21",
-          "lineas": [
-            {
-              "id": "lo1779443690839",
-              "total": 1100,
-              "cantidad": 1,
-              "descuento": 0,
-              "conceptoId": "2.3",
-              "precioUnit": 1100
-            },
-            {
-              "id": "lo1779443698343",
-              "total": 425,
-              "cantidad": 1,
-              "descuento": 0,
-              "conceptoId": "6.1",
-              "precioUnit": 425
-            },
-            {
-              "id": "lo1779443706801",
-              "total": 240,
-              "cantidad": 1,
-              "descuento": 0,
-              "conceptoId": "7.6",
-              "precioUnit": 240
-            },
-            {
-              "id": "lo1779443729580",
-              "total": 375,
-              "cantidad": 1,
-              "descuento": 0,
-              "conceptoId": "10.2",
-              "precioUnit": 375
-            }
-          ],
-          "nombre": "",
-          "firmante": "",
-          "formaPago": "Según contrato",
-          "referencia": "BP-TDDISECU-210526-v1",
-          "emplazamiento": "BP CASTRO URDIALES",
-          "firmanteCliente": "Dña. Concepción Gutierrez",
-          "firmanteNorAcua": "D. Daniel Romero"
-        },
-        "legacy_id": "o1779443732088"
-      },
-      {
-        "id": "5dc1a0a4-7a6b-41a9-8f7c-0031436060cc",
-        "codigo": "018-26",
-        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
-        "asunto": "BP TOMA DE DATOS E INFORME SANEAMIENTO ES GETAFE M406",
-        "po": "3001334368",
-        "estado": "cerrada",
-        "importe_total": 1645,
-        "creado_por_id": "3e50e7e7-9fd7-4e53-9bf0-2bfd2d063f7f",
-        "creado_en": "2026-06-16T13:39:49.533974+00:00",
-        "metadatos": {
-          "zona": "CENTRO",
-          "fecha": "2026-03-31",
-          "lineas": [
-            {
-              "id": "lo1779140411306",
-              "total": 1000,
-              "cantidad": 1,
-              "descuento": 0,
-              "conceptoId": "2.3",
-              "precioUnit": 1000
-            },
-            {
-              "id": "lo1779140419715",
-              "total": 405,
-              "cantidad": 1,
-              "descuento": 0,
-              "conceptoId": "6.1",
-              "precioUnit": 405
-            },
-            {
-              "id": "lo1779140425052",
-              "total": 240,
-              "cantidad": 1,
-              "descuento": 0,
-              "conceptoId": "7.6",
-              "precioUnit": 240
-            }
-          ],
-          "nombre": "",
-          "firmante": "",
-          "formaPago": "Según contrato",
-          "referencia": "BP-TDDISEGM-310326-v1",
-          "emplazamiento": "BP GETAFE M406",
-          "firmanteCliente": "Dña. Concepción Gutierrez",
-          "firmanteNorAcua": ""
-        },
-        "legacy_id": "of_018_26"
-      },
-      {
-        "id": "2796bfac-3a53-45c6-8fad-9230119b3c08",
-        "codigo": "010-26",
-        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
-        "asunto": "BP PROYECTO CAMBIO VENTEOS ES BLANCO II",
-        "po": "3001326128",
-        "estado": "facturada",
-        "importe_total": 6345,
-        "creado_por_id": "3e50e7e7-9fd7-4e53-9bf0-2bfd2d063f7f",
-        "creado_en": "2026-06-16T13:39:49.533974+00:00",
-        "metadatos": {
-          "zona": "NORTE",
-          "fecha": "2026-02-22",
-          "lineas": [
-            {
-              "id": "lo1779139405781",
-              "total": 2000,
-              "cantidad": 1,
-              "descuento": 0,
-              "conceptoId": "1.5",
-              "precioUnit": 2000
-            },
-            {
-              "id": "lo1779139412632",
-              "total": 2310,
-              "cantidad": 1,
-              "descuento": 30,
-              "conceptoId": "4.1",
-              "precioUnit": 3300
-            },
-            {
-              "id": "lo1779139427050",
-              "total": 425,
-              "cantidad": 1,
-              "descuento": 0,
-              "conceptoId": "6.1",
-              "precioUnit": 425
-            },
-            {
-              "id": "lo1779139438333",
-              "total": 650,
-              "cantidad": 1,
-              "descuento": 0,
-              "conceptoId": "7.2",
-              "precioUnit": 650
-            },
-            {
-              "id": "lo1779139440220",
-              "total": 960,
-              "cantidad": 4,
-              "descuento": 0,
-              "conceptoId": "7.6",
-              "precioUnit": 240
-            }
-          ],
-          "nombre": "",
-          "firmante": "",
-          "formaPago": "Según contrato",
-          "referencia": "BP-PCVEBI-220226-v1",
-          "emplazamiento": "BP BLANCO II",
-          "firmanteCliente": "Dña. Concepción Gutierrez",
-          "firmanteNorAcua": ""
-        },
-        "legacy_id": "of_010_26"
-      },
-      {
-        "id": "26429085-56d0-4dba-8024-fdfa92d34be2",
-        "codigo": "020-26",
-        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
-        "asunto": "BP REGULARIZACIÓN ABASTECIMIENTO Y SANEAMIENTO ES VILLAMANTA",
-        "po": "3001334382",
-        "estado": "cerrada",
-        "importe_total": 1645,
-        "creado_por_id": "3e50e7e7-9fd7-4e53-9bf0-2bfd2d063f7f",
-        "creado_en": "2026-06-16T13:39:49.533974+00:00",
-        "metadatos": {
-          "zona": "CENTRO",
-          "fecha": "2026-03-31",
-          "lineas": [
-            {
-              "id": "lo1779140545706",
-              "total": 1000,
-              "cantidad": 1,
-              "descuento": 0,
-              "conceptoId": "2.3",
-              "precioUnit": 1000
-            },
-            {
-              "id": "lo1779140550483",
-              "total": 405,
-              "cantidad": 1,
-              "descuento": 0,
-              "conceptoId": "6.1",
-              "precioUnit": 405
-            },
-            {
-              "id": "lo1779140557169",
-              "total": 240,
-              "cantidad": 1,
-              "descuento": 0,
-              "conceptoId": "7.6",
-              "precioUnit": 240
-            }
-          ],
-          "nombre": "",
-          "firmante": "",
-          "formaPago": "Según contrato",
-          "referencia": "BP-RASEV-310326-v1",
-          "emplazamiento": "BP VILLAMANTA",
-          "firmanteCliente": "Dña. Concepción Gutierrez",
-          "firmanteNorAcua": ""
-        },
-        "legacy_id": "of_020_26"
-      },
-      {
-        "id": "ea233e40-3fea-4727-a303-d817cdd20b0e",
-        "codigo": "015-26",
-        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
-        "asunto": "BP LEGALIZACIÓN COMPRESOR ES OLABERRÍA",
-        "po": "3001329953",
-        "estado": "cerrada",
-        "importe_total": 1325,
-        "creado_por_id": "3e50e7e7-9fd7-4e53-9bf0-2bfd2d063f7f",
-        "creado_en": "2026-06-16T13:39:49.533974+00:00",
-        "metadatos": {
-          "zona": "NORTE",
-          "fecha": "2026-03-16",
-          "lineas": [
-            {
-              "id": "lo1779140208378",
-              "total": 700,
-              "cantidad": 1,
-              "descuento": 44,
-              "conceptoId": "1.17",
-              "precioUnit": 1250
-            },
-            {
-              "id": "lo1779140228460",
-              "total": 625,
-              "cantidad": 1,
-              "descuento": 0,
-              "conceptoId": "7.3",
-              "precioUnit": 625
-            }
-          ],
-          "nombre": "",
-          "firmante": "",
-          "formaPago": "Según contrato",
-          "referencia": "BP-LCEO-160326-v1",
-          "emplazamiento": "BP OLABERRÍA",
-          "firmanteCliente": "Dña. Carmen de Antonio",
-          "firmanteNorAcua": ""
-        },
-        "legacy_id": "of_015_26"
-      },
-      {
-        "id": "16665a02-f1da-4409-aab3-c73614142e7b",
-        "codigo": "017-26",
-        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
-        "asunto": "BP PROYECTO Y LEGALIZACIÓN INSTALACIÓN BT ES POLLENSA",
-        "po": "300133164",
-        "estado": "facturada",
-        "importe_total": 3718.75,
-        "creado_por_id": "3e50e7e7-9fd7-4e53-9bf0-2bfd2d063f7f",
-        "creado_en": "2026-06-16T13:39:49.533974+00:00",
-        "metadatos": {
-          "zona": "BALEARES",
-          "fecha": "2026-03-17",
-          "lineas": [
-            {
-              "id": "lo1779140341523",
-              "total": 1180,
-              "cantidad": 1,
-              "descuento": 0,
-              "conceptoId": "1.17",
-              "precioUnit": 1180
-            },
-            {
-              "id": "lo1779140347729",
-              "total": 1093.75,
-              "cantidad": 1,
-              "descuento": 65,
-              "conceptoId": "4.1",
-              "precioUnit": 3125
-            },
-            {
-              "id": "lo1779140362204",
-              "total": 595,
-              "cantidad": 1,
-              "descuento": 0,
-              "conceptoId": "7.3",
-              "precioUnit": 595
-            },
-            {
-              "id": "lo1779140372387",
-              "total": 850,
-              "cantidad": 1,
-              "descuento": 0,
-              "conceptoId": "2.8",
-              "precioUnit": 850
-            }
-          ],
-          "nombre": "",
-          "firmante": "",
-          "formaPago": "Según contrato",
-          "referencia": "BP-PLIBEP-170326-v1",
-          "emplazamiento": "BP POLLENSA",
-          "firmanteCliente": "Dña. Guiomar Tuero",
-          "firmanteNorAcua": ""
-        },
-        "legacy_id": "of_017_26"
-      },
-      {
-        "id": "bcb7198a-e26b-4140-98ee-0385b4e88468",
-        "codigo": "021-26",
-        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
-        "asunto": "BP IMPLANTACIÓN PARA LAVADOS",
-        "po": "3001341277",
-        "estado": "cerrada",
-        "importe_total": 965,
-        "creado_por_id": "3e50e7e7-9fd7-4e53-9bf0-2bfd2d063f7f",
-        "creado_en": "2026-06-16T13:39:49.533974+00:00",
-        "metadatos": {
-          "zona": "NORTE",
-          "fecha": "2026-05-18",
-          "lineas": [
-            {
-              "id": "lo1779144211378",
-              "total": 425,
-              "cantidad": 1,
-              "descuento": 0,
-              "conceptoId": "6.1",
-              "precioUnit": 425
-            },
-            {
-              "id": "lo1779144226184",
-              "total": 540,
-              "cantidad": 2,
-              "descuento": 0,
-              "conceptoId": "11.2",
-              "precioUnit": 270
-            },
-            {
-              "id": "lo1779144233920",
-              "total": 0,
-              "cantidad": 2,
-              "descuento": 100,
-              "conceptoId": "11.3",
-              "precioUnit": 245
-            }
-          ],
-          "nombre": "",
-          "firmante": "",
-          "formaPago": "Según contrato",
-          "referencia": "BP-IPL-180526-v1",
-          "emplazamiento": "BP TRÁPAGA",
-          "firmanteCliente": "Dña. Raquel Martínez",
-          "firmanteNorAcua": "D. Daniel Romero"
-        },
-        "legacy_id": "o1779144271044"
-      },
-      {
-        "id": "add70585-9c85-4864-8bcd-5c8a738baf77",
-        "codigo": "005-26",
-        "cliente_id": "fabf7339-a3e6-4bde-b230-b324a67cdc8a",
-        "asunto": "BP VISITA E INFORME SITUACIÓN ES EL CORB",
-        "po": null,
-        "estado": "facturada",
-        "importe_total": 855,
-        "creado_por_id": "3e50e7e7-9fd7-4e53-9bf0-2bfd2d063f7f",
-        "creado_en": "2026-06-16T13:39:49.533974+00:00",
-        "metadatos": {
-          "zona": "CATALUÑA",
-          "fecha": "2026-02-06",
-          "lineas": [
-            {
-              "id": "lo1779394104889",
-              "total": 405,
-              "cantidad": 1,
-              "descuento": 0,
-              "conceptoId": "6.1",
-              "precioUnit": 405
-            },
-            {
-              "id": "lo1779394118119",
-              "total": 450,
-              "cantidad": 1,
-              "descuento": 0,
-              "conceptoId": "2.8",
-              "precioUnit": 450
-            }
-          ],
-          "nombre": "",
-          "firmante": "",
-          "formaPago": "Según contrato",
-          "referencia": "BP-VISEEC-060226-v1",
-          "emplazamiento": "ES EL CORB",
-          "firmanteCliente": "",
-          "firmanteNorAcua": ""
-        },
-        "legacy_id": "of_005_26"
-      },
-      {
-        "id": "e5feff21-57bb-4c2c-b341-355fb0ae15a5",
-        "codigo": "025-26-B",
-        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
-        "asunto": "BP PROYECTO Y LICENCIAS PARA CAMBIO DE SHC",
-        "po": null,
-        "estado": "activa",
-        "importe_total": null,
-        "creado_por_id": "3e50e7e7-9fd7-4e53-9bf0-2bfd2d063f7f",
-        "creado_en": "2026-06-16T13:39:49.533974+00:00",
-        "metadatos": null,
-        "legacy_id": "o1779445148864"
-      },
-      {
-        "id": "504d86f8-7fe0-4325-a79f-7c448de440c0",
-        "codigo": "009-26",
-        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
-        "asunto": "BP VISITA PROPIEDAD ES CARREÑO",
-        "po": "3001326126",
-        "estado": "facturada",
-        "importe_total": 750,
-        "creado_por_id": "3e50e7e7-9fd7-4e53-9bf0-2bfd2d063f7f",
-        "creado_en": "2026-06-16T13:39:49.533974+00:00",
-        "metadatos": {
-          "zona": "NORTE",
-          "fecha": "2026-02-22",
-          "lineas": [
-            {
-              "id": "lo1779139376153",
-              "total": 750,
-              "cantidad": 1,
-              "descuento": 0,
-              "conceptoId": "6.3",
-              "precioUnit": 750
-            }
-          ],
-          "nombre": "",
-          "firmante": "",
-          "formaPago": "Según contrato",
-          "referencia": "BP-VPEC-220226-v1",
-          "emplazamiento": "BP CARREÑO",
-          "firmanteCliente": "Dña. Concepción Gutierrez",
-          "firmanteNorAcua": ""
-        },
-        "legacy_id": "of_009_26"
-      },
-      {
-        "id": "d470c24f-a969-43bb-b40f-0a4c5ecb33af",
-        "codigo": "023-26",
-        "cliente_id": "b405360f-b82f-4344-aa54-4a5c87490d63",
-        "asunto": "CF CÁLCULO CIMENTACIÓN CARTEL PUBLICITARIO",
-        "po": null,
-        "estado": "cancelada",
-        "importe_total": 1100,
-        "creado_por_id": "3e50e7e7-9fd7-4e53-9bf0-2bfd2d063f7f",
-        "creado_en": "2026-06-16T13:39:49.533974+00:00",
-        "metadatos": {
-          "zona": "OTROS",
-          "fecha": "2026-05-20",
-          "lineas": [
-            {
-              "id": "lo1779293884309",
-              "total": 1100,
-              "cantidad": 1,
-              "descuento": 0,
-              "conceptoId": "2.3",
-              "precioUnit": 1100
-            }
-          ],
-          "nombre": "",
-          "firmante": "",
-          "formaPago": "Según contrato",
-          "referencia": "CF-CCCP-200526-v1",
-          "emplazamiento": "CF SAGUNTO",
-          "firmanteCliente": "D. Rubén Vigaray",
-          "firmanteNorAcua": "D. Daniel Romero"
-        },
-        "legacy_id": "o1779293894091"
-      },
-      {
-        "id": "04d85d7b-b9d9-44c5-8b8e-0d58f68ed5b2",
-        "codigo": "026-26",
-        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
-        "asunto": "BP LEVANTAMIENTO TOPOGRÁFICO",
-        "po": null,
-        "estado": "activa",
-        "importe_total": 1000,
-        "creado_por_id": "3e50e7e7-9fd7-4e53-9bf0-2bfd2d063f7f",
-        "creado_en": "2026-06-16T13:39:49.533974+00:00",
-        "metadatos": {
-          "zona": "CATALUÑA",
-          "fecha": "2026-06-05",
-          "lineas": [
-            {
-              "id": "lo1780659354503",
-              "total": 1000,
-              "cantidad": 1,
-              "descuento": 0,
-              "conceptoId": "5.1b",
-              "precioUnit": 1000
-            }
-          ],
-          "nombre": "",
-          "firmante": "",
-          "formaPago": "Según contrato",
-          "referencia": "BP-LT-050626-v1",
-          "emplazamiento": "BP RIBAS LA COMETA",
-          "firmanteCliente": "D. Gabriel Mondejar",
-          "firmanteNorAcua": "D. Daniel Romero"
-        },
-        "legacy_id": "o1780659356493"
+        "legacy_id": "o1781863144854",
+        "proyecto_id": "21fd1b4b-92fb-4f49-8685-54465fb2bdff"
       },
       {
         "id": "3545d2d4-dbb9-419c-a216-0b3114a110e6",
@@ -7022,7 +4971,8 @@
           "firmanteCliente": "",
           "firmanteNorAcua": "D. Daniel Romero"
         },
-        "legacy_id": "o1780075773625"
+        "legacy_id": "o1780075773625",
+        "proyecto_id": "6f779582-e80f-4027-8d21-53c1137d2218"
       },
       {
         "id": "c547e6b4-d415-43b6-a7bb-6a76996e9db0",
@@ -7030,8 +4980,8 @@
         "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
         "asunto": "BP DESMANTELAMIENTO ESTACIÓN",
         "po": null,
-        "estado": "activa",
-        "importe_total": 22990,
+        "estado": "borrador",
+        "importe_total": 20810,
         "creado_por_id": "3e50e7e7-9fd7-4e53-9bf0-2bfd2d063f7f",
         "creado_en": "2026-06-16T13:39:49.533974+00:00",
         "metadatos": {
@@ -7175,48 +5125,770 @@
           "firmanteCliente": "D. Josep Seijo",
           "firmanteNorAcua": "D. Daniel Romero"
         },
-        "legacy_id": "o1780069434356"
+        "legacy_id": "o1780069434356",
+        "proyecto_id": "ab66cc05-2445-49e7-8e46-4d62d0a5d9d7"
       },
       {
-        "id": "28291b48-80df-48b7-8bfa-3797107cab0d",
-        "codigo": "019-26",
+        "id": "aa4d1b27-9e02-4687-86c4-780690f27b7b",
+        "codigo": "027-26",
         "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
-        "asunto": "BP VISITA E INFORME SUMINISTROS ES SEGÓBRIGA",
-        "po": "3001334383",
-        "estado": "cerrada",
-        "importe_total": 1405,
+        "asunto": "BP TRABAJOS VARIOS RECICLADORA ES MONTSENY",
+        "po": "3001258221",
+        "estado": "facturada",
+        "importe_total": 4546.25,
         "creado_por_id": "3e50e7e7-9fd7-4e53-9bf0-2bfd2d063f7f",
         "creado_en": "2026-06-16T13:39:49.533974+00:00",
         "metadatos": {
-          "zona": "CENTRO",
-          "fecha": "2026-03-31",
+          "zona": "CATALUÑA",
+          "fecha": "2025-02-11",
           "lineas": [
             {
-              "id": "lo1779140510488",
-              "total": 1000,
+              "id": "lo1779961476813k4ldkq8kjpd",
+              "total": 880,
               "cantidad": 1,
-              "descuento": 0,
-              "conceptoId": "2.3",
-              "precioUnit": 1000
+              "descuento": 50,
+              "conceptoId": "1.5",
+              "precioUnit": 1760
             },
             {
-              "id": "lo1779140515868",
-              "total": 405,
+              "id": "lo1779961476813nvslitxawx9",
+              "total": 650,
               "cantidad": 1,
               "descuento": 0,
-              "conceptoId": "6.1",
-              "precioUnit": 405
+              "conceptoId": "3.1b",
+              "precioUnit": 650
+            },
+            {
+              "id": "lo177996147681351wwonln3jj",
+              "total": 781.25,
+              "cantidad": 1,
+              "descuento": 75,
+              "conceptoId": "4.1",
+              "precioUnit": 3125
+            },
+            {
+              "id": "lo1779961476813j2cofxzuyu",
+              "total": 1265,
+              "cantidad": 1,
+              "descuento": 0,
+              "conceptoId": "4.2",
+              "precioUnit": 1265
+            },
+            {
+              "id": "lo1779961476813r47no5pgx6",
+              "total": 595,
+              "cantidad": 1,
+              "descuento": 0,
+              "conceptoId": "7.2",
+              "precioUnit": 595
+            },
+            {
+              "id": "lo1779961476813d0bd0rvbhv",
+              "total": 375,
+              "cantidad": 3,
+              "descuento": 0,
+              "conceptoId": "10.2",
+              "precioUnit": 375
             }
           ],
           "nombre": "",
           "firmante": "",
           "formaPago": "Según contrato",
-          "referencia": "BP-VISES-310326-v1",
-          "emplazamiento": "BP SEGÓBRIGA",
+          "referencia": "BP-TVREM-280526-v1",
+          "emplazamiento": "BP MONTSENY",
+          "firmanteCliente": "D. Josep Seijo",
+          "firmanteNorAcua": "D. Daniel Romero"
+        },
+        "legacy_id": "o1779961546848",
+        "proyecto_id": "4c0bc367-e624-44b9-bccf-30dd617ee0a3"
+      },
+      {
+        "id": "6c11f44b-f9e3-47b8-9452-90320044d70b",
+        "codigo": "024-26",
+        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
+        "asunto": "BP TOMA DE DATOS E INFORME SANEAMIENTO ES BP CASTRO URDIALES",
+        "po": null,
+        "estado": "activa",
+        "importe_total": 2140,
+        "creado_por_id": "3e50e7e7-9fd7-4e53-9bf0-2bfd2d063f7f",
+        "creado_en": "2026-06-16T13:39:49.533974+00:00",
+        "metadatos": {
+          "zona": "NORTE",
+          "fecha": "2026-05-21",
+          "lineas": [
+            {
+              "id": "lo1779443690839",
+              "total": 1100,
+              "cantidad": 1,
+              "descuento": 0,
+              "conceptoId": "2.3",
+              "precioUnit": 1100
+            },
+            {
+              "id": "lo1779443698343",
+              "total": 425,
+              "cantidad": 1,
+              "descuento": 0,
+              "conceptoId": "6.1",
+              "precioUnit": 425
+            },
+            {
+              "id": "lo1779443706801",
+              "total": 240,
+              "cantidad": 1,
+              "descuento": 0,
+              "conceptoId": "7.6",
+              "precioUnit": 240
+            },
+            {
+              "id": "lo1779443729580",
+              "total": 375,
+              "cantidad": 1,
+              "descuento": 0,
+              "conceptoId": "10.2",
+              "precioUnit": 375
+            }
+          ],
+          "nombre": "",
+          "firmante": "",
+          "formaPago": "Según contrato",
+          "referencia": "BP-TDDISECU-210526-v1",
+          "emplazamiento": "BP CASTRO URDIALES",
+          "firmanteCliente": "Dña. Concepción Gutierrez",
+          "firmanteNorAcua": "D. Daniel Romero"
+        },
+        "legacy_id": "o1779443732088",
+        "proyecto_id": "006d9aac-5e3f-4314-b472-f480941d226f"
+      },
+      {
+        "id": "d470c24f-a969-43bb-b40f-0a4c5ecb33af",
+        "codigo": "023-26",
+        "cliente_id": "b405360f-b82f-4344-aa54-4a5c87490d63",
+        "asunto": "CF CÁLCULO CIMENTACIÓN CARTEL PUBLICITARIO",
+        "po": null,
+        "estado": "cancelada",
+        "importe_total": 1100,
+        "creado_por_id": "3e50e7e7-9fd7-4e53-9bf0-2bfd2d063f7f",
+        "creado_en": "2026-06-16T13:39:49.533974+00:00",
+        "metadatos": {
+          "zona": "OTROS",
+          "fecha": "2026-05-20",
+          "lineas": [
+            {
+              "id": "lo1779293884309",
+              "total": 1100,
+              "cantidad": 1,
+              "descuento": 0,
+              "conceptoId": "2.3",
+              "precioUnit": 1100
+            }
+          ],
+          "nombre": "",
+          "firmante": "",
+          "formaPago": "Según contrato",
+          "referencia": "CF-CCCP-200526-v1",
+          "emplazamiento": "CF SAGUNTO",
+          "firmanteCliente": "D. Rubén Vigaray",
+          "firmanteNorAcua": "D. Daniel Romero"
+        },
+        "legacy_id": "o1779293894091",
+        "proyecto_id": "5133f85b-fdb0-4051-b59b-0adc0e9e185d"
+      },
+      {
+        "id": "bcb7198a-e26b-4140-98ee-0385b4e88468",
+        "codigo": "021-26",
+        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
+        "asunto": "BP IMPLANTACIÓN PARA LAVADOS",
+        "po": "3001341277",
+        "estado": "facturada",
+        "importe_total": 965,
+        "creado_por_id": "3e50e7e7-9fd7-4e53-9bf0-2bfd2d063f7f",
+        "creado_en": "2026-06-16T13:39:49.533974+00:00",
+        "metadatos": {
+          "zona": "NORTE",
+          "fecha": "2026-05-18",
+          "lineas": [
+            {
+              "id": "lo1779144211378",
+              "total": 425,
+              "cantidad": 1,
+              "descuento": 0,
+              "conceptoId": "6.1",
+              "precioUnit": 425
+            },
+            {
+              "id": "lo1779144226184",
+              "total": 540,
+              "cantidad": 2,
+              "descuento": 0,
+              "conceptoId": "11.2",
+              "precioUnit": 270
+            },
+            {
+              "id": "lo1779144233920",
+              "total": 0,
+              "cantidad": 2,
+              "descuento": 100,
+              "conceptoId": "11.3",
+              "precioUnit": 245
+            }
+          ],
+          "nombre": "",
+          "firmante": "",
+          "formaPago": "Según contrato",
+          "referencia": "BP-IPL-180526-v1",
+          "emplazamiento": "BP TRÁPAGA",
+          "firmanteCliente": "Dña. Raquel Martínez",
+          "firmanteNorAcua": "D. Daniel Romero"
+        },
+        "legacy_id": "o1779144271044",
+        "proyecto_id": "725546ca-0e8a-4b13-93a9-3357aa2366e8"
+      },
+      {
+        "id": "0236a2db-9a88-4a83-a72b-dd571ec01921",
+        "codigo": "001-26",
+        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
+        "asunto": "BP PROYECTO Y LICENCIAS IM ES SANTA EULALIA",
+        "po": "3001323676",
+        "estado": "facturada",
+        "importe_total": 5555,
+        "creado_por_id": "3e50e7e7-9fd7-4e53-9bf0-2bfd2d063f7f",
+        "creado_en": "2026-06-16T13:39:49.533974+00:00",
+        "metadatos": {
+          "zona": "BALEARES",
+          "fecha": "2026-01-28",
+          "lineas": [
+            {
+              "id": "lo1779137881797",
+              "total": 4150,
+              "cantidad": 1,
+              "descuento": 0,
+              "conceptoId": "1.4",
+              "precioUnit": 4150
+            },
+            {
+              "id": "lo1779137890213",
+              "total": 405,
+              "cantidad": 1,
+              "descuento": 0,
+              "conceptoId": "6.1",
+              "precioUnit": 405
+            },
+            {
+              "id": "lo1779137897862",
+              "total": 1000,
+              "cantidad": 1,
+              "descuento": 0,
+              "conceptoId": "7.1",
+              "precioUnit": 1000
+            }
+          ],
+          "nombre": "",
+          "firmante": "",
+          "formaPago": "Según contrato",
+          "referencia": "BP-PYLIESE-280126-v1",
+          "emplazamiento": "BP SANTA EULALIA",
+          "firmanteCliente": "Dña. Guimar Tuero",
+          "firmanteNorAcua": ""
+        },
+        "legacy_id": "of_001_26",
+        "proyecto_id": "6dbd7903-a489-4c10-8be3-f6a5a0423f48"
+      },
+      {
+        "id": "42d5355e-4647-45f8-b1fb-3172650a25d5",
+        "codigo": "025-26",
+        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
+        "asunto": "BP PROYECTO Y LICENCIAS PARA CAMBIO DE SHC",
+        "po": null,
+        "estado": "borrador",
+        "importe_total": 18005,
+        "creado_por_id": "3e50e7e7-9fd7-4e53-9bf0-2bfd2d063f7f",
+        "creado_en": "2026-06-16T13:39:49.533974+00:00",
+        "metadatos": {
+          "zona": "NORTE",
+          "fecha": "2026-05-22",
+          "lineas": [
+            {
+              "id": "lo1779444742817kd4qtslhsds",
+              "total": 2000,
+              "cantidad": 1,
+              "descuento": 0,
+              "conceptoId": "1.5",
+              "precioUnit": 2000
+            },
+            {
+              "id": "lo1779444742817t7s2i7zjx5",
+              "total": 3300,
+              "cantidad": 1,
+              "descuento": 0,
+              "conceptoId": "4.1",
+              "precioUnit": 3300
+            },
+            {
+              "id": "lo1779444742817qorj2sklat",
+              "total": 1375,
+              "cantidad": 1,
+              "descuento": 0,
+              "conceptoId": "4.2",
+              "precioUnit": 1375
+            },
+            {
+              "id": "lo17794447428170bhjrwvdckte",
+              "total": 650,
+              "cantidad": 1,
+              "descuento": 0,
+              "conceptoId": "7.2",
+              "precioUnit": 650
+            }
+          ],
+          "nombre": "",
+          "firmante": "",
+          "formaPago": "Según contrato",
+          "referencia": "BP-PLPCDS-220526-v1",
+          "emplazamiento": "BP CASTRO URDIALES",
+          "firmanteCliente": "Dña. Raquel Martínez",
+          "firmanteNorAcua": "D. Daniel Romero"
+        },
+        "legacy_id": "o1779719628499",
+        "proyecto_id": "006d9aac-5e3f-4314-b472-f480941d226f"
+      },
+      {
+        "id": "b0851e5d-3d59-4735-8c54-fde3668c7847",
+        "codigo": "002-26",
+        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
+        "asunto": "BP PROYECTO Y LICENCIAS LAVADOS ES PLANAMAR",
+        "po": null,
+        "estado": "borrador",
+        "importe_total": 7700,
+        "creado_por_id": "3e50e7e7-9fd7-4e53-9bf0-2bfd2d063f7f",
+        "creado_en": "2026-06-16T13:39:49.533974+00:00",
+        "metadatos": {
+          "zona": "CATALUÑA",
+          "fecha": "2026-01-28",
+          "lineas": [
+            {
+              "id": "lo1779138019538",
+              "total": 1760,
+              "cantidad": 1,
+              "descuento": 0,
+              "conceptoId": "1.5",
+              "precioUnit": 1760
+            },
+            {
+              "id": "lo1779138028560",
+              "total": 2187.5,
+              "cantidad": 1,
+              "descuento": 30,
+              "conceptoId": "4.1",
+              "precioUnit": 3125
+            },
+            {
+              "id": "lo1779138043886",
+              "total": 1265,
+              "cantidad": 1,
+              "descuento": 0,
+              "conceptoId": "4.2",
+              "precioUnit": 1265
+            },
+            {
+              "id": "lo1779138048136",
+              "total": 362.5,
+              "cantidad": 1,
+              "descuento": 50,
+              "conceptoId": "4.4",
+              "precioUnit": 725
+            },
+            {
+              "id": "lo1779138059140",
+              "total": 810,
+              "cantidad": 2,
+              "descuento": 0,
+              "conceptoId": "6.1",
+              "precioUnit": 405
+            },
+            {
+              "id": "lo1779138070661",
+              "total": 595,
+              "cantidad": 1,
+              "descuento": 0,
+              "conceptoId": "7.2",
+              "precioUnit": 595
+            },
+            {
+              "id": "lo1779138072927",
+              "total": 720,
+              "cantidad": 3,
+              "descuento": 0,
+              "conceptoId": "7.6",
+              "precioUnit": 240
+            }
+          ],
+          "nombre": "",
+          "firmante": "",
+          "formaPago": "Según contrato",
+          "referencia": "BP-PLLEP-280126-v1",
+          "emplazamiento": "BP PLANAMAR",
+          "firmanteCliente": "D. Josep Seijo",
+          "firmanteNorAcua": ""
+        },
+        "legacy_id": "of_002_26",
+        "proyecto_id": "82ea1c9a-084b-421b-8f7b-6c24c15636e4"
+      },
+      {
+        "id": "17fa0b2f-effa-4e36-853d-6d7b5f497cca",
+        "codigo": "004-26",
+        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
+        "asunto": "BP LEGALIZACIÓN INSTALACIÓN BT ES MECO",
+        "po": "3001322329",
+        "estado": "facturada",
+        "importe_total": 4303.75,
+        "creado_por_id": "3e50e7e7-9fd7-4e53-9bf0-2bfd2d063f7f",
+        "creado_en": "2026-06-16T13:39:49.533974+00:00",
+        "metadatos": {
+          "zona": "CENTRO",
+          "fecha": "2026-01-30",
+          "lineas": [
+            {
+              "id": "lo1779139075016",
+              "total": 1180,
+              "cantidad": 1,
+              "descuento": 0,
+              "conceptoId": "1.17",
+              "precioUnit": 1180
+            },
+            {
+              "id": "lo1779139082490",
+              "total": 1093.75,
+              "cantidad": 1,
+              "descuento": 65,
+              "conceptoId": "4.1",
+              "precioUnit": 3125
+            },
+            {
+              "id": "lo1779139115410",
+              "total": 850,
+              "cantidad": 1,
+              "descuento": 0,
+              "conceptoId": "2.8",
+              "precioUnit": 850
+            },
+            {
+              "id": "lo1779139133182",
+              "total": 450,
+              "cantidad": 1,
+              "descuento": 0,
+              "conceptoId": "2.8",
+              "precioUnit": 450
+            },
+            {
+              "id": "lo1779139703490",
+              "total": 135,
+              "cantidad": 1,
+              "descuento": 0,
+              "conceptoId": "2.8",
+              "precioUnit": 135
+            },
+            {
+              "id": "lo1779139735871",
+              "total": 595,
+              "cantidad": 1,
+              "descuento": 0,
+              "conceptoId": "7.3",
+              "precioUnit": 595
+            }
+          ],
+          "nombre": "",
+          "firmante": "",
+          "formaPago": "Según contrato",
+          "referencia": "BP-LIBEM-300126-v3",
+          "emplazamiento": "BP MECO",
           "firmanteCliente": "Dña. Concepción Gutierrez",
           "firmanteNorAcua": ""
         },
-        "legacy_id": "of_019_26"
+        "legacy_id": "of_004_26",
+        "proyecto_id": "f9ffaa8b-0b50-45ab-a85c-0a0812721928"
+      },
+      {
+        "id": "3987fcae-c3af-4541-882c-4c247d2086ba",
+        "codigo": "006-26",
+        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
+        "asunto": "BP TRABAJOS VARIOS REFORMA TIENDA ES CHEYPER",
+        "po": "3001323709",
+        "estado": "facturada",
+        "importe_total": 1705,
+        "creado_por_id": "3e50e7e7-9fd7-4e53-9bf0-2bfd2d063f7f",
+        "creado_en": "2026-06-16T13:39:49.533974+00:00",
+        "metadatos": {
+          "zona": "CENTRO",
+          "fecha": "2026-02-06",
+          "lineas": [
+            {
+              "id": "lo1779139182432",
+              "total": 550,
+              "cantidad": 1,
+              "descuento": 0,
+              "conceptoId": "3.1b",
+              "precioUnit": 550
+            },
+            {
+              "id": "lo1779139191753",
+              "total": 405,
+              "cantidad": 1,
+              "descuento": 0,
+              "conceptoId": "6.1",
+              "precioUnit": 405
+            },
+            {
+              "id": "lo1779139199753",
+              "total": 750,
+              "cantidad": 2,
+              "descuento": 0,
+              "conceptoId": "10.2",
+              "precioUnit": 375
+            }
+          ],
+          "nombre": "",
+          "firmante": "",
+          "formaPago": "Según contrato",
+          "referencia": "BP-TVRTEC-060226-v2",
+          "emplazamiento": "BP CHEYPER",
+          "firmanteCliente": "D. Josep Seijo",
+          "firmanteNorAcua": ""
+        },
+        "legacy_id": "of_006_26",
+        "proyecto_id": "f2e00fc2-351c-4313-813e-a7659e401e16"
+      },
+      {
+        "id": "504d86f8-7fe0-4325-a79f-7c448de440c0",
+        "codigo": "009-26",
+        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
+        "asunto": "BP VISITA PROPIEDAD ES CARREÑO",
+        "po": "3001326126",
+        "estado": "facturada",
+        "importe_total": 750,
+        "creado_por_id": "3e50e7e7-9fd7-4e53-9bf0-2bfd2d063f7f",
+        "creado_en": "2026-06-16T13:39:49.533974+00:00",
+        "metadatos": {
+          "zona": "NORTE",
+          "fecha": "2026-02-22",
+          "lineas": [
+            {
+              "id": "lo1779139376153",
+              "total": 750,
+              "cantidad": 1,
+              "descuento": 0,
+              "conceptoId": "6.3",
+              "precioUnit": 750
+            }
+          ],
+          "nombre": "",
+          "firmante": "",
+          "formaPago": "Según contrato",
+          "referencia": "BP-VPEC-220226-v1",
+          "emplazamiento": "BP CARREÑO",
+          "firmanteCliente": "Dña. Concepción Gutierrez",
+          "firmanteNorAcua": ""
+        },
+        "legacy_id": "of_009_26",
+        "proyecto_id": "4eaf98c0-695f-4215-9885-4dc55c64bdc7"
+      },
+      {
+        "id": "fc041699-e13c-4a6c-91ba-5be2534c5f4b",
+        "codigo": "011-26",
+        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
+        "asunto": "BP MONITORIZACIÓN MURO ES VÍA NORTE",
+        "po": "3001326125",
+        "estado": "facturada",
+        "importe_total": 2025,
+        "creado_por_id": "3e50e7e7-9fd7-4e53-9bf0-2bfd2d063f7f",
+        "creado_en": "2026-06-16T13:39:49.533974+00:00",
+        "metadatos": {
+          "zona": "NORTE",
+          "fecha": "2026-02-22",
+          "lineas": [
+            {
+              "id": "lo1779139475479",
+              "total": 1100,
+              "cantidad": 1,
+              "descuento": 0,
+              "conceptoId": "2.3",
+              "precioUnit": 1100
+            },
+            {
+              "id": "lo1779139479699",
+              "total": 500,
+              "cantidad": 10,
+              "descuento": 0,
+              "conceptoId": "2.8",
+              "precioUnit": 50
+            },
+            {
+              "id": "lo1779139496567",
+              "total": 425,
+              "cantidad": 1,
+              "descuento": 0,
+              "conceptoId": "6.1",
+              "precioUnit": 425
+            }
+          ],
+          "nombre": "",
+          "firmante": "",
+          "formaPago": "Según contrato",
+          "referencia": "BP-MMEVN-220226-v1",
+          "emplazamiento": "BP VÍA NORTE",
+          "firmanteCliente": "Dña. Concepción Gutierrez",
+          "firmanteNorAcua": ""
+        },
+        "legacy_id": "of_011_26",
+        "proyecto_id": "b18fdaeb-b50a-4275-ae7f-104e5fecad9e"
+      },
+      {
+        "id": "5da152ac-4e91-48d6-8691-c1f8e1c0aab6",
+        "codigo": "022-26",
+        "cliente_id": "b405360f-b82f-4344-aa54-4a5c87490d63",
+        "asunto": "CF PROYECTO ADECUACIÓN INSTALACIÓN PETROLÍFERA EXISTENTE",
+        "po": null,
+        "estado": "activa",
+        "importe_total": 9470,
+        "creado_por_id": "3e50e7e7-9fd7-4e53-9bf0-2bfd2d063f7f",
+        "creado_en": "2026-06-16T13:39:49.533974+00:00",
+        "metadatos": {
+          "zona": "OTROS",
+          "fecha": "2026-05-19",
+          "lineas": [
+            {
+              "id": "lo1779195171838",
+              "total": 725,
+              "cantidad": 1,
+              "descuento": 0,
+              "conceptoId": "6.1",
+              "precioUnit": 725
+            },
+            {
+              "id": "lo1779195186048",
+              "total": 650,
+              "cantidad": 1,
+              "descuento": 0,
+              "conceptoId": "7.2",
+              "precioUnit": 650
+            },
+            {
+              "id": "lo1779195193540",
+              "total": 595,
+              "cantidad": 1,
+              "descuento": 0,
+              "conceptoId": "7.3",
+              "precioUnit": 595
+            },
+            {
+              "id": "lo1779195206509",
+              "total": 2050,
+              "cantidad": 1,
+              "descuento": 0,
+              "conceptoId": "4.1",
+              "precioUnit": 2050
+            },
+            {
+              "id": "lo1779195231304",
+              "total": 1800,
+              "cantidad": 3,
+              "descuento": 0,
+              "conceptoId": "3.1b",
+              "precioUnit": 600
+            },
+            {
+              "id": "lo1779213083108",
+              "total": 2650,
+              "cantidad": 1,
+              "descuento": 0,
+              "conceptoId": "1.5",
+              "precioUnit": 2650
+            },
+            {
+              "id": "lo1779213118432",
+              "total": 1000,
+              "cantidad": 2,
+              "descuento": 0,
+              "conceptoId": "7.5",
+              "precioUnit": 500
+            }
+          ],
+          "nombre": "",
+          "firmante": "",
+          "formaPago": "Según contrato",
+          "referencia": "CF-PAIPE-190526-v1",
+          "emplazamiento": "CF DENIA",
+          "firmanteCliente": "D. Rubén Vigaray",
+          "firmanteNorAcua": "D. Daniel Romero"
+        },
+        "legacy_id": "o1779196755155",
+        "proyecto_id": "b2ff2088-09ee-4ef5-bf60-b2cc6aed5009"
+      },
+      {
+        "id": "4c284a13-ff32-4a94-9bd4-58e094515645",
+        "codigo": "012-26",
+        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
+        "asunto": "BP PROYECTO LEGALIZACIÓN BT ES OLABERRÍA",
+        "po": "3001339420",
+        "estado": "facturada",
+        "importe_total": 4335,
+        "creado_por_id": "3e50e7e7-9fd7-4e53-9bf0-2bfd2d063f7f",
+        "creado_en": "2026-06-16T13:39:49.533974+00:00",
+        "metadatos": {
+          "zona": "NORTE",
+          "fecha": "2026-02-22",
+          "lineas": [
+            {
+              "id": "lo1779139531185",
+              "total": 1250,
+              "cantidad": 1,
+              "descuento": 0,
+              "conceptoId": "1.17",
+              "precioUnit": 1250
+            },
+            {
+              "id": "lo1779139542387",
+              "total": 880,
+              "cantidad": 1,
+              "descuento": 20,
+              "conceptoId": "2.3",
+              "precioUnit": 1100
+            },
+            {
+              "id": "lo1779139552723",
+              "total": 1155,
+              "cantidad": 1,
+              "descuento": 65,
+              "conceptoId": "4.1",
+              "precioUnit": 3300
+            },
+            {
+              "id": "lo1779139565800",
+              "total": 425,
+              "cantidad": 1,
+              "descuento": 0,
+              "conceptoId": "6.1",
+              "precioUnit": 425
+            },
+            {
+              "id": "lo1779139573923",
+              "total": 625,
+              "cantidad": 1,
+              "descuento": 0,
+              "conceptoId": "7.3",
+              "precioUnit": 625
+            }
+          ],
+          "nombre": "",
+          "firmante": "",
+          "formaPago": "Según contrato",
+          "referencia": "BP-PLBEO-220226-v3",
+          "emplazamiento": "BP OLABERRÍA",
+          "firmanteCliente": "Dña. Concepción Gutierrez",
+          "firmanteNorAcua": ""
+        },
+        "legacy_id": "of_012_26",
+        "proyecto_id": "ce2ce3d0-5315-4f3c-ae63-d9ee14ab736c"
       },
       {
         "id": "eda7dbfe-27ed-4687-b401-c4e8c81f9563",
@@ -7257,7 +5929,746 @@
           "firmanteCliente": "Dña. Concepción Gutierrez",
           "firmanteNorAcua": ""
         },
-        "legacy_id": "of_013_26"
+        "legacy_id": "of_013_26",
+        "proyecto_id": "33d04663-298d-4c0a-ae2e-aee4020c21e0"
+      },
+      {
+        "id": "82633bfa-1ede-4826-8a0c-05db77d67c28",
+        "codigo": "014-26",
+        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
+        "asunto": "BP TRABAJOS REFIBRADO ES CENTRAL LECHERA",
+        "po": "3001334471",
+        "estado": "facturada",
+        "importe_total": 3900,
+        "creado_por_id": "3e50e7e7-9fd7-4e53-9bf0-2bfd2d063f7f",
+        "creado_en": "2026-06-16T13:39:49.533974+00:00",
+        "metadatos": {
+          "zona": "NORTE",
+          "fecha": "2026-02-27",
+          "lineas": [
+            {
+              "id": "lo1779139775890",
+              "total": 275,
+              "cantidad": 1,
+              "descuento": 75,
+              "conceptoId": "2.3",
+              "precioUnit": 1100
+            },
+            {
+              "id": "lo1779139795923",
+              "total": 3000,
+              "cantidad": 8,
+              "descuento": 0,
+              "conceptoId": "10.2",
+              "precioUnit": 375
+            },
+            {
+              "id": "lo1779140472854",
+              "total": 625,
+              "cantidad": 1,
+              "descuento": 0,
+              "conceptoId": "7.3",
+              "precioUnit": 625
+            }
+          ],
+          "nombre": "",
+          "firmante": "",
+          "formaPago": "Según contrato",
+          "referencia": "BP-TRECL-270226-v4",
+          "emplazamiento": "BP CENTRAL LECHERA",
+          "firmanteCliente": "Dña. Concepción Gutierrez",
+          "firmanteNorAcua": ""
+        },
+        "legacy_id": "of_014_26",
+        "proyecto_id": "9ae98172-f102-4204-b4df-eaaf6b470908"
+      },
+      {
+        "id": "ea233e40-3fea-4727-a303-d817cdd20b0e",
+        "codigo": "015-26",
+        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
+        "asunto": "BP LEGALIZACIÓN COMPRESOR ES OLABERRÍA",
+        "po": "3001329953",
+        "estado": "cerrada",
+        "importe_total": 1325,
+        "creado_por_id": "3e50e7e7-9fd7-4e53-9bf0-2bfd2d063f7f",
+        "creado_en": "2026-06-16T13:39:49.533974+00:00",
+        "metadatos": {
+          "zona": "NORTE",
+          "fecha": "2026-03-16",
+          "lineas": [
+            {
+              "id": "lo1779140208378",
+              "total": 700,
+              "cantidad": 1,
+              "descuento": 44,
+              "conceptoId": "1.17",
+              "precioUnit": 1250
+            },
+            {
+              "id": "lo1779140228460",
+              "total": 625,
+              "cantidad": 1,
+              "descuento": 0,
+              "conceptoId": "7.3",
+              "precioUnit": 625
+            }
+          ],
+          "nombre": "",
+          "firmante": "",
+          "formaPago": "Según contrato",
+          "referencia": "BP-LCEO-160326-v1",
+          "emplazamiento": "BP OLABERRÍA",
+          "firmanteCliente": "Dña. Carmen de Antonio",
+          "firmanteNorAcua": ""
+        },
+        "legacy_id": "of_015_26",
+        "proyecto_id": "3073c25d-2aa1-40cb-b08e-02f6498bf3c7"
+      },
+      {
+        "id": "78251ea6-6ab0-4094-8562-348fc67319c9",
+        "codigo": "016-26",
+        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
+        "asunto": "BP PROYECTO Y LICENCIAS MODIFICACIÓN EDIFICIO ES SANTA EULALIA",
+        "po": null,
+        "estado": "borrador",
+        "importe_total": 6605,
+        "creado_por_id": "3e50e7e7-9fd7-4e53-9bf0-2bfd2d063f7f",
+        "creado_en": "2026-06-16T13:39:49.533974+00:00",
+        "metadatos": {
+          "zona": "BALEARES",
+          "fecha": "2026-03-16",
+          "lineas": [
+            {
+              "id": "lo1779140268094",
+              "total": 2075,
+              "cantidad": 1,
+              "descuento": 50,
+              "conceptoId": "1.4",
+              "precioUnit": 4150
+            },
+            {
+              "id": "lo1779140283151",
+              "total": 3125,
+              "cantidad": 1,
+              "descuento": 0,
+              "conceptoId": "4.1",
+              "precioUnit": 3125
+            },
+            {
+              "id": "lo1779140292469",
+              "total": 405,
+              "cantidad": 1,
+              "descuento": 0,
+              "conceptoId": "6.1",
+              "precioUnit": 405
+            },
+            {
+              "id": "lo1779140298223",
+              "total": 1000,
+              "cantidad": 1,
+              "descuento": 0,
+              "conceptoId": "7.1",
+              "precioUnit": 1000
+            }
+          ],
+          "nombre": "",
+          "firmante": "",
+          "formaPago": "Según contrato",
+          "referencia": "BP-PLMEESE-160326-v1",
+          "emplazamiento": "BP SANTA EULALIA",
+          "firmanteCliente": "D. Josep Seijo",
+          "firmanteNorAcua": ""
+        },
+        "legacy_id": "of_016_26",
+        "proyecto_id": "7145ffd4-d12b-4b73-8963-cf5d3938960a"
+      },
+      {
+        "id": "8b6128ae-8b83-4720-81ee-9cee11295955",
+        "codigo": "003-26",
+        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
+        "asunto": "BP PROYECTO VENTEOS Y ACTUACIONES EN ES BLANCO I",
+        "po": "3001322938",
+        "estado": "facturada",
+        "importe_total": 9945,
+        "creado_por_id": "3e50e7e7-9fd7-4e53-9bf0-2bfd2d063f7f",
+        "creado_en": "2026-06-16T13:39:49.533974+00:00",
+        "metadatos": {
+          "zona": "NORTE",
+          "fecha": "2026-01-30",
+          "lineas": [
+            {
+              "id": "lo1779138255854",
+              "total": 2000,
+              "cantidad": 1,
+              "descuento": 0,
+              "conceptoId": "1.5",
+              "precioUnit": 2000
+            },
+            {
+              "id": "lo1779138264371",
+              "total": 650,
+              "cantidad": 1,
+              "descuento": 0,
+              "conceptoId": "3.1b",
+              "precioUnit": 650
+            },
+            {
+              "id": "lo1779138270750",
+              "total": 2310,
+              "cantidad": 1,
+              "descuento": 30,
+              "conceptoId": "4.1",
+              "precioUnit": 3300
+            },
+            {
+              "id": "lo1779138280354",
+              "total": 1375,
+              "cantidad": 1,
+              "descuento": 0,
+              "conceptoId": "4.2",
+              "precioUnit": 1375
+            },
+            {
+              "id": "lo1779138288552",
+              "total": 425,
+              "cantidad": 1,
+              "descuento": 0,
+              "conceptoId": "6.1",
+              "precioUnit": 425
+            },
+            {
+              "id": "lo1779138301986",
+              "total": 650,
+              "cantidad": 1,
+              "descuento": 0,
+              "conceptoId": "7.2",
+              "precioUnit": 650
+            },
+            {
+              "id": "lo1779138304412",
+              "total": 960,
+              "cantidad": 4,
+              "descuento": 0,
+              "conceptoId": "7.6",
+              "precioUnit": 240
+            },
+            {
+              "id": "lo1779138320823",
+              "total": 1200,
+              "cantidad": 1,
+              "descuento": 0,
+              "conceptoId": "10.4a",
+              "precioUnit": 1200
+            },
+            {
+              "id": "lo1779138322999",
+              "total": 375,
+              "cantidad": 1,
+              "descuento": 0,
+              "conceptoId": "10.2",
+              "precioUnit": 375
+            }
+          ],
+          "nombre": "",
+          "firmante": "",
+          "formaPago": "Según contrato",
+          "referencia": "BP-PVAEEB-300126-v1",
+          "emplazamiento": "BP BLANCO I",
+          "firmanteCliente": "Dña. Concepción Gutierrez",
+          "firmanteNorAcua": ""
+        },
+        "legacy_id": "of_003_26",
+        "proyecto_id": "272dd4b7-f33e-463e-9f3b-3bbbeb6b3123"
+      },
+      {
+        "id": "28291b48-80df-48b7-8bfa-3797107cab0d",
+        "codigo": "019-26",
+        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
+        "asunto": "BP VISITA E INFORME SUMINISTROS ES SEGÓBRIGA",
+        "po": "3001334383",
+        "estado": "facturada",
+        "importe_total": 1405,
+        "creado_por_id": "3e50e7e7-9fd7-4e53-9bf0-2bfd2d063f7f",
+        "creado_en": "2026-06-16T13:39:49.533974+00:00",
+        "metadatos": {
+          "zona": "CENTRO",
+          "fecha": "2026-03-31",
+          "lineas": [
+            {
+              "id": "lo1779140510488",
+              "total": 1000,
+              "cantidad": 1,
+              "descuento": 0,
+              "conceptoId": "2.3",
+              "precioUnit": 1000
+            },
+            {
+              "id": "lo1779140515868",
+              "total": 405,
+              "cantidad": 1,
+              "descuento": 0,
+              "conceptoId": "6.1",
+              "precioUnit": 405
+            }
+          ],
+          "nombre": "",
+          "firmante": "",
+          "formaPago": "Según contrato",
+          "referencia": "BP-VISES-310326-v1",
+          "emplazamiento": "BP SEGÓBRIGA",
+          "firmanteCliente": "Dña. Concepción Gutierrez",
+          "firmanteNorAcua": ""
+        },
+        "legacy_id": "of_019_26",
+        "proyecto_id": "f063bf5c-8e40-4902-b61c-07fe9c7e8c96"
+      },
+      {
+        "id": "0eed0dc6-4110-4608-a6ef-9b3a461a1b75",
+        "codigo": "007-26",
+        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
+        "asunto": "BP TRABAJOS VARIOS ES EL ESPARTAL",
+        "po": "3001333956",
+        "estado": "cerrada",
+        "importe_total": 4025,
+        "creado_por_id": "3e50e7e7-9fd7-4e53-9bf0-2bfd2d063f7f",
+        "creado_en": "2026-06-16T13:39:49.533974+00:00",
+        "metadatos": {
+          "zona": "CATALUÑA",
+          "fecha": "2026-02-11",
+          "lineas": [
+            {
+              "id": "lo1779139254121",
+              "total": 1950,
+              "cantidad": 3,
+              "descuento": 0,
+              "conceptoId": "3.1b",
+              "precioUnit": 650
+            },
+            {
+              "id": "lo1779139263099",
+              "total": 1265,
+              "cantidad": 1,
+              "descuento": 0,
+              "conceptoId": "4.2",
+              "precioUnit": 1265
+            },
+            {
+              "id": "lo1779139271847",
+              "total": 810,
+              "cantidad": 2,
+              "descuento": 0,
+              "conceptoId": "6.1",
+              "precioUnit": 405
+            }
+          ],
+          "nombre": "",
+          "firmante": "",
+          "formaPago": "Según contrato",
+          "referencia": "BP-TVEEE-110226-v1",
+          "emplazamiento": "BP EL ESPARTAL",
+          "firmanteCliente": "Dña. Guimar Tuero",
+          "firmanteNorAcua": ""
+        },
+        "legacy_id": "of_007_26",
+        "proyecto_id": "7021c451-baaa-41e4-b5f4-7bd7590e163e"
+      },
+      {
+        "id": "8481108d-4007-420f-b358-5f30eb92f281",
+        "codigo": "008-26",
+        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
+        "asunto": "BP TRABAJOS RETIRADA LAVANDERÍA ES GANZO",
+        "po": "3001326127",
+        "estado": "facturada",
+        "importe_total": 982.5,
+        "creado_por_id": "3e50e7e7-9fd7-4e53-9bf0-2bfd2d063f7f",
+        "creado_en": "2026-06-16T13:39:49.533974+00:00",
+        "metadatos": {
+          "zona": "CENTRO",
+          "fecha": "2026-02-22",
+          "lineas": [
+            {
+              "id": "lo1779139309861",
+              "total": 607.5,
+              "cantidad": 2,
+              "descuento": 25,
+              "conceptoId": "6.1",
+              "precioUnit": 405
+            },
+            {
+              "id": "lo1779139342076",
+              "total": 375,
+              "cantidad": 1,
+              "descuento": 0,
+              "conceptoId": "10.2",
+              "precioUnit": 375
+            }
+          ],
+          "nombre": "",
+          "firmante": "",
+          "formaPago": "Según contrato",
+          "referencia": "BP-TRLEG-220226-v1",
+          "emplazamiento": "BP GANZO",
+          "firmanteCliente": "Dña. Concepción Gutierrez",
+          "firmanteNorAcua": ""
+        },
+        "legacy_id": "of_008_26",
+        "proyecto_id": "d24bd465-6018-4bcf-9119-b607e175a8b3"
+      },
+      {
+        "id": "16665a02-f1da-4409-aab3-c73614142e7b",
+        "codigo": "017-26",
+        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
+        "asunto": "BP PROYECTO Y LEGALIZACIÓN INSTALACIÓN BT ES POLLENSA",
+        "po": "300133164",
+        "estado": "facturada",
+        "importe_total": 3718.75,
+        "creado_por_id": "3e50e7e7-9fd7-4e53-9bf0-2bfd2d063f7f",
+        "creado_en": "2026-06-16T13:39:49.533974+00:00",
+        "metadatos": {
+          "zona": "BALEARES",
+          "fecha": "2026-03-17",
+          "lineas": [
+            {
+              "id": "lo1779140341523",
+              "total": 1180,
+              "cantidad": 1,
+              "descuento": 0,
+              "conceptoId": "1.17",
+              "precioUnit": 1180
+            },
+            {
+              "id": "lo1779140347729",
+              "total": 1093.75,
+              "cantidad": 1,
+              "descuento": 65,
+              "conceptoId": "4.1",
+              "precioUnit": 3125
+            },
+            {
+              "id": "lo1779140362204",
+              "total": 595,
+              "cantidad": 1,
+              "descuento": 0,
+              "conceptoId": "7.3",
+              "precioUnit": 595
+            },
+            {
+              "id": "lo1779140372387",
+              "total": 850,
+              "cantidad": 1,
+              "descuento": 0,
+              "conceptoId": "2.8",
+              "precioUnit": 850
+            }
+          ],
+          "nombre": "",
+          "firmante": "",
+          "formaPago": "Según contrato",
+          "referencia": "BP-PLIBEP-170326-v1",
+          "emplazamiento": "BP POLLENSA",
+          "firmanteCliente": "Dña. Guiomar Tuero",
+          "firmanteNorAcua": ""
+        },
+        "legacy_id": "of_017_26",
+        "proyecto_id": "75fde8f4-4de9-4000-b67d-67e91b00c497"
+      },
+      {
+        "id": "5dc1a0a4-7a6b-41a9-8f7c-0031436060cc",
+        "codigo": "018-26",
+        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
+        "asunto": "BP TOMA DE DATOS E INFORME SANEAMIENTO ES GETAFE M406",
+        "po": "3001334368",
+        "estado": "facturada",
+        "importe_total": 1645,
+        "creado_por_id": "3e50e7e7-9fd7-4e53-9bf0-2bfd2d063f7f",
+        "creado_en": "2026-06-16T13:39:49.533974+00:00",
+        "metadatos": {
+          "zona": "CENTRO",
+          "fecha": "2026-03-31",
+          "lineas": [
+            {
+              "id": "lo1779140411306",
+              "total": 1000,
+              "cantidad": 1,
+              "descuento": 0,
+              "conceptoId": "2.3",
+              "precioUnit": 1000
+            },
+            {
+              "id": "lo1779140419715",
+              "total": 405,
+              "cantidad": 1,
+              "descuento": 0,
+              "conceptoId": "6.1",
+              "precioUnit": 405
+            },
+            {
+              "id": "lo1779140425052",
+              "total": 240,
+              "cantidad": 1,
+              "descuento": 0,
+              "conceptoId": "7.6",
+              "precioUnit": 240
+            }
+          ],
+          "nombre": "",
+          "firmante": "",
+          "formaPago": "Según contrato",
+          "referencia": "BP-TDDISEGM-310326-v1",
+          "emplazamiento": "BP GETAFE M406",
+          "firmanteCliente": "Dña. Concepción Gutierrez",
+          "firmanteNorAcua": ""
+        },
+        "legacy_id": "of_018_26",
+        "proyecto_id": "ed2f275e-f5c5-40ed-90eb-ca1f797c3d1a"
+      },
+      {
+        "id": "2796bfac-3a53-45c6-8fad-9230119b3c08",
+        "codigo": "010-26",
+        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
+        "asunto": "BP PROYECTO CAMBIO VENTEOS ES BLANCO II",
+        "po": "3001326128",
+        "estado": "facturada",
+        "importe_total": 6345,
+        "creado_por_id": "3e50e7e7-9fd7-4e53-9bf0-2bfd2d063f7f",
+        "creado_en": "2026-06-16T13:39:49.533974+00:00",
+        "metadatos": {
+          "zona": "NORTE",
+          "fecha": "2026-02-22",
+          "lineas": [
+            {
+              "id": "lo1779139405781",
+              "total": 2000,
+              "cantidad": 1,
+              "descuento": 0,
+              "conceptoId": "1.5",
+              "precioUnit": 2000
+            },
+            {
+              "id": "lo1779139412632",
+              "total": 2310,
+              "cantidad": 1,
+              "descuento": 30,
+              "conceptoId": "4.1",
+              "precioUnit": 3300
+            },
+            {
+              "id": "lo1779139427050",
+              "total": 425,
+              "cantidad": 1,
+              "descuento": 0,
+              "conceptoId": "6.1",
+              "precioUnit": 425
+            },
+            {
+              "id": "lo1779139438333",
+              "total": 650,
+              "cantidad": 1,
+              "descuento": 0,
+              "conceptoId": "7.2",
+              "precioUnit": 650
+            },
+            {
+              "id": "lo1779139440220",
+              "total": 960,
+              "cantidad": 4,
+              "descuento": 0,
+              "conceptoId": "7.6",
+              "precioUnit": 240
+            }
+          ],
+          "nombre": "",
+          "firmante": "",
+          "formaPago": "Según contrato",
+          "referencia": "BP-PCVEBI-220226-v1",
+          "emplazamiento": "BP BLANCO II",
+          "firmanteCliente": "Dña. Concepción Gutierrez",
+          "firmanteNorAcua": ""
+        },
+        "legacy_id": "of_010_26",
+        "proyecto_id": "1ed654d6-f77b-41eb-9f35-f549ae962b47"
+      },
+      {
+        "id": "26429085-56d0-4dba-8024-fdfa92d34be2",
+        "codigo": "020-26",
+        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
+        "asunto": "BP REGULARIZACIÓN ABASTECIMIENTO Y SANEAMIENTO ES VILLAMANTA",
+        "po": "3001334382",
+        "estado": "facturada",
+        "importe_total": 1645,
+        "creado_por_id": "3e50e7e7-9fd7-4e53-9bf0-2bfd2d063f7f",
+        "creado_en": "2026-06-16T13:39:49.533974+00:00",
+        "metadatos": {
+          "zona": "CENTRO",
+          "fecha": "2026-03-31",
+          "lineas": [
+            {
+              "id": "lo1779140545706",
+              "total": 1000,
+              "cantidad": 1,
+              "descuento": 0,
+              "conceptoId": "2.3",
+              "precioUnit": 1000
+            },
+            {
+              "id": "lo1779140550483",
+              "total": 405,
+              "cantidad": 1,
+              "descuento": 0,
+              "conceptoId": "6.1",
+              "precioUnit": 405
+            },
+            {
+              "id": "lo1779140557169",
+              "total": 240,
+              "cantidad": 1,
+              "descuento": 0,
+              "conceptoId": "7.6",
+              "precioUnit": 240
+            }
+          ],
+          "nombre": "",
+          "firmante": "",
+          "formaPago": "Según contrato",
+          "referencia": "BP-RASEV-310326-v1",
+          "emplazamiento": "BP VILLAMANTA",
+          "firmanteCliente": "Dña. Concepción Gutierrez",
+          "firmanteNorAcua": ""
+        },
+        "legacy_id": "of_020_26",
+        "proyecto_id": "c5f68702-6d75-40c9-8be2-f38bb985a5c9"
+      },
+      {
+        "id": "add70585-9c85-4864-8bcd-5c8a738baf77",
+        "codigo": "005-26",
+        "cliente_id": "fabf7339-a3e6-4bde-b230-b324a67cdc8a",
+        "asunto": "BP VISITA E INFORME SITUACIÓN ES EL CORB",
+        "po": null,
+        "estado": "facturada",
+        "importe_total": 855,
+        "creado_por_id": "3e50e7e7-9fd7-4e53-9bf0-2bfd2d063f7f",
+        "creado_en": "2026-06-16T13:39:49.533974+00:00",
+        "metadatos": {
+          "zona": "CATALUÑA",
+          "fecha": "2026-02-06",
+          "lineas": [
+            {
+              "id": "lo1779394104889",
+              "total": 405,
+              "cantidad": 1,
+              "descuento": 0,
+              "conceptoId": "6.1",
+              "precioUnit": 405
+            },
+            {
+              "id": "lo1779394118119",
+              "total": 450,
+              "cantidad": 1,
+              "descuento": 0,
+              "conceptoId": "2.8",
+              "precioUnit": 450
+            }
+          ],
+          "nombre": "",
+          "firmante": "",
+          "formaPago": "Según contrato",
+          "referencia": "BP-VISEEC-060226-v1",
+          "emplazamiento": "ES EL CORB",
+          "firmanteCliente": "",
+          "firmanteNorAcua": ""
+        },
+        "legacy_id": "of_005_26",
+        "proyecto_id": null
+      },
+      {
+        "id": "04d85d7b-b9d9-44c5-8b8e-0d58f68ed5b2",
+        "codigo": "026-26",
+        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
+        "asunto": "BP LEVANTAMIENTO TOPOGRÁFICO",
+        "po": null,
+        "estado": "cerrada",
+        "importe_total": 1000,
+        "creado_por_id": "3e50e7e7-9fd7-4e53-9bf0-2bfd2d063f7f",
+        "creado_en": "2026-06-16T13:39:49.533974+00:00",
+        "metadatos": {
+          "zona": "CATALUÑA",
+          "fecha": "2026-06-05",
+          "lineas": [
+            {
+              "id": "lo1780659354503",
+              "total": 1000,
+              "cantidad": 1,
+              "descuento": 0,
+              "conceptoId": "5.1b",
+              "precioUnit": 1000
+            }
+          ],
+          "nombre": "",
+          "firmante": "",
+          "formaPago": "Según contrato",
+          "referencia": "BP-LT-050626-v1",
+          "emplazamiento": "BP RIBAS LA COMETA",
+          "firmanteCliente": "D. Gabriel Mondejar",
+          "firmanteNorAcua": "D. Daniel Romero"
+        },
+        "legacy_id": "o1780659356493",
+        "proyecto_id": "5fe47865-dfa6-448f-b2b9-3609cb1898be"
+      },
+      {
+        "id": "f09dac1c-f6b4-4deb-92f1-1bfd1b100bb4",
+        "codigo": "030-26",
+        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
+        "asunto": "BP INFORME VERTIDOS ES",
+        "po": null,
+        "estado": "facturada",
+        "importe_total": 1455,
+        "creado_por_id": "3e50e7e7-9fd7-4e53-9bf0-2bfd2d063f7f",
+        "creado_en": "2026-06-16T13:39:49.533974+00:00",
+        "metadatos": {
+          "zona": "BALEARES",
+          "fecha": "2026-06-09",
+          "lineas": [
+            {
+              "id": "lo1781040617527lz1v1oxzti",
+              "total": 405,
+              "cantidad": 1,
+              "descuento": 0,
+              "conceptoId": "6.4",
+              "precioUnit": 405
+            },
+            {
+              "id": "lo1781040617527ejcv0u9r94s",
+              "total": 1050,
+              "cantidad": 1,
+              "descuento": 0,
+              "conceptoId": "2.3",
+              "precioUnit": 1050
+            }
+          ],
+          "nombre": "",
+          "firmante": "",
+          "formaPago": "Según contrato",
+          "referencia": "BP-IVE-090626-v1",
+          "emplazamiento": "BP SANTA EULALIA",
+          "firmanteCliente": "Dña. Guiomar Tuero",
+          "firmanteNorAcua": "D. Daniel Romero"
+        },
+        "legacy_id": "o1781040685810",
+        "proyecto_id": "03dfd712-b4d1-46a4-bb33-5511abc6193f"
+      },
+      {
+        "id": "e5feff21-57bb-4c2c-b341-355fb0ae15a5",
+        "codigo": "025-26-B",
+        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
+        "asunto": "BP PROYECTO Y LICENCIAS PARA CAMBIO DE SHC",
+        "po": null,
+        "estado": "activa",
+        "importe_total": 7325,
+        "creado_por_id": "3e50e7e7-9fd7-4e53-9bf0-2bfd2d063f7f",
+        "creado_en": "2026-06-16T13:39:49.533974+00:00",
+        "metadatos": null,
+        "legacy_id": "o1779445148864",
+        "proyecto_id": "006d9aac-5e3f-4314-b472-f480941d226f"
       }
     ],
     "clientes": [
