@@ -1,5 +1,5 @@
 {
-  "fecha": "2026-07-26T17:57:52.984Z",
+  "fecha": "2026-07-26T19:48:10.289Z",
   "version": "2.8",
   "datos": {
     "na-v20-proyectos": [
@@ -1849,7 +1849,11 @@
             "observaciones": "Licencia de obra en Ayuntamiento (no incluye autorización vertidos)"
           }
         ],
-        "searchPr": "castro"
+        "searchPr": "castro",
+        "ofertaCodigos": [
+          "025-26"
+        ],
+        "ofertaCodigo": "025-26"
       },
       {
         "proyectoId": "p1780559790557",
@@ -1936,14 +1940,14 @@
         "cantidad": 1,
         "capFiltro": "7",
         "id": "r1783932699396",
-        "estado": "pendiente",
+        "estado": "aprobado",
         "precioManual": null,
         "createdAt": "2026-07-13T08:51:39.396Z",
         "creadoPor": "Yennyfer Lemus",
         "esGrupo": true,
         "lineasGrupo": [
           {
-            "conceptoId": "7.3",
+            "conceptoId": "7.6",
             "cantidad": 1,
             "observaciones": "Respuesta Requerimiento Conversión Doble Pared Tanque Nº2"
           }
@@ -3051,7 +3055,11 @@
             "precioManual": null,
             "_capFiltro": "4"
           }
-        ]
+        ],
+        "ofertaCodigos": [
+          "025-26"
+        ],
+        "ofertaCodigo": "025-26"
       },
       {
         "proyectoId": "p1780035450676",
@@ -3482,7 +3490,11 @@
             "precioManual": null,
             "_capFiltro": "6"
           }
-        ]
+        ],
+        "ofertaCodigos": [
+          "016-26"
+        ],
+        "ofertaCodigo": "016-26"
       },
       {
         "proyectoId": "p1781165660956",
@@ -3789,7 +3801,7 @@
         "cantidad": 1,
         "searchPr": "peñacas",
         "id": "r1782728468225",
-        "estado": "pendiente",
+        "estado": "rechazado",
         "precioManual": null,
         "createdAt": "2026-06-29T10:21:08.225Z",
         "creadoPor": "Jordi Santos",
@@ -3848,7 +3860,11 @@
             "cantidad": 1,
             "observaciones": "Licencia de obras"
           }
-        ]
+        ],
+        "ofertaCodigos": [
+          "038-26"
+        ],
+        "ofertaCodigo": "038-26"
       },
       {
         "proyectoId": "p1783338306022",
@@ -3859,16 +3875,26 @@
         "cantidad": 1,
         "searchPr": "can sola",
         "id": "r1783338380705",
-        "estado": "pendiente",
+        "estado": "aprobado",
         "precioManual": null,
         "createdAt": "2026-07-06T11:46:20.705Z",
         "creadoPor": "Jordi Santos",
         "esGrupo": true,
         "lineasGrupo": [
           {
-            "conceptoId": "1.18",
+            "conceptoId": "11.3",
             "cantidad": 1,
-            "observaciones": "Justificación, plano y contestación requerimiento renovación vertidos"
+            "observaciones": "Plano vigente red de recogida ",
+            "_capFiltro": "11",
+            "precioManual": 285
+          },
+          {
+            "id": "lg_1785090729725",
+            "conceptoId": "7.6",
+            "cantidad": 1,
+            "observaciones": "Justificación y contestación requerimiento renovación vertidos ",
+            "precioManual": 244.8,
+            "_capFiltro": "7"
           }
         ]
       },
@@ -3881,16 +3907,26 @@
         "cantidad": 1,
         "searchPr": "COLL FAV",
         "id": "r1783338428093",
-        "estado": "pendiente",
+        "estado": "aprobado",
         "precioManual": null,
         "createdAt": "2026-07-06T11:47:08.093Z",
         "creadoPor": "Jordi Santos",
         "esGrupo": true,
         "lineasGrupo": [
           {
-            "conceptoId": "1.18",
+            "conceptoId": "7.6",
             "cantidad": 1,
-            "observaciones": "Justificación, plano y contestación requerimiento renovación vertidos"
+            "observaciones": "Justificación y contestación requerimiento renovación vertidos",
+            "_capFiltro": "7",
+            "precioManual": 244.8
+          },
+          {
+            "id": "lg_1785090874343",
+            "conceptoId": "11.3",
+            "cantidad": 1,
+            "observaciones": "Plano vigente red de recogida",
+            "precioManual": 285,
+            "_capFiltro": "11"
           }
         ]
       },
@@ -7885,6 +7921,46 @@
     ],
     "na-v21-ofertas": [
       {
+        "id": "o1785091578070",
+        "numero": "045-26",
+        "clienteId": "cl01",
+        "proyectoId": "p1780657008965",
+        "zona": "BALEARES",
+        "po": "",
+        "asunto": "BP INFORME CONTENCIÓN MURO LAVADOS",
+        "nombre": "Oferta CONTENCIÓN MURO LAVADOS",
+        "estado": "Enviada",
+        "version": 1,
+        "lineas": [
+          {
+            "id": "lo1785091498992usgvudtrtxq",
+            "conceptoId": "6.1",
+            "cantidad": 1,
+            "precioUnit": 405,
+            "descuento": 0,
+            "total": 405,
+            "comentario": "Se realiza toma de datos aprovechando la revisión del saneamiento"
+          },
+          {
+            "id": "lo1785091498992m1p131i0pf",
+            "conceptoId": "2.3",
+            "cantidad": 1,
+            "precioUnit": 1050,
+            "descuento": 0,
+            "total": 1050,
+            "comentario": "Informe de estructuristas con solución técnica "
+          }
+        ],
+        "firmante": "",
+        "firmanteCliente": "Dña. Guiomar Tuero",
+        "firmanteNorAcua": "D. Daniel Romero",
+        "formaPago": "Según contrato",
+        "fecha": "2026-07-26",
+        "creadoEn": "2026-07-26T18:46:18.070Z",
+        "referencia": "BP-ICML-260726-v1",
+        "emplazamiento": "BP SANTA EULALIA"
+      },
+      {
         "id": "o1785084172366",
         "numero": "044-26",
         "clienteId": "cl01",
@@ -11076,7 +11152,7 @@
         "fecha": "2026-06-30",
         "horas": "8.5",
         "horasOrig": "8.5",
-        "horasAdmin": "8.5",
+        "horasAdmin": 10,
         "supervisor": "Mauricio Quintero",
         "encargo": "Guiomar Tuero",
         "zona": "BALEARES",
@@ -11085,7 +11161,7 @@
         "empresa": "PETROSUPORT ",
         "comentarios": "Limpieza de arquetas. Pruebas de presión a cámara tanque. Instalación de equipotenciales.",
         "id": "hs_1782894137174",
-        "estado": "pendiente",
+        "estado": "aprobado",
         "creadoPor": "Carlos García",
         "fechaCreacion": "2026-07-01T08:22:17.174Z"
       },
@@ -11106,7 +11182,7 @@
         "empresa": "RAFIBRA ",
         "comentarios": "Pruebas de estanquiedad a tuberías de venteos.",
         "id": "hs_1782893967406",
-        "estado": "pendiente",
+        "estado": "aprobado",
         "creadoPor": "Carlos García",
         "fechaCreacion": "2026-07-01T08:19:27.406Z"
       },
@@ -11118,7 +11194,7 @@
         "fecha": "2026-06-30",
         "horas": "6",
         "horasOrig": "6",
-        "horasAdmin": "6",
+        "horasAdmin": 7,
         "supervisor": "Carlos García",
         "encargo": "Guiomar Tuero",
         "zona": "CATALUÑA",
@@ -11127,7 +11203,7 @@
         "empresa": "Rafibra",
         "comentarios": "Pruebas de estanquiedad a tuberías de venteos.",
         "id": "hs_1782893880012",
-        "estado": "pendiente",
+        "estado": "aprobado",
         "creadoPor": "Carlos García",
         "fechaCreacion": "2026-07-01T08:18:00.012Z"
       },
@@ -11139,7 +11215,7 @@
         "fecha": "2026-06-30",
         "horas": "10",
         "horasOrig": "10",
-        "horasAdmin": "10",
+        "horasAdmin": 12,
         "supervisor": "Mauricio Quintero",
         "encargo": "Guiomar Tuero",
         "zona": "BALEARES",
@@ -11148,7 +11224,7 @@
         "empresa": "PETROSUPORT ",
         "comentarios": "Acompañamiento de cuba. Entrada en arquetas. Limpieza y aspirado.",
         "id": "hs_1782804938562",
-        "estado": "pendiente",
+        "estado": "aprobado",
         "creadoPor": "Carlos García",
         "fechaCreacion": "2026-06-30T07:35:38.562Z"
       },
@@ -11160,7 +11236,7 @@
         "fecha": "2026-06-29",
         "horas": "8",
         "horasOrig": "8",
-        "horasAdmin": "8",
+        "horasAdmin": 9,
         "supervisor": "Carlos García",
         "encargo": "Guiomar Tuero",
         "zona": "CATALUÑA",
@@ -11169,7 +11245,7 @@
         "empresa": "PETROSUPORT ",
         "comentarios": "Trabajos en interior de arquetas. Sustitución de equipotenciales.",
         "id": "hs_1782804612760",
-        "estado": "pendiente",
+        "estado": "aprobado",
         "creadoPor": "Carlos García",
         "fechaCreacion": "2026-06-30T07:30:12.760Z"
       },
@@ -11181,7 +11257,7 @@
         "fecha": "2026-06-26",
         "horas": "6",
         "horasOrig": "6",
-        "horasAdmin": "6",
+        "horasAdmin": 8,
         "supervisor": "Carlos García",
         "encargo": "",
         "zona": "CATALUÑA",
@@ -11190,7 +11266,7 @@
         "empresa": "",
         "comentarios": "Gestión documental a Contratistas",
         "id": "hs_1782804501788",
-        "estado": "pendiente",
+        "estado": "aprobado",
         "creadoPor": "Carlos García",
         "fechaCreacion": "2026-06-30T07:28:21.788Z"
       },
