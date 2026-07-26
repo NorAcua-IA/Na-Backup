@@ -1,5 +1,5 @@
 {
-  "fecha": "2026-07-26T15:49:05.837Z",
+  "fecha": "2026-07-26T17:48:24.012Z",
   "version": "2.8",
   "datos": {
     "na-v20-proyectos": [
@@ -1950,7 +1950,7 @@
         ]
       },
       {
-        "proyectoId": "p1784713866138",
+        "proyectoId": "p1782191752627",
         "conceptoId": "7.2",
         "trabajador": "Yennyfer Lemus",
         "fecha": "2026-07-22",
@@ -1969,10 +1969,14 @@
             "cantidad": 1,
             "observaciones": "Solicitud de Autorización de Obra Ayto"
           }
-        ]
+        ],
+        "ofertaCodigos": [
+          "044-26"
+        ],
+        "ofertaCodigo": "044-26"
       },
       {
-        "proyectoId": "p1784713866138",
+        "proyectoId": "p1782191752627",
         "conceptoId": "7.2",
         "trabajador": "Yennyfer Lemus",
         "fecha": "2026-07-22",
@@ -1991,10 +1995,14 @@
             "cantidad": 1,
             "observaciones": "Solicitud de Autorización Obras Carreteras"
           }
-        ]
+        ],
+        "ofertaCodigos": [
+          "044-26"
+        ],
+        "ofertaCodigo": "044-26"
       },
       {
-        "proyectoId": "p1784881219377",
+        "proyectoId": "p1781589286924",
         "conceptoId": "7.2",
         "trabajador": "Yennyfer Lemus",
         "fecha": "2026-07-23",
@@ -2029,7 +2037,11 @@
             "precioManual": null,
             "_capFiltro": "7"
           }
-        ]
+        ],
+        "ofertaCodigos": [
+          "035-26"
+        ],
+        "ofertaCodigo": "035-26"
       },
       {
         "proyectoId": "p1779132044557",
@@ -3256,7 +3268,7 @@
         "observaciones": "Grupo: 2 actividades",
         "cantidad": 1,
         "id": "r1780566468598",
-        "estado": "pendiente",
+        "estado": "rechazado",
         "precioManual": null,
         "createdAt": "2026-06-04T09:47:48.598Z",
         "creadoPor": "Jordi Santos",
@@ -3762,7 +3774,11 @@
             "cantidad": 1,
             "observaciones": "Licencia de Obra con Carreteras"
           }
-        ]
+        ],
+        "ofertaCodigos": [
+          "044-26"
+        ],
+        "ofertaCodigo": "044-26"
       },
       {
         "proyectoId": "p1782728440970",
@@ -3908,7 +3924,11 @@
             "cantidad": 1,
             "observaciones": "Licencia en Carreteras"
           }
-        ]
+        ],
+        "ofertaCodigos": [
+          "035-26"
+        ],
+        "ofertaCodigo": "035-26"
       },
       {
         "proyectoId": "p1783937731189",
@@ -3919,7 +3939,7 @@
         "cantidad": 1,
         "searchPr": "irun",
         "id": "r1783937766340",
-        "estado": "pendiente",
+        "estado": "rechazado",
         "precioManual": null,
         "createdAt": "2026-07-13T10:16:06.340Z",
         "creadoPor": "Jordi Santos",
@@ -3952,7 +3972,11 @@
             "cantidad": 1,
             "observaciones": "Comunicación fin obras y devolución fianza Carreteras"
           }
-        ]
+        ],
+        "ofertaCodigos": [
+          "034-26"
+        ],
+        "ofertaCodigo": "034-26"
       },
       {
         "proyectoId": "p1784099732326",
@@ -3997,7 +4021,11 @@
             "precioManual": null,
             "_capFiltro": "7"
           }
-        ]
+        ],
+        "ofertaCodigos": [
+          "043-26"
+        ],
+        "ofertaCodigo": "043-26"
       },
       {
         "proyectoId": "p1779131945230",
@@ -4029,7 +4057,11 @@
             "cantidad": 1,
             "observaciones": "Licencia de Obras en Ayuntamiento"
           }
-        ]
+        ],
+        "ofertaCodigos": [
+          "042-26"
+        ],
+        "ofertaCodigo": "042-26"
       },
       {
         "proyectoId": "p1779812747902",
@@ -7853,6 +7885,189 @@
     ],
     "na-v21-ofertas": [
       {
+        "id": "o1785084172366",
+        "numero": "044-26",
+        "clienteId": "cl01",
+        "proyectoId": "p1782191752627",
+        "zona": "BALEARES",
+        "po": "",
+        "asunto": "BP PROYECTO Y LICENCIAS PARA ADECUACIÓN DE MARQUESINA",
+        "nombre": "Oferta CAMBIO DE MARQUESINA",
+        "estado": "Enviada",
+        "version": 1,
+        "lineas": [
+          {
+            "id": "lo1785083825354ouqjpfnrtr",
+            "conceptoId": "7.2",
+            "cantidad": 1,
+            "precioUnit": 606.9,
+            "descuento": 0,
+            "total": 606.9,
+            "comentario": "Solicitud de Autorización de Obra Ayto"
+          },
+          {
+            "id": "lo1785083825354p0wbmlwfzrb",
+            "conceptoId": "7.2",
+            "cantidad": 1,
+            "precioUnit": 375,
+            "descuento": 0,
+            "total": 375,
+            "comentario": "Solicitud de Autorización Obras Carreteras"
+          },
+          {
+            "id": "lo1785083968386",
+            "conceptoId": "1.17",
+            "cantidad": 1,
+            "precioUnit": 1350,
+            "descuento": 0,
+            "total": 1350,
+            "comentario": "Proyecto para solicitud de licencias"
+          },
+          {
+            "id": "lo1785084065919",
+            "conceptoId": "7.6",
+            "cantidad": 1,
+            "precioUnit": 244.8,
+            "descuento": 0,
+            "total": 244.8,
+            "comentario": "Gestiones tasas, fianzas"
+          }
+        ],
+        "firmante": "",
+        "firmanteCliente": "Dña. Guiomar Tuero",
+        "firmanteNorAcua": "D. Daniel Romero",
+        "formaPago": "Según contrato",
+        "fecha": "2026-07-26",
+        "creadoEn": "2026-07-26T16:42:52.366Z",
+        "referencia": "BP-PLPADM-260726-v1",
+        "emplazamiento": "BP PORRERES"
+      },
+      {
+        "id": "o1785082942610",
+        "numero": "043-26",
+        "clienteId": "cl01",
+        "proyectoId": "p1784099732326",
+        "zona": "CENTRO",
+        "po": "",
+        "asunto": "BP INFORME Y GESTIÓN AUTORIZACIÓN DE VERTIDOS",
+        "nombre": "Oferta AUTORIZACIÓN DE VERTIDOS",
+        "estado": "Enviada",
+        "version": 1,
+        "lineas": [
+          {
+            "id": "lo1785082691264a5vq28yz1ku",
+            "conceptoId": "6.1",
+            "cantidad": 1,
+            "precioUnit": 413.1,
+            "descuento": 0,
+            "total": 413.1,
+            "comentario": "Limpieza supervisada"
+          },
+          {
+            "id": "lo1785082691264z5f38jbpiw",
+            "conceptoId": "1.9",
+            "cantidad": 1,
+            "precioUnit": 969,
+            "descuento": 0,
+            "total": 969,
+            "comentario": "Proyecto para autorización de vertidos"
+          },
+          {
+            "id": "lo1785082691264glffgzfwd7u",
+            "conceptoId": "7.6",
+            "cantidad": 1,
+            "precioUnit": 370,
+            "descuento": 0,
+            "total": 370,
+            "comentario": "Solicitud de autorización de vertidos"
+          },
+          {
+            "id": "lo1785082691264slnyvkblffk",
+            "conceptoId": "7.6",
+            "cantidad": 1,
+            "precioUnit": 244.8,
+            "descuento": 0,
+            "total": 244.8,
+            "comentario": "Instancia para comunicar incidencia en colectro con Canal Isabell II"
+          },
+          {
+            "id": "lo1785082691264b3y0669mlah",
+            "conceptoId": "7.6",
+            "cantidad": 1,
+            "precioUnit": 244.8,
+            "descuento": 0,
+            "total": 244.8,
+            "comentario": "Aviso al Canal Isabel II para desatasco colector"
+          },
+          {
+            "id": "lo1785082860493",
+            "conceptoId": "2.3",
+            "cantidad": 1,
+            "precioUnit": 1175,
+            "descuento": 0,
+            "total": 1175,
+            "comentario": "Informe estado red de saneamiento ES"
+          }
+        ],
+        "firmante": "",
+        "firmanteCliente": "Dña. Raquel Martínez",
+        "firmanteNorAcua": "D. Daniel Romero",
+        "formaPago": "Según contrato",
+        "fecha": "2026-07-26",
+        "creadoEn": "2026-07-26T16:22:22.610Z",
+        "emplazamiento": "BP APADIS",
+        "referencia": "BP-IGADV-260726-v1"
+      },
+      {
+        "id": "o1785082402707",
+        "numero": "042-26",
+        "clienteId": "cl01",
+        "proyectoId": "p1779131945230",
+        "zona": "CENTRO",
+        "po": "",
+        "asunto": "BP PROYECTO Y LICENCIAS PARA CAMBIO DE SHC",
+        "nombre": "Oferta VERTIDOS",
+        "estado": "Enviada",
+        "version": 1,
+        "lineas": [
+          {
+            "id": "lo1785082187410y0hgue9erd",
+            "conceptoId": "1.5",
+            "cantidad": 1,
+            "precioUnit": 1850,
+            "descuento": 0,
+            "total": 1850,
+            "comentario": "Proyecto adecuación red saneamiento"
+          },
+          {
+            "id": "lo1785082187410z6q1z7a7ey9",
+            "conceptoId": "7.6",
+            "cantidad": 1,
+            "precioUnit": 350,
+            "descuento": 0,
+            "total": 350,
+            "comentario": "Consulta previa a Medio Ambiente"
+          },
+          {
+            "id": "lo1785082187410xm7pggwm9v",
+            "conceptoId": "7.2",
+            "cantidad": 1,
+            "precioUnit": 606.9,
+            "descuento": 0,
+            "total": 606.9,
+            "comentario": "Licencia de Obras en Ayuntamiento"
+          }
+        ],
+        "firmante": "",
+        "firmanteCliente": "Dña. Raquel Martínez",
+        "firmanteNorAcua": "D. Daniel Romero",
+        "formaPago": "Según contrato",
+        "fecha": "2026-07-26",
+        "creadoEn": "2026-07-26T16:13:22.707Z",
+        "referencia": "BP-PLPCDS-260726-v1",
+        "emplazamiento": "BP GETAFE M406"
+      },
+      {
         "id": "o1781865498794",
         "numero": "041-26",
         "clienteId": "cl01",
@@ -10388,9 +10603,9 @@
       }
     ],
     "na-v20-estaciones": [
-      "B",
       "BP ADRIA CASAS",
       "BP ALELLA",
+      "BP APADIS",
       "BP AV DAROCA",
       "BP BADALONA",
       "BP BADANOR",
@@ -10408,6 +10623,7 @@
       "BP FALUA",
       "BP FRAGA I",
       "BP FRAGA II",
+      "BP GETAFE M406",
       "BP GUALBA",
       "BP HOSTAL DE LA SELVA",
       "BP INFIESTO",
