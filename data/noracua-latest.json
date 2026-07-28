@@ -1,5 +1,5 @@
 {
-  "fecha": "2026-07-28T20:40:26.113Z",
+  "fecha": "2026-07-28T20:42:07.019Z",
   "version": "4.0",
   "datos": {
     "proyectos": [
@@ -376,18 +376,6 @@
         "legacy_id": "p1779137983090"
       },
       {
-        "id": "ce2ce3d0-5315-4f3c-ae63-d9ee14ab736c",
-        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
-        "nombre": "LEGALIZACIÓN BT",
-        "zona": "NORTE",
-        "po": "3001339420",
-        "estacion_id": "5e4bf7bc-8607-4a78-bd90-e847600295ca",
-        "responsable_bp_id": "cc323490-3235-48e5-b06c-e4558bdee00a",
-        "activo": true,
-        "creado_en": "2026-06-16T11:25:39.389344+00:00",
-        "legacy_id": "p1779138950348"
-      },
-      {
         "id": "f9ffaa8b-0b50-45ab-a85c-0a0812721928",
         "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
         "nombre": "LEGALIZACIÓN BT",
@@ -410,6 +398,18 @@
         "activo": true,
         "creado_en": "2026-06-16T11:25:39.389344+00:00",
         "legacy_id": "p1779140021508"
+      },
+      {
+        "id": "ce2ce3d0-5315-4f3c-ae63-d9ee14ab736c",
+        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
+        "nombre": "LEGALIZACIÓN BT",
+        "zona": "NORTE",
+        "po": "3001339420",
+        "estacion_id": "5e4bf7bc-8607-4a78-bd90-e847600295ca",
+        "responsable_bp_id": "cc323490-3235-48e5-b06c-e4558bdee00a",
+        "activo": true,
+        "creado_en": "2026-06-16T11:25:39.389344+00:00",
+        "legacy_id": "p1779138950348"
       },
       {
         "id": "3073c25d-2aa1-40cb-b08e-02f6498bf3c7",
@@ -556,18 +556,6 @@
         "legacy_id": "p1781718910285"
       },
       {
-        "id": "232f96fb-99a7-4e15-9766-664c8fadc155",
-        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
-        "nombre": "RECICLADORA LAVADOS",
-        "zona": "CATALUÑA",
-        "po": "3001346246",
-        "estacion_id": "69bf44e8-d908-4a24-acdb-f50d4978b374",
-        "responsable_bp_id": "d1a0ed21-6f85-4bab-b968-681501dbd784",
-        "activo": true,
-        "creado_en": "2026-07-16T23:04:52.407+00:00",
-        "legacy_id": "p1781719085766"
-      },
-      {
         "id": "4c0bc367-e624-44b9-bccf-30dd617ee0a3",
         "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
         "nombre": "RECICLADORA LAVADOS",
@@ -578,6 +566,18 @@
         "activo": true,
         "creado_en": "2026-06-16T11:25:39.389344+00:00",
         "legacy_id": "p1779900916942"
+      },
+      {
+        "id": "232f96fb-99a7-4e15-9766-664c8fadc155",
+        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
+        "nombre": "RECICLADORA LAVADOS",
+        "zona": "CATALUÑA",
+        "po": "3001346246",
+        "estacion_id": "69bf44e8-d908-4a24-acdb-f50d4978b374",
+        "responsable_bp_id": "d1a0ed21-6f85-4bab-b968-681501dbd784",
+        "activo": true,
+        "creado_en": "2026-07-16T23:04:52.407+00:00",
+        "legacy_id": "p1781719085766"
       },
       {
         "id": "9ae98172-f102-4204-b4df-eaaf6b470908",
@@ -609,23 +609,11 @@
         "nombre": "REFORMA LAVADOS",
         "zona": "CENTRO",
         "po": null,
-        "estacion_id": null,
-        "responsable_bp_id": null,
+        "estacion_id": "09c051b9-1465-43b2-9850-6f3e057b4202",
+        "responsable_bp_id": "d1a0ed21-6f85-4bab-b968-681501dbd784",
         "activo": true,
         "creado_en": "2026-07-28T11:33:58.387+00:00",
         "legacy_id": null
-      },
-      {
-        "id": "ca7bcb77-7ab1-4cac-b70a-e420f8d46747",
-        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
-        "nombre": "REFORMA TIENDA",
-        "zona": "CENTRO",
-        "po": null,
-        "estacion_id": "73f179b6-7f08-432b-8630-0d30abb1beb7",
-        "responsable_bp_id": "d1a0ed21-6f85-4bab-b968-681501dbd784",
-        "activo": true,
-        "creado_en": "2026-06-16T11:25:39.389344+00:00",
-        "legacy_id": "p1779131978216"
       },
       {
         "id": "7021c451-baaa-41e4-b5f4-7bd7590e163e",
@@ -638,6 +626,18 @@
         "activo": true,
         "creado_en": "2026-06-16T11:25:39.389344+00:00",
         "legacy_id": "p1779138737907"
+      },
+      {
+        "id": "ca7bcb77-7ab1-4cac-b70a-e420f8d46747",
+        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
+        "nombre": "REFORMA TIENDA",
+        "zona": "CENTRO",
+        "po": null,
+        "estacion_id": "73f179b6-7f08-432b-8630-0d30abb1beb7",
+        "responsable_bp_id": "d1a0ed21-6f85-4bab-b968-681501dbd784",
+        "activo": true,
+        "creado_en": "2026-06-16T11:25:39.389344+00:00",
+        "legacy_id": "p1779131978216"
       },
       {
         "id": "f2e00fc2-351c-4313-813e-a7659e401e16",
@@ -1449,8 +1449,8 @@
         "nombre": "VERTIDOS",
         "zona": "CENTRO",
         "po": null,
-        "estacion_id": null,
-        "responsable_bp_id": null,
+        "estacion_id": "73f179b6-7f08-432b-8630-0d30abb1beb7",
+        "responsable_bp_id": "0d31ea79-7b68-4389-9316-f68d918e0edb",
         "activo": true,
         "creado_en": "2026-07-28T17:55:17.604+00:00",
         "legacy_id": null
