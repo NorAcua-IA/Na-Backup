@@ -1,6 +1,6 @@
 {
-  "fecha": "2026-07-28T11:40:00.695Z",
-  "version": "4.0",
+  "fecha": "2026-07-28T12:19:35.879Z",
+  "version": "3.0",
   "datos": {
     "proyectos": [
       {
@@ -1450,7 +1450,7 @@
         "proyecto_id": "c58446e4-254b-4e5a-a366-f534360f488c",
         "tecnico_id": "3e50e7e7-9fd7-4e53-9bf0-2bfd2d063f7f",
         "creado_por_id": "3e50e7e7-9fd7-4e53-9bf0-2bfd2d063f7f",
-        "estado": "aprobado",
+        "estado": "pendiente",
         "estado_certif": null,
         "fecha": "2026-07-27",
         "es_grupo": true,
