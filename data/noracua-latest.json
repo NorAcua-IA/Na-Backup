@@ -1,5 +1,5 @@
 {
-  "fecha": "2026-07-30T19:34:31.506Z",
+  "fecha": "2026-07-30T20:26:25.004Z",
   "version": "5.0",
   "datos": {
     "proyectos": [
@@ -148,18 +148,6 @@
         "legacy_id": null
       },
       {
-        "id": "c1771264-a85e-4223-8fb9-308aaf8675af",
-        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
-        "nombre": "CO OUT ES",
-        "zona": "NORTE",
-        "po": "3001342428",
-        "estacion_id": "4116c1a7-37d5-4b50-8217-82c517388d31",
-        "responsable_bp_id": "0d31ea79-7b68-4389-9316-f68d918e0edb",
-        "activo": true,
-        "creado_en": "2026-06-16T11:25:39.389344+00:00",
-        "legacy_id": "p1779185410739"
-      },
-      {
         "id": "e086b7ff-9d39-488d-bd14-e259ce27cd2c",
         "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
         "nombre": "CO OUT ES",
@@ -172,18 +160,6 @@
         "legacy_id": "p1779185513218"
       },
       {
-        "id": "b364c94e-a3f5-464f-82de-2218a3db27ea",
-        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
-        "nombre": "CO OUT ES",
-        "zona": "NORTE",
-        "po": "3001342427",
-        "estacion_id": "eee41add-3574-4dd7-a307-b372821e1d03",
-        "responsable_bp_id": "0d31ea79-7b68-4389-9316-f68d918e0edb",
-        "activo": true,
-        "creado_en": "2026-06-16T11:25:39.389344+00:00",
-        "legacy_id": "p1779183792717"
-      },
-      {
         "id": "4eaf98c0-695f-4215-9885-4dc55c64bdc7",
         "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
         "nombre": "CO OUT ES",
@@ -194,6 +170,30 @@
         "activo": true,
         "creado_en": "2026-06-16T11:25:39.389344+00:00",
         "legacy_id": "p1779138810443"
+      },
+      {
+        "id": "c1771264-a85e-4223-8fb9-308aaf8675af",
+        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
+        "nombre": "CO OUT ES",
+        "zona": "NORTE",
+        "po": "3001342428",
+        "estacion_id": "4116c1a7-37d5-4b50-8217-82c517388d31",
+        "responsable_bp_id": "0d31ea79-7b68-4389-9316-f68d918e0edb",
+        "activo": true,
+        "creado_en": "2026-06-16T11:25:39.389344+00:00",
+        "legacy_id": "p1779185410739"
+      },
+      {
+        "id": "b364c94e-a3f5-464f-82de-2218a3db27ea",
+        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
+        "nombre": "CO OUT ES",
+        "zona": "NORTE",
+        "po": "3001342427",
+        "estacion_id": "eee41add-3574-4dd7-a307-b372821e1d03",
+        "responsable_bp_id": "0d31ea79-7b68-4389-9316-f68d918e0edb",
+        "activo": true,
+        "creado_en": "2026-06-16T11:25:39.389344+00:00",
+        "legacy_id": "p1779183792717"
       },
       {
         "id": "d8b56b96-62d2-4fa8-bf26-7ff226aacfaa",
@@ -220,6 +220,18 @@
         "legacy_id": "p1780657008965"
       },
       {
+        "id": "534ddefc-8a77-4086-b8e9-beeceabe4665",
+        "cliente_id": "b405360f-b82f-4344-aa54-4a5c87490d63",
+        "nombre": "CONTROL PERIÓDICO AMBIENTAL",
+        "zona": "CATALUÑA",
+        "po": null,
+        "estacion_id": "82e613e3-0ceb-4bb8-a4ad-e42922a8ffe0",
+        "responsable_bp_id": null,
+        "activo": true,
+        "creado_en": "2026-07-30T19:39:25.245+00:00",
+        "legacy_id": null
+      },
+      {
         "id": "6f779582-e80f-4027-8d21-53c1137d2218",
         "cliente_id": "a1a48a0d-bdc4-4c0e-a02d-c4f1060c549a",
         "nombre": "CONTROL PERIÓDICO AMBIENTAL",
@@ -232,18 +244,6 @@
         "legacy_id": "p1780035450676"
       },
       {
-        "id": "c5cfa823-71f5-4929-91ec-427d9f88cb86",
-        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
-        "nombre": "CONTROL PERIÓDICO AMBIENTAL",
-        "zona": "CATALUÑA",
-        "po": "3001321904",
-        "estacion_id": "3843f715-e606-41b4-a326-8f9f630063af",
-        "responsable_bp_id": "d1a0ed21-6f85-4bab-b968-681501dbd784",
-        "activo": true,
-        "creado_en": "2026-06-16T11:25:39.389344+00:00",
-        "legacy_id": "p1779391786134"
-      },
-      {
         "id": "2aacacf3-eee5-4216-a37b-8ba9fb56bc2b",
         "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
         "nombre": "CONTROL PERIÓDICO AMBIENTAL",
@@ -254,6 +254,18 @@
         "activo": true,
         "creado_en": "2026-06-16T11:25:39.389344+00:00",
         "legacy_id": "p1781595067921"
+      },
+      {
+        "id": "c5cfa823-71f5-4929-91ec-427d9f88cb86",
+        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
+        "nombre": "CONTROL PERIÓDICO AMBIENTAL",
+        "zona": "CATALUÑA",
+        "po": "3001321904",
+        "estacion_id": "3843f715-e606-41b4-a326-8f9f630063af",
+        "responsable_bp_id": "d1a0ed21-6f85-4bab-b968-681501dbd784",
+        "activo": true,
+        "creado_en": "2026-06-16T11:25:39.389344+00:00",
+        "legacy_id": "p1779391786134"
       },
       {
         "id": "d0f867e6-e1fa-46e0-8485-6fc7106caeea",
@@ -297,7 +309,7 @@
         "nombre": "IMPLANTACIÓN LAVADOS",
         "zona": "NORTE",
         "po": null,
-        "estacion_id": "5361ff35-c05d-4bff-a188-b48d3a05b45d",
+        "estacion_id": "8ab75023-f3ef-44d9-93ec-2160531f0309",
         "responsable_bp_id": null,
         "activo": true,
         "creado_en": "2026-06-29T10:20:40.97+00:00",
@@ -364,18 +376,6 @@
         "legacy_id": "p1779132004672"
       },
       {
-        "id": "f9ffaa8b-0b50-45ab-a85c-0a0812721928",
-        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
-        "nombre": "LEGALIZACIÓN BT",
-        "zona": "CENTRO",
-        "po": null,
-        "estacion_id": "9577d07d-e9e8-429e-9bc5-63120fa82598",
-        "responsable_bp_id": "ececaf57-8526-419e-9dfe-ac31324ecde8",
-        "activo": true,
-        "creado_en": "2026-06-16T11:25:39.389344+00:00",
-        "legacy_id": "p1779138632454"
-      },
-      {
         "id": "75fde8f4-4de9-4000-b67d-67e91b00c497",
         "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
         "nombre": "LEGALIZACIÓN BT",
@@ -386,6 +386,18 @@
         "activo": true,
         "creado_en": "2026-06-16T11:25:39.389344+00:00",
         "legacy_id": "p1779140021508"
+      },
+      {
+        "id": "f9ffaa8b-0b50-45ab-a85c-0a0812721928",
+        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
+        "nombre": "LEGALIZACIÓN BT",
+        "zona": "CENTRO",
+        "po": null,
+        "estacion_id": "9577d07d-e9e8-429e-9bc5-63120fa82598",
+        "responsable_bp_id": "ececaf57-8526-419e-9dfe-ac31324ecde8",
+        "activo": true,
+        "creado_en": "2026-06-16T11:25:39.389344+00:00",
+        "legacy_id": "p1779138632454"
       },
       {
         "id": "ce2ce3d0-5315-4f3c-ae63-d9ee14ab736c",
@@ -508,6 +520,18 @@
         "legacy_id": "p1780477263512"
       },
       {
+        "id": "232f96fb-99a7-4e15-9766-664c8fadc155",
+        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
+        "nombre": "RECICLADORA LAVADOS",
+        "zona": "CATALUÑA",
+        "po": "3001346246",
+        "estacion_id": "69bf44e8-d908-4a24-acdb-f50d4978b374",
+        "responsable_bp_id": "d1a0ed21-6f85-4bab-b968-681501dbd784",
+        "activo": true,
+        "creado_en": "2026-07-16T23:04:52.407+00:00",
+        "legacy_id": "p1781719085766"
+      },
+      {
         "id": "c182e1f2-4b7a-47d3-8f71-5a93e425871b",
         "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
         "nombre": "RECICLADORA LAVADOS",
@@ -530,18 +554,6 @@
         "activo": true,
         "creado_en": "2026-06-16T11:25:39.389344+00:00",
         "legacy_id": "p1779900916942"
-      },
-      {
-        "id": "232f96fb-99a7-4e15-9766-664c8fadc155",
-        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
-        "nombre": "RECICLADORA LAVADOS",
-        "zona": "CATALUÑA",
-        "po": "3001346246",
-        "estacion_id": "69bf44e8-d908-4a24-acdb-f50d4978b374",
-        "responsable_bp_id": "d1a0ed21-6f85-4bab-b968-681501dbd784",
-        "activo": true,
-        "creado_en": "2026-07-16T23:04:52.407+00:00",
-        "legacy_id": "p1781719085766"
       },
       {
         "id": "9ae98172-f102-4204-b4df-eaaf6b470908",
@@ -616,18 +628,6 @@
         "legacy_id": "p1779138693519"
       },
       {
-        "id": "43762560-acf4-484e-8b2a-3a1c782f1a31",
-        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
-        "nombre": "REFORMA TIENDA DIA",
-        "zona": "CENTRO",
-        "po": null,
-        "estacion_id": "cf99b3d1-1276-455b-a990-c7ff07f8a73b",
-        "responsable_bp_id": "d1a0ed21-6f85-4bab-b968-681501dbd784",
-        "activo": true,
-        "creado_en": "2026-06-16T11:25:39.389344+00:00",
-        "legacy_id": "p1779132181864"
-      },
-      {
         "id": "b57c75a8-1f80-4ca4-9dcf-0745235a87e2",
         "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
         "nombre": "REFORMA TIENDA DIA",
@@ -640,6 +640,18 @@
         "legacy_id": "p1779132250291"
       },
       {
+        "id": "43762560-acf4-484e-8b2a-3a1c782f1a31",
+        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
+        "nombre": "REFORMA TIENDA DIA",
+        "zona": "CENTRO",
+        "po": null,
+        "estacion_id": "cf99b3d1-1276-455b-a990-c7ff07f8a73b",
+        "responsable_bp_id": "d1a0ed21-6f85-4bab-b968-681501dbd784",
+        "activo": true,
+        "creado_en": "2026-06-16T11:25:39.389344+00:00",
+        "legacy_id": "p1779132181864"
+      },
+      {
         "id": "7aa43162-2501-4b0f-a77d-ffcbe096ee3c",
         "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
         "nombre": "REFORMA TIENDA DIA",
@@ -650,6 +662,30 @@
         "activo": true,
         "creado_en": "2026-06-16T11:25:39.389344+00:00",
         "legacy_id": "p1779132098965"
+      },
+      {
+        "id": "ea5531da-2676-4065-a0b5-8329b13af24b",
+        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
+        "nombre": "REFORMA TIENDA DIA",
+        "zona": "CENTRO",
+        "po": null,
+        "estacion_id": "ebac7f17-b59a-4cf1-b5d9-b20e49763986",
+        "responsable_bp_id": "d1a0ed21-6f85-4bab-b968-681501dbd784",
+        "activo": true,
+        "creado_en": "2026-06-16T11:25:39.389344+00:00",
+        "legacy_id": "p1779132322623"
+      },
+      {
+        "id": "8ce214c9-4f40-4348-89d4-27b43a45d030",
+        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
+        "nombre": "REFORMA TIENDA DIA",
+        "zona": "CENTRO",
+        "po": null,
+        "estacion_id": "fea0fa24-4de5-4d86-ad7f-ba372166d31d",
+        "responsable_bp_id": "d1a0ed21-6f85-4bab-b968-681501dbd784",
+        "activo": true,
+        "creado_en": "2026-06-16T11:25:39.389344+00:00",
+        "legacy_id": "p1779132230677"
       },
       {
         "id": "82a902c5-a661-4c20-a2e7-c74537189192",
@@ -698,30 +734,6 @@
         "activo": true,
         "creado_en": "2026-06-16T11:25:39.389344+00:00",
         "legacy_id": "p1779132271164"
-      },
-      {
-        "id": "ea5531da-2676-4065-a0b5-8329b13af24b",
-        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
-        "nombre": "REFORMA TIENDA DIA",
-        "zona": "CENTRO",
-        "po": null,
-        "estacion_id": "ebac7f17-b59a-4cf1-b5d9-b20e49763986",
-        "responsable_bp_id": "d1a0ed21-6f85-4bab-b968-681501dbd784",
-        "activo": true,
-        "creado_en": "2026-06-16T11:25:39.389344+00:00",
-        "legacy_id": "p1779132322623"
-      },
-      {
-        "id": "8ce214c9-4f40-4348-89d4-27b43a45d030",
-        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
-        "nombre": "REFORMA TIENDA DIA",
-        "zona": "CENTRO",
-        "po": null,
-        "estacion_id": "fea0fa24-4de5-4d86-ad7f-ba372166d31d",
-        "responsable_bp_id": "d1a0ed21-6f85-4bab-b968-681501dbd784",
-        "activo": true,
-        "creado_en": "2026-06-16T11:25:39.389344+00:00",
-        "legacy_id": "p1779132230677"
       },
       {
         "id": "5896ccb1-7ca3-43c2-87d4-e632101bb68a",
@@ -1434,6 +1446,30 @@
     ],
     "registros": [
       {
+        "id": "3092d288-f23b-4226-8bfa-5b0df48130e8",
+        "proyecto_id": "534ddefc-8a77-4086-b8e9-beeceabe4665",
+        "tecnico_id": "5ab5456a-6a78-4393-8809-c97b41cffb96",
+        "creado_por_id": "5ab5456a-6a78-4393-8809-c97b41cffb96",
+        "estado": "pendiente",
+        "estado_certif": null,
+        "fecha": "2026-07-30",
+        "es_grupo": true,
+        "concepto_id": "8dace5ae-75c1-442f-bc18-9eb4c2bc91f3",
+        "precio_unitario": null,
+        "cantidad": 1,
+        "descuento_pct": 0,
+        "oferta_id": null,
+        "factura_id": null,
+        "informe_id": null,
+        "observaciones": "Grupo: 3 actividades",
+        "estacion_id": null,
+        "creado_en": "2026-07-30T19:53:16.632667+00:00",
+        "actualizado_en": "2026-07-30T19:53:16.632667+00:00",
+        "eliminado_en": null,
+        "legacy_id": null,
+        "motivo_rechazo": null
+      },
+      {
         "id": "2d452e17-9ae1-4549-8827-a0ee70ed86c7",
         "proyecto_id": "c90bd7b4-423b-4e91-86f3-50f127c75ceb",
         "tecnico_id": "5ab5456a-6a78-4393-8809-c97b41cffb96",
@@ -1458,30 +1494,6 @@
         "motivo_rechazo": null
       },
       {
-        "id": "7fea79a4-eea0-4419-8778-42d77446cd16",
-        "proyecto_id": "c3e73640-5c3d-4b27-8de4-b5100516c45d",
-        "tecnico_id": "3e50e7e7-9fd7-4e53-9bf0-2bfd2d063f7f",
-        "creado_por_id": "3e50e7e7-9fd7-4e53-9bf0-2bfd2d063f7f",
-        "estado": "aprobado",
-        "estado_certif": null,
-        "fecha": "2026-07-28",
-        "es_grupo": true,
-        "concepto_id": "58a04b36-bf25-40a2-a4e1-af37b5c45d88",
-        "precio_unitario": null,
-        "cantidad": 1,
-        "descuento_pct": 0,
-        "oferta_id": null,
-        "factura_id": null,
-        "informe_id": null,
-        "observaciones": "Grupo: 1 actividades",
-        "estacion_id": null,
-        "creado_en": "2026-07-28T17:53:47.821556+00:00",
-        "actualizado_en": "2026-07-28T17:53:47.821556+00:00",
-        "eliminado_en": null,
-        "legacy_id": null,
-        "motivo_rechazo": null
-      },
-      {
         "id": "0ec5f3dc-d910-4733-b65d-556da77c9fb5",
         "proyecto_id": "4eaea465-5aa8-4a1b-a87a-d3792798afc9",
         "tecnico_id": "3e50e7e7-9fd7-4e53-9bf0-2bfd2d063f7f",
@@ -1501,6 +1513,30 @@
         "estacion_id": null,
         "creado_en": "2026-07-28T19:39:11.511955+00:00",
         "actualizado_en": "2026-07-28T19:39:11.511955+00:00",
+        "eliminado_en": null,
+        "legacy_id": null,
+        "motivo_rechazo": null
+      },
+      {
+        "id": "7fea79a4-eea0-4419-8778-42d77446cd16",
+        "proyecto_id": "c3e73640-5c3d-4b27-8de4-b5100516c45d",
+        "tecnico_id": "3e50e7e7-9fd7-4e53-9bf0-2bfd2d063f7f",
+        "creado_por_id": "3e50e7e7-9fd7-4e53-9bf0-2bfd2d063f7f",
+        "estado": "aprobado",
+        "estado_certif": null,
+        "fecha": "2026-07-28",
+        "es_grupo": true,
+        "concepto_id": "58a04b36-bf25-40a2-a4e1-af37b5c45d88",
+        "precio_unitario": null,
+        "cantidad": 1,
+        "descuento_pct": 0,
+        "oferta_id": null,
+        "factura_id": null,
+        "informe_id": null,
+        "observaciones": "Grupo: 1 actividades",
+        "estacion_id": null,
+        "creado_en": "2026-07-28T17:53:47.821556+00:00",
+        "actualizado_en": "2026-07-28T17:53:47.821556+00:00",
         "eliminado_en": null,
         "legacy_id": null,
         "motivo_rechazo": null
@@ -1770,30 +1806,6 @@
         "motivo_rechazo": null
       },
       {
-        "id": "20ff76cb-b6bf-4aff-b33e-2770c9d15a0c",
-        "proyecto_id": "48b5471b-9043-4bba-b212-6b7a7db1efd1",
-        "tecnico_id": "3e50e7e7-9fd7-4e53-9bf0-2bfd2d063f7f",
-        "creado_por_id": "3e50e7e7-9fd7-4e53-9bf0-2bfd2d063f7f",
-        "estado": "aprobado",
-        "estado_certif": "aprobada",
-        "fecha": "2026-07-06",
-        "es_grupo": true,
-        "concepto_id": null,
-        "precio_unitario": null,
-        "cantidad": 1,
-        "descuento_pct": 0,
-        "oferta_id": null,
-        "factura_id": null,
-        "informe_id": null,
-        "observaciones": "Grupo: 1 actividades",
-        "estacion_id": null,
-        "creado_en": "2026-07-06T16:23:48.07+00:00",
-        "actualizado_en": "2026-07-27T21:48:39.065236+00:00",
-        "eliminado_en": null,
-        "legacy_id": "r1783355028070",
-        "motivo_rechazo": null
-      },
-      {
         "id": "dc2dcfb8-d1cd-462b-b2b7-bde71c66a03a",
         "proyecto_id": "1c22e1d2-19b0-4fa3-83f8-43d2fb1345d0",
         "tecnico_id": "5ab5456a-6a78-4393-8809-c97b41cffb96",
@@ -1815,6 +1827,30 @@
         "actualizado_en": "2026-07-27T21:48:39.065236+00:00",
         "eliminado_en": null,
         "legacy_id": "r1783338428093",
+        "motivo_rechazo": null
+      },
+      {
+        "id": "20ff76cb-b6bf-4aff-b33e-2770c9d15a0c",
+        "proyecto_id": "48b5471b-9043-4bba-b212-6b7a7db1efd1",
+        "tecnico_id": "3e50e7e7-9fd7-4e53-9bf0-2bfd2d063f7f",
+        "creado_por_id": "3e50e7e7-9fd7-4e53-9bf0-2bfd2d063f7f",
+        "estado": "aprobado",
+        "estado_certif": "aprobada",
+        "fecha": "2026-07-06",
+        "es_grupo": true,
+        "concepto_id": null,
+        "precio_unitario": null,
+        "cantidad": 1,
+        "descuento_pct": 0,
+        "oferta_id": null,
+        "factura_id": null,
+        "informe_id": null,
+        "observaciones": "Grupo: 1 actividades",
+        "estacion_id": null,
+        "creado_en": "2026-07-06T16:23:48.07+00:00",
+        "actualizado_en": "2026-07-27T21:48:39.065236+00:00",
+        "eliminado_en": null,
+        "legacy_id": "r1783355028070",
         "motivo_rechazo": null
       },
       {
@@ -5214,6 +5250,164 @@
     ],
     "ofertas": [
       {
+        "id": "7aef790b-0dfc-45b2-94f9-bd196b660918",
+        "codigo": "049-26",
+        "cliente_id": "b405360f-b82f-4344-aa54-4a5c87490d63",
+        "asunto": "CF INFORME TÉCNICO SANEAMIENTO ES",
+        "po": null,
+        "estado": "borrador",
+        "importe_total": null,
+        "creado_por_id": "3e50e7e7-9fd7-4e53-9bf0-2bfd2d063f7f",
+        "creado_en": "2026-07-30T20:13:27.669+00:00",
+        "metadatos": {
+          "ref": "",
+          "zona": "OTROS",
+          "fecha": "2026-07-30",
+          "notas": "",
+          "lineas": [
+            {
+              "id": "4d992535-573d-4d7f-8c41-eac146999650",
+              "total": 1100,
+              "cantidad": 1,
+              "descuento": 0,
+              "comentario": "Informe y propuesta de soluciones ",
+              "conceptoId": "4f611511-7ef1-4b9c-a05f-a47786b7c3fe",
+              "precioUnit": 1100
+            },
+            {
+              "id": "fe0f71d5-ae81-4d49-8aae-c57e852f1b32",
+              "total": 725,
+              "cantidad": 1,
+              "descuento": 0,
+              "comentario": "Vista para toma de datos",
+              "conceptoId": "8dace5ae-75c1-442f-bc18-9eb4c2bc91f3",
+              "precioUnit": 725
+            }
+          ],
+          "numero": "049-26",
+          "version": 1,
+          "estacion": "",
+          "responsable": ""
+        },
+        "legacy_id": null,
+        "proyecto_id": "b2ff2088-09ee-4ef5-bf60-b2cc6aed5009"
+      },
+      {
+        "id": "99a5fe48-c433-4ee7-bdad-b9706317a87b",
+        "codigo": "048-26",
+        "cliente_id": "b405360f-b82f-4344-aa54-4a5c87490d63",
+        "asunto": "TRABAJOS VARIOS CONTROL AMBIENTAL",
+        "po": null,
+        "estado": "borrador",
+        "importe_total": null,
+        "creado_por_id": "3e50e7e7-9fd7-4e53-9bf0-2bfd2d063f7f",
+        "creado_en": "2026-07-30T19:50:10.33+00:00",
+        "metadatos": {
+          "ref": "",
+          "zona": "CATALUÑA",
+          "fecha": "2026-07-30",
+          "notas": "",
+          "lineas": [
+            {
+              "id": "f2837b2f-3d6a-46b7-8d0c-db6ad98c5db3",
+              "total": 1150,
+              "cantidad": 1,
+              "descuento": 0,
+              "comentario": "Proyecto legalización de vertidos",
+              "conceptoId": "179a8c61-da2b-47e5-a1d8-7bac3c7bb7cb",
+              "precioUnit": 1150
+            },
+            {
+              "id": "22e7292b-7a68-4b5c-bb0a-645c4ec2e324",
+              "total": 1250,
+              "cantidad": 1,
+              "descuento": 0,
+              "comentario": "Proyecto legalización BT en caso de ser necesario",
+              "conceptoId": "1000abe0-e971-43f5-bcbe-61ccf752a035",
+              "precioUnit": 1250
+            },
+            {
+              "id": "55449955-11d4-4baa-a4ef-16e53dd424bf",
+              "total": 1725,
+              "cantidad": 1,
+              "descuento": 0,
+              "comentario": "Contratación ECA para control ambiental",
+              "conceptoId": "614f994f-7107-4e41-984c-3d9af82ce77f",
+              "precioUnit": 1725
+            },
+            {
+              "id": "60360033-69f3-4d7b-9a2f-09e26d51174a",
+              "total": 990,
+              "cantidad": 1,
+              "descuento": 0,
+              "comentario": "Dirección facultativa para legalización de BT",
+              "conceptoId": "08ca3b25-6fba-4b7f-835f-e11b0523010a",
+              "precioUnit": 990
+            },
+            {
+              "id": "18a27f50-a1d3-4534-91a6-7f04cac9036b",
+              "total": 405,
+              "cantidad": 1,
+              "descuento": 0,
+              "comentario": "Toma de datos preliminar",
+              "conceptoId": "8dace5ae-75c1-442f-bc18-9eb4c2bc91f3",
+              "precioUnit": 405
+            },
+            {
+              "id": "a74f83e7-821b-493b-b834-968f8b3c00d4",
+              "total": 405,
+              "cantidad": 1,
+              "descuento": 0,
+              "comentario": "Visita con ECA",
+              "conceptoId": "8dace5ae-75c1-442f-bc18-9eb4c2bc91f3",
+              "precioUnit": 405
+            },
+            {
+              "id": "54a30f95-6e25-4adc-a8ca-0698e8b9b2d8",
+              "total": 240,
+              "cantidad": 1,
+              "descuento": 0,
+              "comentario": "Legalización y cambio titularidad vertidos",
+              "conceptoId": "5502f39e-9b9b-4c47-865a-5d43de5340c0",
+              "precioUnit": 240
+            },
+            {
+              "id": "44ebd3a4-25ce-4888-86d7-60450ed536ed",
+              "total": 645,
+              "cantidad": 1,
+              "descuento": 0,
+              "comentario": "Solicitud y vista de expediente",
+              "conceptoId": "5777dd78-bd4c-46f9-9ad3-13c8040d8ed9",
+              "precioUnit": 645
+            },
+            {
+              "id": "5a7c74e5-4889-4f9f-a1a5-ebd812b16734",
+              "total": 450,
+              "cantidad": 1,
+              "descuento": 0,
+              "comentario": "Cambio titularidad instalación BT",
+              "conceptoId": "5777dd78-bd4c-46f9-9ad3-13c8040d8ed9",
+              "precioUnit": 450
+            },
+            {
+              "id": "dc182c9d-4101-4d8a-9f6e-34be6450d469",
+              "total": 480,
+              "cantidad": 2,
+              "descuento": 0,
+              "comentario": "Camnbios titularidad contratos agua y electricidad",
+              "conceptoId": "5777dd78-bd4c-46f9-9ad3-13c8040d8ed9",
+              "precioUnit": 240
+            }
+          ],
+          "numero": "048-26",
+          "version": 1,
+          "estacion": "",
+          "responsable": ""
+        },
+        "legacy_id": null,
+        "proyecto_id": "534ddefc-8a77-4086-b8e9-beeceabe4665"
+      },
+      {
         "id": "f942e080-eada-4b9d-ac43-0a6107d60069",
         "codigo": "047-26",
         "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
@@ -5255,88 +5449,6 @@
         },
         "legacy_id": null,
         "proyecto_id": null
-      },
-      {
-        "id": "d87b52f2-3e5b-48ce-a325-81000a3a9888",
-        "codigo": "044-26",
-        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
-        "asunto": "BP PROYECTO Y LICENCIAS PARA ADECUACIÓN DE MARQUESINA",
-        "po": null,
-        "estado": "activa",
-        "importe_total": 2576.7,
-        "creado_por_id": "3e50e7e7-9fd7-4e53-9bf0-2bfd2d063f7f",
-        "creado_en": "2026-07-26T20:15:09.510828+00:00",
-        "metadatos": {
-          "lineas": [
-            {
-              "total": 375,
-              "cantidad": 1,
-              "descuento": 0,
-              "comentario": "Solicitud de Autorización Obras Carreteras",
-              "conceptoId": "2079221d-5216-41ba-855b-a270f0ba266e",
-              "precioUnit": 375
-            },
-            {
-              "total": 606.9,
-              "cantidad": 1,
-              "descuento": 0,
-              "comentario": "Solicitud de Autorización de Obra Ayto",
-              "conceptoId": "2079221d-5216-41ba-855b-a270f0ba266e",
-              "precioUnit": 606.9
-            },
-            {
-              "total": 244.8,
-              "cantidad": 1,
-              "descuento": 0,
-              "comentario": "Gestiones tasas, fianzas",
-              "conceptoId": "2ee15cd2-26b1-48c6-98b7-4d84b376de55",
-              "precioUnit": 244.8
-            },
-            {
-              "total": 1350,
-              "cantidad": 1,
-              "descuento": 0,
-              "comentario": "Proyecto para solicitud de licencias",
-              "conceptoId": "49cbf71b-6bba-41db-9713-8735919038e3",
-              "precioUnit": 1350
-            }
-          ]
-        },
-        "legacy_id": "o1785084172366",
-        "proyecto_id": "79e64aad-a9b3-4c66-9b39-a6db905b4c0b"
-      },
-      {
-        "id": "2da72f78-662e-4219-82e8-8ab7f3483d21",
-        "codigo": "045-26",
-        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
-        "asunto": "BP INFORME CONTENCIÓN MURO LAVADOS",
-        "po": null,
-        "estado": "activa",
-        "importe_total": 1455,
-        "creado_por_id": "3e50e7e7-9fd7-4e53-9bf0-2bfd2d063f7f",
-        "creado_en": "2026-07-26T20:15:09.510828+00:00",
-        "metadatos": {
-          "lineas": [
-            {
-              "total": 1050,
-              "cantidad": 1,
-              "descuento": 0,
-              "comentario": "Informe de estructuristas con solución técnica",
-              "conceptoId": "04283b6c-87ce-4fef-a269-c4e9b7c5ee41",
-              "precioUnit": 1050
-            },
-            {
-              "total": 405,
-              "cantidad": 1,
-              "descuento": 0,
-              "comentario": "Se realiza toma de datos aprovechando la revisión del saneamiento",
-              "conceptoId": "37c0a865-8cf0-4d5f-8b08-4e602e14b8d8",
-              "precioUnit": 405
-            }
-          ]
-        },
-        "legacy_id": "o1785091578070",
-        "proyecto_id": "57c3aa8b-1d2d-4b2e-89cb-0d32ffc6ea64"
       },
       {
         "id": "222a6780-bf86-438f-936b-91d138626eeb",
@@ -5404,6 +5516,88 @@
         "proyecto_id": "18b6290f-173a-4129-b3f1-0142dc049a52"
       },
       {
+        "id": "2da72f78-662e-4219-82e8-8ab7f3483d21",
+        "codigo": "045-26",
+        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
+        "asunto": "BP INFORME CONTENCIÓN MURO LAVADOS",
+        "po": null,
+        "estado": "activa",
+        "importe_total": 1455,
+        "creado_por_id": "3e50e7e7-9fd7-4e53-9bf0-2bfd2d063f7f",
+        "creado_en": "2026-07-26T20:15:09.510828+00:00",
+        "metadatos": {
+          "lineas": [
+            {
+              "total": 1050,
+              "cantidad": 1,
+              "descuento": 0,
+              "comentario": "Informe de estructuristas con solución técnica",
+              "conceptoId": "04283b6c-87ce-4fef-a269-c4e9b7c5ee41",
+              "precioUnit": 1050
+            },
+            {
+              "total": 405,
+              "cantidad": 1,
+              "descuento": 0,
+              "comentario": "Se realiza toma de datos aprovechando la revisión del saneamiento",
+              "conceptoId": "37c0a865-8cf0-4d5f-8b08-4e602e14b8d8",
+              "precioUnit": 405
+            }
+          ]
+        },
+        "legacy_id": "o1785091578070",
+        "proyecto_id": "57c3aa8b-1d2d-4b2e-89cb-0d32ffc6ea64"
+      },
+      {
+        "id": "d87b52f2-3e5b-48ce-a325-81000a3a9888",
+        "codigo": "044-26",
+        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
+        "asunto": "BP PROYECTO Y LICENCIAS PARA ADECUACIÓN DE MARQUESINA",
+        "po": null,
+        "estado": "activa",
+        "importe_total": 2576.7,
+        "creado_por_id": "3e50e7e7-9fd7-4e53-9bf0-2bfd2d063f7f",
+        "creado_en": "2026-07-26T20:15:09.510828+00:00",
+        "metadatos": {
+          "lineas": [
+            {
+              "total": 375,
+              "cantidad": 1,
+              "descuento": 0,
+              "comentario": "Solicitud de Autorización Obras Carreteras",
+              "conceptoId": "2079221d-5216-41ba-855b-a270f0ba266e",
+              "precioUnit": 375
+            },
+            {
+              "total": 606.9,
+              "cantidad": 1,
+              "descuento": 0,
+              "comentario": "Solicitud de Autorización de Obra Ayto",
+              "conceptoId": "2079221d-5216-41ba-855b-a270f0ba266e",
+              "precioUnit": 606.9
+            },
+            {
+              "total": 244.8,
+              "cantidad": 1,
+              "descuento": 0,
+              "comentario": "Gestiones tasas, fianzas",
+              "conceptoId": "2ee15cd2-26b1-48c6-98b7-4d84b376de55",
+              "precioUnit": 244.8
+            },
+            {
+              "total": 1350,
+              "cantidad": 1,
+              "descuento": 0,
+              "comentario": "Proyecto para solicitud de licencias",
+              "conceptoId": "49cbf71b-6bba-41db-9713-8735919038e3",
+              "precioUnit": 1350
+            }
+          ]
+        },
+        "legacy_id": "o1785084172366",
+        "proyecto_id": "79e64aad-a9b3-4c66-9b39-a6db905b4c0b"
+      },
+      {
         "id": "16922d21-3bc9-42fc-8a00-adeaf785c47f",
         "codigo": "042-26",
         "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
@@ -5445,109 +5639,173 @@
         "proyecto_id": "ed2f275e-f5c5-40ed-90eb-ca1f797c3d1a"
       },
       {
-        "id": "4d9590a3-aacf-44f8-9927-056094a1d99c",
-        "codigo": "031-26",
-        "cliente_id": "b405360f-b82f-4344-aa54-4a5c87490d63",
-        "asunto": "CF INFORME DEFICIENCIAS ES",
-        "po": null,
-        "estado": "activa",
-        "importe_total": 2250,
+        "id": "90ce5e10-78e3-4cdc-abc7-e8b2a177bd3e",
+        "codigo": "036-26",
+        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
+        "asunto": "BP REQUERIMIENTO URBANISMO Y CARRETERAS INSTALACIÓN RECICLADORA",
+        "po": "3001322306",
+        "estado": "cerrada",
+        "importe_total": 3380,
         "creado_por_id": "3e50e7e7-9fd7-4e53-9bf0-2bfd2d063f7f",
         "creado_en": "2026-07-17T21:40:13.593067+00:00",
         "metadatos": {
           "lineas": [
             {
-              "id": "lo1781627910337",
-              "total": 425,
-              "cantidad": 1,
+              "id": "lo1781718266601",
+              "total": 480,
+              "cantidad": 2,
               "descuento": 0,
-              "comentario": "VISTA TÉCNICO AYUNTAMIENTO",
-              "conceptoId": "025f1518-6bd1-44b9-8361-3020be4b7112",
-              "precioUnit": 425
+              "comentario": "",
+              "conceptoId": "2ee15cd2-26b1-48c6-98b7-4d84b376de55",
+              "precioUnit": 240
             },
             {
-              "id": "lo1781627813554",
-              "total": 1100,
+              "id": "lo1781718243919",
+              "total": 240,
               "cantidad": 1,
               "descuento": 0,
-              "comentario": "INFORME DEFICIENCIAS LEGALES E IP04 ES CF DENIA",
-              "conceptoId": "04283b6c-87ce-4fef-a269-c4e9b7c5ee41",
-              "precioUnit": 1100
+              "comentario": "",
+              "conceptoId": "2ee15cd2-26b1-48c6-98b7-4d84b376de55",
+              "precioUnit": 240
             },
             {
-              "id": "lo1781627851218",
-              "total": 725,
+              "id": "lo1781718218653",
+              "total": 240,
               "cantidad": 1,
               "descuento": 0,
-              "comentario": "VISITA TOMA DE DATOS ES",
-              "conceptoId": "37c0a865-8cf0-4d5f-8b08-4e602e14b8d8",
-              "precioUnit": 725
+              "comentario": "",
+              "conceptoId": "2ee15cd2-26b1-48c6-98b7-4d84b376de55",
+              "precioUnit": 240
+            },
+            {
+              "id": "lo1781718194571",
+              "total": 240,
+              "cantidad": 1,
+              "descuento": 0,
+              "comentario": "",
+              "conceptoId": "2ee15cd2-26b1-48c6-98b7-4d84b376de55",
+              "precioUnit": 240
+            },
+            {
+              "id": "lo1781718161707",
+              "total": 240,
+              "cantidad": 1,
+              "descuento": 0,
+              "comentario": "",
+              "conceptoId": "2ee15cd2-26b1-48c6-98b7-4d84b376de55",
+              "precioUnit": 240
+            },
+            {
+              "id": "lo1781718145702",
+              "total": 240,
+              "cantidad": 1,
+              "descuento": 0,
+              "comentario": "",
+              "conceptoId": "2ee15cd2-26b1-48c6-98b7-4d84b376de55",
+              "precioUnit": 240
+            },
+            {
+              "id": "lo1781718396440",
+              "total": 1000,
+              "cantidad": 1,
+              "descuento": 0,
+              "comentario": "Topográfico de estación para requerimiento urbanístico",
+              "conceptoId": "ab1a3323-ec38-4189-b49a-3b4452ad9de4",
+              "precioUnit": 1000
+            },
+            {
+              "id": "lo1781717940052ef5f9lcl5e",
+              "total": 700,
+              "cantidad": 1,
+              "descuento": 0,
+              "comentario": "Anexo al proyecto para contestación requerimiento",
+              "conceptoId": "22eb4a67-ad33-4a68-8e9e-008074e69f47",
+              "precioUnit": 700
             }
           ]
         },
-        "legacy_id": "o1781627943721",
-        "proyecto_id": "b2ff2088-09ee-4ef5-bf60-b2cc6aed5009"
+        "legacy_id": "o1781718509009",
+        "proyecto_id": "d49d3f19-b7fa-4dce-867f-6775491cced2"
       },
       {
-        "id": "0500b948-dc16-4576-884c-a041388527ab",
-        "codigo": "032-26",
-        "cliente_id": "9e05e084-0295-4aae-a282-17fe02921985",
-        "asunto": "BP ADECUACIÓN SANEAMIENTO",
+        "id": "515e9e94-fd5b-4dd2-8f3f-44728355bcef",
+        "codigo": "038-26",
+        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
+        "asunto": "BP INSTALACIÓN RECICLADORA LAVADOS",
         "po": null,
         "estado": "activa",
-        "importe_total": 1055,
+        "importe_total": 9719.5,
         "creado_por_id": "3e50e7e7-9fd7-4e53-9bf0-2bfd2d063f7f",
         "creado_en": "2026-07-17T21:40:13.593067+00:00",
         "metadatos": {
           "lineas": [
             {
-              "id": "lo17816958716034swo0fzh07a",
-              "total": 650,
-              "cantidad": 1,
+              "id": "lo1781719752933",
+              "total": 1950,
+              "cantidad": 3,
               "descuento": 0,
               "comentario": "",
               "conceptoId": "be85af77-53f1-4d21-9e7d-874f81577420",
               "precioUnit": 650
             },
             {
-              "id": "lo17816958716038jnni0hp2ca",
-              "total": 405,
+              "id": "lo1781719762443",
+              "total": 1265,
               "cantidad": 1,
               "descuento": 0,
               "comentario": "",
-              "conceptoId": "37c0a865-8cf0-4d5f-8b08-4e602e14b8d8",
-              "precioUnit": 405
-            }
-          ]
-        },
-        "legacy_id": "o1781695980665",
-        "proyecto_id": "7a1f0f42-9123-45b8-b17d-8e26b1f7afc0"
-      },
-      {
-        "id": "8099b45b-2776-44f3-9880-d28b86d7d9fc",
-        "codigo": "033-26",
-        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
-        "asunto": "BP TOPOGRAFICO PARA COORDINACIÓN CATASTRO",
-        "po": null,
-        "estado": "activa",
-        "importe_total": 1100,
-        "creado_por_id": "3e50e7e7-9fd7-4e53-9bf0-2bfd2d063f7f",
-        "creado_en": "2026-07-17T21:40:13.593067+00:00",
-        "metadatos": {
-          "lineas": [
+              "conceptoId": "5be72f00-e89c-49c9-87e2-cf1972da7f09",
+              "precioUnit": 1265
+            },
             {
-              "id": "lo1781697328554",
-              "total": 1100,
+              "id": "lo1781719789711",
+              "total": 595,
               "cantidad": 1,
               "descuento": 0,
               "comentario": "",
-              "conceptoId": "0761f0c1-a19f-4a71-b6b5-e3a4aa44ba1b",
-              "precioUnit": 1100
+              "conceptoId": "2079221d-5216-41ba-855b-a270f0ba266e",
+              "precioUnit": 595
+            },
+            {
+              "id": "lo1781719791890",
+              "total": 240,
+              "cantidad": 1,
+              "descuento": 0,
+              "comentario": "Recuperación fianzas",
+              "conceptoId": "2ee15cd2-26b1-48c6-98b7-4d84b376de55",
+              "precioUnit": 240
+            },
+            {
+              "id": "lo1781719760875",
+              "total": 2187.5,
+              "cantidad": 1,
+              "descuento": 30,
+              "comentario": "",
+              "conceptoId": "086286e2-8692-4c70-9ff9-0253d3bc3a24",
+              "precioUnit": 3125
+            },
+            {
+              "id": "lo1781719728515",
+              "total": 1232,
+              "cantidad": 1,
+              "descuento": 30,
+              "comentario": "",
+              "conceptoId": "94d58825-82ac-4f7a-839e-e07e950e71fe",
+              "precioUnit": 1760
+            },
+            {
+              "id": "lo1781719816649",
+              "total": 2250,
+              "cantidad": 6,
+              "descuento": 0,
+              "comentario": "",
+              "conceptoId": "9aea6290-4eac-4b5e-b53d-4e3b0a28b972",
+              "precioUnit": 375
             }
           ]
         },
-        "legacy_id": "o1781698402802",
-        "proyecto_id": "73a98fda-dc9e-4fa7-bddd-2e5ec04bbe37"
+        "legacy_id": "o1781719851755",
+        "proyecto_id": "232f96fb-99a7-4e15-9766-664c8fadc155"
       },
       {
         "id": "547b84fb-7ca3-4459-b757-ad8e06355ab4",
@@ -5612,30 +5870,30 @@
         "proyecto_id": "1ed654d6-f77b-41eb-9f35-f549ae962b47"
       },
       {
-        "id": "464bb7bf-75bf-4e24-99db-13d2caa9c269",
-        "codigo": "039-26",
+        "id": "8099b45b-2776-44f3-9880-d28b86d7d9fc",
+        "codigo": "033-26",
         "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
-        "asunto": "BP TOPOGRÁFICO PARCELA LAVADOS",
+        "asunto": "BP TOPOGRAFICO PARA COORDINACIÓN CATASTRO",
         "po": null,
-        "estado": "borrador",
-        "importe_total": 800,
+        "estado": "activa",
+        "importe_total": 1100,
         "creado_por_id": "3e50e7e7-9fd7-4e53-9bf0-2bfd2d063f7f",
         "creado_en": "2026-07-17T21:40:13.593067+00:00",
         "metadatos": {
           "lineas": [
             {
-              "id": "lo1781720311240",
-              "total": 800,
+              "id": "lo1781697328554",
+              "total": 1100,
               "cantidad": 1,
               "descuento": 0,
               "comentario": "",
-              "conceptoId": "1db22ab2-2055-443e-9422-62183ab38671",
-              "precioUnit": 800
+              "conceptoId": "0761f0c1-a19f-4a71-b6b5-e3a4aa44ba1b",
+              "precioUnit": 1100
             }
           ]
         },
-        "legacy_id": "o1781720319118",
-        "proyecto_id": "725546ca-0e8a-4b13-93a9-3357aa2366e8"
+        "legacy_id": "o1781698402802",
+        "proyecto_id": "73a98fda-dc9e-4fa7-bddd-2e5ec04bbe37"
       },
       {
         "id": "671aaab6-d42f-4868-a834-abf309efbe2d",
@@ -5736,84 +5994,83 @@
         "proyecto_id": "c182e1f2-4b7a-47d3-8f71-5a93e425871b"
       },
       {
-        "id": "515e9e94-fd5b-4dd2-8f3f-44728355bcef",
-        "codigo": "038-26",
-        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
-        "asunto": "BP INSTALACIÓN RECICLADORA LAVADOS",
+        "id": "0500b948-dc16-4576-884c-a041388527ab",
+        "codigo": "032-26",
+        "cliente_id": "9e05e084-0295-4aae-a282-17fe02921985",
+        "asunto": "BP ADECUACIÓN SANEAMIENTO",
         "po": null,
         "estado": "activa",
-        "importe_total": 9719.5,
+        "importe_total": 1055,
         "creado_por_id": "3e50e7e7-9fd7-4e53-9bf0-2bfd2d063f7f",
         "creado_en": "2026-07-17T21:40:13.593067+00:00",
         "metadatos": {
           "lineas": [
             {
-              "id": "lo1781719752933",
-              "total": 1950,
-              "cantidad": 3,
+              "id": "lo17816958716034swo0fzh07a",
+              "total": 650,
+              "cantidad": 1,
               "descuento": 0,
               "comentario": "",
               "conceptoId": "be85af77-53f1-4d21-9e7d-874f81577420",
               "precioUnit": 650
             },
             {
-              "id": "lo1781719762443",
-              "total": 1265,
+              "id": "lo17816958716038jnni0hp2ca",
+              "total": 405,
               "cantidad": 1,
               "descuento": 0,
               "comentario": "",
-              "conceptoId": "5be72f00-e89c-49c9-87e2-cf1972da7f09",
-              "precioUnit": 1265
-            },
-            {
-              "id": "lo1781719789711",
-              "total": 595,
-              "cantidad": 1,
-              "descuento": 0,
-              "comentario": "",
-              "conceptoId": "2079221d-5216-41ba-855b-a270f0ba266e",
-              "precioUnit": 595
-            },
-            {
-              "id": "lo1781719791890",
-              "total": 240,
-              "cantidad": 1,
-              "descuento": 0,
-              "comentario": "Recuperación fianzas",
-              "conceptoId": "2ee15cd2-26b1-48c6-98b7-4d84b376de55",
-              "precioUnit": 240
-            },
-            {
-              "id": "lo1781719760875",
-              "total": 2187.5,
-              "cantidad": 1,
-              "descuento": 30,
-              "comentario": "",
-              "conceptoId": "086286e2-8692-4c70-9ff9-0253d3bc3a24",
-              "precioUnit": 3125
-            },
-            {
-              "id": "lo1781719728515",
-              "total": 1232,
-              "cantidad": 1,
-              "descuento": 30,
-              "comentario": "",
-              "conceptoId": "94d58825-82ac-4f7a-839e-e07e950e71fe",
-              "precioUnit": 1760
-            },
-            {
-              "id": "lo1781719816649",
-              "total": 2250,
-              "cantidad": 6,
-              "descuento": 0,
-              "comentario": "",
-              "conceptoId": "9aea6290-4eac-4b5e-b53d-4e3b0a28b972",
-              "precioUnit": 375
+              "conceptoId": "37c0a865-8cf0-4d5f-8b08-4e602e14b8d8",
+              "precioUnit": 405
             }
           ]
         },
-        "legacy_id": "o1781719851755",
-        "proyecto_id": "232f96fb-99a7-4e15-9766-664c8fadc155"
+        "legacy_id": "o1781695980665",
+        "proyecto_id": "7a1f0f42-9123-45b8-b17d-8e26b1f7afc0"
+      },
+      {
+        "id": "4d9590a3-aacf-44f8-9927-056094a1d99c",
+        "codigo": "031-26",
+        "cliente_id": "b405360f-b82f-4344-aa54-4a5c87490d63",
+        "asunto": "CF INFORME DEFICIENCIAS ES",
+        "po": null,
+        "estado": "activa",
+        "importe_total": 2250,
+        "creado_por_id": "3e50e7e7-9fd7-4e53-9bf0-2bfd2d063f7f",
+        "creado_en": "2026-07-17T21:40:13.593067+00:00",
+        "metadatos": {
+          "lineas": [
+            {
+              "id": "lo1781627910337",
+              "total": 425,
+              "cantidad": 1,
+              "descuento": 0,
+              "comentario": "VISTA TÉCNICO AYUNTAMIENTO",
+              "conceptoId": "025f1518-6bd1-44b9-8361-3020be4b7112",
+              "precioUnit": 425
+            },
+            {
+              "id": "lo1781627813554",
+              "total": 1100,
+              "cantidad": 1,
+              "descuento": 0,
+              "comentario": "INFORME DEFICIENCIAS LEGALES E IP04 ES CF DENIA",
+              "conceptoId": "04283b6c-87ce-4fef-a269-c4e9b7c5ee41",
+              "precioUnit": 1100
+            },
+            {
+              "id": "lo1781627851218",
+              "total": 725,
+              "cantidad": 1,
+              "descuento": 0,
+              "comentario": "VISITA TOMA DE DATOS ES",
+              "conceptoId": "37c0a865-8cf0-4d5f-8b08-4e602e14b8d8",
+              "precioUnit": 725
+            }
+          ]
+        },
+        "legacy_id": "o1781627943721",
+        "proyecto_id": "b2ff2088-09ee-4ef5-bf60-b2cc6aed5009"
       },
       {
         "id": "27ef0291-a14f-4cca-ade6-76d95876256c",
@@ -5905,93 +6162,30 @@
         "proyecto_id": "8693def8-3f80-43ac-a45b-94f63649707f"
       },
       {
-        "id": "90ce5e10-78e3-4cdc-abc7-e8b2a177bd3e",
-        "codigo": "036-26",
+        "id": "464bb7bf-75bf-4e24-99db-13d2caa9c269",
+        "codigo": "039-26",
         "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
-        "asunto": "BP REQUERIMIENTO URBANISMO Y CARRETERAS INSTALACIÓN RECICLADORA",
-        "po": "3001322306",
-        "estado": "cerrada",
-        "importe_total": 3380,
+        "asunto": "BP TOPOGRÁFICO PARCELA LAVADOS",
+        "po": null,
+        "estado": "borrador",
+        "importe_total": 800,
         "creado_por_id": "3e50e7e7-9fd7-4e53-9bf0-2bfd2d063f7f",
         "creado_en": "2026-07-17T21:40:13.593067+00:00",
         "metadatos": {
           "lineas": [
             {
-              "id": "lo1781718266601",
-              "total": 480,
-              "cantidad": 2,
-              "descuento": 0,
-              "comentario": "",
-              "conceptoId": "2ee15cd2-26b1-48c6-98b7-4d84b376de55",
-              "precioUnit": 240
-            },
-            {
-              "id": "lo1781718243919",
-              "total": 240,
+              "id": "lo1781720311240",
+              "total": 800,
               "cantidad": 1,
               "descuento": 0,
               "comentario": "",
-              "conceptoId": "2ee15cd2-26b1-48c6-98b7-4d84b376de55",
-              "precioUnit": 240
-            },
-            {
-              "id": "lo1781718218653",
-              "total": 240,
-              "cantidad": 1,
-              "descuento": 0,
-              "comentario": "",
-              "conceptoId": "2ee15cd2-26b1-48c6-98b7-4d84b376de55",
-              "precioUnit": 240
-            },
-            {
-              "id": "lo1781718194571",
-              "total": 240,
-              "cantidad": 1,
-              "descuento": 0,
-              "comentario": "",
-              "conceptoId": "2ee15cd2-26b1-48c6-98b7-4d84b376de55",
-              "precioUnit": 240
-            },
-            {
-              "id": "lo1781718161707",
-              "total": 240,
-              "cantidad": 1,
-              "descuento": 0,
-              "comentario": "",
-              "conceptoId": "2ee15cd2-26b1-48c6-98b7-4d84b376de55",
-              "precioUnit": 240
-            },
-            {
-              "id": "lo1781718145702",
-              "total": 240,
-              "cantidad": 1,
-              "descuento": 0,
-              "comentario": "",
-              "conceptoId": "2ee15cd2-26b1-48c6-98b7-4d84b376de55",
-              "precioUnit": 240
-            },
-            {
-              "id": "lo1781718396440",
-              "total": 1000,
-              "cantidad": 1,
-              "descuento": 0,
-              "comentario": "Topográfico de estación para requerimiento urbanístico",
-              "conceptoId": "ab1a3323-ec38-4189-b49a-3b4452ad9de4",
-              "precioUnit": 1000
-            },
-            {
-              "id": "lo1781717940052ef5f9lcl5e",
-              "total": 700,
-              "cantidad": 1,
-              "descuento": 0,
-              "comentario": "Anexo al proyecto para contestación requerimiento",
-              "conceptoId": "22eb4a67-ad33-4a68-8e9e-008074e69f47",
-              "precioUnit": 700
+              "conceptoId": "1db22ab2-2055-443e-9422-62183ab38671",
+              "precioUnit": 800
             }
           ]
         },
-        "legacy_id": "o1781718509009",
-        "proyecto_id": "d49d3f19-b7fa-4dce-867f-6775491cced2"
+        "legacy_id": "o1781720319118",
+        "proyecto_id": "725546ca-0e8a-4b13-93a9-3357aa2366e8"
       },
       {
         "id": "6e861df7-cd37-446a-aa55-47613fa2d2a7",
@@ -6108,316 +6302,6 @@
         "proyecto_id": "21fd1b4b-92fb-4f49-8685-54465fb2bdff"
       },
       {
-        "id": "4c284a13-ff32-4a94-9bd4-58e094515645",
-        "codigo": "012-26",
-        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
-        "asunto": "BP PROYECTO LEGALIZACIÓN BT ES OLABERRÍA",
-        "po": "3001339420",
-        "estado": "facturada",
-        "importe_total": 4335,
-        "creado_por_id": "3e50e7e7-9fd7-4e53-9bf0-2bfd2d063f7f",
-        "creado_en": "2026-06-16T13:39:49.533974+00:00",
-        "metadatos": {
-          "zona": "NORTE",
-          "fecha": "2026-02-22",
-          "lineas": [
-            {
-              "id": "lo1779139573923",
-              "total": 625,
-              "cantidad": 1,
-              "descuento": 0,
-              "comentario": "",
-              "conceptoId": "23d2c450-ee4d-4efe-9665-530b47dc519d",
-              "precioUnit": 625
-            },
-            {
-              "id": "lo1779139552723",
-              "total": 1155,
-              "cantidad": 1,
-              "descuento": 65,
-              "comentario": "",
-              "conceptoId": "086286e2-8692-4c70-9ff9-0253d3bc3a24",
-              "precioUnit": 3300
-            },
-            {
-              "id": "lo1779139531185",
-              "total": 1250,
-              "cantidad": 1,
-              "descuento": 0,
-              "comentario": "",
-              "conceptoId": "49cbf71b-6bba-41db-9713-8735919038e3",
-              "precioUnit": 1250
-            },
-            {
-              "id": "lo1779139542387",
-              "total": 880,
-              "cantidad": 1,
-              "descuento": 20,
-              "comentario": "",
-              "conceptoId": "04283b6c-87ce-4fef-a269-c4e9b7c5ee41",
-              "precioUnit": 1100
-            },
-            {
-              "id": "lo1779139565800",
-              "total": 425,
-              "cantidad": 1,
-              "descuento": 0,
-              "comentario": "",
-              "conceptoId": "37c0a865-8cf0-4d5f-8b08-4e602e14b8d8",
-              "precioUnit": 425
-            }
-          ],
-          "nombre": "",
-          "firmante": "",
-          "formaPago": "Según contrato",
-          "referencia": "BP-PLBEO-220226-v3",
-          "emplazamiento": "BP OLABERRÍA",
-          "firmanteCliente": "Dña. Concepción Gutierrez",
-          "firmanteNorAcua": ""
-        },
-        "legacy_id": "of_012_26",
-        "proyecto_id": "ce2ce3d0-5315-4f3c-ae63-d9ee14ab736c"
-      },
-      {
-        "id": "5da152ac-4e91-48d6-8691-c1f8e1c0aab6",
-        "codigo": "022-26",
-        "cliente_id": "b405360f-b82f-4344-aa54-4a5c87490d63",
-        "asunto": "CF PROYECTO ADECUACIÓN INSTALACIÓN PETROLÍFERA EXISTENTE",
-        "po": null,
-        "estado": "activa",
-        "importe_total": 9470,
-        "creado_por_id": "3e50e7e7-9fd7-4e53-9bf0-2bfd2d063f7f",
-        "creado_en": "2026-06-16T13:39:49.533974+00:00",
-        "metadatos": {
-          "zona": "OTROS",
-          "fecha": "2026-05-19",
-          "lineas": [
-            {
-              "id": "lo1779195231304",
-              "total": 1800,
-              "cantidad": 3,
-              "descuento": 0,
-              "comentario": "",
-              "conceptoId": "be85af77-53f1-4d21-9e7d-874f81577420",
-              "precioUnit": 600
-            },
-            {
-              "id": "lo1779195186048",
-              "total": 650,
-              "cantidad": 1,
-              "descuento": 0,
-              "comentario": "",
-              "conceptoId": "2079221d-5216-41ba-855b-a270f0ba266e",
-              "precioUnit": 650
-            },
-            {
-              "id": "lo1779195193540",
-              "total": 595,
-              "cantidad": 1,
-              "descuento": 0,
-              "comentario": "",
-              "conceptoId": "23d2c450-ee4d-4efe-9665-530b47dc519d",
-              "precioUnit": 595
-            },
-            {
-              "id": "lo1779213118432",
-              "total": 1000,
-              "cantidad": 2,
-              "descuento": 0,
-              "comentario": "",
-              "conceptoId": "ffebf619-98de-4f94-8dfa-d9d8794a7530",
-              "precioUnit": 500
-            },
-            {
-              "id": "lo1779195206509",
-              "total": 2050,
-              "cantidad": 1,
-              "descuento": 0,
-              "comentario": "",
-              "conceptoId": "086286e2-8692-4c70-9ff9-0253d3bc3a24",
-              "precioUnit": 2050
-            },
-            {
-              "id": "lo1779213083108",
-              "total": 2650,
-              "cantidad": 1,
-              "descuento": 0,
-              "comentario": "",
-              "conceptoId": "94d58825-82ac-4f7a-839e-e07e950e71fe",
-              "precioUnit": 2650
-            },
-            {
-              "id": "lo1779195171838",
-              "total": 725,
-              "cantidad": 1,
-              "descuento": 0,
-              "comentario": "",
-              "conceptoId": "37c0a865-8cf0-4d5f-8b08-4e602e14b8d8",
-              "precioUnit": 725
-            }
-          ],
-          "nombre": "",
-          "firmante": "",
-          "formaPago": "Según contrato",
-          "referencia": "CF-PAIPE-190526-v1",
-          "emplazamiento": "CF DENIA",
-          "firmanteCliente": "D. Rubén Vigaray",
-          "firmanteNorAcua": "D. Daniel Romero"
-        },
-        "legacy_id": "o1779196755155",
-        "proyecto_id": "b2ff2088-09ee-4ef5-bf60-b2cc6aed5009"
-      },
-      {
-        "id": "28291b48-80df-48b7-8bfa-3797107cab0d",
-        "codigo": "019-26",
-        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
-        "asunto": "BP VISITA E INFORME SUMINISTROS ES SEGÓBRIGA",
-        "po": "3001334383",
-        "estado": "facturada",
-        "importe_total": 1405,
-        "creado_por_id": "3e50e7e7-9fd7-4e53-9bf0-2bfd2d063f7f",
-        "creado_en": "2026-06-16T13:39:49.533974+00:00",
-        "metadatos": {
-          "zona": "CENTRO",
-          "fecha": "2026-03-31",
-          "lineas": [
-            {
-              "id": "lo1779140510488",
-              "total": 1000,
-              "cantidad": 1,
-              "descuento": 0,
-              "comentario": "",
-              "conceptoId": "04283b6c-87ce-4fef-a269-c4e9b7c5ee41",
-              "precioUnit": 1000
-            },
-            {
-              "id": "lo1779140515868",
-              "total": 405,
-              "cantidad": 1,
-              "descuento": 0,
-              "comentario": "",
-              "conceptoId": "37c0a865-8cf0-4d5f-8b08-4e602e14b8d8",
-              "precioUnit": 405
-            }
-          ],
-          "nombre": "",
-          "firmante": "",
-          "formaPago": "Según contrato",
-          "referencia": "BP-VISES-310326-v1",
-          "emplazamiento": "BP SEGÓBRIGA",
-          "firmanteCliente": "Dña. Concepción Gutierrez",
-          "firmanteNorAcua": ""
-        },
-        "legacy_id": "of_019_26",
-        "proyecto_id": "f063bf5c-8e40-4902-b61c-07fe9c7e8c96"
-      },
-      {
-        "id": "5dc1a0a4-7a6b-41a9-8f7c-0031436060cc",
-        "codigo": "018-26",
-        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
-        "asunto": "BP TOMA DE DATOS E INFORME SANEAMIENTO ES GETAFE M406",
-        "po": "3001334368",
-        "estado": "facturada",
-        "importe_total": 1645,
-        "creado_por_id": "3e50e7e7-9fd7-4e53-9bf0-2bfd2d063f7f",
-        "creado_en": "2026-06-16T13:39:49.533974+00:00",
-        "metadatos": {
-          "zona": "CENTRO",
-          "fecha": "2026-03-31",
-          "lineas": [
-            {
-              "id": "lo1779140425052",
-              "total": 240,
-              "cantidad": 1,
-              "descuento": 0,
-              "comentario": "",
-              "conceptoId": "2ee15cd2-26b1-48c6-98b7-4d84b376de55",
-              "precioUnit": 240
-            },
-            {
-              "id": "lo1779140411306",
-              "total": 1000,
-              "cantidad": 1,
-              "descuento": 0,
-              "comentario": "",
-              "conceptoId": "04283b6c-87ce-4fef-a269-c4e9b7c5ee41",
-              "precioUnit": 1000
-            },
-            {
-              "id": "lo1779140419715",
-              "total": 405,
-              "cantidad": 1,
-              "descuento": 0,
-              "comentario": "",
-              "conceptoId": "37c0a865-8cf0-4d5f-8b08-4e602e14b8d8",
-              "precioUnit": 405
-            }
-          ],
-          "nombre": "",
-          "firmante": "",
-          "formaPago": "Según contrato",
-          "referencia": "BP-TDDISEGM-310326-v1",
-          "emplazamiento": "BP GETAFE M406",
-          "firmanteCliente": "Dña. Concepción Gutierrez",
-          "firmanteNorAcua": ""
-        },
-        "legacy_id": "of_018_26",
-        "proyecto_id": "ed2f275e-f5c5-40ed-90eb-ca1f797c3d1a"
-      },
-      {
-        "id": "fc041699-e13c-4a6c-91ba-5be2534c5f4b",
-        "codigo": "011-26",
-        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
-        "asunto": "BP MONITORIZACIÓN MURO ES VÍA NORTE",
-        "po": "3001326125",
-        "estado": "facturada",
-        "importe_total": 2025,
-        "creado_por_id": "3e50e7e7-9fd7-4e53-9bf0-2bfd2d063f7f",
-        "creado_en": "2026-06-16T13:39:49.533974+00:00",
-        "metadatos": {
-          "zona": "NORTE",
-          "fecha": "2026-02-22",
-          "lineas": [
-            {
-              "id": "lo1779139479699",
-              "total": 500,
-              "cantidad": 10,
-              "descuento": 0,
-              "comentario": "",
-              "conceptoId": "279f8923-62fd-40e4-a769-28e153051a2a",
-              "precioUnit": 50
-            },
-            {
-              "id": "lo1779139475479",
-              "total": 1100,
-              "cantidad": 1,
-              "descuento": 0,
-              "comentario": "",
-              "conceptoId": "04283b6c-87ce-4fef-a269-c4e9b7c5ee41",
-              "precioUnit": 1100
-            },
-            {
-              "id": "lo1779139496567",
-              "total": 425,
-              "cantidad": 1,
-              "descuento": 0,
-              "comentario": "",
-              "conceptoId": "37c0a865-8cf0-4d5f-8b08-4e602e14b8d8",
-              "precioUnit": 425
-            }
-          ],
-          "nombre": "",
-          "firmante": "",
-          "formaPago": "Según contrato",
-          "referencia": "BP-MMEVN-220226-v1",
-          "emplazamiento": "BP VÍA NORTE",
-          "firmanteCliente": "Dña. Concepción Gutierrez",
-          "firmanteNorAcua": ""
-        },
-        "legacy_id": "of_011_26",
-        "proyecto_id": "b18fdaeb-b50a-4275-ae7f-104e5fecad9e"
-      },
-      {
         "id": "8b6128ae-8b83-4720-81ee-9cee11295955",
         "codigo": "003-26",
         "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
@@ -6523,41 +6407,6 @@
         },
         "legacy_id": "of_003_26",
         "proyecto_id": "272dd4b7-f33e-463e-9f3b-3bbbeb6b3123"
-      },
-      {
-        "id": "504d86f8-7fe0-4325-a79f-7c448de440c0",
-        "codigo": "009-26",
-        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
-        "asunto": "BP VISITA PROPIEDAD ES CARREÑO",
-        "po": "3001326126",
-        "estado": "facturada",
-        "importe_total": 750,
-        "creado_por_id": "3e50e7e7-9fd7-4e53-9bf0-2bfd2d063f7f",
-        "creado_en": "2026-06-16T13:39:49.533974+00:00",
-        "metadatos": {
-          "zona": "NORTE",
-          "fecha": "2026-02-22",
-          "lineas": [
-            {
-              "id": "lo1779139376153",
-              "total": 750,
-              "cantidad": 1,
-              "descuento": 0,
-              "comentario": "",
-              "conceptoId": "150a938c-d0e6-4fdb-af06-830e213c1a39",
-              "precioUnit": 750
-            }
-          ],
-          "nombre": "",
-          "firmante": "",
-          "formaPago": "Según contrato",
-          "referencia": "BP-VPEC-220226-v1",
-          "emplazamiento": "BP CARREÑO",
-          "firmanteCliente": "Dña. Concepción Gutierrez",
-          "firmanteNorAcua": ""
-        },
-        "legacy_id": "of_009_26",
-        "proyecto_id": "4eaf98c0-695f-4215-9885-4dc55c64bdc7"
       },
       {
         "id": "2796bfac-3a53-45c6-8fad-9230119b3c08",
@@ -6728,121 +6577,6 @@
         "proyecto_id": "d24bd465-6018-4bcf-9119-b607e175a8b3"
       },
       {
-        "id": "16665a02-f1da-4409-aab3-c73614142e7b",
-        "codigo": "017-26",
-        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
-        "asunto": "BP PROYECTO Y LEGALIZACIÓN INSTALACIÓN BT ES POLLENSA",
-        "po": "300133164",
-        "estado": "facturada",
-        "importe_total": 3718.75,
-        "creado_por_id": "3e50e7e7-9fd7-4e53-9bf0-2bfd2d063f7f",
-        "creado_en": "2026-06-16T13:39:49.533974+00:00",
-        "metadatos": {
-          "zona": "BALEARES",
-          "fecha": "2026-03-17",
-          "lineas": [
-            {
-              "id": "lo1779140362204",
-              "total": 595,
-              "cantidad": 1,
-              "descuento": 0,
-              "comentario": "",
-              "conceptoId": "23d2c450-ee4d-4efe-9665-530b47dc519d",
-              "precioUnit": 595
-            },
-            {
-              "id": "lo1779140372387",
-              "total": 850,
-              "cantidad": 1,
-              "descuento": 0,
-              "comentario": "",
-              "conceptoId": "279f8923-62fd-40e4-a769-28e153051a2a",
-              "precioUnit": 850
-            },
-            {
-              "id": "lo1779140347729",
-              "total": 1093.75,
-              "cantidad": 1,
-              "descuento": 65,
-              "comentario": "",
-              "conceptoId": "086286e2-8692-4c70-9ff9-0253d3bc3a24",
-              "precioUnit": 3125
-            },
-            {
-              "id": "lo1779140341523",
-              "total": 1180,
-              "cantidad": 1,
-              "descuento": 0,
-              "comentario": "",
-              "conceptoId": "49cbf71b-6bba-41db-9713-8735919038e3",
-              "precioUnit": 1180
-            }
-          ],
-          "nombre": "",
-          "firmante": "",
-          "formaPago": "Según contrato",
-          "referencia": "BP-PLIBEP-170326-v1",
-          "emplazamiento": "BP POLLENSA",
-          "firmanteCliente": "Dña. Guiomar Tuero",
-          "firmanteNorAcua": ""
-        },
-        "legacy_id": "of_017_26",
-        "proyecto_id": "75fde8f4-4de9-4000-b67d-67e91b00c497"
-      },
-      {
-        "id": "0236a2db-9a88-4a83-a72b-dd571ec01921",
-        "codigo": "001-26",
-        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
-        "asunto": "BP PROYECTO Y LICENCIAS IM ES SANTA EULALIA",
-        "po": "3001323676",
-        "estado": "facturada",
-        "importe_total": 5555,
-        "creado_por_id": "3e50e7e7-9fd7-4e53-9bf0-2bfd2d063f7f",
-        "creado_en": "2026-06-16T13:39:49.533974+00:00",
-        "metadatos": {
-          "zona": "BALEARES",
-          "fecha": "2026-01-28",
-          "lineas": [
-            {
-              "id": "lo1779137897862",
-              "total": 1000,
-              "cantidad": 1,
-              "descuento": 0,
-              "comentario": "",
-              "conceptoId": "465cb4a1-a432-46e5-a1ca-958cc49437ac",
-              "precioUnit": 1000
-            },
-            {
-              "id": "lo1779137881797",
-              "total": 4150,
-              "cantidad": 1,
-              "descuento": 0,
-              "comentario": "",
-              "conceptoId": "622aee39-fa39-4078-bb4b-5ba43cb48e17",
-              "precioUnit": 4150
-            },
-            {
-              "id": "lo1779137890213",
-              "total": 405,
-              "cantidad": 1,
-              "descuento": 0,
-              "comentario": "",
-              "conceptoId": "37c0a865-8cf0-4d5f-8b08-4e602e14b8d8",
-              "precioUnit": 405
-            }
-          ],
-          "nombre": "",
-          "firmante": "",
-          "formaPago": "Según contrato",
-          "referencia": "BP-PYLIESE-280126-v1",
-          "emplazamiento": "BP SANTA EULALIA",
-          "firmanteCliente": "Dña. Guimar Tuero",
-          "firmanteNorAcua": ""
-        },
-        "legacy_id": "of_001_26",
-        "proyecto_id": "6dbd7903-a489-4c10-8be3-f6a5a0423f48"
-      },
-      {
         "id": "26429085-56d0-4dba-8024-fdfa92d34be2",
         "codigo": "020-26",
         "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
@@ -6896,48 +6630,39 @@
         "proyecto_id": "c5f68702-6d75-40c9-8be2-f38bb985a5c9"
       },
       {
-        "id": "f09dac1c-f6b4-4deb-92f1-1bfd1b100bb4",
-        "codigo": "030-26",
+        "id": "04d85d7b-b9d9-44c5-8b8e-0d58f68ed5b2",
+        "codigo": "026-26",
         "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
-        "asunto": "BP INFORME VERTIDOS ES",
+        "asunto": "BP LEVANTAMIENTO TOPOGRÁFICO",
         "po": null,
-        "estado": "facturada",
-        "importe_total": 1455,
+        "estado": "cerrada",
+        "importe_total": 1000,
         "creado_por_id": "3e50e7e7-9fd7-4e53-9bf0-2bfd2d063f7f",
         "creado_en": "2026-06-16T13:39:49.533974+00:00",
         "metadatos": {
-          "zona": "BALEARES",
-          "fecha": "2026-06-09",
+          "zona": "CATALUÑA",
+          "fecha": "2026-06-05",
           "lineas": [
             {
-              "id": "lo1781040617527ejcv0u9r94s",
-              "total": 1050,
+              "id": "lo1780659354503",
+              "total": 1000,
               "cantidad": 1,
               "descuento": 0,
               "comentario": "",
-              "conceptoId": "04283b6c-87ce-4fef-a269-c4e9b7c5ee41",
-              "precioUnit": 1050
-            },
-            {
-              "id": "lo1781040617527lz1v1oxzti",
-              "total": 405,
-              "cantidad": 1,
-              "descuento": 0,
-              "comentario": "",
-              "conceptoId": "419549da-47c3-4c4b-b15d-3799f85f48f6",
-              "precioUnit": 405
+              "conceptoId": "ab1a3323-ec38-4189-b49a-3b4452ad9de4",
+              "precioUnit": 1000
             }
           ],
           "nombre": "",
           "firmante": "",
           "formaPago": "Según contrato",
-          "referencia": "BP-IVE-090626-v1",
-          "emplazamiento": "BP SANTA EULALIA",
-          "firmanteCliente": "Dña. Guiomar Tuero",
+          "referencia": "BP-LT-050626-v1",
+          "emplazamiento": "BP RIBAS LA COMETA",
+          "firmanteCliente": "D. Gabriel Mondejar",
           "firmanteNorAcua": "D. Daniel Romero"
         },
-        "legacy_id": "o1781040685810",
-        "proyecto_id": "03dfd712-b4d1-46a4-bb33-5511abc6193f"
+        "legacy_id": "o1780659356493",
+        "proyecto_id": "5fe47865-dfa6-448f-b2b9-3609cb1898be"
       },
       {
         "id": "add70585-9c85-4864-8bcd-5c8a738baf77",
@@ -7286,209 +7011,6 @@
         "proyecto_id": "f2e00fc2-351c-4313-813e-a7659e401e16"
       },
       {
-        "id": "04d85d7b-b9d9-44c5-8b8e-0d58f68ed5b2",
-        "codigo": "026-26",
-        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
-        "asunto": "BP LEVANTAMIENTO TOPOGRÁFICO",
-        "po": null,
-        "estado": "cerrada",
-        "importe_total": 1000,
-        "creado_por_id": "3e50e7e7-9fd7-4e53-9bf0-2bfd2d063f7f",
-        "creado_en": "2026-06-16T13:39:49.533974+00:00",
-        "metadatos": {
-          "zona": "CATALUÑA",
-          "fecha": "2026-06-05",
-          "lineas": [
-            {
-              "id": "lo1780659354503",
-              "total": 1000,
-              "cantidad": 1,
-              "descuento": 0,
-              "comentario": "",
-              "conceptoId": "ab1a3323-ec38-4189-b49a-3b4452ad9de4",
-              "precioUnit": 1000
-            }
-          ],
-          "nombre": "",
-          "firmante": "",
-          "formaPago": "Según contrato",
-          "referencia": "BP-LT-050626-v1",
-          "emplazamiento": "BP RIBAS LA COMETA",
-          "firmanteCliente": "D. Gabriel Mondejar",
-          "firmanteNorAcua": "D. Daniel Romero"
-        },
-        "legacy_id": "o1780659356493",
-        "proyecto_id": "5fe47865-dfa6-448f-b2b9-3609cb1898be"
-      },
-      {
-        "id": "bcb7198a-e26b-4140-98ee-0385b4e88468",
-        "codigo": "021-26",
-        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
-        "asunto": "BP IMPLANTACIÓN PARA LAVADOS",
-        "po": "3001341277",
-        "estado": "facturada",
-        "importe_total": 965,
-        "creado_por_id": "3e50e7e7-9fd7-4e53-9bf0-2bfd2d063f7f",
-        "creado_en": "2026-06-16T13:39:49.533974+00:00",
-        "metadatos": {
-          "zona": "NORTE",
-          "fecha": "2026-05-18",
-          "lineas": [
-            {
-              "id": "lo1779144226184",
-              "total": 540,
-              "cantidad": 2,
-              "descuento": 0,
-              "comentario": "",
-              "conceptoId": "263a1d8d-f0a5-4a58-b35b-8a90f2fce57b",
-              "precioUnit": 270
-            },
-            {
-              "id": "lo1779144233920",
-              "total": 0,
-              "cantidad": 2,
-              "descuento": 100,
-              "comentario": "",
-              "conceptoId": "d2a8fece-4362-42ed-839e-0849c560a95c",
-              "precioUnit": 245
-            },
-            {
-              "id": "lo1779144211378",
-              "total": 425,
-              "cantidad": 1,
-              "descuento": 0,
-              "comentario": "",
-              "conceptoId": "37c0a865-8cf0-4d5f-8b08-4e602e14b8d8",
-              "precioUnit": 425
-            }
-          ],
-          "nombre": "",
-          "firmante": "",
-          "formaPago": "Según contrato",
-          "referencia": "BP-IPL-180526-v1",
-          "emplazamiento": "BP TRÁPAGA",
-          "firmanteCliente": "Dña. Raquel Martínez",
-          "firmanteNorAcua": "D. Daniel Romero"
-        },
-        "legacy_id": "o1779144271044",
-        "proyecto_id": "725546ca-0e8a-4b13-93a9-3357aa2366e8"
-      },
-      {
-        "id": "78251ea6-6ab0-4094-8562-348fc67319c9",
-        "codigo": "016-26",
-        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
-        "asunto": "BP PROYECTO Y LICENCIAS MODIFICACIÓN EDIFICIO ES SANTA EULALIA",
-        "po": null,
-        "estado": "borrador",
-        "importe_total": 6605,
-        "creado_por_id": "3e50e7e7-9fd7-4e53-9bf0-2bfd2d063f7f",
-        "creado_en": "2026-06-16T13:39:49.533974+00:00",
-        "metadatos": {
-          "zona": "BALEARES",
-          "fecha": "2026-03-16",
-          "lineas": [
-            {
-              "id": "lo1779140298223",
-              "total": 1000,
-              "cantidad": 1,
-              "descuento": 0,
-              "comentario": "",
-              "conceptoId": "465cb4a1-a432-46e5-a1ca-958cc49437ac",
-              "precioUnit": 1000
-            },
-            {
-              "id": "lo1779140283151",
-              "total": 3125,
-              "cantidad": 1,
-              "descuento": 0,
-              "comentario": "",
-              "conceptoId": "086286e2-8692-4c70-9ff9-0253d3bc3a24",
-              "precioUnit": 3125
-            },
-            {
-              "id": "lo1779140268094",
-              "total": 2075,
-              "cantidad": 1,
-              "descuento": 50,
-              "comentario": "",
-              "conceptoId": "622aee39-fa39-4078-bb4b-5ba43cb48e17",
-              "precioUnit": 4150
-            },
-            {
-              "id": "lo1779140292469",
-              "total": 405,
-              "cantidad": 1,
-              "descuento": 0,
-              "comentario": "",
-              "conceptoId": "37c0a865-8cf0-4d5f-8b08-4e602e14b8d8",
-              "precioUnit": 405
-            }
-          ],
-          "nombre": "",
-          "firmante": "",
-          "formaPago": "Según contrato",
-          "referencia": "BP-PLMEESE-160326-v1",
-          "emplazamiento": "BP SANTA EULALIA",
-          "firmanteCliente": "D. Josep Seijo",
-          "firmanteNorAcua": ""
-        },
-        "legacy_id": "of_016_26",
-        "proyecto_id": "7145ffd4-d12b-4b73-8963-cf5d3938960a"
-      },
-      {
-        "id": "e5feff21-57bb-4c2c-b341-355fb0ae15a5",
-        "codigo": "025-26-B",
-        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
-        "asunto": "BP PROYECTO Y LICENCIAS PARA CAMBIO DE SHC",
-        "po": null,
-        "estado": "activa",
-        "importe_total": 7325,
-        "creado_por_id": "3e50e7e7-9fd7-4e53-9bf0-2bfd2d063f7f",
-        "creado_en": "2026-06-16T13:39:49.533974+00:00",
-        "metadatos": {
-          "lineas": [
-            {
-              "id": "lo1779444742817qorj2sklat",
-              "total": 1375,
-              "cantidad": 1,
-              "descuento": 0,
-              "comentario": "",
-              "conceptoId": "5be72f00-e89c-49c9-87e2-cf1972da7f09",
-              "precioUnit": 1375
-            },
-            {
-              "id": "lo17794447428170bhjrwvdckte",
-              "total": 650,
-              "cantidad": 1,
-              "descuento": 0,
-              "comentario": "",
-              "conceptoId": "2079221d-5216-41ba-855b-a270f0ba266e",
-              "precioUnit": 650
-            },
-            {
-              "id": "lo1779444742817t7s2i7zjx5",
-              "total": 3300,
-              "cantidad": 1,
-              "descuento": 0,
-              "comentario": "",
-              "conceptoId": "086286e2-8692-4c70-9ff9-0253d3bc3a24",
-              "precioUnit": 3300
-            },
-            {
-              "id": "lo1779444742817kd4qtslhsds",
-              "total": 2000,
-              "cantidad": 1,
-              "descuento": 0,
-              "comentario": "",
-              "conceptoId": "94d58825-82ac-4f7a-839e-e07e950e71fe",
-              "precioUnit": 2000
-            }
-          ]
-        },
-        "legacy_id": "o1779445148864",
-        "proyecto_id": "006d9aac-5e3f-4314-b472-f480941d226f"
-      },
-      {
         "id": "c547e6b4-d415-43b6-a7bb-6a76996e9db0",
         "codigo": "028-26",
         "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
@@ -7739,48 +7261,189 @@
         "proyecto_id": "4c0bc367-e624-44b9-bccf-30dd617ee0a3"
       },
       {
-        "id": "ea233e40-3fea-4727-a303-d817cdd20b0e",
-        "codigo": "015-26",
+        "id": "f09dac1c-f6b4-4deb-92f1-1bfd1b100bb4",
+        "codigo": "030-26",
         "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
-        "asunto": "BP LEGALIZACIÓN COMPRESOR ES OLABERRÍA",
-        "po": "3001329953",
-        "estado": "cerrada",
-        "importe_total": 1325,
+        "asunto": "BP INFORME VERTIDOS ES",
+        "po": null,
+        "estado": "facturada",
+        "importe_total": 1455,
         "creado_por_id": "3e50e7e7-9fd7-4e53-9bf0-2bfd2d063f7f",
         "creado_en": "2026-06-16T13:39:49.533974+00:00",
         "metadatos": {
-          "zona": "NORTE",
-          "fecha": "2026-03-16",
+          "zona": "BALEARES",
+          "fecha": "2026-06-09",
           "lineas": [
             {
-              "id": "lo1779140228460",
-              "total": 625,
+              "id": "lo1781040617527ejcv0u9r94s",
+              "total": 1050,
               "cantidad": 1,
               "descuento": 0,
               "comentario": "",
-              "conceptoId": "23d2c450-ee4d-4efe-9665-530b47dc519d",
-              "precioUnit": 625
+              "conceptoId": "04283b6c-87ce-4fef-a269-c4e9b7c5ee41",
+              "precioUnit": 1050
             },
             {
-              "id": "lo1779140208378",
-              "total": 700,
+              "id": "lo1781040617527lz1v1oxzti",
+              "total": 405,
               "cantidad": 1,
-              "descuento": 44,
+              "descuento": 0,
               "comentario": "",
-              "conceptoId": "49cbf71b-6bba-41db-9713-8735919038e3",
-              "precioUnit": 1250
+              "conceptoId": "419549da-47c3-4c4b-b15d-3799f85f48f6",
+              "precioUnit": 405
             }
           ],
           "nombre": "",
           "firmante": "",
           "formaPago": "Según contrato",
-          "referencia": "BP-LCEO-160326-v1",
-          "emplazamiento": "BP OLABERRÍA",
-          "firmanteCliente": "Dña. Carmen de Antonio",
+          "referencia": "BP-IVE-090626-v1",
+          "emplazamiento": "BP SANTA EULALIA",
+          "firmanteCliente": "Dña. Guiomar Tuero",
+          "firmanteNorAcua": "D. Daniel Romero"
+        },
+        "legacy_id": "o1781040685810",
+        "proyecto_id": "03dfd712-b4d1-46a4-bb33-5511abc6193f"
+      },
+      {
+        "id": "6c11f44b-f9e3-47b8-9452-90320044d70b",
+        "codigo": "024-26",
+        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
+        "asunto": "BP TOMA DE DATOS E INFORME SANEAMIENTO ES BP CASTRO URDIALES",
+        "po": null,
+        "estado": "activa",
+        "importe_total": 2140,
+        "creado_por_id": "3e50e7e7-9fd7-4e53-9bf0-2bfd2d063f7f",
+        "creado_en": "2026-06-16T13:39:49.533974+00:00",
+        "metadatos": {
+          "zona": "NORTE",
+          "fecha": "2026-05-21",
+          "lineas": [
+            {
+              "id": "lo1779443706801",
+              "total": 240,
+              "cantidad": 1,
+              "descuento": 0,
+              "comentario": "",
+              "conceptoId": "2ee15cd2-26b1-48c6-98b7-4d84b376de55",
+              "precioUnit": 240
+            },
+            {
+              "id": "lo1779443690839",
+              "total": 1100,
+              "cantidad": 1,
+              "descuento": 0,
+              "comentario": "",
+              "conceptoId": "04283b6c-87ce-4fef-a269-c4e9b7c5ee41",
+              "precioUnit": 1100
+            },
+            {
+              "id": "lo1779443698343",
+              "total": 425,
+              "cantidad": 1,
+              "descuento": 0,
+              "comentario": "",
+              "conceptoId": "37c0a865-8cf0-4d5f-8b08-4e602e14b8d8",
+              "precioUnit": 425
+            },
+            {
+              "id": "lo1779443729580",
+              "total": 375,
+              "cantidad": 1,
+              "descuento": 0,
+              "comentario": "",
+              "conceptoId": "9aea6290-4eac-4b5e-b53d-4e3b0a28b972",
+              "precioUnit": 375
+            }
+          ],
+          "nombre": "",
+          "firmante": "",
+          "formaPago": "Según contrato",
+          "referencia": "BP-TDDISECU-210526-v1",
+          "emplazamiento": "BP CASTRO URDIALES",
+          "firmanteCliente": "Dña. Concepción Gutierrez",
+          "firmanteNorAcua": "D. Daniel Romero"
+        },
+        "legacy_id": "o1779443732088",
+        "proyecto_id": "006d9aac-5e3f-4314-b472-f480941d226f"
+      },
+      {
+        "id": "d470c24f-a969-43bb-b40f-0a4c5ecb33af",
+        "codigo": "023-26",
+        "cliente_id": "b405360f-b82f-4344-aa54-4a5c87490d63",
+        "asunto": "CF CÁLCULO CIMENTACIÓN CARTEL PUBLICITARIO",
+        "po": null,
+        "estado": "cancelada",
+        "importe_total": 1100,
+        "creado_por_id": "3e50e7e7-9fd7-4e53-9bf0-2bfd2d063f7f",
+        "creado_en": "2026-06-16T13:39:49.533974+00:00",
+        "metadatos": {
+          "zona": "OTROS",
+          "fecha": "2026-05-20",
+          "lineas": [
+            {
+              "id": "lo1779293884309",
+              "total": 1100,
+              "cantidad": 1,
+              "descuento": 0,
+              "comentario": "",
+              "conceptoId": "04283b6c-87ce-4fef-a269-c4e9b7c5ee41",
+              "precioUnit": 1100
+            }
+          ],
+          "nombre": "",
+          "firmante": "",
+          "formaPago": "Según contrato",
+          "referencia": "CF-CCCP-200526-v1",
+          "emplazamiento": "CF SAGUNTO",
+          "firmanteCliente": "D. Rubén Vigaray",
+          "firmanteNorAcua": "D. Daniel Romero"
+        },
+        "legacy_id": "o1779293894091",
+        "proyecto_id": "5133f85b-fdb0-4051-b59b-0adc0e9e185d"
+      },
+      {
+        "id": "eda7dbfe-27ed-4687-b401-c4e8c81f9563",
+        "codigo": "013-26",
+        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
+        "asunto": "BP SOLICITUD PERMISOS CARRETERAS ES MAQUEDA",
+        "po": "3001328746",
+        "estado": "facturada",
+        "importe_total": 683.75,
+        "creado_por_id": "3e50e7e7-9fd7-4e53-9bf0-2bfd2d063f7f",
+        "creado_en": "2026-06-16T13:39:49.533974+00:00",
+        "metadatos": {
+          "zona": "CENTRO",
+          "fecha": "2026-02-27",
+          "lineas": [
+            {
+              "id": "lo1779139654329",
+              "total": 240,
+              "cantidad": 1,
+              "descuento": 0,
+              "comentario": "",
+              "conceptoId": "2ee15cd2-26b1-48c6-98b7-4d84b376de55",
+              "precioUnit": 240
+            },
+            {
+              "id": "lo1779139640033",
+              "total": 443.75,
+              "cantidad": 1,
+              "descuento": 75,
+              "comentario": "",
+              "conceptoId": "94d58825-82ac-4f7a-839e-e07e950e71fe",
+              "precioUnit": 1775
+            }
+          ],
+          "nombre": "",
+          "firmante": "",
+          "formaPago": "Según contrato",
+          "referencia": "BP-SPCEM-270226-v1",
+          "emplazamiento": "BP MAQUEDA",
+          "firmanteCliente": "Dña. Concepción Gutierrez",
           "firmanteNorAcua": ""
         },
-        "legacy_id": "of_015_26",
-        "proyecto_id": "3073c25d-2aa1-40cb-b08e-02f6498bf3c7"
+        "legacy_id": "of_013_26",
+        "proyecto_id": "33d04663-298d-4c0a-ae2e-aee4020c21e0"
       },
       {
         "id": "82633bfa-1ede-4826-8a0c-05db77d67c28",
@@ -7836,21 +7499,436 @@
         "proyecto_id": "9ae98172-f102-4204-b4df-eaaf6b470908"
       },
       {
-        "id": "eda7dbfe-27ed-4687-b401-c4e8c81f9563",
-        "codigo": "013-26",
+        "id": "ea233e40-3fea-4727-a303-d817cdd20b0e",
+        "codigo": "015-26",
         "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
-        "asunto": "BP SOLICITUD PERMISOS CARRETERAS ES MAQUEDA",
-        "po": "3001328746",
+        "asunto": "BP LEGALIZACIÓN COMPRESOR ES OLABERRÍA",
+        "po": "3001329953",
+        "estado": "cerrada",
+        "importe_total": 1325,
+        "creado_por_id": "3e50e7e7-9fd7-4e53-9bf0-2bfd2d063f7f",
+        "creado_en": "2026-06-16T13:39:49.533974+00:00",
+        "metadatos": {
+          "zona": "NORTE",
+          "fecha": "2026-03-16",
+          "lineas": [
+            {
+              "id": "lo1779140228460",
+              "total": 625,
+              "cantidad": 1,
+              "descuento": 0,
+              "comentario": "",
+              "conceptoId": "23d2c450-ee4d-4efe-9665-530b47dc519d",
+              "precioUnit": 625
+            },
+            {
+              "id": "lo1779140208378",
+              "total": 700,
+              "cantidad": 1,
+              "descuento": 44,
+              "comentario": "",
+              "conceptoId": "49cbf71b-6bba-41db-9713-8735919038e3",
+              "precioUnit": 1250
+            }
+          ],
+          "nombre": "",
+          "firmante": "",
+          "formaPago": "Según contrato",
+          "referencia": "BP-LCEO-160326-v1",
+          "emplazamiento": "BP OLABERRÍA",
+          "firmanteCliente": "Dña. Carmen de Antonio",
+          "firmanteNorAcua": ""
+        },
+        "legacy_id": "of_015_26",
+        "proyecto_id": "3073c25d-2aa1-40cb-b08e-02f6498bf3c7"
+      },
+      {
+        "id": "e5feff21-57bb-4c2c-b341-355fb0ae15a5",
+        "codigo": "025-26-B",
+        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
+        "asunto": "BP PROYECTO Y LICENCIAS PARA CAMBIO DE SHC",
+        "po": null,
+        "estado": "activa",
+        "importe_total": 7325,
+        "creado_por_id": "3e50e7e7-9fd7-4e53-9bf0-2bfd2d063f7f",
+        "creado_en": "2026-06-16T13:39:49.533974+00:00",
+        "metadatos": {
+          "lineas": [
+            {
+              "id": "lo1779444742817qorj2sklat",
+              "total": 1375,
+              "cantidad": 1,
+              "descuento": 0,
+              "comentario": "",
+              "conceptoId": "5be72f00-e89c-49c9-87e2-cf1972da7f09",
+              "precioUnit": 1375
+            },
+            {
+              "id": "lo17794447428170bhjrwvdckte",
+              "total": 650,
+              "cantidad": 1,
+              "descuento": 0,
+              "comentario": "",
+              "conceptoId": "2079221d-5216-41ba-855b-a270f0ba266e",
+              "precioUnit": 650
+            },
+            {
+              "id": "lo1779444742817t7s2i7zjx5",
+              "total": 3300,
+              "cantidad": 1,
+              "descuento": 0,
+              "comentario": "",
+              "conceptoId": "086286e2-8692-4c70-9ff9-0253d3bc3a24",
+              "precioUnit": 3300
+            },
+            {
+              "id": "lo1779444742817kd4qtslhsds",
+              "total": 2000,
+              "cantidad": 1,
+              "descuento": 0,
+              "comentario": "",
+              "conceptoId": "94d58825-82ac-4f7a-839e-e07e950e71fe",
+              "precioUnit": 2000
+            }
+          ]
+        },
+        "legacy_id": "o1779445148864",
+        "proyecto_id": "006d9aac-5e3f-4314-b472-f480941d226f"
+      },
+      {
+        "id": "78251ea6-6ab0-4094-8562-348fc67319c9",
+        "codigo": "016-26",
+        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
+        "asunto": "BP PROYECTO Y LICENCIAS MODIFICACIÓN EDIFICIO ES SANTA EULALIA",
+        "po": null,
+        "estado": "borrador",
+        "importe_total": 6605,
+        "creado_por_id": "3e50e7e7-9fd7-4e53-9bf0-2bfd2d063f7f",
+        "creado_en": "2026-06-16T13:39:49.533974+00:00",
+        "metadatos": {
+          "zona": "BALEARES",
+          "fecha": "2026-03-16",
+          "lineas": [
+            {
+              "id": "lo1779140298223",
+              "total": 1000,
+              "cantidad": 1,
+              "descuento": 0,
+              "comentario": "",
+              "conceptoId": "465cb4a1-a432-46e5-a1ca-958cc49437ac",
+              "precioUnit": 1000
+            },
+            {
+              "id": "lo1779140283151",
+              "total": 3125,
+              "cantidad": 1,
+              "descuento": 0,
+              "comentario": "",
+              "conceptoId": "086286e2-8692-4c70-9ff9-0253d3bc3a24",
+              "precioUnit": 3125
+            },
+            {
+              "id": "lo1779140268094",
+              "total": 2075,
+              "cantidad": 1,
+              "descuento": 50,
+              "comentario": "",
+              "conceptoId": "622aee39-fa39-4078-bb4b-5ba43cb48e17",
+              "precioUnit": 4150
+            },
+            {
+              "id": "lo1779140292469",
+              "total": 405,
+              "cantidad": 1,
+              "descuento": 0,
+              "comentario": "",
+              "conceptoId": "37c0a865-8cf0-4d5f-8b08-4e602e14b8d8",
+              "precioUnit": 405
+            }
+          ],
+          "nombre": "",
+          "firmante": "",
+          "formaPago": "Según contrato",
+          "referencia": "BP-PLMEESE-160326-v1",
+          "emplazamiento": "BP SANTA EULALIA",
+          "firmanteCliente": "D. Josep Seijo",
+          "firmanteNorAcua": ""
+        },
+        "legacy_id": "of_016_26",
+        "proyecto_id": "7145ffd4-d12b-4b73-8963-cf5d3938960a"
+      },
+      {
+        "id": "bcb7198a-e26b-4140-98ee-0385b4e88468",
+        "codigo": "021-26",
+        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
+        "asunto": "BP IMPLANTACIÓN PARA LAVADOS",
+        "po": "3001341277",
         "estado": "facturada",
-        "importe_total": 683.75,
+        "importe_total": 965,
+        "creado_por_id": "3e50e7e7-9fd7-4e53-9bf0-2bfd2d063f7f",
+        "creado_en": "2026-06-16T13:39:49.533974+00:00",
+        "metadatos": {
+          "zona": "NORTE",
+          "fecha": "2026-05-18",
+          "lineas": [
+            {
+              "id": "lo1779144226184",
+              "total": 540,
+              "cantidad": 2,
+              "descuento": 0,
+              "comentario": "",
+              "conceptoId": "263a1d8d-f0a5-4a58-b35b-8a90f2fce57b",
+              "precioUnit": 270
+            },
+            {
+              "id": "lo1779144233920",
+              "total": 0,
+              "cantidad": 2,
+              "descuento": 100,
+              "comentario": "",
+              "conceptoId": "d2a8fece-4362-42ed-839e-0849c560a95c",
+              "precioUnit": 245
+            },
+            {
+              "id": "lo1779144211378",
+              "total": 425,
+              "cantidad": 1,
+              "descuento": 0,
+              "comentario": "",
+              "conceptoId": "37c0a865-8cf0-4d5f-8b08-4e602e14b8d8",
+              "precioUnit": 425
+            }
+          ],
+          "nombre": "",
+          "firmante": "",
+          "formaPago": "Según contrato",
+          "referencia": "BP-IPL-180526-v1",
+          "emplazamiento": "BP TRÁPAGA",
+          "firmanteCliente": "Dña. Raquel Martínez",
+          "firmanteNorAcua": "D. Daniel Romero"
+        },
+        "legacy_id": "o1779144271044",
+        "proyecto_id": "725546ca-0e8a-4b13-93a9-3357aa2366e8"
+      },
+      {
+        "id": "0236a2db-9a88-4a83-a72b-dd571ec01921",
+        "codigo": "001-26",
+        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
+        "asunto": "BP PROYECTO Y LICENCIAS IM ES SANTA EULALIA",
+        "po": "3001323676",
+        "estado": "facturada",
+        "importe_total": 5555,
+        "creado_por_id": "3e50e7e7-9fd7-4e53-9bf0-2bfd2d063f7f",
+        "creado_en": "2026-06-16T13:39:49.533974+00:00",
+        "metadatos": {
+          "zona": "BALEARES",
+          "fecha": "2026-01-28",
+          "lineas": [
+            {
+              "id": "lo1779137897862",
+              "total": 1000,
+              "cantidad": 1,
+              "descuento": 0,
+              "comentario": "",
+              "conceptoId": "465cb4a1-a432-46e5-a1ca-958cc49437ac",
+              "precioUnit": 1000
+            },
+            {
+              "id": "lo1779137881797",
+              "total": 4150,
+              "cantidad": 1,
+              "descuento": 0,
+              "comentario": "",
+              "conceptoId": "622aee39-fa39-4078-bb4b-5ba43cb48e17",
+              "precioUnit": 4150
+            },
+            {
+              "id": "lo1779137890213",
+              "total": 405,
+              "cantidad": 1,
+              "descuento": 0,
+              "comentario": "",
+              "conceptoId": "37c0a865-8cf0-4d5f-8b08-4e602e14b8d8",
+              "precioUnit": 405
+            }
+          ],
+          "nombre": "",
+          "firmante": "",
+          "formaPago": "Según contrato",
+          "referencia": "BP-PYLIESE-280126-v1",
+          "emplazamiento": "BP SANTA EULALIA",
+          "firmanteCliente": "Dña. Guimar Tuero",
+          "firmanteNorAcua": ""
+        },
+        "legacy_id": "of_001_26",
+        "proyecto_id": "6dbd7903-a489-4c10-8be3-f6a5a0423f48"
+      },
+      {
+        "id": "16665a02-f1da-4409-aab3-c73614142e7b",
+        "codigo": "017-26",
+        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
+        "asunto": "BP PROYECTO Y LEGALIZACIÓN INSTALACIÓN BT ES POLLENSA",
+        "po": "300133164",
+        "estado": "facturada",
+        "importe_total": 3718.75,
+        "creado_por_id": "3e50e7e7-9fd7-4e53-9bf0-2bfd2d063f7f",
+        "creado_en": "2026-06-16T13:39:49.533974+00:00",
+        "metadatos": {
+          "zona": "BALEARES",
+          "fecha": "2026-03-17",
+          "lineas": [
+            {
+              "id": "lo1779140362204",
+              "total": 595,
+              "cantidad": 1,
+              "descuento": 0,
+              "comentario": "",
+              "conceptoId": "23d2c450-ee4d-4efe-9665-530b47dc519d",
+              "precioUnit": 595
+            },
+            {
+              "id": "lo1779140372387",
+              "total": 850,
+              "cantidad": 1,
+              "descuento": 0,
+              "comentario": "",
+              "conceptoId": "279f8923-62fd-40e4-a769-28e153051a2a",
+              "precioUnit": 850
+            },
+            {
+              "id": "lo1779140347729",
+              "total": 1093.75,
+              "cantidad": 1,
+              "descuento": 65,
+              "comentario": "",
+              "conceptoId": "086286e2-8692-4c70-9ff9-0253d3bc3a24",
+              "precioUnit": 3125
+            },
+            {
+              "id": "lo1779140341523",
+              "total": 1180,
+              "cantidad": 1,
+              "descuento": 0,
+              "comentario": "",
+              "conceptoId": "49cbf71b-6bba-41db-9713-8735919038e3",
+              "precioUnit": 1180
+            }
+          ],
+          "nombre": "",
+          "firmante": "",
+          "formaPago": "Según contrato",
+          "referencia": "BP-PLIBEP-170326-v1",
+          "emplazamiento": "BP POLLENSA",
+          "firmanteCliente": "Dña. Guiomar Tuero",
+          "firmanteNorAcua": ""
+        },
+        "legacy_id": "of_017_26",
+        "proyecto_id": "75fde8f4-4de9-4000-b67d-67e91b00c497"
+      },
+      {
+        "id": "504d86f8-7fe0-4325-a79f-7c448de440c0",
+        "codigo": "009-26",
+        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
+        "asunto": "BP VISITA PROPIEDAD ES CARREÑO",
+        "po": "3001326126",
+        "estado": "facturada",
+        "importe_total": 750,
+        "creado_por_id": "3e50e7e7-9fd7-4e53-9bf0-2bfd2d063f7f",
+        "creado_en": "2026-06-16T13:39:49.533974+00:00",
+        "metadatos": {
+          "zona": "NORTE",
+          "fecha": "2026-02-22",
+          "lineas": [
+            {
+              "id": "lo1779139376153",
+              "total": 750,
+              "cantidad": 1,
+              "descuento": 0,
+              "comentario": "",
+              "conceptoId": "150a938c-d0e6-4fdb-af06-830e213c1a39",
+              "precioUnit": 750
+            }
+          ],
+          "nombre": "",
+          "firmante": "",
+          "formaPago": "Según contrato",
+          "referencia": "BP-VPEC-220226-v1",
+          "emplazamiento": "BP CARREÑO",
+          "firmanteCliente": "Dña. Concepción Gutierrez",
+          "firmanteNorAcua": ""
+        },
+        "legacy_id": "of_009_26",
+        "proyecto_id": "4eaf98c0-695f-4215-9885-4dc55c64bdc7"
+      },
+      {
+        "id": "fc041699-e13c-4a6c-91ba-5be2534c5f4b",
+        "codigo": "011-26",
+        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
+        "asunto": "BP MONITORIZACIÓN MURO ES VÍA NORTE",
+        "po": "3001326125",
+        "estado": "facturada",
+        "importe_total": 2025,
+        "creado_por_id": "3e50e7e7-9fd7-4e53-9bf0-2bfd2d063f7f",
+        "creado_en": "2026-06-16T13:39:49.533974+00:00",
+        "metadatos": {
+          "zona": "NORTE",
+          "fecha": "2026-02-22",
+          "lineas": [
+            {
+              "id": "lo1779139479699",
+              "total": 500,
+              "cantidad": 10,
+              "descuento": 0,
+              "comentario": "",
+              "conceptoId": "279f8923-62fd-40e4-a769-28e153051a2a",
+              "precioUnit": 50
+            },
+            {
+              "id": "lo1779139475479",
+              "total": 1100,
+              "cantidad": 1,
+              "descuento": 0,
+              "comentario": "",
+              "conceptoId": "04283b6c-87ce-4fef-a269-c4e9b7c5ee41",
+              "precioUnit": 1100
+            },
+            {
+              "id": "lo1779139496567",
+              "total": 425,
+              "cantidad": 1,
+              "descuento": 0,
+              "comentario": "",
+              "conceptoId": "37c0a865-8cf0-4d5f-8b08-4e602e14b8d8",
+              "precioUnit": 425
+            }
+          ],
+          "nombre": "",
+          "firmante": "",
+          "formaPago": "Según contrato",
+          "referencia": "BP-MMEVN-220226-v1",
+          "emplazamiento": "BP VÍA NORTE",
+          "firmanteCliente": "Dña. Concepción Gutierrez",
+          "firmanteNorAcua": ""
+        },
+        "legacy_id": "of_011_26",
+        "proyecto_id": "b18fdaeb-b50a-4275-ae7f-104e5fecad9e"
+      },
+      {
+        "id": "5dc1a0a4-7a6b-41a9-8f7c-0031436060cc",
+        "codigo": "018-26",
+        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
+        "asunto": "BP TOMA DE DATOS E INFORME SANEAMIENTO ES GETAFE M406",
+        "po": "3001334368",
+        "estado": "facturada",
+        "importe_total": 1645,
         "creado_por_id": "3e50e7e7-9fd7-4e53-9bf0-2bfd2d063f7f",
         "creado_en": "2026-06-16T13:39:49.533974+00:00",
         "metadatos": {
           "zona": "CENTRO",
-          "fecha": "2026-02-27",
+          "fecha": "2026-03-31",
           "lineas": [
             {
-              "id": "lo1779139654329",
+              "id": "lo1779140425052",
               "total": 240,
               "cantidad": 1,
               "descuento": 0,
@@ -7859,60 +7937,34 @@
               "precioUnit": 240
             },
             {
-              "id": "lo1779139640033",
-              "total": 443.75,
-              "cantidad": 1,
-              "descuento": 75,
-              "comentario": "",
-              "conceptoId": "94d58825-82ac-4f7a-839e-e07e950e71fe",
-              "precioUnit": 1775
-            }
-          ],
-          "nombre": "",
-          "firmante": "",
-          "formaPago": "Según contrato",
-          "referencia": "BP-SPCEM-270226-v1",
-          "emplazamiento": "BP MAQUEDA",
-          "firmanteCliente": "Dña. Concepción Gutierrez",
-          "firmanteNorAcua": ""
-        },
-        "legacy_id": "of_013_26",
-        "proyecto_id": "33d04663-298d-4c0a-ae2e-aee4020c21e0"
-      },
-      {
-        "id": "d470c24f-a969-43bb-b40f-0a4c5ecb33af",
-        "codigo": "023-26",
-        "cliente_id": "b405360f-b82f-4344-aa54-4a5c87490d63",
-        "asunto": "CF CÁLCULO CIMENTACIÓN CARTEL PUBLICITARIO",
-        "po": null,
-        "estado": "cancelada",
-        "importe_total": 1100,
-        "creado_por_id": "3e50e7e7-9fd7-4e53-9bf0-2bfd2d063f7f",
-        "creado_en": "2026-06-16T13:39:49.533974+00:00",
-        "metadatos": {
-          "zona": "OTROS",
-          "fecha": "2026-05-20",
-          "lineas": [
-            {
-              "id": "lo1779293884309",
-              "total": 1100,
+              "id": "lo1779140411306",
+              "total": 1000,
               "cantidad": 1,
               "descuento": 0,
               "comentario": "",
               "conceptoId": "04283b6c-87ce-4fef-a269-c4e9b7c5ee41",
-              "precioUnit": 1100
+              "precioUnit": 1000
+            },
+            {
+              "id": "lo1779140419715",
+              "total": 405,
+              "cantidad": 1,
+              "descuento": 0,
+              "comentario": "",
+              "conceptoId": "37c0a865-8cf0-4d5f-8b08-4e602e14b8d8",
+              "precioUnit": 405
             }
           ],
           "nombre": "",
           "firmante": "",
           "formaPago": "Según contrato",
-          "referencia": "CF-CCCP-200526-v1",
-          "emplazamiento": "CF SAGUNTO",
-          "firmanteCliente": "D. Rubén Vigaray",
-          "firmanteNorAcua": "D. Daniel Romero"
+          "referencia": "BP-TDDISEGM-310326-v1",
+          "emplazamiento": "BP GETAFE M406",
+          "firmanteCliente": "Dña. Concepción Gutierrez",
+          "firmanteNorAcua": ""
         },
-        "legacy_id": "o1779293894091",
-        "proyecto_id": "5133f85b-fdb0-4051-b59b-0adc0e9e185d"
+        "legacy_id": "of_018_26",
+        "proyecto_id": "ed2f275e-f5c5-40ed-90eb-ca1f797c3d1a"
       },
       {
         "id": "42d5355e-4647-45f8-b1fb-3172650a25d5",
@@ -8058,66 +8110,208 @@
         "proyecto_id": "006d9aac-5e3f-4314-b472-f480941d226f"
       },
       {
-        "id": "6c11f44b-f9e3-47b8-9452-90320044d70b",
-        "codigo": "024-26",
+        "id": "4c284a13-ff32-4a94-9bd4-58e094515645",
+        "codigo": "012-26",
         "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
-        "asunto": "BP TOMA DE DATOS E INFORME SANEAMIENTO ES BP CASTRO URDIALES",
-        "po": null,
-        "estado": "activa",
-        "importe_total": 2140,
+        "asunto": "BP PROYECTO LEGALIZACIÓN BT ES OLABERRÍA",
+        "po": "3001339420",
+        "estado": "facturada",
+        "importe_total": 4335,
         "creado_por_id": "3e50e7e7-9fd7-4e53-9bf0-2bfd2d063f7f",
         "creado_en": "2026-06-16T13:39:49.533974+00:00",
         "metadatos": {
           "zona": "NORTE",
-          "fecha": "2026-05-21",
+          "fecha": "2026-02-22",
           "lineas": [
             {
-              "id": "lo1779443706801",
-              "total": 240,
+              "id": "lo1779139573923",
+              "total": 625,
               "cantidad": 1,
               "descuento": 0,
               "comentario": "",
-              "conceptoId": "2ee15cd2-26b1-48c6-98b7-4d84b376de55",
-              "precioUnit": 240
+              "conceptoId": "23d2c450-ee4d-4efe-9665-530b47dc519d",
+              "precioUnit": 625
             },
             {
-              "id": "lo1779443690839",
-              "total": 1100,
+              "id": "lo1779139552723",
+              "total": 1155,
+              "cantidad": 1,
+              "descuento": 65,
+              "comentario": "",
+              "conceptoId": "086286e2-8692-4c70-9ff9-0253d3bc3a24",
+              "precioUnit": 3300
+            },
+            {
+              "id": "lo1779139531185",
+              "total": 1250,
               "cantidad": 1,
               "descuento": 0,
+              "comentario": "",
+              "conceptoId": "49cbf71b-6bba-41db-9713-8735919038e3",
+              "precioUnit": 1250
+            },
+            {
+              "id": "lo1779139542387",
+              "total": 880,
+              "cantidad": 1,
+              "descuento": 20,
               "comentario": "",
               "conceptoId": "04283b6c-87ce-4fef-a269-c4e9b7c5ee41",
               "precioUnit": 1100
             },
             {
-              "id": "lo1779443698343",
+              "id": "lo1779139565800",
               "total": 425,
               "cantidad": 1,
               "descuento": 0,
               "comentario": "",
               "conceptoId": "37c0a865-8cf0-4d5f-8b08-4e602e14b8d8",
               "precioUnit": 425
-            },
-            {
-              "id": "lo1779443729580",
-              "total": 375,
-              "cantidad": 1,
-              "descuento": 0,
-              "comentario": "",
-              "conceptoId": "9aea6290-4eac-4b5e-b53d-4e3b0a28b972",
-              "precioUnit": 375
             }
           ],
           "nombre": "",
           "firmante": "",
           "formaPago": "Según contrato",
-          "referencia": "BP-TDDISECU-210526-v1",
-          "emplazamiento": "BP CASTRO URDIALES",
+          "referencia": "BP-PLBEO-220226-v3",
+          "emplazamiento": "BP OLABERRÍA",
           "firmanteCliente": "Dña. Concepción Gutierrez",
+          "firmanteNorAcua": ""
+        },
+        "legacy_id": "of_012_26",
+        "proyecto_id": "ce2ce3d0-5315-4f3c-ae63-d9ee14ab736c"
+      },
+      {
+        "id": "5da152ac-4e91-48d6-8691-c1f8e1c0aab6",
+        "codigo": "022-26",
+        "cliente_id": "b405360f-b82f-4344-aa54-4a5c87490d63",
+        "asunto": "CF PROYECTO ADECUACIÓN INSTALACIÓN PETROLÍFERA EXISTENTE",
+        "po": null,
+        "estado": "activa",
+        "importe_total": 9470,
+        "creado_por_id": "3e50e7e7-9fd7-4e53-9bf0-2bfd2d063f7f",
+        "creado_en": "2026-06-16T13:39:49.533974+00:00",
+        "metadatos": {
+          "zona": "OTROS",
+          "fecha": "2026-05-19",
+          "lineas": [
+            {
+              "id": "lo1779195231304",
+              "total": 1800,
+              "cantidad": 3,
+              "descuento": 0,
+              "comentario": "",
+              "conceptoId": "be85af77-53f1-4d21-9e7d-874f81577420",
+              "precioUnit": 600
+            },
+            {
+              "id": "lo1779195186048",
+              "total": 650,
+              "cantidad": 1,
+              "descuento": 0,
+              "comentario": "",
+              "conceptoId": "2079221d-5216-41ba-855b-a270f0ba266e",
+              "precioUnit": 650
+            },
+            {
+              "id": "lo1779195193540",
+              "total": 595,
+              "cantidad": 1,
+              "descuento": 0,
+              "comentario": "",
+              "conceptoId": "23d2c450-ee4d-4efe-9665-530b47dc519d",
+              "precioUnit": 595
+            },
+            {
+              "id": "lo1779213118432",
+              "total": 1000,
+              "cantidad": 2,
+              "descuento": 0,
+              "comentario": "",
+              "conceptoId": "ffebf619-98de-4f94-8dfa-d9d8794a7530",
+              "precioUnit": 500
+            },
+            {
+              "id": "lo1779195206509",
+              "total": 2050,
+              "cantidad": 1,
+              "descuento": 0,
+              "comentario": "",
+              "conceptoId": "086286e2-8692-4c70-9ff9-0253d3bc3a24",
+              "precioUnit": 2050
+            },
+            {
+              "id": "lo1779213083108",
+              "total": 2650,
+              "cantidad": 1,
+              "descuento": 0,
+              "comentario": "",
+              "conceptoId": "94d58825-82ac-4f7a-839e-e07e950e71fe",
+              "precioUnit": 2650
+            },
+            {
+              "id": "lo1779195171838",
+              "total": 725,
+              "cantidad": 1,
+              "descuento": 0,
+              "comentario": "",
+              "conceptoId": "37c0a865-8cf0-4d5f-8b08-4e602e14b8d8",
+              "precioUnit": 725
+            }
+          ],
+          "nombre": "",
+          "firmante": "",
+          "formaPago": "Según contrato",
+          "referencia": "CF-PAIPE-190526-v1",
+          "emplazamiento": "CF DENIA",
+          "firmanteCliente": "D. Rubén Vigaray",
           "firmanteNorAcua": "D. Daniel Romero"
         },
-        "legacy_id": "o1779443732088",
-        "proyecto_id": "006d9aac-5e3f-4314-b472-f480941d226f"
+        "legacy_id": "o1779196755155",
+        "proyecto_id": "b2ff2088-09ee-4ef5-bf60-b2cc6aed5009"
+      },
+      {
+        "id": "28291b48-80df-48b7-8bfa-3797107cab0d",
+        "codigo": "019-26",
+        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
+        "asunto": "BP VISITA E INFORME SUMINISTROS ES SEGÓBRIGA",
+        "po": "3001334383",
+        "estado": "facturada",
+        "importe_total": 1405,
+        "creado_por_id": "3e50e7e7-9fd7-4e53-9bf0-2bfd2d063f7f",
+        "creado_en": "2026-06-16T13:39:49.533974+00:00",
+        "metadatos": {
+          "zona": "CENTRO",
+          "fecha": "2026-03-31",
+          "lineas": [
+            {
+              "id": "lo1779140510488",
+              "total": 1000,
+              "cantidad": 1,
+              "descuento": 0,
+              "comentario": "",
+              "conceptoId": "04283b6c-87ce-4fef-a269-c4e9b7c5ee41",
+              "precioUnit": 1000
+            },
+            {
+              "id": "lo1779140515868",
+              "total": 405,
+              "cantidad": 1,
+              "descuento": 0,
+              "comentario": "",
+              "conceptoId": "37c0a865-8cf0-4d5f-8b08-4e602e14b8d8",
+              "precioUnit": 405
+            }
+          ],
+          "nombre": "",
+          "firmante": "",
+          "formaPago": "Según contrato",
+          "referencia": "BP-VISES-310326-v1",
+          "emplazamiento": "BP SEGÓBRIGA",
+          "firmanteCliente": "Dña. Concepción Gutierrez",
+          "firmanteNorAcua": ""
+        },
+        "legacy_id": "of_019_26",
+        "proyecto_id": "f063bf5c-8e40-4902-b61c-07fe9c7e8c96"
       }
     ],
     "clientes": [
@@ -8390,7 +8584,7 @@
         "tipo": "Itinerante",
         "zona": "CATALUÑA",
         "fecha": "2026-07-24",
-        "estado": "pendiente",
+        "estado": "aprobada",
         "po": null,
         "horas_facturables": 6,
         "datos_supervision": {
@@ -8401,7 +8595,7 @@
           "importe": null,
           "facturaId": null,
           "facturado": false,
-          "horasAdmin": "6",
+          "horasAdmin": 8,
           "comentarios": "Control documental a Contratistas",
           "incidencias": "No",
           "pctAuditoria": "",
@@ -8425,7 +8619,7 @@
         "tipo": "Itinerante",
         "zona": "CATALUÑA",
         "fecha": "2026-07-23",
-        "estado": "pendiente",
+        "estado": "aprobada",
         "po": null,
         "horas_facturables": 3,
         "datos_supervision": {
@@ -8436,42 +8630,7 @@
           "importe": null,
           "facturaId": null,
           "facturado": false,
-          "horasAdmin": "3",
-          "comentarios": "Visita itinerante a estaciones de servicio",
-          "incidencias": "No",
-          "pctAuditoria": "",
-          "tipoActividad": "Itinerante",
-          "supervisorNombre": "Carlos García",
-          "motivoSupervision": "",
-          "obraConSupervision": "No"
-        },
-        "aprobado_por_id": null,
-        "aprobado_en": null,
-        "creado_en": "2026-07-30T16:19:55.236+00:00",
-        "legacy_id": null,
-        "concepto_id": "9c59b6dd-ce5f-42c4-83a0-948707a0bc59",
-        "precio_hora": 25.5,
-        "tecnico_hsse_id": null
-      },
-      {
-        "id": "a81538ab-8ff0-41c8-a202-0f854499dcea",
-        "tecnico_id": "18b1b28c-895b-4873-ad56-d755defb5103",
-        "proyecto_id": null,
-        "tipo": "Itinerante",
-        "zona": "CATALUÑA",
-        "fecha": "2026-07-23",
-        "estado": "pendiente",
-        "po": null,
-        "horas_facturables": 2,
-        "datos_supervision": {
-          "site": "BP DANI",
-          "horas": "2",
-          "empresa": "",
-          "encargo": "Guiomar Tuero",
-          "importe": null,
-          "facturaId": null,
-          "facturado": false,
-          "horasAdmin": "2",
+          "horasAdmin": 3,
           "comentarios": "Visita itinerante a estaciones de servicio",
           "incidencias": "No",
           "pctAuditoria": "",
@@ -8495,7 +8654,7 @@
         "tipo": "Itinerante",
         "zona": "CATALUÑA",
         "fecha": "2026-07-23",
-        "estado": "pendiente",
+        "estado": "aprobada",
         "po": null,
         "horas_facturables": 3,
         "datos_supervision": {
@@ -8506,7 +8665,42 @@
           "importe": null,
           "facturaId": null,
           "facturado": false,
-          "horasAdmin": "3",
+          "horasAdmin": 3,
+          "comentarios": "Visita itinerante a estaciones de servicio",
+          "incidencias": "No",
+          "pctAuditoria": "",
+          "tipoActividad": "Itinerante",
+          "supervisorNombre": "Carlos García",
+          "motivoSupervision": "",
+          "obraConSupervision": "No"
+        },
+        "aprobado_por_id": null,
+        "aprobado_en": null,
+        "creado_en": "2026-07-30T16:19:55.236+00:00",
+        "legacy_id": null,
+        "concepto_id": "9c59b6dd-ce5f-42c4-83a0-948707a0bc59",
+        "precio_hora": 25.5,
+        "tecnico_hsse_id": null
+      },
+      {
+        "id": "a81538ab-8ff0-41c8-a202-0f854499dcea",
+        "tecnico_id": "18b1b28c-895b-4873-ad56-d755defb5103",
+        "proyecto_id": null,
+        "tipo": "Itinerante",
+        "zona": "CATALUÑA",
+        "fecha": "2026-07-23",
+        "estado": "aprobada",
+        "po": null,
+        "horas_facturables": 2,
+        "datos_supervision": {
+          "site": "BP DANI",
+          "horas": "2",
+          "empresa": "",
+          "encargo": "Guiomar Tuero",
+          "importe": null,
+          "facturaId": null,
+          "facturado": false,
+          "horasAdmin": 2,
           "comentarios": "Visita itinerante a estaciones de servicio",
           "incidencias": "No",
           "pctAuditoria": "",
@@ -8530,7 +8724,7 @@
         "tipo": "Obra menor",
         "zona": "CATALUÑA",
         "fecha": "2026-07-21",
-        "estado": "pendiente",
+        "estado": "completada",
         "po": null,
         "horas_facturables": 9,
         "datos_supervision": {
@@ -8541,7 +8735,7 @@
           "importe": null,
           "facturaId": null,
           "facturado": false,
-          "horasAdmin": "9",
+          "horasAdmin": 9,
           "comentarios": "Trabajos eléctricos en túnel de lavado nueva recicladora.",
           "incidencias": "No",
           "pctAuditoria": "100",
@@ -8565,7 +8759,7 @@
         "tipo": "Obra menor",
         "zona": "CATALUÑA",
         "fecha": "2026-07-20",
-        "estado": "pendiente",
+        "estado": "completada",
         "po": null,
         "horas_facturables": 8,
         "datos_supervision": {
@@ -8576,7 +8770,7 @@
           "importe": null,
           "facturaId": null,
           "facturado": false,
-          "horasAdmin": "8",
+          "horasAdmin": 8,
           "comentarios": "Trabajos eléctricos en nuevo túnel de lavado.",
           "incidencias": "No",
           "pctAuditoria": "100",
@@ -8600,7 +8794,7 @@
         "tipo": "Itinerante",
         "zona": "CATALUÑA",
         "fecha": "2026-07-17",
-        "estado": "pendiente",
+        "estado": "aprobada",
         "po": null,
         "horas_facturables": 8,
         "datos_supervision": {
@@ -8611,7 +8805,7 @@
           "importe": null,
           "facturaId": null,
           "facturado": false,
-          "horasAdmin": "8",
+          "horasAdmin": 8,
           "comentarios": "",
           "incidencias": "No",
           "pctAuditoria": "",
@@ -8635,7 +8829,7 @@
         "tipo": "Obra menor mantenimiento",
         "zona": "CATALUÑA",
         "fecha": "2026-07-16",
-        "estado": "pendiente",
+        "estado": "aprobada",
         "po": null,
         "horas_facturables": 10,
         "datos_supervision": {
@@ -8646,7 +8840,7 @@
           "importe": null,
           "facturaId": null,
           "facturado": false,
-          "horasAdmin": "10",
+          "horasAdmin": 10,
           "comentarios": "Demolición pavimento bocas descarga descarga para instalación equipotenciales.",
           "incidencias": "No",
           "pctAuditoria": "100",
@@ -8670,7 +8864,7 @@
         "tipo": "Obra menor mantenimiento",
         "zona": "CATALUÑA",
         "fecha": "2026-07-15",
-        "estado": "pendiente",
+        "estado": "aprobada",
         "po": null,
         "horas_facturables": 8,
         "datos_supervision": {
@@ -8695,17 +8889,17 @@
         "creado_en": "2026-07-16T04:43:29.038+00:00",
         "legacy_id": "hs_1784177009038",
         "concepto_id": "9c59b6dd-ce5f-42c4-83a0-948707a0bc59",
-        "precio_hora": 25,
+        "precio_hora": 25.5,
         "tecnico_hsse_id": null
       },
       {
         "id": "b1eafca7-6db4-48f1-b4f2-7ef1f989602c",
         "tecnico_id": "18b1b28c-895b-4873-ad56-d755defb5103",
         "proyecto_id": null,
-        "tipo": "Obra menor mantenimiento",
+        "tipo": "Obra menor",
         "zona": "CATALUÑA",
         "fecha": "2026-07-14",
-        "estado": "pendiente",
+        "estado": "completada",
         "po": null,
         "horas_facturables": 8,
         "datos_supervision": {
@@ -8720,7 +8914,7 @@
           "comentarios": "Trabajos instalación eléctrica. Instalar puertas en cerramiento.",
           "incidencias": "No",
           "pctAuditoria": "100",
-          "tipoActividad": "Obra menor mantenimiento",
+          "tipoActividad": "Obra menor",
           "supervisorNombre": "Carlos García",
           "motivoSupervision": "Trabajos en altura",
           "obraConSupervision": "Sí"
@@ -8730,17 +8924,17 @@
         "creado_en": "2026-07-16T04:41:56.545+00:00",
         "legacy_id": "hs_1784176916545",
         "concepto_id": "9c59b6dd-ce5f-42c4-83a0-948707a0bc59",
-        "precio_hora": 25,
+        "precio_hora": 25.5,
         "tecnico_hsse_id": null
       },
       {
         "id": "a70bf3e1-ee3f-427d-95e3-fa512369f39a",
         "tecnico_id": "18b1b28c-895b-4873-ad56-d755defb5103",
         "proyecto_id": null,
-        "tipo": "Obra menor mantenimiento",
+        "tipo": "Obra menor",
         "zona": "CATALUÑA",
         "fecha": "2026-07-13",
-        "estado": "pendiente",
+        "estado": "completada",
         "po": null,
         "horas_facturables": 9,
         "datos_supervision": {
@@ -8755,7 +8949,7 @@
           "comentarios": "Trabajos eléctricos. Cerramiento lateral túnel.",
           "incidencias": "No",
           "pctAuditoria": "100",
-          "tipoActividad": "Obra menor mantenimiento",
+          "tipoActividad": "Obra menor",
           "supervisorNombre": "Carlos García",
           "motivoSupervision": "Trabajos en altura",
           "obraConSupervision": "Sí"
@@ -8765,7 +8959,7 @@
         "creado_en": "2026-07-16T04:39:21.537+00:00",
         "legacy_id": "hs_1784176761537",
         "concepto_id": "9c59b6dd-ce5f-42c4-83a0-948707a0bc59",
-        "precio_hora": 25,
+        "precio_hora": 25.5,
         "tecnico_hsse_id": null
       },
       {
@@ -8775,7 +8969,7 @@
         "tipo": "Itinerante",
         "zona": "OTROS",
         "fecha": "2026-07-10",
-        "estado": "pendiente",
+        "estado": "aprobada",
         "po": null,
         "horas_facturables": 6,
         "datos_supervision": {
@@ -8786,7 +8980,7 @@
           "importe": null,
           "facturaId": null,
           "facturado": false,
-          "horasAdmin": 6,
+          "horasAdmin": 8,
           "comentarios": "",
           "incidencias": "No",
           "pctAuditoria": "",
@@ -8800,7 +8994,7 @@
         "creado_en": "2026-07-13T07:24:24.598+00:00",
         "legacy_id": "hs_1783927464598",
         "concepto_id": "9c59b6dd-ce5f-42c4-83a0-948707a0bc59",
-        "precio_hora": 25,
+        "precio_hora": 25.5,
         "tecnico_hsse_id": null
       },
       {
@@ -8808,9 +9002,9 @@
         "tecnico_id": "18b1b28c-895b-4873-ad56-d755defb5103",
         "proyecto_id": null,
         "tipo": "Obra menor mantenimiento",
-        "zona": "OTROS",
+        "zona": "CATALUÑA",
         "fecha": "2026-07-09",
-        "estado": "pendiente",
+        "estado": "aprobada",
         "po": null,
         "horas_facturables": 9,
         "datos_supervision": {
@@ -8835,7 +9029,7 @@
         "creado_en": "2026-07-13T07:22:23.141+00:00",
         "legacy_id": "hs_1783927343141",
         "concepto_id": "9c59b6dd-ce5f-42c4-83a0-948707a0bc59",
-        "precio_hora": 25,
+        "precio_hora": 25.5,
         "tecnico_hsse_id": null
       },
       {
@@ -8845,7 +9039,7 @@
         "tipo": "Obra menor mantenimiento",
         "zona": "CATALUÑA",
         "fecha": "2026-07-08",
-        "estado": "pendiente",
+        "estado": "aprobada",
         "po": null,
         "horas_facturables": 8,
         "datos_supervision": {
@@ -8856,7 +9050,7 @@
           "importe": null,
           "facturaId": null,
           "facturado": false,
-          "horasAdmin": 8,
+          "horasAdmin": 9,
           "comentarios": "Limpieza y aspirado de arquetas boca hombre.",
           "incidencias": "No",
           "pctAuditoria": "100",
@@ -8870,7 +9064,7 @@
         "creado_en": "2026-07-09T05:11:28.523+00:00",
         "legacy_id": "hs_1783573888523",
         "concepto_id": "9c59b6dd-ce5f-42c4-83a0-948707a0bc59",
-        "precio_hora": 25,
+        "precio_hora": 25.5,
         "tecnico_hsse_id": null
       },
       {
@@ -8880,7 +9074,7 @@
         "tipo": "Obra menor mantenimiento",
         "zona": "BALEARES",
         "fecha": "2026-07-07",
-        "estado": "pendiente",
+        "estado": "aprobada",
         "po": null,
         "horas_facturables": 8,
         "datos_supervision": {
@@ -8891,7 +9085,7 @@
           "importe": null,
           "facturaId": null,
           "facturado": false,
-          "horasAdmin": 8,
+          "horasAdmin": 12,
           "comentarios": "Regata para embutir equipotenciales en zona bocas de descarga",
           "incidencias": "No",
           "pctAuditoria": "100",
@@ -8905,7 +9099,7 @@
         "creado_en": "2026-07-08T14:47:38.009+00:00",
         "legacy_id": "hs_1783522058009",
         "concepto_id": "9c59b6dd-ce5f-42c4-83a0-948707a0bc59",
-        "precio_hora": 25,
+        "precio_hora": 25.5,
         "tecnico_hsse_id": "c42b04e5-20b6-4ca8-aa25-21a1ba66b55e"
       },
       {
@@ -8915,7 +9109,7 @@
         "tipo": "Obra menor mantenimiento",
         "zona": "CATALUÑA",
         "fecha": "2026-07-07",
-        "estado": "pendiente",
+        "estado": "aprobada",
         "po": null,
         "horas_facturables": 9,
         "datos_supervision": {
@@ -8926,7 +9120,7 @@
           "importe": null,
           "facturaId": null,
           "facturado": false,
-          "horasAdmin": 9,
+          "horasAdmin": 10,
           "comentarios": "Instalación de equipotenciales en arquetas boca hombre",
           "incidencias": "No",
           "pctAuditoria": "99",
@@ -8940,7 +9134,7 @@
         "creado_en": "2026-07-08T14:48:59.736+00:00",
         "legacy_id": "hs_1783522139736",
         "concepto_id": "9c59b6dd-ce5f-42c4-83a0-948707a0bc59",
-        "precio_hora": 25,
+        "precio_hora": 25.5,
         "tecnico_hsse_id": null
       },
       {
@@ -8950,7 +9144,7 @@
         "tipo": "Itinerante",
         "zona": "OTROS",
         "fecha": "2026-07-06",
-        "estado": "pendiente",
+        "estado": "aprobada",
         "po": null,
         "horas_facturables": 8,
         "datos_supervision": {
@@ -8975,7 +9169,7 @@
         "creado_en": "2026-07-08T14:45:45.252+00:00",
         "legacy_id": "hs_1783521945252",
         "concepto_id": "9c59b6dd-ce5f-42c4-83a0-948707a0bc59",
-        "precio_hora": 25,
+        "precio_hora": 25.5,
         "tecnico_hsse_id": null
       },
       {
@@ -8985,7 +9179,7 @@
         "tipo": "Itinerante",
         "zona": "OTROS",
         "fecha": "2026-07-03",
-        "estado": "pendiente",
+        "estado": "aprobada",
         "po": null,
         "horas_facturables": 6,
         "datos_supervision": {
@@ -8996,7 +9190,7 @@
           "importe": null,
           "facturaId": null,
           "facturado": false,
-          "horasAdmin": 6,
+          "horasAdmin": 8,
           "comentarios": "Control documental a Contratistas",
           "incidencias": "No",
           "pctAuditoria": "",
@@ -9020,7 +9214,7 @@
         "tipo": "Obra menor mantenimiento",
         "zona": "BALEARES",
         "fecha": "2026-07-03",
-        "estado": "pendiente",
+        "estado": "aprobada",
         "po": null,
         "horas_facturables": 9,
         "datos_supervision": {
@@ -9031,7 +9225,7 @@
           "importe": null,
           "facturaId": null,
           "facturado": false,
-          "horasAdmin": 9,
+          "horasAdmin": 12,
           "comentarios": "Trabajos en arquetas boca hombre.",
           "incidencias": "No",
           "pctAuditoria": "100",
@@ -9045,7 +9239,42 @@
         "creado_en": "2026-07-06T10:42:23.935+00:00",
         "legacy_id": "hs_1783334543935",
         "concepto_id": "9c59b6dd-ce5f-42c4-83a0-948707a0bc59",
-        "precio_hora": 25,
+        "precio_hora": 25.5,
+        "tecnico_hsse_id": "7b525a41-2114-4726-84f7-2fdb44ef942b"
+      },
+      {
+        "id": "512e4530-1284-4bd8-bca2-b7bc3d8c9800",
+        "tecnico_id": null,
+        "proyecto_id": null,
+        "tipo": "Obra menor mantenimiento",
+        "zona": "BALEARES",
+        "fecha": "2026-07-02",
+        "estado": "aprobada",
+        "po": null,
+        "horas_facturables": 9,
+        "datos_supervision": {
+          "site": "BP MUNAR CAPO",
+          "horas": "9",
+          "empresa": "PETROSUPORT ",
+          "encargo": "Guiomar Tuero",
+          "importe": null,
+          "facturaId": null,
+          "facturado": false,
+          "horasAdmin": 11,
+          "comentarios": "Limpieza de arquetas. Sustitución de equipotenciales ",
+          "incidencias": "No",
+          "pctAuditoria": "100",
+          "tipoActividad": "Obra menor mantenimiento",
+          "supervisorNombre": "Mauricio Quintero",
+          "motivoSupervision": "Entrada en espacios confinados ",
+          "obraConSupervision": "Sí"
+        },
+        "aprobado_por_id": null,
+        "aprobado_en": null,
+        "creado_en": "2026-07-03T05:28:07.206+00:00",
+        "legacy_id": "hs_1783056487206",
+        "concepto_id": "9c59b6dd-ce5f-42c4-83a0-948707a0bc59",
+        "precio_hora": 25.5,
         "tecnico_hsse_id": "7b525a41-2114-4726-84f7-2fdb44ef942b"
       },
       {
@@ -9055,7 +9284,7 @@
         "tipo": "Obra menor mantenimiento",
         "zona": "CATALUÑA",
         "fecha": "2026-07-02",
-        "estado": "pendiente",
+        "estado": "aprobada",
         "po": null,
         "horas_facturables": 9,
         "datos_supervision": {
@@ -9080,43 +9309,8 @@
         "creado_en": "2026-07-03T05:26:32.031+00:00",
         "legacy_id": "hs_1783056392031",
         "concepto_id": "9c59b6dd-ce5f-42c4-83a0-948707a0bc59",
-        "precio_hora": 25,
+        "precio_hora": 25.5,
         "tecnico_hsse_id": null
-      },
-      {
-        "id": "512e4530-1284-4bd8-bca2-b7bc3d8c9800",
-        "tecnico_id": null,
-        "proyecto_id": null,
-        "tipo": "Obra menor mantenimiento",
-        "zona": "BALEARES",
-        "fecha": "2026-07-02",
-        "estado": "pendiente",
-        "po": null,
-        "horas_facturables": 9,
-        "datos_supervision": {
-          "site": "BP MUNAR CAPO",
-          "horas": "9",
-          "empresa": "PETROSUPORT ",
-          "encargo": "Guiomar Tuero",
-          "importe": null,
-          "facturaId": null,
-          "facturado": false,
-          "horasAdmin": 9,
-          "comentarios": "Limpieza de arquetas. Sustitución de equipotenciales ",
-          "incidencias": "No",
-          "pctAuditoria": "100",
-          "tipoActividad": "Obra menor mantenimiento",
-          "supervisorNombre": "Mauricio Quintero",
-          "motivoSupervision": "Entrada en espacios confinados ",
-          "obraConSupervision": "Sí"
-        },
-        "aprobado_por_id": null,
-        "aprobado_en": null,
-        "creado_en": "2026-07-03T05:28:07.206+00:00",
-        "legacy_id": "hs_1783056487206",
-        "concepto_id": "9c59b6dd-ce5f-42c4-83a0-948707a0bc59",
-        "precio_hora": 25,
-        "tecnico_hsse_id": "7b525a41-2114-4726-84f7-2fdb44ef942b"
       },
       {
         "id": "ed09afee-cfce-4cda-a2da-bfbdf7ac0dca",
@@ -9224,6 +9418,41 @@
         "tecnico_hsse_id": "7b525a41-2114-4726-84f7-2fdb44ef942b"
       },
       {
+        "id": "6159317b-bf8b-4312-915a-e679b00be289",
+        "tecnico_id": "18b1b28c-895b-4873-ad56-d755defb5103",
+        "proyecto_id": null,
+        "tipo": "Obra menor mantenimiento",
+        "zona": "CATALUÑA",
+        "fecha": "2026-06-30",
+        "estado": "aprobada",
+        "po": null,
+        "horas_facturables": 6,
+        "datos_supervision": {
+          "site": "BP FRAGA II",
+          "horas": "6",
+          "empresa": "RAFIBRA ",
+          "encargo": "Guiomar Tuero",
+          "importe": null,
+          "facturaId": null,
+          "facturado": false,
+          "horasAdmin": 6,
+          "comentarios": "Pruebas de estanquiedad a tuberías de venteos.",
+          "incidencias": "No",
+          "pctAuditoria": "100",
+          "tipoActividad": "Obra menor mantenimiento",
+          "supervisorNombre": "Carlos García",
+          "motivoSupervision": "Entrada en espacios confinados",
+          "obraConSupervision": "Sí"
+        },
+        "aprobado_por_id": null,
+        "aprobado_en": null,
+        "creado_en": "2026-07-01T08:19:27.406+00:00",
+        "legacy_id": "hs_1782893967406",
+        "concepto_id": "9c59b6dd-ce5f-42c4-83a0-948707a0bc59",
+        "precio_hora": 25,
+        "tecnico_hsse_id": null
+      },
+      {
         "id": "ce7a7040-7c27-4962-a2fe-f67077189006",
         "tecnico_id": "18b1b28c-895b-4873-ad56-d755defb5103",
         "proyecto_id": null,
@@ -9292,41 +9521,6 @@
         "concepto_id": "9c59b6dd-ce5f-42c4-83a0-948707a0bc59",
         "precio_hora": 25,
         "tecnico_hsse_id": "7b525a41-2114-4726-84f7-2fdb44ef942b"
-      },
-      {
-        "id": "6159317b-bf8b-4312-915a-e679b00be289",
-        "tecnico_id": "18b1b28c-895b-4873-ad56-d755defb5103",
-        "proyecto_id": null,
-        "tipo": "Obra menor mantenimiento",
-        "zona": "CATALUÑA",
-        "fecha": "2026-06-30",
-        "estado": "aprobada",
-        "po": null,
-        "horas_facturables": 6,
-        "datos_supervision": {
-          "site": "BP FRAGA II",
-          "horas": "6",
-          "empresa": "RAFIBRA ",
-          "encargo": "Guiomar Tuero",
-          "importe": null,
-          "facturaId": null,
-          "facturado": false,
-          "horasAdmin": 6,
-          "comentarios": "Pruebas de estanquiedad a tuberías de venteos.",
-          "incidencias": "No",
-          "pctAuditoria": "100",
-          "tipoActividad": "Obra menor mantenimiento",
-          "supervisorNombre": "Carlos García",
-          "motivoSupervision": "Entrada en espacios confinados",
-          "obraConSupervision": "Sí"
-        },
-        "aprobado_por_id": null,
-        "aprobado_en": null,
-        "creado_en": "2026-07-01T08:19:27.406+00:00",
-        "legacy_id": "hs_1782893967406",
-        "concepto_id": "9c59b6dd-ce5f-42c4-83a0-948707a0bc59",
-        "precio_hora": 25,
-        "tecnico_hsse_id": null
       },
       {
         "id": "0d402245-657b-40e7-89a8-51ce17c4f6bb",
