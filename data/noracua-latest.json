@@ -1,6 +1,6 @@
 {
-  "fecha": "2026-07-30T21:11:09.608Z",
-  "version": "4.0",
+  "fecha": "2026-07-30T21:19:33.096Z",
+  "version": "5.0",
   "datos": {
     "proyectos": [
       {
@@ -5250,6 +5250,29 @@
     ],
     "ofertas": [
       {
+        "id": "76485b90-d8c3-4153-9508-c394875a24d9",
+        "codigo": "022-26-v2",
+        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
+        "asunto": "CF PROYECTO ADECUACIÓN INSTALACIÓN PETROLÍFERA EXISTENTE",
+        "po": null,
+        "estado": "borrador",
+        "importe_total": 1000,
+        "creado_por_id": "3e50e7e7-9fd7-4e53-9bf0-2bfd2d063f7f",
+        "creado_en": "2026-07-30T21:15:52.284+00:00",
+        "metadatos": {
+          "ref": "",
+          "zona": "CENTRO",
+          "fecha": "2026-07-31",
+          "notas": "",
+          "lineas": [],
+          "numero": "022-26-v2",
+          "version": 2,
+          "responsable": ""
+        },
+        "legacy_id": null,
+        "proyecto_id": null
+      },
+      {
         "id": "7aef790b-0dfc-45b2-94f9-bd196b660918",
         "codigo": "049-26",
         "cliente_id": "b405360f-b82f-4344-aa54-4a5c87490d63",
@@ -5639,95 +5662,6 @@
         "proyecto_id": "ed2f275e-f5c5-40ed-90eb-ca1f797c3d1a"
       },
       {
-        "id": "90ce5e10-78e3-4cdc-abc7-e8b2a177bd3e",
-        "codigo": "036-26",
-        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
-        "asunto": "BP REQUERIMIENTO URBANISMO Y CARRETERAS INSTALACIÓN RECICLADORA",
-        "po": "3001322306",
-        "estado": "cerrada",
-        "importe_total": 3380,
-        "creado_por_id": "3e50e7e7-9fd7-4e53-9bf0-2bfd2d063f7f",
-        "creado_en": "2026-07-17T21:40:13.593067+00:00",
-        "metadatos": {
-          "lineas": [
-            {
-              "id": "lo1781718266601",
-              "total": 480,
-              "cantidad": 2,
-              "descuento": 0,
-              "comentario": "",
-              "conceptoId": "2ee15cd2-26b1-48c6-98b7-4d84b376de55",
-              "precioUnit": 240
-            },
-            {
-              "id": "lo1781718243919",
-              "total": 240,
-              "cantidad": 1,
-              "descuento": 0,
-              "comentario": "",
-              "conceptoId": "2ee15cd2-26b1-48c6-98b7-4d84b376de55",
-              "precioUnit": 240
-            },
-            {
-              "id": "lo1781718218653",
-              "total": 240,
-              "cantidad": 1,
-              "descuento": 0,
-              "comentario": "",
-              "conceptoId": "2ee15cd2-26b1-48c6-98b7-4d84b376de55",
-              "precioUnit": 240
-            },
-            {
-              "id": "lo1781718194571",
-              "total": 240,
-              "cantidad": 1,
-              "descuento": 0,
-              "comentario": "",
-              "conceptoId": "2ee15cd2-26b1-48c6-98b7-4d84b376de55",
-              "precioUnit": 240
-            },
-            {
-              "id": "lo1781718161707",
-              "total": 240,
-              "cantidad": 1,
-              "descuento": 0,
-              "comentario": "",
-              "conceptoId": "2ee15cd2-26b1-48c6-98b7-4d84b376de55",
-              "precioUnit": 240
-            },
-            {
-              "id": "lo1781718145702",
-              "total": 240,
-              "cantidad": 1,
-              "descuento": 0,
-              "comentario": "",
-              "conceptoId": "2ee15cd2-26b1-48c6-98b7-4d84b376de55",
-              "precioUnit": 240
-            },
-            {
-              "id": "lo1781718396440",
-              "total": 1000,
-              "cantidad": 1,
-              "descuento": 0,
-              "comentario": "Topográfico de estación para requerimiento urbanístico",
-              "conceptoId": "ab1a3323-ec38-4189-b49a-3b4452ad9de4",
-              "precioUnit": 1000
-            },
-            {
-              "id": "lo1781717940052ef5f9lcl5e",
-              "total": 700,
-              "cantidad": 1,
-              "descuento": 0,
-              "comentario": "Anexo al proyecto para contestación requerimiento",
-              "conceptoId": "22eb4a67-ad33-4a68-8e9e-008074e69f47",
-              "precioUnit": 700
-            }
-          ]
-        },
-        "legacy_id": "o1781718509009",
-        "proyecto_id": "d49d3f19-b7fa-4dce-867f-6775491cced2"
-      },
-      {
         "id": "515e9e94-fd5b-4dd2-8f3f-44728355bcef",
         "codigo": "038-26",
         "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
@@ -6029,48 +5963,93 @@
         "proyecto_id": "7a1f0f42-9123-45b8-b17d-8e26b1f7afc0"
       },
       {
-        "id": "4d9590a3-aacf-44f8-9927-056094a1d99c",
-        "codigo": "031-26",
-        "cliente_id": "b405360f-b82f-4344-aa54-4a5c87490d63",
-        "asunto": "CF INFORME DEFICIENCIAS ES",
-        "po": null,
-        "estado": "activa",
-        "importe_total": 2250,
+        "id": "90ce5e10-78e3-4cdc-abc7-e8b2a177bd3e",
+        "codigo": "036-26",
+        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
+        "asunto": "BP REQUERIMIENTO URBANISMO Y CARRETERAS INSTALACIÓN RECICLADORA",
+        "po": "3001322306",
+        "estado": "cerrada",
+        "importe_total": 3380,
         "creado_por_id": "3e50e7e7-9fd7-4e53-9bf0-2bfd2d063f7f",
         "creado_en": "2026-07-17T21:40:13.593067+00:00",
         "metadatos": {
           "lineas": [
             {
-              "id": "lo1781627910337",
-              "total": 425,
-              "cantidad": 1,
+              "id": "lo1781718266601",
+              "total": 480,
+              "cantidad": 2,
               "descuento": 0,
-              "comentario": "VISTA TÉCNICO AYUNTAMIENTO",
-              "conceptoId": "025f1518-6bd1-44b9-8361-3020be4b7112",
-              "precioUnit": 425
+              "comentario": "",
+              "conceptoId": "2ee15cd2-26b1-48c6-98b7-4d84b376de55",
+              "precioUnit": 240
             },
             {
-              "id": "lo1781627813554",
-              "total": 1100,
+              "id": "lo1781718243919",
+              "total": 240,
               "cantidad": 1,
               "descuento": 0,
-              "comentario": "INFORME DEFICIENCIAS LEGALES E IP04 ES CF DENIA",
-              "conceptoId": "04283b6c-87ce-4fef-a269-c4e9b7c5ee41",
-              "precioUnit": 1100
+              "comentario": "",
+              "conceptoId": "2ee15cd2-26b1-48c6-98b7-4d84b376de55",
+              "precioUnit": 240
             },
             {
-              "id": "lo1781627851218",
-              "total": 725,
+              "id": "lo1781718218653",
+              "total": 240,
               "cantidad": 1,
               "descuento": 0,
-              "comentario": "VISITA TOMA DE DATOS ES",
-              "conceptoId": "37c0a865-8cf0-4d5f-8b08-4e602e14b8d8",
-              "precioUnit": 725
+              "comentario": "",
+              "conceptoId": "2ee15cd2-26b1-48c6-98b7-4d84b376de55",
+              "precioUnit": 240
+            },
+            {
+              "id": "lo1781718194571",
+              "total": 240,
+              "cantidad": 1,
+              "descuento": 0,
+              "comentario": "",
+              "conceptoId": "2ee15cd2-26b1-48c6-98b7-4d84b376de55",
+              "precioUnit": 240
+            },
+            {
+              "id": "lo1781718161707",
+              "total": 240,
+              "cantidad": 1,
+              "descuento": 0,
+              "comentario": "",
+              "conceptoId": "2ee15cd2-26b1-48c6-98b7-4d84b376de55",
+              "precioUnit": 240
+            },
+            {
+              "id": "lo1781718145702",
+              "total": 240,
+              "cantidad": 1,
+              "descuento": 0,
+              "comentario": "",
+              "conceptoId": "2ee15cd2-26b1-48c6-98b7-4d84b376de55",
+              "precioUnit": 240
+            },
+            {
+              "id": "lo1781718396440",
+              "total": 1000,
+              "cantidad": 1,
+              "descuento": 0,
+              "comentario": "Topográfico de estación para requerimiento urbanístico",
+              "conceptoId": "ab1a3323-ec38-4189-b49a-3b4452ad9de4",
+              "precioUnit": 1000
+            },
+            {
+              "id": "lo1781717940052ef5f9lcl5e",
+              "total": 700,
+              "cantidad": 1,
+              "descuento": 0,
+              "comentario": "Anexo al proyecto para contestación requerimiento",
+              "conceptoId": "22eb4a67-ad33-4a68-8e9e-008074e69f47",
+              "precioUnit": 700
             }
           ]
         },
-        "legacy_id": "o1781627943721",
-        "proyecto_id": "b2ff2088-09ee-4ef5-bf60-b2cc6aed5009"
+        "legacy_id": "o1781718509009",
+        "proyecto_id": "d49d3f19-b7fa-4dce-867f-6775491cced2"
       },
       {
         "id": "27ef0291-a14f-4cca-ade6-76d95876256c",
@@ -6188,6 +6167,50 @@
         "proyecto_id": "725546ca-0e8a-4b13-93a9-3357aa2366e8"
       },
       {
+        "id": "4d9590a3-aacf-44f8-9927-056094a1d99c",
+        "codigo": "031-26",
+        "cliente_id": "b405360f-b82f-4344-aa54-4a5c87490d63",
+        "asunto": "CF INFORME DEFICIENCIAS ES",
+        "po": null,
+        "estado": "activa",
+        "importe_total": 2250,
+        "creado_por_id": "3e50e7e7-9fd7-4e53-9bf0-2bfd2d063f7f",
+        "creado_en": "2026-07-17T21:40:13.593067+00:00",
+        "metadatos": {
+          "lineas": [
+            {
+              "id": "lo1781627910337",
+              "total": 425,
+              "cantidad": 1,
+              "descuento": 0,
+              "comentario": "VISTA TÉCNICO AYUNTAMIENTO",
+              "conceptoId": "025f1518-6bd1-44b9-8361-3020be4b7112",
+              "precioUnit": 425
+            },
+            {
+              "id": "lo1781627813554",
+              "total": 1100,
+              "cantidad": 1,
+              "descuento": 0,
+              "comentario": "INFORME DEFICIENCIAS LEGALES E IP04 ES CF DENIA",
+              "conceptoId": "04283b6c-87ce-4fef-a269-c4e9b7c5ee41",
+              "precioUnit": 1100
+            },
+            {
+              "id": "lo1781627851218",
+              "total": 725,
+              "cantidad": 1,
+              "descuento": 0,
+              "comentario": "VISITA TOMA DE DATOS ES",
+              "conceptoId": "37c0a865-8cf0-4d5f-8b08-4e602e14b8d8",
+              "precioUnit": 725
+            }
+          ]
+        },
+        "legacy_id": "o1781627943721",
+        "proyecto_id": "b2ff2088-09ee-4ef5-bf60-b2cc6aed5009"
+      },
+      {
         "id": "6e861df7-cd37-446a-aa55-47613fa2d2a7",
         "codigo": "041-26",
         "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
@@ -6300,113 +6323,6 @@
         },
         "legacy_id": "o1781863144854",
         "proyecto_id": "21fd1b4b-92fb-4f49-8685-54465fb2bdff"
-      },
-      {
-        "id": "8b6128ae-8b83-4720-81ee-9cee11295955",
-        "codigo": "003-26",
-        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
-        "asunto": "BP PROYECTO VENTEOS Y ACTUACIONES EN ES BLANCO I",
-        "po": "3001322938",
-        "estado": "facturada",
-        "importe_total": 9945,
-        "creado_por_id": "3e50e7e7-9fd7-4e53-9bf0-2bfd2d063f7f",
-        "creado_en": "2026-06-16T13:39:49.533974+00:00",
-        "metadatos": {
-          "zona": "NORTE",
-          "fecha": "2026-01-30",
-          "lineas": [
-            {
-              "id": "lo1779138264371",
-              "total": 650,
-              "cantidad": 1,
-              "descuento": 0,
-              "comentario": "",
-              "conceptoId": "be85af77-53f1-4d21-9e7d-874f81577420",
-              "precioUnit": 650
-            },
-            {
-              "id": "lo1779138280354",
-              "total": 1375,
-              "cantidad": 1,
-              "descuento": 0,
-              "comentario": "",
-              "conceptoId": "5be72f00-e89c-49c9-87e2-cf1972da7f09",
-              "precioUnit": 1375
-            },
-            {
-              "id": "lo1779138301986",
-              "total": 650,
-              "cantidad": 1,
-              "descuento": 0,
-              "comentario": "",
-              "conceptoId": "2079221d-5216-41ba-855b-a270f0ba266e",
-              "precioUnit": 650
-            },
-            {
-              "id": "lo1779138304412",
-              "total": 960,
-              "cantidad": 4,
-              "descuento": 0,
-              "comentario": "",
-              "conceptoId": "2ee15cd2-26b1-48c6-98b7-4d84b376de55",
-              "precioUnit": 240
-            },
-            {
-              "id": "lo1779138320823",
-              "total": 1200,
-              "cantidad": 1,
-              "descuento": 0,
-              "comentario": "",
-              "conceptoId": "8b7705cf-2ff3-43d1-80dc-a28f0cee3aff",
-              "precioUnit": 1200
-            },
-            {
-              "id": "lo1779138270750",
-              "total": 2310,
-              "cantidad": 1,
-              "descuento": 30,
-              "comentario": "",
-              "conceptoId": "086286e2-8692-4c70-9ff9-0253d3bc3a24",
-              "precioUnit": 3300
-            },
-            {
-              "id": "lo1779138255854",
-              "total": 2000,
-              "cantidad": 1,
-              "descuento": 0,
-              "comentario": "",
-              "conceptoId": "94d58825-82ac-4f7a-839e-e07e950e71fe",
-              "precioUnit": 2000
-            },
-            {
-              "id": "lo1779138288552",
-              "total": 425,
-              "cantidad": 1,
-              "descuento": 0,
-              "comentario": "",
-              "conceptoId": "37c0a865-8cf0-4d5f-8b08-4e602e14b8d8",
-              "precioUnit": 425
-            },
-            {
-              "id": "lo1779138322999",
-              "total": 375,
-              "cantidad": 1,
-              "descuento": 0,
-              "comentario": "",
-              "conceptoId": "9aea6290-4eac-4b5e-b53d-4e3b0a28b972",
-              "precioUnit": 375
-            }
-          ],
-          "nombre": "",
-          "firmante": "",
-          "formaPago": "Según contrato",
-          "referencia": "BP-PVAEEB-300126-v1",
-          "emplazamiento": "BP BLANCO I",
-          "firmanteCliente": "Dña. Concepción Gutierrez",
-          "firmanteNorAcua": ""
-        },
-        "legacy_id": "of_003_26",
-        "proyecto_id": "272dd4b7-f33e-463e-9f3b-3bbbeb6b3123"
       },
       {
         "id": "2796bfac-3a53-45c6-8fad-9230119b3c08",
@@ -6630,6 +6546,50 @@
         "proyecto_id": "c5f68702-6d75-40c9-8be2-f38bb985a5c9"
       },
       {
+        "id": "f09dac1c-f6b4-4deb-92f1-1bfd1b100bb4",
+        "codigo": "030-26",
+        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
+        "asunto": "BP INFORME VERTIDOS ES",
+        "po": null,
+        "estado": "facturada",
+        "importe_total": 1455,
+        "creado_por_id": "3e50e7e7-9fd7-4e53-9bf0-2bfd2d063f7f",
+        "creado_en": "2026-06-16T13:39:49.533974+00:00",
+        "metadatos": {
+          "zona": "BALEARES",
+          "fecha": "2026-06-09",
+          "lineas": [
+            {
+              "id": "lo1781040617527ejcv0u9r94s",
+              "total": 1050,
+              "cantidad": 1,
+              "descuento": 0,
+              "comentario": "",
+              "conceptoId": "04283b6c-87ce-4fef-a269-c4e9b7c5ee41",
+              "precioUnit": 1050
+            },
+            {
+              "id": "lo1781040617527lz1v1oxzti",
+              "total": 405,
+              "cantidad": 1,
+              "descuento": 0,
+              "comentario": "",
+              "conceptoId": "419549da-47c3-4c4b-b15d-3799f85f48f6",
+              "precioUnit": 405
+            }
+          ],
+          "nombre": "",
+          "firmante": "",
+          "formaPago": "Según contrato",
+          "referencia": "BP-IVE-090626-v1",
+          "emplazamiento": "BP SANTA EULALIA",
+          "firmanteCliente": "Dña. Guiomar Tuero",
+          "firmanteNorAcua": "D. Daniel Romero"
+        },
+        "legacy_id": "o1781040685810",
+        "proyecto_id": "03dfd712-b4d1-46a4-bb33-5511abc6193f"
+      },
+      {
         "id": "04d85d7b-b9d9-44c5-8b8e-0d58f68ed5b2",
         "codigo": "026-26",
         "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
@@ -6663,50 +6623,6 @@
         },
         "legacy_id": "o1780659356493",
         "proyecto_id": "5fe47865-dfa6-448f-b2b9-3609cb1898be"
-      },
-      {
-        "id": "add70585-9c85-4864-8bcd-5c8a738baf77",
-        "codigo": "005-26",
-        "cliente_id": "fabf7339-a3e6-4bde-b230-b324a67cdc8a",
-        "asunto": "BP VISITA E INFORME SITUACIÓN ES EL CORB",
-        "po": null,
-        "estado": "facturada",
-        "importe_total": 855,
-        "creado_por_id": "3e50e7e7-9fd7-4e53-9bf0-2bfd2d063f7f",
-        "creado_en": "2026-06-16T13:39:49.533974+00:00",
-        "metadatos": {
-          "zona": "CATALUÑA",
-          "fecha": "2026-02-06",
-          "lineas": [
-            {
-              "id": "lo1779394118119",
-              "total": 450,
-              "cantidad": 1,
-              "descuento": 0,
-              "comentario": "",
-              "conceptoId": "279f8923-62fd-40e4-a769-28e153051a2a",
-              "precioUnit": 450
-            },
-            {
-              "id": "lo1779394104889",
-              "total": 405,
-              "cantidad": 1,
-              "descuento": 0,
-              "comentario": "",
-              "conceptoId": "37c0a865-8cf0-4d5f-8b08-4e602e14b8d8",
-              "precioUnit": 405
-            }
-          ],
-          "nombre": "",
-          "firmante": "",
-          "formaPago": "Según contrato",
-          "referencia": "BP-VISEEC-060226-v1",
-          "emplazamiento": "ES EL CORB",
-          "firmanteCliente": "",
-          "firmanteNorAcua": ""
-        },
-        "legacy_id": "of_005_26",
-        "proyecto_id": null
       },
       {
         "id": "3545d2d4-dbb9-419c-a216-0b3114a110e6",
@@ -7261,48 +7177,48 @@
         "proyecto_id": "4c0bc367-e624-44b9-bccf-30dd617ee0a3"
       },
       {
-        "id": "f09dac1c-f6b4-4deb-92f1-1bfd1b100bb4",
-        "codigo": "030-26",
-        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
-        "asunto": "BP INFORME VERTIDOS ES",
+        "id": "add70585-9c85-4864-8bcd-5c8a738baf77",
+        "codigo": "005-26",
+        "cliente_id": "fabf7339-a3e6-4bde-b230-b324a67cdc8a",
+        "asunto": "BP VISITA E INFORME SITUACIÓN ES EL CORB",
         "po": null,
         "estado": "facturada",
-        "importe_total": 1455,
+        "importe_total": 855,
         "creado_por_id": "3e50e7e7-9fd7-4e53-9bf0-2bfd2d063f7f",
         "creado_en": "2026-06-16T13:39:49.533974+00:00",
         "metadatos": {
-          "zona": "BALEARES",
-          "fecha": "2026-06-09",
+          "zona": "CATALUÑA",
+          "fecha": "2026-02-06",
           "lineas": [
             {
-              "id": "lo1781040617527ejcv0u9r94s",
-              "total": 1050,
+              "id": "lo1779394118119",
+              "total": 450,
               "cantidad": 1,
               "descuento": 0,
               "comentario": "",
-              "conceptoId": "04283b6c-87ce-4fef-a269-c4e9b7c5ee41",
-              "precioUnit": 1050
+              "conceptoId": "279f8923-62fd-40e4-a769-28e153051a2a",
+              "precioUnit": 450
             },
             {
-              "id": "lo1781040617527lz1v1oxzti",
+              "id": "lo1779394104889",
               "total": 405,
               "cantidad": 1,
               "descuento": 0,
               "comentario": "",
-              "conceptoId": "419549da-47c3-4c4b-b15d-3799f85f48f6",
+              "conceptoId": "37c0a865-8cf0-4d5f-8b08-4e602e14b8d8",
               "precioUnit": 405
             }
           ],
           "nombre": "",
           "firmante": "",
           "formaPago": "Según contrato",
-          "referencia": "BP-IVE-090626-v1",
-          "emplazamiento": "BP SANTA EULALIA",
-          "firmanteCliente": "Dña. Guiomar Tuero",
-          "firmanteNorAcua": "D. Daniel Romero"
+          "referencia": "BP-VISEEC-060226-v1",
+          "emplazamiento": "ES EL CORB",
+          "firmanteCliente": "",
+          "firmanteNorAcua": ""
         },
-        "legacy_id": "o1781040685810",
-        "proyecto_id": "03dfd712-b4d1-46a4-bb33-5511abc6193f"
+        "legacy_id": "of_005_26",
+        "proyecto_id": null
       },
       {
         "id": "6c11f44b-f9e3-47b8-9452-90320044d70b",
@@ -8312,6 +8228,113 @@
         },
         "legacy_id": "of_019_26",
         "proyecto_id": "f063bf5c-8e40-4902-b61c-07fe9c7e8c96"
+      },
+      {
+        "id": "8b6128ae-8b83-4720-81ee-9cee11295955",
+        "codigo": "003-26",
+        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
+        "asunto": "BP PROYECTO VENTEOS Y ACTUACIONES EN ES BLANCO I",
+        "po": "3001322938",
+        "estado": "facturada",
+        "importe_total": 9945,
+        "creado_por_id": "3e50e7e7-9fd7-4e53-9bf0-2bfd2d063f7f",
+        "creado_en": "2026-06-16T13:39:49.533974+00:00",
+        "metadatos": {
+          "zona": "NORTE",
+          "fecha": "2026-01-30",
+          "lineas": [
+            {
+              "id": "lo1779138264371",
+              "total": 650,
+              "cantidad": 1,
+              "descuento": 0,
+              "comentario": "",
+              "conceptoId": "be85af77-53f1-4d21-9e7d-874f81577420",
+              "precioUnit": 650
+            },
+            {
+              "id": "lo1779138280354",
+              "total": 1375,
+              "cantidad": 1,
+              "descuento": 0,
+              "comentario": "",
+              "conceptoId": "5be72f00-e89c-49c9-87e2-cf1972da7f09",
+              "precioUnit": 1375
+            },
+            {
+              "id": "lo1779138301986",
+              "total": 650,
+              "cantidad": 1,
+              "descuento": 0,
+              "comentario": "",
+              "conceptoId": "2079221d-5216-41ba-855b-a270f0ba266e",
+              "precioUnit": 650
+            },
+            {
+              "id": "lo1779138304412",
+              "total": 960,
+              "cantidad": 4,
+              "descuento": 0,
+              "comentario": "",
+              "conceptoId": "2ee15cd2-26b1-48c6-98b7-4d84b376de55",
+              "precioUnit": 240
+            },
+            {
+              "id": "lo1779138320823",
+              "total": 1200,
+              "cantidad": 1,
+              "descuento": 0,
+              "comentario": "",
+              "conceptoId": "8b7705cf-2ff3-43d1-80dc-a28f0cee3aff",
+              "precioUnit": 1200
+            },
+            {
+              "id": "lo1779138270750",
+              "total": 2310,
+              "cantidad": 1,
+              "descuento": 30,
+              "comentario": "",
+              "conceptoId": "086286e2-8692-4c70-9ff9-0253d3bc3a24",
+              "precioUnit": 3300
+            },
+            {
+              "id": "lo1779138255854",
+              "total": 2000,
+              "cantidad": 1,
+              "descuento": 0,
+              "comentario": "",
+              "conceptoId": "94d58825-82ac-4f7a-839e-e07e950e71fe",
+              "precioUnit": 2000
+            },
+            {
+              "id": "lo1779138288552",
+              "total": 425,
+              "cantidad": 1,
+              "descuento": 0,
+              "comentario": "",
+              "conceptoId": "37c0a865-8cf0-4d5f-8b08-4e602e14b8d8",
+              "precioUnit": 425
+            },
+            {
+              "id": "lo1779138322999",
+              "total": 375,
+              "cantidad": 1,
+              "descuento": 0,
+              "comentario": "",
+              "conceptoId": "9aea6290-4eac-4b5e-b53d-4e3b0a28b972",
+              "precioUnit": 375
+            }
+          ],
+          "nombre": "",
+          "firmante": "",
+          "formaPago": "Según contrato",
+          "referencia": "BP-PVAEEB-300126-v1",
+          "emplazamiento": "BP BLANCO I",
+          "firmanteCliente": "Dña. Concepción Gutierrez",
+          "firmanteNorAcua": ""
+        },
+        "legacy_id": "of_003_26",
+        "proyecto_id": "272dd4b7-f33e-463e-9f3b-3bbbeb6b3123"
       }
     ],
     "clientes": [
