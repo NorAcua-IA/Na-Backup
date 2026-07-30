@@ -1,5 +1,5 @@
 {
-  "fecha": "2026-07-30T19:31:37.021Z",
+  "fecha": "2026-07-30T19:34:07.025Z",
   "version": "5.0",
   "datos": {
     "proyectos": [
@@ -136,28 +136,16 @@
         "legacy_id": "p1779386145802"
       },
       {
-        "id": "e086b7ff-9d39-488d-bd14-e259ce27cd2c",
+        "id": "c90bd7b4-423b-4e91-86f3-50f127c75ceb",
         "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
-        "nombre": "CO OUT ES",
-        "zona": "NORTE",
-        "po": "3001342429",
-        "estacion_id": "4cee0521-b716-47ec-ba46-cfc9388369a6",
-        "responsable_bp_id": "0d31ea79-7b68-4389-9316-f68d918e0edb",
-        "activo": true,
-        "creado_en": "2026-06-16T11:25:39.389344+00:00",
-        "legacy_id": "p1779185513218"
-      },
-      {
-        "id": "4eaf98c0-695f-4215-9885-4dc55c64bdc7",
-        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
-        "nombre": "CO OUT ES",
-        "zona": "NORTE",
+        "nombre": "CO IN ES",
+        "zona": "CATALUÑA",
         "po": null,
-        "estacion_id": "f2c2e879-822a-46f8-95e6-523aeaff5258",
-        "responsable_bp_id": "ececaf57-8526-419e-9dfe-ac31324ecde8",
+        "estacion_id": "d8ef4c36-92e0-4156-b05a-70214dfef657",
+        "responsable_bp_id": "cc323490-3235-48e5-b06c-e4558bdee00a",
         "activo": true,
-        "creado_en": "2026-06-16T11:25:39.389344+00:00",
-        "legacy_id": "p1779138810443"
+        "creado_en": "2026-07-30T19:32:14.599+00:00",
+        "legacy_id": null
       },
       {
         "id": "c1771264-a85e-4223-8fb9-308aaf8675af",
@@ -172,6 +160,18 @@
         "legacy_id": "p1779185410739"
       },
       {
+        "id": "e086b7ff-9d39-488d-bd14-e259ce27cd2c",
+        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
+        "nombre": "CO OUT ES",
+        "zona": "NORTE",
+        "po": "3001342429",
+        "estacion_id": "4cee0521-b716-47ec-ba46-cfc9388369a6",
+        "responsable_bp_id": "0d31ea79-7b68-4389-9316-f68d918e0edb",
+        "activo": true,
+        "creado_en": "2026-06-16T11:25:39.389344+00:00",
+        "legacy_id": "p1779185513218"
+      },
+      {
         "id": "b364c94e-a3f5-464f-82de-2218a3db27ea",
         "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
         "nombre": "CO OUT ES",
@@ -182,6 +182,18 @@
         "activo": true,
         "creado_en": "2026-06-16T11:25:39.389344+00:00",
         "legacy_id": "p1779183792717"
+      },
+      {
+        "id": "4eaf98c0-695f-4215-9885-4dc55c64bdc7",
+        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
+        "nombre": "CO OUT ES",
+        "zona": "NORTE",
+        "po": null,
+        "estacion_id": "f2c2e879-822a-46f8-95e6-523aeaff5258",
+        "responsable_bp_id": "ececaf57-8526-419e-9dfe-ac31324ecde8",
+        "activo": true,
+        "creado_en": "2026-06-16T11:25:39.389344+00:00",
+        "legacy_id": "p1779138810443"
       },
       {
         "id": "d8b56b96-62d2-4fa8-bf26-7ff226aacfaa",
@@ -208,18 +220,6 @@
         "legacy_id": "p1780657008965"
       },
       {
-        "id": "c5cfa823-71f5-4929-91ec-427d9f88cb86",
-        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
-        "nombre": "CONTROL PERIÓDICO AMBIENTAL",
-        "zona": "CATALUÑA",
-        "po": "3001321904",
-        "estacion_id": "3843f715-e606-41b4-a326-8f9f630063af",
-        "responsable_bp_id": "d1a0ed21-6f85-4bab-b968-681501dbd784",
-        "activo": true,
-        "creado_en": "2026-06-16T11:25:39.389344+00:00",
-        "legacy_id": "p1779391786134"
-      },
-      {
         "id": "6f779582-e80f-4027-8d21-53c1137d2218",
         "cliente_id": "a1a48a0d-bdc4-4c0e-a02d-c4f1060c549a",
         "nombre": "CONTROL PERIÓDICO AMBIENTAL",
@@ -230,6 +230,18 @@
         "activo": true,
         "creado_en": "2026-06-16T11:25:39.389344+00:00",
         "legacy_id": "p1780035450676"
+      },
+      {
+        "id": "c5cfa823-71f5-4929-91ec-427d9f88cb86",
+        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
+        "nombre": "CONTROL PERIÓDICO AMBIENTAL",
+        "zona": "CATALUÑA",
+        "po": "3001321904",
+        "estacion_id": "3843f715-e606-41b4-a326-8f9f630063af",
+        "responsable_bp_id": "d1a0ed21-6f85-4bab-b968-681501dbd784",
+        "activo": true,
+        "creado_en": "2026-06-16T11:25:39.389344+00:00",
+        "legacy_id": "p1779391786134"
       },
       {
         "id": "2aacacf3-eee5-4216-a37b-8ba9fb56bc2b",
@@ -352,16 +364,16 @@
         "legacy_id": "p1779132004672"
       },
       {
-        "id": "ce2ce3d0-5315-4f3c-ae63-d9ee14ab736c",
+        "id": "f9ffaa8b-0b50-45ab-a85c-0a0812721928",
         "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
         "nombre": "LEGALIZACIÓN BT",
-        "zona": "NORTE",
-        "po": "3001339420",
-        "estacion_id": "5e4bf7bc-8607-4a78-bd90-e847600295ca",
-        "responsable_bp_id": "cc323490-3235-48e5-b06c-e4558bdee00a",
+        "zona": "CENTRO",
+        "po": null,
+        "estacion_id": "9577d07d-e9e8-429e-9bc5-63120fa82598",
+        "responsable_bp_id": "ececaf57-8526-419e-9dfe-ac31324ecde8",
         "activo": true,
         "creado_en": "2026-06-16T11:25:39.389344+00:00",
-        "legacy_id": "p1779138950348"
+        "legacy_id": "p1779138632454"
       },
       {
         "id": "75fde8f4-4de9-4000-b67d-67e91b00c497",
@@ -376,16 +388,16 @@
         "legacy_id": "p1779140021508"
       },
       {
-        "id": "f9ffaa8b-0b50-45ab-a85c-0a0812721928",
+        "id": "ce2ce3d0-5315-4f3c-ae63-d9ee14ab736c",
         "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
         "nombre": "LEGALIZACIÓN BT",
-        "zona": "CENTRO",
-        "po": null,
-        "estacion_id": "9577d07d-e9e8-429e-9bc5-63120fa82598",
-        "responsable_bp_id": "ececaf57-8526-419e-9dfe-ac31324ecde8",
+        "zona": "NORTE",
+        "po": "3001339420",
+        "estacion_id": "5e4bf7bc-8607-4a78-bd90-e847600295ca",
+        "responsable_bp_id": "cc323490-3235-48e5-b06c-e4558bdee00a",
         "activo": true,
         "creado_en": "2026-06-16T11:25:39.389344+00:00",
-        "legacy_id": "p1779138632454"
+        "legacy_id": "p1779138950348"
       },
       {
         "id": "3073c25d-2aa1-40cb-b08e-02f6498bf3c7",
@@ -496,16 +508,16 @@
         "legacy_id": "p1780477263512"
       },
       {
-        "id": "232f96fb-99a7-4e15-9766-664c8fadc155",
+        "id": "c182e1f2-4b7a-47d3-8f71-5a93e425871b",
         "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
         "nombre": "RECICLADORA LAVADOS",
         "zona": "CATALUÑA",
-        "po": "3001346246",
-        "estacion_id": "69bf44e8-d908-4a24-acdb-f50d4978b374",
+        "po": null,
+        "estacion_id": "69fe02f4-3467-46af-be4a-fd568b56983c",
         "responsable_bp_id": "d1a0ed21-6f85-4bab-b968-681501dbd784",
         "activo": true,
-        "creado_en": "2026-07-16T23:04:52.407+00:00",
-        "legacy_id": "p1781719085766"
+        "creado_en": "2026-06-17T17:55:10.285+00:00",
+        "legacy_id": "p1781718910285"
       },
       {
         "id": "4c0bc367-e624-44b9-bccf-30dd617ee0a3",
@@ -520,16 +532,16 @@
         "legacy_id": "p1779900916942"
       },
       {
-        "id": "c182e1f2-4b7a-47d3-8f71-5a93e425871b",
+        "id": "232f96fb-99a7-4e15-9766-664c8fadc155",
         "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
         "nombre": "RECICLADORA LAVADOS",
         "zona": "CATALUÑA",
-        "po": null,
-        "estacion_id": "69fe02f4-3467-46af-be4a-fd568b56983c",
+        "po": "3001346246",
+        "estacion_id": "69bf44e8-d908-4a24-acdb-f50d4978b374",
         "responsable_bp_id": "d1a0ed21-6f85-4bab-b968-681501dbd784",
         "activo": true,
-        "creado_en": "2026-06-17T17:55:10.285+00:00",
-        "legacy_id": "p1781718910285"
+        "creado_en": "2026-07-16T23:04:52.407+00:00",
+        "legacy_id": "p1781719085766"
       },
       {
         "id": "9ae98172-f102-4204-b4df-eaaf6b470908",
@@ -568,18 +580,6 @@
         "legacy_id": null
       },
       {
-        "id": "ca7bcb77-7ab1-4cac-b70a-e420f8d46747",
-        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
-        "nombre": "REFORMA TIENDA",
-        "zona": "CENTRO",
-        "po": null,
-        "estacion_id": "73f179b6-7f08-432b-8630-0d30abb1beb7",
-        "responsable_bp_id": "d1a0ed21-6f85-4bab-b968-681501dbd784",
-        "activo": true,
-        "creado_en": "2026-06-16T11:25:39.389344+00:00",
-        "legacy_id": "p1779131978216"
-      },
-      {
         "id": "7021c451-baaa-41e4-b5f4-7bd7590e163e",
         "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
         "nombre": "REFORMA TIENDA",
@@ -590,6 +590,18 @@
         "activo": true,
         "creado_en": "2026-06-16T11:25:39.389344+00:00",
         "legacy_id": "p1779138737907"
+      },
+      {
+        "id": "ca7bcb77-7ab1-4cac-b70a-e420f8d46747",
+        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
+        "nombre": "REFORMA TIENDA",
+        "zona": "CENTRO",
+        "po": null,
+        "estacion_id": "73f179b6-7f08-432b-8630-0d30abb1beb7",
+        "responsable_bp_id": "d1a0ed21-6f85-4bab-b968-681501dbd784",
+        "activo": true,
+        "creado_en": "2026-06-16T11:25:39.389344+00:00",
+        "legacy_id": "p1779131978216"
       },
       {
         "id": "f2e00fc2-351c-4313-813e-a7659e401e16",
@@ -604,28 +616,16 @@
         "legacy_id": "p1779138693519"
       },
       {
-        "id": "82a902c5-a661-4c20-a2e7-c74537189192",
+        "id": "43762560-acf4-484e-8b2a-3a1c782f1a31",
         "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
         "nombre": "REFORMA TIENDA DIA",
         "zona": "CENTRO",
         "po": null,
-        "estacion_id": "6ae027f2-13e2-43b3-8aba-373b674cc2ff",
+        "estacion_id": "cf99b3d1-1276-455b-a990-c7ff07f8a73b",
         "responsable_bp_id": "d1a0ed21-6f85-4bab-b968-681501dbd784",
         "activo": true,
         "creado_en": "2026-06-16T11:25:39.389344+00:00",
-        "legacy_id": "p1779132204730"
-      },
-      {
-        "id": "7aa43162-2501-4b0f-a77d-ffcbe096ee3c",
-        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
-        "nombre": "REFORMA TIENDA DIA",
-        "zona": "CENTRO",
-        "po": null,
-        "estacion_id": "45b76192-7a09-4036-a561-4aba0f4a02e5",
-        "responsable_bp_id": "d1a0ed21-6f85-4bab-b968-681501dbd784",
-        "activo": true,
-        "creado_en": "2026-06-16T11:25:39.389344+00:00",
-        "legacy_id": "p1779132098965"
+        "legacy_id": "p1779132181864"
       },
       {
         "id": "b57c75a8-1f80-4ca4-9dcf-0745235a87e2",
@@ -640,28 +640,28 @@
         "legacy_id": "p1779132250291"
       },
       {
-        "id": "5896ccb1-7ca3-43c2-87d4-e632101bb68a",
+        "id": "7aa43162-2501-4b0f-a77d-ffcbe096ee3c",
         "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
         "nombre": "REFORMA TIENDA DIA",
         "zona": "CENTRO",
         "po": null,
-        "estacion_id": "09c051b9-1465-43b2-9850-6f3e057b4202",
+        "estacion_id": "45b76192-7a09-4036-a561-4aba0f4a02e5",
         "responsable_bp_id": "d1a0ed21-6f85-4bab-b968-681501dbd784",
         "activo": true,
         "creado_en": "2026-06-16T11:25:39.389344+00:00",
-        "legacy_id": "p1779132124323"
+        "legacy_id": "p1779132098965"
       },
       {
-        "id": "43762560-acf4-484e-8b2a-3a1c782f1a31",
+        "id": "82a902c5-a661-4c20-a2e7-c74537189192",
         "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
         "nombre": "REFORMA TIENDA DIA",
         "zona": "CENTRO",
         "po": null,
-        "estacion_id": "cf99b3d1-1276-455b-a990-c7ff07f8a73b",
+        "estacion_id": "6ae027f2-13e2-43b3-8aba-373b674cc2ff",
         "responsable_bp_id": "d1a0ed21-6f85-4bab-b968-681501dbd784",
         "activo": true,
         "creado_en": "2026-06-16T11:25:39.389344+00:00",
-        "legacy_id": "p1779132181864"
+        "legacy_id": "p1779132204730"
       },
       {
         "id": "5c63c3e2-efbd-40ee-9edc-a802beaf4306",
@@ -674,6 +674,30 @@
         "activo": true,
         "creado_en": "2026-06-16T11:25:39.389344+00:00",
         "legacy_id": "p1779132293709"
+      },
+      {
+        "id": "bcc6b5d0-b55f-46cf-a169-e30df02b16fe",
+        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
+        "nombre": "REFORMA TIENDA DIA",
+        "zona": "CENTRO",
+        "po": null,
+        "estacion_id": "211a62a9-8f2d-4c53-b896-e591eb8c2b3a",
+        "responsable_bp_id": "d1a0ed21-6f85-4bab-b968-681501dbd784",
+        "activo": true,
+        "creado_en": "2026-06-16T11:25:39.389344+00:00",
+        "legacy_id": "p1779132080175"
+      },
+      {
+        "id": "f8e1b774-f812-4f50-9d78-36cf1627e76b",
+        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
+        "nombre": "REFORMA TIENDA DIA",
+        "zona": "CENTRO",
+        "po": null,
+        "estacion_id": "eb77a89e-515a-44f1-9138-4b7510f9545e",
+        "responsable_bp_id": "50314b46-47a7-4b90-8f8f-58441cbcb7e8",
+        "activo": true,
+        "creado_en": "2026-06-16T11:25:39.389344+00:00",
+        "legacy_id": "p1779132271164"
       },
       {
         "id": "ea5531da-2676-4065-a0b5-8329b13af24b",
@@ -700,28 +724,16 @@
         "legacy_id": "p1779132230677"
       },
       {
-        "id": "bcc6b5d0-b55f-46cf-a169-e30df02b16fe",
+        "id": "5896ccb1-7ca3-43c2-87d4-e632101bb68a",
         "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
         "nombre": "REFORMA TIENDA DIA",
         "zona": "CENTRO",
         "po": null,
-        "estacion_id": "211a62a9-8f2d-4c53-b896-e591eb8c2b3a",
+        "estacion_id": "09c051b9-1465-43b2-9850-6f3e057b4202",
         "responsable_bp_id": "d1a0ed21-6f85-4bab-b968-681501dbd784",
         "activo": true,
         "creado_en": "2026-06-16T11:25:39.389344+00:00",
-        "legacy_id": "p1779132080175"
-      },
-      {
-        "id": "f8e1b774-f812-4f50-9d78-36cf1627e76b",
-        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
-        "nombre": "REFORMA TIENDA DIA",
-        "zona": "CENTRO",
-        "po": null,
-        "estacion_id": "eb77a89e-515a-44f1-9138-4b7510f9545e",
-        "responsable_bp_id": "50314b46-47a7-4b90-8f8f-58441cbcb7e8",
-        "activo": true,
-        "creado_en": "2026-06-16T11:25:39.389344+00:00",
-        "legacy_id": "p1779132271164"
+        "legacy_id": "p1779132124323"
       },
       {
         "id": "50033e86-2e47-46a5-ab55-fe15c266c798",
@@ -784,16 +796,28 @@
         "legacy_id": null
       },
       {
-        "id": "eecd4135-718d-419f-b39d-66fe43ac9dfb",
+        "id": "c36cf5b2-004a-4537-a34e-31dc976fd17e",
         "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
         "nombre": "REQUERIMIENTO IP04",
         "zona": "CATALUÑA",
         "po": "3001321904",
-        "estacion_id": "93231bc2-4be1-4ee2-aec3-9641ebfed846",
+        "estacion_id": "d80834ee-ac92-4005-ac69-c079edb3597c",
         "responsable_bp_id": "10c094e3-c6e3-43ac-8a80-670b618de68f",
         "activo": true,
         "creado_en": "2026-06-16T11:25:39.389344+00:00",
-        "legacy_id": "p1780559676255"
+        "legacy_id": "p1780562447137"
+      },
+      {
+        "id": "675dfd70-d1f7-4db6-b70a-d676fb958411",
+        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
+        "nombre": "REQUERIMIENTO IP04",
+        "zona": "CATALUÑA",
+        "po": "3001321904",
+        "estacion_id": "ed233916-f535-42ac-a316-02562adb9a49",
+        "responsable_bp_id": "10c094e3-c6e3-43ac-8a80-670b618de68f",
+        "activo": true,
+        "creado_en": "2026-06-16T11:25:39.389344+00:00",
+        "legacy_id": "p1780561843356"
       },
       {
         "id": "2a98d756-a149-4abc-9382-c6c1eec1c5e1",
@@ -820,6 +844,42 @@
         "legacy_id": "p1780561377612"
       },
       {
+        "id": "aa7cfd3d-ad7d-486f-951b-eeed85a9307e",
+        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
+        "nombre": "REQUERIMIENTO IP04",
+        "zona": "CATALUÑA",
+        "po": "3001321904",
+        "estacion_id": "826d621b-3a4a-40ea-b88d-03960f9951bc",
+        "responsable_bp_id": "10c094e3-c6e3-43ac-8a80-670b618de68f",
+        "activo": true,
+        "creado_en": "2026-06-16T11:25:39.389344+00:00",
+        "legacy_id": "p1780561539221"
+      },
+      {
+        "id": "24d96227-3a1b-43ce-b891-90e645220697",
+        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
+        "nombre": "REQUERIMIENTO IP04",
+        "zona": "CATALUÑA",
+        "po": "3001321904",
+        "estacion_id": "a88e9a87-faaa-4e2a-85c4-6fcfceff8f4e",
+        "responsable_bp_id": "10c094e3-c6e3-43ac-8a80-670b618de68f",
+        "activo": true,
+        "creado_en": "2026-06-16T11:25:39.389344+00:00",
+        "legacy_id": "p1780562135495"
+      },
+      {
+        "id": "4182ebf3-9f0b-4b9d-9f0c-2651b57dc0dd",
+        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
+        "nombre": "REQUERIMIENTO IP04",
+        "zona": "CATALUÑA",
+        "po": "3001321904",
+        "estacion_id": "04ec5c6b-1799-4746-8d1c-307f740ee7dc",
+        "responsable_bp_id": "10c094e3-c6e3-43ac-8a80-670b618de68f",
+        "activo": true,
+        "creado_en": "2026-06-16T11:25:39.389344+00:00",
+        "legacy_id": "p1780562332327"
+      },
+      {
         "id": "26a565a8-239f-4a9d-8f31-0249527c6d32",
         "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
         "nombre": "REQUERIMIENTO IP04",
@@ -844,40 +904,16 @@
         "legacy_id": "p1780562501868"
       },
       {
-        "id": "4696a716-8c1f-4124-a93d-46b28edbee2b",
+        "id": "8611a942-b52a-463a-bbd4-c0422014ac79",
         "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
         "nombre": "REQUERIMIENTO IP04",
         "zona": "CATALUÑA",
         "po": "3001321904",
-        "estacion_id": "5eb72b89-f11a-4d7e-9a64-d35e4d30ab47",
+        "estacion_id": "0d3311d1-2190-4a35-b3af-bb6e1fdb12a4",
         "responsable_bp_id": "10c094e3-c6e3-43ac-8a80-670b618de68f",
         "activo": true,
         "creado_en": "2026-06-16T11:25:39.389344+00:00",
-        "legacy_id": "p1780559966682"
-      },
-      {
-        "id": "675dfd70-d1f7-4db6-b70a-d676fb958411",
-        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
-        "nombre": "REQUERIMIENTO IP04",
-        "zona": "CATALUÑA",
-        "po": "3001321904",
-        "estacion_id": "ed233916-f535-42ac-a316-02562adb9a49",
-        "responsable_bp_id": "10c094e3-c6e3-43ac-8a80-670b618de68f",
-        "activo": true,
-        "creado_en": "2026-06-16T11:25:39.389344+00:00",
-        "legacy_id": "p1780561843356"
-      },
-      {
-        "id": "c36cf5b2-004a-4537-a34e-31dc976fd17e",
-        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
-        "nombre": "REQUERIMIENTO IP04",
-        "zona": "CATALUÑA",
-        "po": "3001321904",
-        "estacion_id": "d80834ee-ac92-4005-ac69-c079edb3597c",
-        "responsable_bp_id": "10c094e3-c6e3-43ac-8a80-670b618de68f",
-        "activo": true,
-        "creado_en": "2026-06-16T11:25:39.389344+00:00",
-        "legacy_id": "p1780562447137"
+        "legacy_id": "p1780561667466"
       },
       {
         "id": "75cc411a-cae4-4f08-bbe9-068da7953346",
@@ -892,28 +928,16 @@
         "legacy_id": "p1780561741660"
       },
       {
-        "id": "8611a942-b52a-463a-bbd4-c0422014ac79",
+        "id": "4696a716-8c1f-4124-a93d-46b28edbee2b",
         "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
         "nombre": "REQUERIMIENTO IP04",
         "zona": "CATALUÑA",
         "po": "3001321904",
-        "estacion_id": "0d3311d1-2190-4a35-b3af-bb6e1fdb12a4",
+        "estacion_id": "5eb72b89-f11a-4d7e-9a64-d35e4d30ab47",
         "responsable_bp_id": "10c094e3-c6e3-43ac-8a80-670b618de68f",
         "activo": true,
         "creado_en": "2026-06-16T11:25:39.389344+00:00",
-        "legacy_id": "p1780561667466"
-      },
-      {
-        "id": "aa7cfd3d-ad7d-486f-951b-eeed85a9307e",
-        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
-        "nombre": "REQUERIMIENTO IP04",
-        "zona": "CATALUÑA",
-        "po": "3001321904",
-        "estacion_id": "826d621b-3a4a-40ea-b88d-03960f9951bc",
-        "responsable_bp_id": "10c094e3-c6e3-43ac-8a80-670b618de68f",
-        "activo": true,
-        "creado_en": "2026-06-16T11:25:39.389344+00:00",
-        "legacy_id": "p1780561539221"
+        "legacy_id": "p1780559966682"
       },
       {
         "id": "84a5d3cc-1bcc-4505-8e05-26990963b2de",
@@ -926,6 +950,18 @@
         "activo": true,
         "creado_en": "2026-06-16T11:25:39.389344+00:00",
         "legacy_id": "p1780562270182"
+      },
+      {
+        "id": "eecd4135-718d-419f-b39d-66fe43ac9dfb",
+        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
+        "nombre": "REQUERIMIENTO IP04",
+        "zona": "CATALUÑA",
+        "po": "3001321904",
+        "estacion_id": "93231bc2-4be1-4ee2-aec3-9641ebfed846",
+        "responsable_bp_id": "10c094e3-c6e3-43ac-8a80-670b618de68f",
+        "activo": true,
+        "creado_en": "2026-06-16T11:25:39.389344+00:00",
+        "legacy_id": "p1780559676255"
       },
       {
         "id": "be9d7fb0-a68d-41d2-9826-8683c71fb170",
@@ -964,6 +1000,30 @@
         "legacy_id": "p1780559790557"
       },
       {
+        "id": "baaa89b3-098c-47ef-a0c4-56b158e64d56",
+        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
+        "nombre": "REQUERIMIENTO IP04",
+        "zona": "CATALUÑA",
+        "po": "3001321904",
+        "estacion_id": "529b1e2a-ee00-48c6-a856-81a54a1afa4b",
+        "responsable_bp_id": "10c094e3-c6e3-43ac-8a80-670b618de68f",
+        "activo": true,
+        "creado_en": "2026-06-16T11:25:39.389344+00:00",
+        "legacy_id": "p1780561959486"
+      },
+      {
+        "id": "27b0f108-fcbc-43a2-8991-7376efc8ed08",
+        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
+        "nombre": "REQUERIMIENTO IP04",
+        "zona": "CATALUÑA",
+        "po": "3001321904",
+        "estacion_id": "eb7fce06-b84e-4b07-bf6d-3c42599a4d57",
+        "responsable_bp_id": "10c094e3-c6e3-43ac-8a80-670b618de68f",
+        "activo": true,
+        "creado_en": "2026-06-16T11:25:39.389344+00:00",
+        "legacy_id": "p1780481389099"
+      },
+      {
         "id": "96893d3f-7a9f-4aef-a3c8-6f33b4e0b1ce",
         "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
         "nombre": "REQUERIMIENTO IP04",
@@ -1000,30 +1060,6 @@
         "legacy_id": "p1780562031554"
       },
       {
-        "id": "baaa89b3-098c-47ef-a0c4-56b158e64d56",
-        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
-        "nombre": "REQUERIMIENTO IP04",
-        "zona": "CATALUÑA",
-        "po": "3001321904",
-        "estacion_id": "529b1e2a-ee00-48c6-a856-81a54a1afa4b",
-        "responsable_bp_id": "10c094e3-c6e3-43ac-8a80-670b618de68f",
-        "activo": true,
-        "creado_en": "2026-06-16T11:25:39.389344+00:00",
-        "legacy_id": "p1780561959486"
-      },
-      {
-        "id": "27b0f108-fcbc-43a2-8991-7376efc8ed08",
-        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
-        "nombre": "REQUERIMIENTO IP04",
-        "zona": "CATALUÑA",
-        "po": "3001321904",
-        "estacion_id": "eb7fce06-b84e-4b07-bf6d-3c42599a4d57",
-        "responsable_bp_id": "10c094e3-c6e3-43ac-8a80-670b618de68f",
-        "activo": true,
-        "creado_en": "2026-06-16T11:25:39.389344+00:00",
-        "legacy_id": "p1780481389099"
-      },
-      {
         "id": "0785d787-1e27-4464-91de-8a1837128744",
         "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
         "nombre": "REQUERIMIENTO IP04",
@@ -1046,30 +1082,6 @@
         "activo": true,
         "creado_en": "2026-06-16T11:25:39.389344+00:00",
         "legacy_id": "p1780562384979"
-      },
-      {
-        "id": "24d96227-3a1b-43ce-b891-90e645220697",
-        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
-        "nombre": "REQUERIMIENTO IP04",
-        "zona": "CATALUÑA",
-        "po": "3001321904",
-        "estacion_id": "a88e9a87-faaa-4e2a-85c4-6fcfceff8f4e",
-        "responsable_bp_id": "10c094e3-c6e3-43ac-8a80-670b618de68f",
-        "activo": true,
-        "creado_en": "2026-06-16T11:25:39.389344+00:00",
-        "legacy_id": "p1780562135495"
-      },
-      {
-        "id": "4182ebf3-9f0b-4b9d-9f0c-2651b57dc0dd",
-        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
-        "nombre": "REQUERIMIENTO IP04",
-        "zona": "CATALUÑA",
-        "po": "3001321904",
-        "estacion_id": "04ec5c6b-1799-4746-8d1c-307f740ee7dc",
-        "responsable_bp_id": "10c094e3-c6e3-43ac-8a80-670b618de68f",
-        "activo": true,
-        "creado_en": "2026-06-16T11:25:39.389344+00:00",
-        "legacy_id": "p1780562332327"
       },
       {
         "id": "a3f60d4d-a885-4a7b-a47c-99290322b478",
@@ -1156,18 +1168,6 @@
         "legacy_id": "p1779384794378"
       },
       {
-        "id": "cc0ab490-77e4-4727-86f4-113704921bc1",
-        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
-        "nombre": "SÓTANO ES",
-        "zona": "CATALUÑA",
-        "po": "3001322306",
-        "estacion_id": "d86d4e7d-6e1e-422a-9c43-339da639312b",
-        "responsable_bp_id": "d1a0ed21-6f85-4bab-b968-681501dbd784",
-        "activo": true,
-        "creado_en": "2026-06-16T11:25:39.389344+00:00",
-        "legacy_id": "p1779387531504"
-      },
-      {
         "id": "63691af2-7577-435d-816d-1d83c658d7e3",
         "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
         "nombre": "SÓTANO ES",
@@ -1190,6 +1190,18 @@
         "activo": true,
         "creado_en": "2026-06-16T11:25:39.389344+00:00",
         "legacy_id": "p1779386413694"
+      },
+      {
+        "id": "cc0ab490-77e4-4727-86f4-113704921bc1",
+        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
+        "nombre": "SÓTANO ES",
+        "zona": "CATALUÑA",
+        "po": "3001322306",
+        "estacion_id": "d86d4e7d-6e1e-422a-9c43-339da639312b",
+        "responsable_bp_id": "d1a0ed21-6f85-4bab-b968-681501dbd784",
+        "activo": true,
+        "creado_en": "2026-06-16T11:25:39.389344+00:00",
+        "legacy_id": "p1779387531504"
       },
       {
         "id": "c5a70b76-725f-4b7b-a83f-2cbf79461d28",
@@ -1300,18 +1312,6 @@
         "legacy_id": "p1780656834711"
       },
       {
-        "id": "006d9aac-5e3f-4314-b472-f480941d226f",
-        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
-        "nombre": "VERTIDOS",
-        "zona": "NORTE",
-        "po": null,
-        "estacion_id": "03cc6984-2d11-4c3d-9084-a5d9597e8fe1",
-        "responsable_bp_id": "0d31ea79-7b68-4389-9316-f68d918e0edb",
-        "activo": true,
-        "creado_en": "2026-06-16T11:25:39.389344+00:00",
-        "legacy_id": "p1779131920309"
-      },
-      {
         "id": "728fe971-df4e-4d78-92c6-f2e884047c0d",
         "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
         "nombre": "VERTIDOS",
@@ -1384,6 +1384,18 @@
         "legacy_id": "p1779131945230"
       },
       {
+        "id": "006d9aac-5e3f-4314-b472-f480941d226f",
+        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
+        "nombre": "VERTIDOS",
+        "zona": "NORTE",
+        "po": null,
+        "estacion_id": "03cc6984-2d11-4c3d-9084-a5d9597e8fe1",
+        "responsable_bp_id": "0d31ea79-7b68-4389-9316-f68d918e0edb",
+        "activo": true,
+        "creado_en": "2026-06-16T11:25:39.389344+00:00",
+        "legacy_id": "p1779131920309"
+      },
+      {
         "id": "4eaea465-5aa8-4a1b-a87a-d3792798afc9",
         "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
         "nombre": "VERTIDOS",
@@ -1421,6 +1433,30 @@
       }
     ],
     "registros": [
+      {
+        "id": "2d452e17-9ae1-4549-8827-a0ee70ed86c7",
+        "proyecto_id": "c90bd7b4-423b-4e91-86f3-50f127c75ceb",
+        "tecnico_id": "5ab5456a-6a78-4393-8809-c97b41cffb96",
+        "creado_por_id": "5ab5456a-6a78-4393-8809-c97b41cffb96",
+        "estado": "pendiente",
+        "estado_certif": null,
+        "fecha": "2026-07-30",
+        "es_grupo": true,
+        "concepto_id": "4f611511-7ef1-4b9c-a05f-a47786b7c3fe",
+        "precio_unitario": null,
+        "cantidad": 1,
+        "descuento_pct": 0,
+        "oferta_id": null,
+        "factura_id": null,
+        "informe_id": null,
+        "observaciones": "Grupo: 2 actividades",
+        "estacion_id": null,
+        "creado_en": "2026-07-30T19:32:57.761955+00:00",
+        "actualizado_en": "2026-07-30T19:32:57.761955+00:00",
+        "eliminado_en": null,
+        "legacy_id": null,
+        "motivo_rechazo": null
+      },
       {
         "id": "7fea79a4-eea0-4419-8778-42d77446cd16",
         "proyecto_id": "c3e73640-5c3d-4b27-8de4-b5100516c45d",
@@ -1638,30 +1674,6 @@
         "motivo_rechazo": null
       },
       {
-        "id": "b36c31ce-f805-4f25-a51e-8ddc9b160fc6",
-        "proyecto_id": "701a8a8c-e211-4e66-a307-0b1520c5191e",
-        "tecnico_id": "5ab5456a-6a78-4393-8809-c97b41cffb96",
-        "creado_por_id": "5ab5456a-6a78-4393-8809-c97b41cffb96",
-        "estado": "rechazado",
-        "estado_certif": null,
-        "fecha": "2026-07-13",
-        "es_grupo": true,
-        "concepto_id": null,
-        "precio_unitario": null,
-        "cantidad": 1,
-        "descuento_pct": 0,
-        "oferta_id": null,
-        "factura_id": null,
-        "informe_id": null,
-        "observaciones": "Grupo: 1 actividades",
-        "estacion_id": null,
-        "creado_en": "2026-07-13T10:16:06.34+00:00",
-        "actualizado_en": "2026-07-27T21:48:39.065236+00:00",
-        "eliminado_en": null,
-        "legacy_id": "r1783937766340",
-        "motivo_rechazo": null
-      },
-      {
         "id": "f0e619c1-f7b2-4c94-a3ba-c2815ef203eb",
         "proyecto_id": "1ed654d6-f77b-41eb-9f35-f549ae962b47",
         "tecnico_id": "5ab5456a-6a78-4393-8809-c97b41cffb96",
@@ -1683,6 +1695,30 @@
         "actualizado_en": "2026-07-27T21:48:39.065236+00:00",
         "eliminado_en": null,
         "legacy_id": "r1783947598915",
+        "motivo_rechazo": null
+      },
+      {
+        "id": "b36c31ce-f805-4f25-a51e-8ddc9b160fc6",
+        "proyecto_id": "701a8a8c-e211-4e66-a307-0b1520c5191e",
+        "tecnico_id": "5ab5456a-6a78-4393-8809-c97b41cffb96",
+        "creado_por_id": "5ab5456a-6a78-4393-8809-c97b41cffb96",
+        "estado": "rechazado",
+        "estado_certif": null,
+        "fecha": "2026-07-13",
+        "es_grupo": true,
+        "concepto_id": null,
+        "precio_unitario": null,
+        "cantidad": 1,
+        "descuento_pct": 0,
+        "oferta_id": null,
+        "factura_id": null,
+        "informe_id": null,
+        "observaciones": "Grupo: 1 actividades",
+        "estacion_id": null,
+        "creado_en": "2026-07-13T10:16:06.34+00:00",
+        "actualizado_en": "2026-07-27T21:48:39.065236+00:00",
+        "eliminado_en": null,
+        "legacy_id": "r1783937766340",
         "motivo_rechazo": null
       },
       {
@@ -1734,12 +1770,12 @@
         "motivo_rechazo": null
       },
       {
-        "id": "d1544a12-1f71-43ee-adde-700a75760197",
-        "proyecto_id": "bb91efbf-e9eb-491d-9606-64948b7af781",
-        "tecnico_id": "5ab5456a-6a78-4393-8809-c97b41cffb96",
-        "creado_por_id": "5ab5456a-6a78-4393-8809-c97b41cffb96",
+        "id": "20ff76cb-b6bf-4aff-b33e-2770c9d15a0c",
+        "proyecto_id": "48b5471b-9043-4bba-b212-6b7a7db1efd1",
+        "tecnico_id": "3e50e7e7-9fd7-4e53-9bf0-2bfd2d063f7f",
+        "creado_por_id": "3e50e7e7-9fd7-4e53-9bf0-2bfd2d063f7f",
         "estado": "aprobado",
-        "estado_certif": null,
+        "estado_certif": "aprobada",
         "fecha": "2026-07-06",
         "es_grupo": true,
         "concepto_id": null,
@@ -1751,10 +1787,10 @@
         "informe_id": null,
         "observaciones": "Grupo: 1 actividades",
         "estacion_id": null,
-        "creado_en": "2026-07-06T11:46:20.705+00:00",
+        "creado_en": "2026-07-06T16:23:48.07+00:00",
         "actualizado_en": "2026-07-27T21:48:39.065236+00:00",
         "eliminado_en": null,
-        "legacy_id": "r1783338380705",
+        "legacy_id": "r1783355028070",
         "motivo_rechazo": null
       },
       {
@@ -1782,12 +1818,12 @@
         "motivo_rechazo": null
       },
       {
-        "id": "20ff76cb-b6bf-4aff-b33e-2770c9d15a0c",
-        "proyecto_id": "48b5471b-9043-4bba-b212-6b7a7db1efd1",
-        "tecnico_id": "3e50e7e7-9fd7-4e53-9bf0-2bfd2d063f7f",
-        "creado_por_id": "3e50e7e7-9fd7-4e53-9bf0-2bfd2d063f7f",
+        "id": "d1544a12-1f71-43ee-adde-700a75760197",
+        "proyecto_id": "bb91efbf-e9eb-491d-9606-64948b7af781",
+        "tecnico_id": "5ab5456a-6a78-4393-8809-c97b41cffb96",
+        "creado_por_id": "5ab5456a-6a78-4393-8809-c97b41cffb96",
         "estado": "aprobado",
-        "estado_certif": "aprobada",
+        "estado_certif": null,
         "fecha": "2026-07-06",
         "es_grupo": true,
         "concepto_id": null,
@@ -1799,10 +1835,10 @@
         "informe_id": null,
         "observaciones": "Grupo: 1 actividades",
         "estacion_id": null,
-        "creado_en": "2026-07-06T16:23:48.07+00:00",
+        "creado_en": "2026-07-06T11:46:20.705+00:00",
         "actualizado_en": "2026-07-27T21:48:39.065236+00:00",
         "eliminado_en": null,
-        "legacy_id": "r1783355028070",
+        "legacy_id": "r1783338380705",
         "motivo_rechazo": null
       },
       {
@@ -1950,30 +1986,6 @@
         "motivo_rechazo": null
       },
       {
-        "id": "597c29db-1260-460d-9ffa-0c98cfddfd01",
-        "proyecto_id": "322bab5c-dd04-4d87-ad1c-b9f72e844a3f",
-        "tecnico_id": "76085462-4441-41bf-b473-3f127cc74860",
-        "creado_por_id": "76085462-4441-41bf-b473-3f127cc74860",
-        "estado": "aprobado",
-        "estado_certif": null,
-        "fecha": "2026-06-18",
-        "es_grupo": true,
-        "concepto_id": null,
-        "precio_unitario": null,
-        "cantidad": 1,
-        "descuento_pct": 0,
-        "oferta_id": null,
-        "factura_id": null,
-        "informe_id": null,
-        "observaciones": "Grupo: 1 actividades",
-        "estacion_id": null,
-        "creado_en": "2026-06-20T22:20:06.607819+00:00",
-        "actualizado_en": "2026-07-27T21:48:39.065236+00:00",
-        "eliminado_en": null,
-        "legacy_id": "r1781779434155",
-        "motivo_rechazo": null
-      },
-      {
         "id": "15caef20-ee20-49a9-b6a4-9318c543a9b6",
         "proyecto_id": "53531d55-8fec-460f-92f2-8a3cf4214e5f",
         "tecnico_id": "76085462-4441-41bf-b473-3f127cc74860",
@@ -1998,13 +2010,13 @@
         "motivo_rechazo": null
       },
       {
-        "id": "4cf31a4a-e3c3-4c4b-9e20-54987188c8c5",
-        "proyecto_id": "6dbd7903-a489-4c10-8be3-f6a5a0423f48",
-        "tecnico_id": "5ab5456a-6a78-4393-8809-c97b41cffb96",
-        "creado_por_id": "5ab5456a-6a78-4393-8809-c97b41cffb96",
-        "estado": "pendiente",
+        "id": "597c29db-1260-460d-9ffa-0c98cfddfd01",
+        "proyecto_id": "322bab5c-dd04-4d87-ad1c-b9f72e844a3f",
+        "tecnico_id": "76085462-4441-41bf-b473-3f127cc74860",
+        "creado_por_id": "76085462-4441-41bf-b473-3f127cc74860",
+        "estado": "aprobado",
         "estado_certif": null,
-        "fecha": "2026-06-17",
+        "fecha": "2026-06-18",
         "es_grupo": true,
         "concepto_id": null,
         "precio_unitario": null,
@@ -2018,7 +2030,7 @@
         "creado_en": "2026-06-20T22:20:06.607819+00:00",
         "actualizado_en": "2026-07-27T21:48:39.065236+00:00",
         "eliminado_en": null,
-        "legacy_id": "r1781686289540",
+        "legacy_id": "r1781779434155",
         "motivo_rechazo": null
       },
       {
@@ -2043,6 +2055,30 @@
         "actualizado_en": "2026-07-27T21:48:39.065236+00:00",
         "eliminado_en": null,
         "legacy_id": "r1781687708060",
+        "motivo_rechazo": null
+      },
+      {
+        "id": "4cf31a4a-e3c3-4c4b-9e20-54987188c8c5",
+        "proyecto_id": "6dbd7903-a489-4c10-8be3-f6a5a0423f48",
+        "tecnico_id": "5ab5456a-6a78-4393-8809-c97b41cffb96",
+        "creado_por_id": "5ab5456a-6a78-4393-8809-c97b41cffb96",
+        "estado": "pendiente",
+        "estado_certif": null,
+        "fecha": "2026-06-17",
+        "es_grupo": true,
+        "concepto_id": null,
+        "precio_unitario": null,
+        "cantidad": 1,
+        "descuento_pct": 0,
+        "oferta_id": null,
+        "factura_id": null,
+        "informe_id": null,
+        "observaciones": "Grupo: 1 actividades",
+        "estacion_id": null,
+        "creado_en": "2026-06-20T22:20:06.607819+00:00",
+        "actualizado_en": "2026-07-27T21:48:39.065236+00:00",
+        "eliminado_en": null,
+        "legacy_id": "r1781686289540",
         "motivo_rechazo": null
       },
       {
@@ -2958,12 +2994,12 @@
         "motivo_rechazo": null
       },
       {
-        "id": "e025bd85-41a4-4c2b-a421-7c31f50c2636",
-        "proyecto_id": "a3f60d4d-a885-4a7b-a47c-99290322b478",
-        "tecnico_id": "5ab5456a-6a78-4393-8809-c97b41cffb96",
-        "creado_por_id": "5ab5456a-6a78-4393-8809-c97b41cffb96",
+        "id": "217600f6-62d6-4f77-b547-57a08209522c",
+        "proyecto_id": "27b0f108-fcbc-43a2-8991-7376efc8ed08",
+        "tecnico_id": "76085462-4441-41bf-b473-3f127cc74860",
+        "creado_por_id": "76085462-4441-41bf-b473-3f127cc74860",
         "estado": "aprobado",
-        "estado_certif": null,
+        "estado_certif": "aprobada",
         "fecha": "2026-06-01",
         "es_grupo": true,
         "concepto_id": null,
@@ -2975,10 +3011,10 @@
         "informe_id": null,
         "observaciones": "Grupo: 1 actividades",
         "estacion_id": null,
-        "creado_en": "2026-06-03T09:23:29.465+00:00",
+        "creado_en": "2026-06-04T07:49:06.457+00:00",
         "actualizado_en": "2026-07-27T21:48:39.065236+00:00",
         "eliminado_en": null,
-        "legacy_id": "r1780478609465",
+        "legacy_id": "r1780559346457",
         "motivo_rechazo": null
       },
       {
@@ -3054,12 +3090,12 @@
         "motivo_rechazo": null
       },
       {
-        "id": "217600f6-62d6-4f77-b547-57a08209522c",
-        "proyecto_id": "27b0f108-fcbc-43a2-8991-7376efc8ed08",
-        "tecnico_id": "76085462-4441-41bf-b473-3f127cc74860",
-        "creado_por_id": "76085462-4441-41bf-b473-3f127cc74860",
+        "id": "e025bd85-41a4-4c2b-a421-7c31f50c2636",
+        "proyecto_id": "a3f60d4d-a885-4a7b-a47c-99290322b478",
+        "tecnico_id": "5ab5456a-6a78-4393-8809-c97b41cffb96",
+        "creado_por_id": "5ab5456a-6a78-4393-8809-c97b41cffb96",
         "estado": "aprobado",
-        "estado_certif": "aprobada",
+        "estado_certif": null,
         "fecha": "2026-06-01",
         "es_grupo": true,
         "concepto_id": null,
@@ -3071,10 +3107,10 @@
         "informe_id": null,
         "observaciones": "Grupo: 1 actividades",
         "estacion_id": null,
-        "creado_en": "2026-06-04T07:49:06.457+00:00",
+        "creado_en": "2026-06-03T09:23:29.465+00:00",
         "actualizado_en": "2026-07-27T21:48:39.065236+00:00",
         "eliminado_en": null,
-        "legacy_id": "r1780559346457",
+        "legacy_id": "r1780478609465",
         "motivo_rechazo": null
       },
       {
