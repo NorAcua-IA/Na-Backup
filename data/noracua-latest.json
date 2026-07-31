@@ -1,5 +1,5 @@
 {
-  "fecha": "2026-07-31T11:11:44.639Z",
+  "fecha": "2026-07-31T11:12:34.934Z",
   "version": "5.0",
   "datos": {
     "proyectos": [
@@ -8584,7 +8584,7 @@
         "tipo": "Itinerante",
         "zona": "CATALUÑA",
         "fecha": "2026-07-31",
-        "estado": "completada",
+        "estado": "aprobada",
         "po": null,
         "horas_facturables": 8,
         "datos_supervision": {
@@ -8595,7 +8595,7 @@
           "importe": null,
           "facturaId": null,
           "facturado": false,
-          "horasAdmin": 4,
+          "horasAdmin": 8,
           "comentarios": "",
           "incidencias": "No",
           "pctAuditoria": "",
