@@ -1,5 +1,5 @@
 {
-  "fecha": "2026-08-07T18:23:41.901Z",
+  "fecha": "2026-08-07T20:19:37.355Z",
   "version": "5.0",
   "datos": {
     "proyectos": [
@@ -5562,7 +5562,7 @@
         "cliente_id": "b405360f-b82f-4344-aa54-4a5c87490d63",
         "asunto": "CF TRABAJOS VARIOS CONTROL AMBIENTAL ES SANT FRUITÓS",
         "po": null,
-        "estado": "borrador",
+        "estado": "activa",
         "importe_total": 7740,
         "creado_por_id": "3e50e7e7-9fd7-4e53-9bf0-2bfd2d063f7f",
         "creado_en": "2026-07-30T19:50:10.33+00:00",
