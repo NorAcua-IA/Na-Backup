@@ -1,5 +1,5 @@
 {
-  "fecha": "2026-08-07T10:36:44.353Z",
+  "fecha": "2026-08-07T10:59:09.095Z",
   "version": "5.0",
   "datos": {
     "proyectos": [
@@ -5518,8 +5518,8 @@
         "cliente_id": "b405360f-b82f-4344-aa54-4a5c87490d63",
         "asunto": "CF INFORME TÉCNICO SANEAMIENTO ES",
         "po": null,
-        "estado": "borrador",
-        "importe_total": null,
+        "estado": "activa",
+        "importe_total": 1825,
         "creado_por_id": "3e50e7e7-9fd7-4e53-9bf0-2bfd2d063f7f",
         "creado_en": "2026-07-30T20:13:27.669+00:00",
         "metadatos": {
@@ -5716,37 +5716,45 @@
         "proyecto_id": null
       },
       {
-        "id": "2da72f78-662e-4219-82e8-8ab7f3483d21",
-        "codigo": "045-26",
+        "id": "16922d21-3bc9-42fc-8a00-adeaf785c47f",
+        "codigo": "042-26",
         "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
-        "asunto": "BP INFORME CONTENCIÓN MURO LAVADOS",
+        "asunto": "BP PROYECTO Y LICENCIAS PARA CAMBIO DE SHC",
         "po": null,
         "estado": "activa",
-        "importe_total": 1455,
+        "importe_total": 2806.9,
         "creado_por_id": "3e50e7e7-9fd7-4e53-9bf0-2bfd2d063f7f",
         "creado_en": "2026-07-26T20:15:09.510828+00:00",
         "metadatos": {
           "lineas": [
             {
-              "total": 1050,
+              "total": 606.9,
               "cantidad": 1,
               "descuento": 0,
-              "comentario": "Informe de estructuristas con solución técnica",
-              "conceptoId": "04283b6c-87ce-4fef-a269-c4e9b7c5ee41",
-              "precioUnit": 1050
+              "comentario": "Licencia de Obras en Ayuntamiento",
+              "conceptoId": "2079221d-5216-41ba-855b-a270f0ba266e",
+              "precioUnit": 606.9
             },
             {
-              "total": 405,
+              "total": 350,
               "cantidad": 1,
               "descuento": 0,
-              "comentario": "Se realiza toma de datos aprovechando la revisión del saneamiento",
-              "conceptoId": "37c0a865-8cf0-4d5f-8b08-4e602e14b8d8",
-              "precioUnit": 405
+              "comentario": "Consulta previa a Medio Ambiente",
+              "conceptoId": "2ee15cd2-26b1-48c6-98b7-4d84b376de55",
+              "precioUnit": 350
+            },
+            {
+              "total": 1850,
+              "cantidad": 1,
+              "descuento": 0,
+              "comentario": "Proyecto adecuación red saneamiento",
+              "conceptoId": "94d58825-82ac-4f7a-839e-e07e950e71fe",
+              "precioUnit": 1850
             }
           ]
         },
-        "legacy_id": "o1785091578070",
-        "proyecto_id": "57c3aa8b-1d2d-4b2e-89cb-0d32ffc6ea64"
+        "legacy_id": "o1785082402707",
+        "proyecto_id": "ed2f275e-f5c5-40ed-90eb-ca1f797c3d1a"
       },
       {
         "id": "d87b52f2-3e5b-48ce-a325-81000a3a9888",
@@ -5798,53 +5806,45 @@
         "proyecto_id": "79e64aad-a9b3-4c66-9b39-a6db905b4c0b"
       },
       {
-        "id": "16922d21-3bc9-42fc-8a00-adeaf785c47f",
-        "codigo": "042-26",
+        "id": "2da72f78-662e-4219-82e8-8ab7f3483d21",
+        "codigo": "045-26",
         "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
-        "asunto": "BP PROYECTO Y LICENCIAS PARA CAMBIO DE SHC",
+        "asunto": "BP INFORME CONTENCIÓN MURO LAVADOS",
         "po": null,
         "estado": "activa",
-        "importe_total": 2806.9,
+        "importe_total": 1455,
         "creado_por_id": "3e50e7e7-9fd7-4e53-9bf0-2bfd2d063f7f",
         "creado_en": "2026-07-26T20:15:09.510828+00:00",
         "metadatos": {
           "lineas": [
             {
-              "total": 606.9,
+              "total": 1050,
               "cantidad": 1,
               "descuento": 0,
-              "comentario": "Licencia de Obras en Ayuntamiento",
-              "conceptoId": "2079221d-5216-41ba-855b-a270f0ba266e",
-              "precioUnit": 606.9
+              "comentario": "Informe de estructuristas con solución técnica",
+              "conceptoId": "04283b6c-87ce-4fef-a269-c4e9b7c5ee41",
+              "precioUnit": 1050
             },
             {
-              "total": 350,
+              "total": 405,
               "cantidad": 1,
               "descuento": 0,
-              "comentario": "Consulta previa a Medio Ambiente",
-              "conceptoId": "2ee15cd2-26b1-48c6-98b7-4d84b376de55",
-              "precioUnit": 350
-            },
-            {
-              "total": 1850,
-              "cantidad": 1,
-              "descuento": 0,
-              "comentario": "Proyecto adecuación red saneamiento",
-              "conceptoId": "94d58825-82ac-4f7a-839e-e07e950e71fe",
-              "precioUnit": 1850
+              "comentario": "Se realiza toma de datos aprovechando la revisión del saneamiento",
+              "conceptoId": "37c0a865-8cf0-4d5f-8b08-4e602e14b8d8",
+              "precioUnit": 405
             }
           ]
         },
-        "legacy_id": "o1785082402707",
-        "proyecto_id": "ed2f275e-f5c5-40ed-90eb-ca1f797c3d1a"
+        "legacy_id": "o1785091578070",
+        "proyecto_id": "57c3aa8b-1d2d-4b2e-89cb-0d32ffc6ea64"
       },
       {
         "id": "222a6780-bf86-438f-936b-91d138626eeb",
         "codigo": "043-26",
         "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
         "asunto": "BP INFORME Y GESTIÓN AUTORIZACIÓN DE VERTIDOS",
-        "po": null,
-        "estado": "activa",
+        "po": "3001351269",
+        "estado": "cerrada",
         "importe_total": 3416.7,
         "creado_por_id": "3e50e7e7-9fd7-4e53-9bf0-2bfd2d063f7f",
         "creado_en": "2026-07-26T20:15:09.510828+00:00",
@@ -5911,6 +5911,59 @@
         },
         "legacy_id": "o1785082942610",
         "proyecto_id": "18b6290f-173a-4129-b3f1-0142dc049a52"
+      },
+      {
+        "id": "4d9590a3-aacf-44f8-9927-056094a1d99c",
+        "codigo": "031-26",
+        "cliente_id": "b405360f-b82f-4344-aa54-4a5c87490d63",
+        "asunto": "CF INFORME DEFICIENCIAS ES",
+        "po": null,
+        "estado": "activa",
+        "importe_total": 2250,
+        "creado_por_id": "3e50e7e7-9fd7-4e53-9bf0-2bfd2d063f7f",
+        "creado_en": "2026-07-17T21:40:13.593067+00:00",
+        "metadatos": {
+          "ref": "",
+          "zona": "OTROS",
+          "fecha": "2026-07-17",
+          "notas": "",
+          "lineas": [
+            {
+              "id": "lo1781627910337",
+              "total": 425,
+              "cantidad": 1,
+              "descuento": 0,
+              "comentario": "VISTA TÉCNICO AYUNTAMIENTO",
+              "conceptoId": "025f1518-6bd1-44b9-8361-3020be4b7112",
+              "precioUnit": 425
+            },
+            {
+              "id": "lo1781627813554",
+              "total": 1100,
+              "cantidad": 1,
+              "descuento": 0,
+              "comentario": "INFORME DEFICIENCIAS LEGALES E IP04 ES CF DENIA",
+              "conceptoId": "04283b6c-87ce-4fef-a269-c4e9b7c5ee41",
+              "precioUnit": 1100
+            },
+            {
+              "id": "lo1781627851218",
+              "total": 725,
+              "cantidad": 1,
+              "descuento": 0,
+              "comentario": "VISITA TOMA DE DATOS ES",
+              "conceptoId": "37c0a865-8cf0-4d5f-8b08-4e602e14b8d8",
+              "precioUnit": 725
+            }
+          ],
+          "numero": "031-26",
+          "version": 1,
+          "estacion": "CF DENIA",
+          "responsable": "",
+          "emplazamiento": "CF DENIA"
+        },
+        "legacy_id": "o1781627943721",
+        "proyecto_id": "b2ff2088-09ee-4ef5-bf60-b2cc6aed5009"
       },
       {
         "id": "671aaab6-d42f-4868-a834-abf309efbe2d",
@@ -6011,147 +6064,6 @@
         "proyecto_id": "c182e1f2-4b7a-47d3-8f71-5a93e425871b"
       },
       {
-        "id": "547b84fb-7ca3-4459-b757-ad8e06355ab4",
-        "codigo": "034-26",
-        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
-        "asunto": "BP ADECUACIÓN VENTEOS",
-        "po": null,
-        "estado": "activa",
-        "importe_total": 3255,
-        "creado_por_id": "3e50e7e7-9fd7-4e53-9bf0-2bfd2d063f7f",
-        "creado_en": "2026-07-17T21:40:13.593067+00:00",
-        "metadatos": {
-          "lineas": [
-            {
-              "id": "lo1781699251614",
-              "total": 650,
-              "cantidad": 1,
-              "descuento": 0,
-              "comentario": "",
-              "conceptoId": "be85af77-53f1-4d21-9e7d-874f81577420",
-              "precioUnit": 650
-            },
-            {
-              "id": "lo1781699255983",
-              "total": 1375,
-              "cantidad": 1,
-              "descuento": 0,
-              "comentario": "",
-              "conceptoId": "5be72f00-e89c-49c9-87e2-cf1972da7f09",
-              "precioUnit": 1375
-            },
-            {
-              "id": "lo1781699262020",
-              "total": 240,
-              "cantidad": 1,
-              "descuento": 0,
-              "comentario": "",
-              "conceptoId": "2ee15cd2-26b1-48c6-98b7-4d84b376de55",
-              "precioUnit": 240
-            },
-            {
-              "id": "lo17816991564045ap4753x0nn",
-              "total": 240,
-              "cantidad": 1,
-              "descuento": 0,
-              "comentario": "",
-              "conceptoId": "2ee15cd2-26b1-48c6-98b7-4d84b376de55",
-              "precioUnit": 240
-            },
-            {
-              "id": "lo1781699288115",
-              "total": 750,
-              "cantidad": 2,
-              "descuento": 0,
-              "comentario": "",
-              "conceptoId": "9aea6290-4eac-4b5e-b53d-4e3b0a28b972",
-              "precioUnit": 375
-            }
-          ]
-        },
-        "legacy_id": "o1781699334784",
-        "proyecto_id": "1ed654d6-f77b-41eb-9f35-f549ae962b47"
-      },
-      {
-        "id": "0500b948-dc16-4576-884c-a041388527ab",
-        "codigo": "032-26",
-        "cliente_id": "9e05e084-0295-4aae-a282-17fe02921985",
-        "asunto": "BP ADECUACIÓN SANEAMIENTO",
-        "po": null,
-        "estado": "activa",
-        "importe_total": 1055,
-        "creado_por_id": "3e50e7e7-9fd7-4e53-9bf0-2bfd2d063f7f",
-        "creado_en": "2026-07-17T21:40:13.593067+00:00",
-        "metadatos": {
-          "lineas": [
-            {
-              "id": "lo17816958716034swo0fzh07a",
-              "total": 650,
-              "cantidad": 1,
-              "descuento": 0,
-              "comentario": "",
-              "conceptoId": "be85af77-53f1-4d21-9e7d-874f81577420",
-              "precioUnit": 650
-            },
-            {
-              "id": "lo17816958716038jnni0hp2ca",
-              "total": 405,
-              "cantidad": 1,
-              "descuento": 0,
-              "comentario": "",
-              "conceptoId": "37c0a865-8cf0-4d5f-8b08-4e602e14b8d8",
-              "precioUnit": 405
-            }
-          ]
-        },
-        "legacy_id": "o1781695980665",
-        "proyecto_id": "7a1f0f42-9123-45b8-b17d-8e26b1f7afc0"
-      },
-      {
-        "id": "4d9590a3-aacf-44f8-9927-056094a1d99c",
-        "codigo": "031-26",
-        "cliente_id": "b405360f-b82f-4344-aa54-4a5c87490d63",
-        "asunto": "CF INFORME DEFICIENCIAS ES",
-        "po": null,
-        "estado": "activa",
-        "importe_total": 2250,
-        "creado_por_id": "3e50e7e7-9fd7-4e53-9bf0-2bfd2d063f7f",
-        "creado_en": "2026-07-17T21:40:13.593067+00:00",
-        "metadatos": {
-          "lineas": [
-            {
-              "id": "lo1781627910337",
-              "total": 425,
-              "cantidad": 1,
-              "descuento": 0,
-              "comentario": "VISTA TÉCNICO AYUNTAMIENTO",
-              "conceptoId": "025f1518-6bd1-44b9-8361-3020be4b7112",
-              "precioUnit": 425
-            },
-            {
-              "id": "lo1781627813554",
-              "total": 1100,
-              "cantidad": 1,
-              "descuento": 0,
-              "comentario": "INFORME DEFICIENCIAS LEGALES E IP04 ES CF DENIA",
-              "conceptoId": "04283b6c-87ce-4fef-a269-c4e9b7c5ee41",
-              "precioUnit": 1100
-            },
-            {
-              "id": "lo1781627851218",
-              "total": 725,
-              "cantidad": 1,
-              "descuento": 0,
-              "comentario": "VISITA TOMA DE DATOS ES",
-              "conceptoId": "37c0a865-8cf0-4d5f-8b08-4e602e14b8d8",
-              "precioUnit": 725
-            }
-          ]
-        },
-        "legacy_id": "o1781627943721",
-        "proyecto_id": "b2ff2088-09ee-4ef5-bf60-b2cc6aed5009"
-      },
-      {
         "id": "8099b45b-2776-44f3-9880-d28b86d7d9fc",
         "codigo": "033-26",
         "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
@@ -6176,6 +6088,32 @@
         },
         "legacy_id": "o1781698402802",
         "proyecto_id": "73a98fda-dc9e-4fa7-bddd-2e5ec04bbe37"
+      },
+      {
+        "id": "464bb7bf-75bf-4e24-99db-13d2caa9c269",
+        "codigo": "039-26",
+        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
+        "asunto": "BP TOPOGRÁFICO PARCELA LAVADOS",
+        "po": null,
+        "estado": "borrador",
+        "importe_total": 800,
+        "creado_por_id": "3e50e7e7-9fd7-4e53-9bf0-2bfd2d063f7f",
+        "creado_en": "2026-07-17T21:40:13.593067+00:00",
+        "metadatos": {
+          "lineas": [
+            {
+              "id": "lo1781720311240",
+              "total": 800,
+              "cantidad": 1,
+              "descuento": 0,
+              "comentario": "",
+              "conceptoId": "1db22ab2-2055-443e-9422-62183ab38671",
+              "precioUnit": 800
+            }
+          ]
+        },
+        "legacy_id": "o1781720319118",
+        "proyecto_id": "725546ca-0e8a-4b13-93a9-3357aa2366e8"
       },
       {
         "id": "90ce5e10-78e3-4cdc-abc7-e8b2a177bd3e",
@@ -6436,30 +6374,101 @@
         "proyecto_id": "232f96fb-99a7-4e15-9766-664c8fadc155"
       },
       {
-        "id": "464bb7bf-75bf-4e24-99db-13d2caa9c269",
-        "codigo": "039-26",
+        "id": "547b84fb-7ca3-4459-b757-ad8e06355ab4",
+        "codigo": "034-26",
         "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
-        "asunto": "BP TOPOGRÁFICO PARCELA LAVADOS",
+        "asunto": "BP ADECUACIÓN VENTEOS",
         "po": null,
-        "estado": "borrador",
-        "importe_total": 800,
+        "estado": "activa",
+        "importe_total": 3255,
         "creado_por_id": "3e50e7e7-9fd7-4e53-9bf0-2bfd2d063f7f",
         "creado_en": "2026-07-17T21:40:13.593067+00:00",
         "metadatos": {
           "lineas": [
             {
-              "id": "lo1781720311240",
-              "total": 800,
+              "id": "lo1781699251614",
+              "total": 650,
               "cantidad": 1,
               "descuento": 0,
               "comentario": "",
-              "conceptoId": "1db22ab2-2055-443e-9422-62183ab38671",
-              "precioUnit": 800
+              "conceptoId": "be85af77-53f1-4d21-9e7d-874f81577420",
+              "precioUnit": 650
+            },
+            {
+              "id": "lo1781699255983",
+              "total": 1375,
+              "cantidad": 1,
+              "descuento": 0,
+              "comentario": "",
+              "conceptoId": "5be72f00-e89c-49c9-87e2-cf1972da7f09",
+              "precioUnit": 1375
+            },
+            {
+              "id": "lo1781699262020",
+              "total": 240,
+              "cantidad": 1,
+              "descuento": 0,
+              "comentario": "",
+              "conceptoId": "2ee15cd2-26b1-48c6-98b7-4d84b376de55",
+              "precioUnit": 240
+            },
+            {
+              "id": "lo17816991564045ap4753x0nn",
+              "total": 240,
+              "cantidad": 1,
+              "descuento": 0,
+              "comentario": "",
+              "conceptoId": "2ee15cd2-26b1-48c6-98b7-4d84b376de55",
+              "precioUnit": 240
+            },
+            {
+              "id": "lo1781699288115",
+              "total": 750,
+              "cantidad": 2,
+              "descuento": 0,
+              "comentario": "",
+              "conceptoId": "9aea6290-4eac-4b5e-b53d-4e3b0a28b972",
+              "precioUnit": 375
             }
           ]
         },
-        "legacy_id": "o1781720319118",
-        "proyecto_id": "725546ca-0e8a-4b13-93a9-3357aa2366e8"
+        "legacy_id": "o1781699334784",
+        "proyecto_id": "1ed654d6-f77b-41eb-9f35-f549ae962b47"
+      },
+      {
+        "id": "0500b948-dc16-4576-884c-a041388527ab",
+        "codigo": "032-26",
+        "cliente_id": "9e05e084-0295-4aae-a282-17fe02921985",
+        "asunto": "BP ADECUACIÓN SANEAMIENTO",
+        "po": null,
+        "estado": "activa",
+        "importe_total": 1055,
+        "creado_por_id": "3e50e7e7-9fd7-4e53-9bf0-2bfd2d063f7f",
+        "creado_en": "2026-07-17T21:40:13.593067+00:00",
+        "metadatos": {
+          "lineas": [
+            {
+              "id": "lo17816958716034swo0fzh07a",
+              "total": 650,
+              "cantidad": 1,
+              "descuento": 0,
+              "comentario": "",
+              "conceptoId": "be85af77-53f1-4d21-9e7d-874f81577420",
+              "precioUnit": 650
+            },
+            {
+              "id": "lo17816958716038jnni0hp2ca",
+              "total": 405,
+              "cantidad": 1,
+              "descuento": 0,
+              "comentario": "",
+              "conceptoId": "37c0a865-8cf0-4d5f-8b08-4e602e14b8d8",
+              "precioUnit": 405
+            }
+          ]
+        },
+        "legacy_id": "o1781695980665",
+        "proyecto_id": "7a1f0f42-9123-45b8-b17d-8e26b1f7afc0"
       },
       {
         "id": "6e861df7-cd37-446a-aa55-47613fa2d2a7",
@@ -6885,6 +6894,86 @@
         "proyecto_id": null
       },
       {
+        "id": "3545d2d4-dbb9-419c-a216-0b3114a110e6",
+        "codigo": "029-26",
+        "cliente_id": "a1a48a0d-bdc4-4c0e-a02d-c4f1060c549a",
+        "asunto": "BP CONTROL PERIÓDICO AMBIENTAL",
+        "po": "Ref: BP-CPA-290526-v1",
+        "estado": "cerrada",
+        "importe_total": 3105,
+        "creado_por_id": "3e50e7e7-9fd7-4e53-9bf0-2bfd2d063f7f",
+        "creado_en": "2026-06-16T13:39:49.533974+00:00",
+        "metadatos": {
+          "zona": "CATALUÑA",
+          "fecha": "2026-05-29",
+          "lineas": [
+            {
+              "id": "lo1780075603579n7nnswq6sn",
+              "total": 405,
+              "cantidad": 1,
+              "descuento": 0,
+              "comentario": "",
+              "conceptoId": "025f1518-6bd1-44b9-8361-3020be4b7112",
+              "precioUnit": 405
+            },
+            {
+              "id": "lo178007560357902lvvtptlr1u",
+              "total": 405,
+              "cantidad": 1,
+              "descuento": 0,
+              "comentario": "",
+              "conceptoId": "025f1518-6bd1-44b9-8361-3020be4b7112",
+              "precioUnit": 405
+            },
+            {
+              "id": "lo1780075759767",
+              "total": 240,
+              "cantidad": 1,
+              "descuento": 0,
+              "comentario": "",
+              "conceptoId": "2ee15cd2-26b1-48c6-98b7-4d84b376de55",
+              "precioUnit": 240
+            },
+            {
+              "id": "lo1780075758011",
+              "total": 240,
+              "cantidad": 1,
+              "descuento": 0,
+              "comentario": "",
+              "conceptoId": "2ee15cd2-26b1-48c6-98b7-4d84b376de55",
+              "precioUnit": 240
+            },
+            {
+              "id": "lo1780075748326",
+              "total": 240,
+              "cantidad": 1,
+              "descuento": 0,
+              "comentario": "",
+              "conceptoId": "2ee15cd2-26b1-48c6-98b7-4d84b376de55",
+              "precioUnit": 240
+            },
+            {
+              "id": "lo1780075657682",
+              "total": 1575,
+              "cantidad": 1,
+              "descuento": 0,
+              "comentario": "",
+              "conceptoId": "279f8923-62fd-40e4-a769-28e153051a2a",
+              "precioUnit": 1575
+            }
+          ],
+          "nombre": "",
+          "firmante": "",
+          "formaPago": "Fecha factura",
+          "referencia": "BP-CPA-290526-v1",
+          "emplazamiento": "BP RIBAS LA COMETA",
+          "firmanteCliente": "",
+          "firmanteNorAcua": "D. Daniel Romero"
+        },
+        "legacy_id": "o1780075773625",
+        "proyecto_id": "6f779582-e80f-4027-8d21-53c1137d2218"
+      },
+      {
         "id": "04d85d7b-b9d9-44c5-8b8e-0d58f68ed5b2",
         "codigo": "026-26",
         "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
@@ -6918,95 +7007,6 @@
         },
         "legacy_id": "o1780659356493",
         "proyecto_id": "5fe47865-dfa6-448f-b2b9-3609cb1898be"
-      },
-      {
-        "id": "b0851e5d-3d59-4735-8c54-fde3668c7847",
-        "codigo": "002-26",
-        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
-        "asunto": "BP PROYECTO Y LICENCIAS LAVADOS ES PLANAMAR",
-        "po": null,
-        "estado": "borrador",
-        "importe_total": 7700,
-        "creado_por_id": "3e50e7e7-9fd7-4e53-9bf0-2bfd2d063f7f",
-        "creado_en": "2026-06-16T13:39:49.533974+00:00",
-        "metadatos": {
-          "zona": "CATALUÑA",
-          "fecha": "2026-01-28",
-          "lineas": [
-            {
-              "id": "lo1779138043886",
-              "total": 1265,
-              "cantidad": 1,
-              "descuento": 0,
-              "comentario": "",
-              "conceptoId": "5be72f00-e89c-49c9-87e2-cf1972da7f09",
-              "precioUnit": 1265
-            },
-            {
-              "id": "lo1779138070661",
-              "total": 595,
-              "cantidad": 1,
-              "descuento": 0,
-              "comentario": "",
-              "conceptoId": "2079221d-5216-41ba-855b-a270f0ba266e",
-              "precioUnit": 595
-            },
-            {
-              "id": "lo1779138072927",
-              "total": 720,
-              "cantidad": 3,
-              "descuento": 0,
-              "comentario": "",
-              "conceptoId": "2ee15cd2-26b1-48c6-98b7-4d84b376de55",
-              "precioUnit": 240
-            },
-            {
-              "id": "lo1779138028560",
-              "total": 2187.5,
-              "cantidad": 1,
-              "descuento": 30,
-              "comentario": "",
-              "conceptoId": "086286e2-8692-4c70-9ff9-0253d3bc3a24",
-              "precioUnit": 3125
-            },
-            {
-              "id": "lo1779138048136",
-              "total": 362.5,
-              "cantidad": 1,
-              "descuento": 50,
-              "comentario": "",
-              "conceptoId": "84885e96-94a3-44e6-ad67-15196bd5b420",
-              "precioUnit": 725
-            },
-            {
-              "id": "lo1779138019538",
-              "total": 1760,
-              "cantidad": 1,
-              "descuento": 0,
-              "comentario": "",
-              "conceptoId": "94d58825-82ac-4f7a-839e-e07e950e71fe",
-              "precioUnit": 1760
-            },
-            {
-              "id": "lo1779138059140",
-              "total": 810,
-              "cantidad": 2,
-              "descuento": 0,
-              "comentario": "",
-              "conceptoId": "37c0a865-8cf0-4d5f-8b08-4e602e14b8d8",
-              "precioUnit": 405
-            }
-          ],
-          "nombre": "",
-          "firmante": "",
-          "formaPago": "Según contrato",
-          "referencia": "BP-PLLEP-280126-v1",
-          "emplazamiento": "BP PLANAMAR",
-          "firmanteCliente": "D. Josep Seijo",
-          "firmanteNorAcua": ""
-        },
-        "legacy_id": "of_002_26",
-        "proyecto_id": "82ea1c9a-084b-421b-8f7b-6c24c15636e4"
       },
       {
         "id": "17fa0b2f-effa-4e36-853d-6d7b5f497cca",
@@ -7392,84 +7392,93 @@
         "proyecto_id": "4c0bc367-e624-44b9-bccf-30dd617ee0a3"
       },
       {
-        "id": "3545d2d4-dbb9-419c-a216-0b3114a110e6",
-        "codigo": "029-26",
-        "cliente_id": "a1a48a0d-bdc4-4c0e-a02d-c4f1060c549a",
-        "asunto": "BP CONTROL PERIÓDICO AMBIENTAL",
-        "po": "Ref: BP-CPA-290526-v1",
-        "estado": "cerrada",
-        "importe_total": 3105,
+        "id": "b0851e5d-3d59-4735-8c54-fde3668c7847",
+        "codigo": "002-26",
+        "cliente_id": "403cad3e-0d73-4bcd-86c5-99b94f77cfa1",
+        "asunto": "BP PROYECTO Y LICENCIAS LAVADOS ES PLANAMAR",
+        "po": null,
+        "estado": "borrador",
+        "importe_total": 7700,
         "creado_por_id": "3e50e7e7-9fd7-4e53-9bf0-2bfd2d063f7f",
         "creado_en": "2026-06-16T13:39:49.533974+00:00",
         "metadatos": {
           "zona": "CATALUÑA",
-          "fecha": "2026-05-29",
+          "fecha": "2026-01-28",
           "lineas": [
             {
-              "id": "lo1780075603579n7nnswq6sn",
-              "total": 405,
+              "id": "lo1779138043886",
+              "total": 1265,
               "cantidad": 1,
               "descuento": 0,
               "comentario": "",
-              "conceptoId": "025f1518-6bd1-44b9-8361-3020be4b7112",
+              "conceptoId": "5be72f00-e89c-49c9-87e2-cf1972da7f09",
+              "precioUnit": 1265
+            },
+            {
+              "id": "lo1779138070661",
+              "total": 595,
+              "cantidad": 1,
+              "descuento": 0,
+              "comentario": "",
+              "conceptoId": "2079221d-5216-41ba-855b-a270f0ba266e",
+              "precioUnit": 595
+            },
+            {
+              "id": "lo1779138072927",
+              "total": 720,
+              "cantidad": 3,
+              "descuento": 0,
+              "comentario": "",
+              "conceptoId": "2ee15cd2-26b1-48c6-98b7-4d84b376de55",
+              "precioUnit": 240
+            },
+            {
+              "id": "lo1779138028560",
+              "total": 2187.5,
+              "cantidad": 1,
+              "descuento": 30,
+              "comentario": "",
+              "conceptoId": "086286e2-8692-4c70-9ff9-0253d3bc3a24",
+              "precioUnit": 3125
+            },
+            {
+              "id": "lo1779138048136",
+              "total": 362.5,
+              "cantidad": 1,
+              "descuento": 50,
+              "comentario": "",
+              "conceptoId": "84885e96-94a3-44e6-ad67-15196bd5b420",
+              "precioUnit": 725
+            },
+            {
+              "id": "lo1779138019538",
+              "total": 1760,
+              "cantidad": 1,
+              "descuento": 0,
+              "comentario": "",
+              "conceptoId": "94d58825-82ac-4f7a-839e-e07e950e71fe",
+              "precioUnit": 1760
+            },
+            {
+              "id": "lo1779138059140",
+              "total": 810,
+              "cantidad": 2,
+              "descuento": 0,
+              "comentario": "",
+              "conceptoId": "37c0a865-8cf0-4d5f-8b08-4e602e14b8d8",
               "precioUnit": 405
-            },
-            {
-              "id": "lo178007560357902lvvtptlr1u",
-              "total": 405,
-              "cantidad": 1,
-              "descuento": 0,
-              "comentario": "",
-              "conceptoId": "025f1518-6bd1-44b9-8361-3020be4b7112",
-              "precioUnit": 405
-            },
-            {
-              "id": "lo1780075759767",
-              "total": 240,
-              "cantidad": 1,
-              "descuento": 0,
-              "comentario": "",
-              "conceptoId": "2ee15cd2-26b1-48c6-98b7-4d84b376de55",
-              "precioUnit": 240
-            },
-            {
-              "id": "lo1780075758011",
-              "total": 240,
-              "cantidad": 1,
-              "descuento": 0,
-              "comentario": "",
-              "conceptoId": "2ee15cd2-26b1-48c6-98b7-4d84b376de55",
-              "precioUnit": 240
-            },
-            {
-              "id": "lo1780075748326",
-              "total": 240,
-              "cantidad": 1,
-              "descuento": 0,
-              "comentario": "",
-              "conceptoId": "2ee15cd2-26b1-48c6-98b7-4d84b376de55",
-              "precioUnit": 240
-            },
-            {
-              "id": "lo1780075657682",
-              "total": 1575,
-              "cantidad": 1,
-              "descuento": 0,
-              "comentario": "",
-              "conceptoId": "279f8923-62fd-40e4-a769-28e153051a2a",
-              "precioUnit": 1575
             }
           ],
           "nombre": "",
           "firmante": "",
-          "formaPago": "Fecha factura",
-          "referencia": "BP-CPA-290526-v1",
-          "emplazamiento": "BP RIBAS LA COMETA",
-          "firmanteCliente": "",
-          "firmanteNorAcua": "D. Daniel Romero"
+          "formaPago": "Según contrato",
+          "referencia": "BP-PLLEP-280126-v1",
+          "emplazamiento": "BP PLANAMAR",
+          "firmanteCliente": "D. Josep Seijo",
+          "firmanteNorAcua": ""
         },
-        "legacy_id": "o1780075773625",
-        "proyecto_id": "6f779582-e80f-4027-8d21-53c1137d2218"
+        "legacy_id": "of_002_26",
+        "proyecto_id": "82ea1c9a-084b-421b-8f7b-6c24c15636e4"
       },
       {
         "id": "6c11f44b-f9e3-47b8-9452-90320044d70b",
